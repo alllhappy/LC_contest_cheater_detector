@@ -6,11 +6,13 @@ import json
 import random
 import logging
 import time
+import os
 
 START_PAGE=int(input("enter Start PAGE : "))
 END_PAGE=int(input("enter end page value : "))
 CONSTESTSLUG="weekly-contest-496"
 logging.basicConfig(filename=f'{CONSTESTSLUG}_leaderboard_log.txt',format=' %(asctime)s -  %(levelname)s -  %(message)s',level=logging.DEBUG)
+# os.mkdir(f"{CONSTESTSLUG}_leaderboard")
 
 session = requests.Session()
 headers = {
@@ -37,7 +39,7 @@ for i in range(START_PAGE,END_PAGE+1):
     else :
         try:
             data = response.json()
-            dump_file=open(f"contest_496/leaderboard_{i}.json",'w')
+            dump_file=open(f"{CONSTESTSLUG}/leaderboard_{i}.json",'w')
             json.dump(data,dump_file,indent=2)
             logging.debug(f"success for page {i}")
         except ValueError:
