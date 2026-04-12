@@ -11,15 +11,15 @@ import mapping
 import logging
 
 
-CONTEST='496' #variable
+CONTEST='495' #variable
 USER_ON_SINGLE_PAGE=25
 folderPath=f'contest_{CONTEST}'
-logging.basicConfig(filename=f'{CONTEST}_jsToCsvLog.txt',format=' %(asctime)s -  %(levelname)s -  %(message)s',level=logging.DEBUG)
+logging.basicConfig(filename=f'contest_{CONTEST}/{CONTEST}_jsToCsvLog.txt',format=' %(asctime)s -  %(levelname)s -  %(message)s',level=logging.DEBUG)
                     
 ldPath=f'{folderPath}/leaderboard'
 
 #initialisation of csv file and its writer object
-output_csv=open(f'contest_{CONTEST}/weekly_contest{CONTEST}.csv','w')
+output_csv=open(f'contest_{CONTEST}/weekly_contest{CONTEST}.csv','w',encoding='utf-8')
 writer=csv.writer(output_csv)
       
 #header row total 31 features
@@ -96,7 +96,8 @@ for f in os.listdir(ldPath): # f is just string name of file
                 logging.error(e)
                 
 
-            
+
+output_csv.close()   
 logging.debug(f'total users processed  = {total_count}')
 logging.debug(f'total number of china users = {cn_count}')
 logging.debug(f'total number of unknows errors = {o_count}')
