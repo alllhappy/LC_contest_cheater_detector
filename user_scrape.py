@@ -87,7 +87,7 @@ session.headers.update(headers)
 isOk=True
 
 k= int((END_PAGE-START_PAGE+1)/PAGE_WINDOW_SIZE)
-logging.info(f"staring process for {START_PAGE} to {END_PAGE} in batches of {PAGE_WINDOW_SIZE}, total Batches = {k+1}")
+logging.info(f"staring process for {START_PAGE} to {END_PAGE} in batches of {PAGE_WINDOW_SIZE}, total Batches = {k}")
 for batch in range(0,k):
     curr_start_page = START_PAGE + batch*PAGE_WINDOW_SIZE
     curr_end_page= curr_start_page + PAGE_WINDOW_SIZE-1
