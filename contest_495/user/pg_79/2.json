@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "_bhattaraisimran_",
+      "profile": {
+        "ranking": 3789868,
+        "realName": "_bhattaraisimran_",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 23,
+            "submissions": 24
+          },
+          {
+            "difficulty": "Easy",
+            "count": 8,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Medium",
+            "count": 11,
+            "submissions": 11
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1675.1340481880895,
+      "globalRanking": 129619,
+      "topPercentage": 15.26
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11616,
+        "rating": 1506.706,
+        "contest": {
+          "title": "Weekly Contest 474",
+          "startTime": 1762050600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6308,
+        "rating": 1575.72,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1952,
+        "rating": 1675.134,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

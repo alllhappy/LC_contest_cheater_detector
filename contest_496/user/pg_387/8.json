@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "khushi2-3",
+      "profile": {
+        "ranking": 1679410,
+        "realName": "khushi2-3",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 87,
+            "submissions": 101
+          },
+          {
+            "difficulty": "Easy",
+            "count": 36,
+            "submissions": 44
+          },
+          {
+            "difficulty": "Medium",
+            "count": 47,
+            "submissions": 52
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 5
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1500.9055013739212,
+      "globalRanking": 375085,
+      "topPercentage": 43.79
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 23989,
+        "rating": 1453.829,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 17730,
+        "rating": 1462.723,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9658,
+        "rating": 1500.906,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

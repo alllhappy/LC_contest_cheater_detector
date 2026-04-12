@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "QpBQZWAxA3",
+      "profile": {
+        "ranking": 480288,
+        "realName": "Shadishiru",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 288,
+            "submissions": 407
+          },
+          {
+            "difficulty": "Easy",
+            "count": 74,
+            "submissions": 97
+          },
+          {
+            "difficulty": "Medium",
+            "count": 178,
+            "submissions": 261
+          },
+          {
+            "difficulty": "Hard",
+            "count": 36,
+            "submissions": 49
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1639.4577026367188,
+      "globalRanking": 158896,
+      "topPercentage": 18.68
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3700,
+        "rating": 1639.458,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

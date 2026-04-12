@@ -1,0 +1,123 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "sonnyding1",
+      "profile": {
+        "ranking": 491358,
+        "realName": "Sonny Ding",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 281,
+            "submissions": 553
+          },
+          {
+            "difficulty": "Easy",
+            "count": 89,
+            "submissions": 190
+          },
+          {
+            "difficulty": "Medium",
+            "count": 163,
+            "submissions": 311
+          },
+          {
+            "difficulty": "Hard",
+            "count": 29,
+            "submissions": 52
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 7,
+      "rating": 1638.7979039486804,
+      "globalRanking": 159473,
+      "topPercentage": 18.74
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 13426,
+        "rating": 1480.242,
+        "contest": {
+          "title": "Weekly Contest 358",
+          "startTime": 1691893800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8607,
+        "rating": 1514.469,
+        "contest": {
+          "title": "Weekly Contest 359",
+          "startTime": 1692498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 2866,
+        "rating": 1601.929,
+        "contest": {
+          "title": "Weekly Contest 360",
+          "startTime": 1693103400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 10453,
+        "rating": 1591.101,
+        "contest": {
+          "title": "Weekly Contest 446",
+          "startTime": 1745116200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 13673,
+        "rating": 1562.296,
+        "contest": {
+          "title": "Weekly Contest 451",
+          "startTime": 1748140200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8081,
+        "rating": 1589.32,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4035,
+        "rating": 1638.798,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

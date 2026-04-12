@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "_ishant_",
+      "profile": {
+        "ranking": 999562,
+        "realName": "_ishant_",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 155,
+            "submissions": 265
+          },
+          {
+            "difficulty": "Easy",
+            "count": 34,
+            "submissions": 56
+          },
+          {
+            "difficulty": "Medium",
+            "count": 103,
+            "submissions": 177
+          },
+          {
+            "difficulty": "Hard",
+            "count": 18,
+            "submissions": 32
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1657.8941345214844,
+      "globalRanking": 142854,
+      "topPercentage": 16.8
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2725,
+        "rating": 1657.894,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Zehao_Zhou",
+      "profile": {
+        "ranking": 155403,
+        "realName": "Zehao Zhou",
+        "countryName": "United States",
+        "postViewCount": 1,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 544,
+            "submissions": 1252
+          },
+          {
+            "difficulty": "Easy",
+            "count": 178,
+            "submissions": 371
+          },
+          {
+            "difficulty": "Medium",
+            "count": 337,
+            "submissions": 830
+          },
+          {
+            "difficulty": "Hard",
+            "count": 29,
+            "submissions": 51
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1656.203269958496,
+      "globalRanking": 144257,
+      "topPercentage": 16.97
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2963,
+        "rating": 1656.203,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Shivanshu_Prakash",
+      "profile": {
+        "ranking": 4142038,
+        "realName": "Shivanshu_Prakash",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 19,
+            "submissions": 23
+          },
+          {
+            "difficulty": "Easy",
+            "count": 11,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Medium",
+            "count": 7,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1505.007646092465,
+      "globalRanking": 364655,
+      "topPercentage": 42.58
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 27277,
+        "rating": 1434.606,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7516,
+        "rating": 1505.008,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

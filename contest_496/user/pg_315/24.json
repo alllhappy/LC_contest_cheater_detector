@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "trisha_didwania",
+      "profile": {
+        "ranking": 2456882,
+        "realName": "trisha_didwania",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 50,
+            "submissions": 55
+          },
+          {
+            "difficulty": "Easy",
+            "count": 20,
+            "submissions": 24
+          },
+          {
+            "difficulty": "Medium",
+            "count": 22,
+            "submissions": 23
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1572.8615208675988,
+      "globalRanking": 235893,
+      "topPercentage": 27.64
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13073,
+        "rating": 1527.472,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7874,
+        "rating": 1572.862,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

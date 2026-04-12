@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Hemant1411",
+      "profile": {
+        "ranking": 1364265,
+        "realName": "HEMANT PATHAK",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 111,
+            "submissions": 156
+          },
+          {
+            "difficulty": "Easy",
+            "count": 25,
+            "submissions": 38
+          },
+          {
+            "difficulty": "Medium",
+            "count": 64,
+            "submissions": 85
+          },
+          {
+            "difficulty": "Hard",
+            "count": 22,
+            "submissions": 33
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1529.553268379308,
+      "globalRanking": 310152,
+      "topPercentage": 36.26
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7863,
+        "rating": 1544.675,
+        "contest": {
+          "title": "Weekly Contest 480",
+          "startTime": 1765679400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 18394,
+        "rating": 1495.902,
+        "contest": {
+          "title": "Weekly Contest 482",
+          "startTime": 1766889000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9392,
+        "rating": 1529.553,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

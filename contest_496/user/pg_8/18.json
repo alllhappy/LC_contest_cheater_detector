@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "darrenr21",
+      "profile": {
+        "ranking": 1986650,
+        "realName": "darrenr21",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 68,
+            "submissions": 93
+          },
+          {
+            "difficulty": "Easy",
+            "count": 20,
+            "submissions": 23
+          },
+          {
+            "difficulty": "Medium",
+            "count": 38,
+            "submissions": 55
+          },
+          {
+            "difficulty": "Hard",
+            "count": 10,
+            "submissions": 15
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1832.559585571289,
+      "globalRanking": 55418,
+      "topPercentage": 6.58
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 194,
+        "rating": 1832.56,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

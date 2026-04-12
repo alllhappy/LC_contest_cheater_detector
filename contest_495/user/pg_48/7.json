@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "G2e7kvjGJD",
+      "profile": {
+        "ranking": 4390582,
+        "realName": "Jayanth Pravin",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 17,
+            "submissions": 21
+          },
+          {
+            "difficulty": "Easy",
+            "count": 6,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Medium",
+            "count": 9,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1802.4745740388569,
+      "globalRanking": 64653,
+      "topPercentage": 7.66
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1182,
+        "rating": 1720.628,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1945,
+        "rating": 1802.475,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

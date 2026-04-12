@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "lazzerex",
+      "profile": {
+        "ranking": 263568,
+        "realName": "lazzerex",
+        "countryName": null,
+        "postViewCount": 27,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 418,
+            "submissions": 453
+          },
+          {
+            "difficulty": "Easy",
+            "count": 121,
+            "submissions": 140
+          },
+          {
+            "difficulty": "Medium",
+            "count": 213,
+            "submissions": 223
+          },
+          {
+            "difficulty": "Hard",
+            "count": 84,
+            "submissions": 90
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1826.5485763549805,
+      "globalRanking": 57160,
+      "topPercentage": 6.78
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 221,
+        "rating": 1826.549,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

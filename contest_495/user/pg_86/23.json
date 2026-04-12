@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "AlgoRhythm15",
+      "profile": {
+        "ranking": 1508396,
+        "realName": "S Haridev",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 99,
+            "submissions": 121
+          },
+          {
+            "difficulty": "Easy",
+            "count": 41,
+            "submissions": 54
+          },
+          {
+            "difficulty": "Medium",
+            "count": 53,
+            "submissions": 59
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1787.4675785041825,
+      "globalRanking": 69884,
+      "topPercentage": 8.28
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8824,
+        "rating": 1566.001,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 815,
+        "rating": 1720.175,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2148,
+        "rating": 1787.468,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

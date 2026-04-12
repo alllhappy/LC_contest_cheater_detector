@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "nikitaborgohain",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "nikitaborgohain",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 12,
+            "submissions": 16
+          },
+          {
+            "difficulty": "Easy",
+            "count": 3,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Medium",
+            "count": 8,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1576.289176940918,
+      "globalRanking": 230940,
+      "topPercentage": 27.06
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7358,
+        "rating": 1576.289,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

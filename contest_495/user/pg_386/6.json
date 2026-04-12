@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "tensen_1",
+      "profile": {
+        "ranking": 774862,
+        "realName": "tensen_1",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 197,
+            "submissions": 274
+          },
+          {
+            "difficulty": "Easy",
+            "count": 105,
+            "submissions": 132
+          },
+          {
+            "difficulty": "Medium",
+            "count": 87,
+            "submissions": 136
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1647.5161368810361,
+      "globalRanking": 151686,
+      "topPercentage": 17.84
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 17183,
+        "rating": 1499.276,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1772,
+        "rating": 1634.954,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9631,
+        "rating": 1647.516,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

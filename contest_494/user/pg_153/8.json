@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "krishna_codes01",
+      "profile": {
+        "ranking": 561580,
+        "realName": "krishna_codes01",
+        "countryName": null,
+        "postViewCount": 20,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 255,
+            "submissions": 321
+          },
+          {
+            "difficulty": "Easy",
+            "count": 97,
+            "submissions": 124
+          },
+          {
+            "difficulty": "Medium",
+            "count": 139,
+            "submissions": 174
+          },
+          {
+            "difficulty": "Hard",
+            "count": 19,
+            "submissions": 23
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1629.0715870104339,
+      "globalRanking": 168711,
+      "topPercentage": 19.82
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3809,
+        "rating": 1636.608,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 11845,
+        "rating": 1629.072,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

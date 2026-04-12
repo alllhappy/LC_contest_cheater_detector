@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "vipulbarodiya",
+      "profile": {
+        "ranking": 294628,
+        "realName": "Vipul Barodiya",
+        "countryName": "India",
+        "postViewCount": 699,
+        "reputation": 10
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 391,
+            "submissions": 958
+          },
+          {
+            "difficulty": "Easy",
+            "count": 108,
+            "submissions": 262
+          },
+          {
+            "difficulty": "Medium",
+            "count": 230,
+            "submissions": 590
+          },
+          {
+            "difficulty": "Hard",
+            "count": 53,
+            "submissions": 106
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1566.2502753226365,
+      "globalRanking": 245706,
+      "topPercentage": 28.78
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6940,
+        "rating": 1547.69,
+        "contest": {
+          "title": "Biweekly Contest 171",
+          "startTime": 1765031400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 19182,
+        "rating": 1522.55,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7784,
+        "rating": 1566.25,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "aritraghosh999",
+      "profile": {
+        "ranking": 1228110,
+        "realName": "Aritra Ghosh",
+        "countryName": "India",
+        "postViewCount": 3,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 125,
+            "submissions": 142
+          },
+          {
+            "difficulty": "Easy",
+            "count": 40,
+            "submissions": 45
+          },
+          {
+            "difficulty": "Medium",
+            "count": 65,
+            "submissions": 77
+          },
+          {
+            "difficulty": "Hard",
+            "count": 20,
+            "submissions": 20
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1652.4921768250283,
+      "globalRanking": 147334,
+      "topPercentage": 17.33
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 9802,
+        "rating": 1534.939,
+        "contest": {
+          "title": "Weekly Contest 484",
+          "startTime": 1768098600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 23482,
+        "rating": 1471.086,
+        "contest": {
+          "title": "Biweekly Contest 174",
+          "startTime": 1768660200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 442,
+        "rating": 1652.492,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

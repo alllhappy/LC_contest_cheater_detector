@@ -1,0 +1,45 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "kulfen",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "kulfen",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 3,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Medium",
+            "count": 2,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 30,
+      "rating": 1894.1021460784857,
+      "globalRanking": 38105,
+      "topPercentage": 4.54
+    },
+    "userContestRankingHistory": []
+  }
+}

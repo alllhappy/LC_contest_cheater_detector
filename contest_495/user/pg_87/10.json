@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "eaVBuoPSSZ",
+      "profile": {
+        "ranking": 286657,
+        "realName": "Daksh Taneja",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 398,
+            "submissions": 715
+          },
+          {
+            "difficulty": "Easy",
+            "count": 111,
+            "submissions": 198
+          },
+          {
+            "difficulty": "Medium",
+            "count": 232,
+            "submissions": 430
+          },
+          {
+            "difficulty": "Hard",
+            "count": 55,
+            "submissions": 87
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1626.2637586322253,
+      "globalRanking": 171556,
+      "topPercentage": 20.15
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 31021,
+        "rating": 1416.347,
+        "contest": {
+          "title": "Biweekly Contest 174",
+          "startTime": 1768660200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4632,
+        "rating": 1519.357,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2160,
+        "rating": 1626.264,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

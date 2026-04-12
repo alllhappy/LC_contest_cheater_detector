@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "tarun_khatod",
+      "profile": {
+        "ranking": 429414,
+        "realName": "tarun_khatod",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 309,
+            "submissions": 608
+          },
+          {
+            "difficulty": "Easy",
+            "count": 78,
+            "submissions": 148
+          },
+          {
+            "difficulty": "Medium",
+            "count": 189,
+            "submissions": 381
+          },
+          {
+            "difficulty": "Hard",
+            "count": 42,
+            "submissions": 79
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1593.619525154617,
+      "globalRanking": 207834,
+      "topPercentage": 24.37
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 14429,
+        "rating": 1523.209,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7741,
+        "rating": 1575.336,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9583,
+        "rating": 1593.62,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

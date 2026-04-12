@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "aniket_saha_",
+      "profile": {
+        "ranking": 1950148,
+        "realName": "Aniket Saha",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 70,
+            "submissions": 85
+          },
+          {
+            "difficulty": "Easy",
+            "count": 43,
+            "submissions": 54
+          },
+          {
+            "difficulty": "Medium",
+            "count": 20,
+            "submissions": 24
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1689.7777909035985,
+      "globalRanking": 119353,
+      "topPercentage": 14.06
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 15803,
+        "rating": 1416.089,
+        "contest": {
+          "title": "Biweekly Contest 168",
+          "startTime": 1761402600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2005,
+        "rating": 1552.564,
+        "contest": {
+          "title": "Weekly Contest 473",
+          "startTime": 1761445800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 881,
+        "rating": 1689.778,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

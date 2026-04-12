@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ips236",
+      "profile": {
+        "ranking": 613928,
+        "realName": "Plawang Shishu",
+        "countryName": null,
+        "postViewCount": 2,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 238,
+            "submissions": 504
+          },
+          {
+            "difficulty": "Easy",
+            "count": 89,
+            "submissions": 199
+          },
+          {
+            "difficulty": "Medium",
+            "count": 135,
+            "submissions": 277
+          },
+          {
+            "difficulty": "Hard",
+            "count": 14,
+            "submissions": 28
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1780.0610190943669,
+      "globalRanking": 72665,
+      "topPercentage": 8.6
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 452,
+        "rating": 1769.534,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6709,
+        "rating": 1780.061,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

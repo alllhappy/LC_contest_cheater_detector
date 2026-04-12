@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "SaurabhSharma01",
+      "profile": {
+        "ranking": 1636400,
+        "realName": "SaurabhSharma01",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 89,
+            "submissions": 120
+          },
+          {
+            "difficulty": "Easy",
+            "count": 47,
+            "submissions": 69
+          },
+          {
+            "difficulty": "Medium",
+            "count": 33,
+            "submissions": 41
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1615.054682681435,
+      "globalRanking": 183235,
+      "topPercentage": 21.51
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1757,
+        "rating": 1693.645,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 33646,
+        "rating": 1615.055,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

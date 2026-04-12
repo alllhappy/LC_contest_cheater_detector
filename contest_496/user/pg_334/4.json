@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "the_anushka_09",
+      "profile": {
+        "ranking": 37947,
+        "realName": "Anushka Singh",
+        "countryName": "India",
+        "postViewCount": 6,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 923,
+            "submissions": 1303
+          },
+          {
+            "difficulty": "Easy",
+            "count": 284,
+            "submissions": 405
+          },
+          {
+            "difficulty": "Medium",
+            "count": 489,
+            "submissions": 706
+          },
+          {
+            "difficulty": "Hard",
+            "count": 150,
+            "submissions": 192
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1521.0809320967824,
+      "globalRanking": 327764,
+      "topPercentage": 38.31
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 16548,
+        "rating": 1465.436,
+        "contest": {
+          "title": "Biweekly Contest 167",
+          "startTime": 1760193000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8329,
+        "rating": 1521.081,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

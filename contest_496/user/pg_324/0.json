@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Hemansh_Varshney",
+      "profile": {
+        "ranking": 392109,
+        "realName": "Hemansh_Varshney",
+        "countryName": "",
+        "postViewCount": 8,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 329,
+            "submissions": 475
+          },
+          {
+            "difficulty": "Easy",
+            "count": 115,
+            "submissions": 152
+          },
+          {
+            "difficulty": "Medium",
+            "count": 181,
+            "submissions": 277
+          },
+          {
+            "difficulty": "Hard",
+            "count": 33,
+            "submissions": 46
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1484.2210687769839,
+      "globalRanking": 422588,
+      "topPercentage": 49.28
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 22770,
+        "rating": 1413.797,
+        "contest": {
+          "title": "Weekly Contest 482",
+          "startTime": 1766889000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8075,
+        "rating": 1484.221,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

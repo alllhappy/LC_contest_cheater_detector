@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "aswinkanin",
+      "profile": {
+        "ranking": 246047,
+        "realName": "aswinkanin",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 433,
+            "submissions": 480
+          },
+          {
+            "difficulty": "Easy",
+            "count": 117,
+            "submissions": 136
+          },
+          {
+            "difficulty": "Medium",
+            "count": 234,
+            "submissions": 257
+          },
+          {
+            "difficulty": "Hard",
+            "count": 82,
+            "submissions": 87
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1555.2419094686795,
+      "globalRanking": 263370,
+      "topPercentage": 30.83
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 42631,
+        "rating": 1413.777,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13467,
+        "rating": 1454.967,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3195,
+        "rating": 1555.242,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "_Rockyy_",
+      "profile": {
+        "ranking": 2272355,
+        "realName": "Rakesh",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 56,
+            "submissions": 57
+          },
+          {
+            "difficulty": "Easy",
+            "count": 10,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Medium",
+            "count": 33,
+            "submissions": 34
+          },
+          {
+            "difficulty": "Hard",
+            "count": 13,
+            "submissions": 13
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 2017.6746664115055,
+      "globalRanking": 19000,
+      "topPercentage": 2.29
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1381,
+        "rating": 1706.245,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 484,
+        "rating": 1859.921,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 767,
+        "rating": 1934.799,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 399,
+        "rating": 2017.675,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

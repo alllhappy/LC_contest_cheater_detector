@@ -1,0 +1,101 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "RutujaKothawade",
+      "profile": {
+        "ranking": 582340,
+        "realName": "Rutuja Kothawade",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 248,
+            "submissions": 288
+          },
+          {
+            "difficulty": "Easy",
+            "count": 92,
+            "submissions": 119
+          },
+          {
+            "difficulty": "Medium",
+            "count": 120,
+            "submissions": 132
+          },
+          {
+            "difficulty": "Hard",
+            "count": 36,
+            "submissions": 37
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 5,
+      "rating": 1484.984043575443,
+      "globalRanking": 420400,
+      "topPercentage": 49.03
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 16720,
+        "rating": 1459.765,
+        "contest": {
+          "title": "Weekly Contest 459",
+          "startTime": 1752978600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 18461,
+        "rating": 1419.147,
+        "contest": {
+          "title": "Weekly Contest 469",
+          "startTime": 1759026600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11615,
+        "rating": 1432.4,
+        "contest": {
+          "title": "Weekly Contest 470",
+          "startTime": 1759631400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 31814,
+        "rating": 1387.319,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3345,
+        "rating": 1484.984,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

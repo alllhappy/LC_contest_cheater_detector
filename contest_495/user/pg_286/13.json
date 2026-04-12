@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "lamba_manikanta__1",
+      "profile": {
+        "ranking": 271722,
+        "realName": "lamba_manikanta_1",
+        "countryName": null,
+        "postViewCount": 7,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 410,
+            "submissions": 845
+          },
+          {
+            "difficulty": "Easy",
+            "count": 168,
+            "submissions": 317
+          },
+          {
+            "difficulty": "Medium",
+            "count": 221,
+            "submissions": 492
+          },
+          {
+            "difficulty": "Hard",
+            "count": 21,
+            "submissions": 36
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1588.6763522499486,
+      "globalRanking": 214099,
+      "topPercentage": 25.1
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10961,
+        "rating": 1533.122,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7138,
+        "rating": 1588.676,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

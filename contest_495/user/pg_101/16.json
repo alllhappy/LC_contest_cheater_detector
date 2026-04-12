@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "santhosh2210429",
+      "profile": {
+        "ranking": 55906,
+        "realName": "Santhosh",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 12
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 813,
+            "submissions": 1400
+          },
+          {
+            "difficulty": "Easy",
+            "count": 241,
+            "submissions": 443
+          },
+          {
+            "difficulty": "Medium",
+            "count": 504,
+            "submissions": 850
+          },
+          {
+            "difficulty": "Hard",
+            "count": 68,
+            "submissions": 107
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1562.0573960603413,
+      "globalRanking": 252227,
+      "topPercentage": 29.54
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 33445,
+        "rating": 1415.483,
+        "contest": {
+          "title": "Biweekly Contest 175",
+          "startTime": 1769869800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2516,
+        "rating": 1562.057,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

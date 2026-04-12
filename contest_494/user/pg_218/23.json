@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "divyansss",
+      "profile": {
+        "ranking": 2119136,
+        "realName": "divyansss",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 62,
+            "submissions": 66
+          },
+          {
+            "difficulty": "Easy",
+            "count": 26,
+            "submissions": 26
+          },
+          {
+            "difficulty": "Medium",
+            "count": 35,
+            "submissions": 39
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1683.6906499182837,
+      "globalRanking": 123498,
+      "topPercentage": 14.55
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4420,
+        "rating": 1618.186,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8961,
+        "rating": 1644.165,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5449,
+        "rating": 1683.691,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

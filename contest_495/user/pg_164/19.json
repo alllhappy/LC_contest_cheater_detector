@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Mai_Suresh",
+      "profile": {
+        "ranking": 1035842,
+        "realName": "Mai_Suresh",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 150,
+            "submissions": 151
+          },
+          {
+            "difficulty": "Easy",
+            "count": 42,
+            "submissions": 42
+          },
+          {
+            "difficulty": "Medium",
+            "count": 107,
+            "submissions": 108
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1572.0291137695312,
+      "globalRanking": 237143,
+      "topPercentage": 27.79
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4094,
+        "rating": 1631.63,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 23276,
+        "rating": 1572.029,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

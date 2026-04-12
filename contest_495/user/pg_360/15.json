@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "kaur_19",
+      "profile": {
+        "ranking": 1556776,
+        "realName": "kaur_19",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 95,
+            "submissions": 114
+          },
+          {
+            "difficulty": "Easy",
+            "count": 9,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Medium",
+            "count": 67,
+            "submissions": 78
+          },
+          {
+            "difficulty": "Hard",
+            "count": 19,
+            "submissions": 27
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1581.4888602808903,
+      "globalRanking": 223798,
+      "topPercentage": 26.23
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11168,
+        "rating": 1543.224,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8990,
+        "rating": 1581.489,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

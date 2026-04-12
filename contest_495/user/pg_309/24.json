@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "AbhinavBugSquash14",
+      "profile": {
+        "ranking": 3028982,
+        "realName": "Abhinav_kumar",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 35,
+            "submissions": 39
+          },
+          {
+            "difficulty": "Easy",
+            "count": 20,
+            "submissions": 24
+          },
+          {
+            "difficulty": "Medium",
+            "count": 15,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1494.0710618254009,
+      "globalRanking": 394512,
+      "topPercentage": 46.04
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 39358,
+        "rating": 1415.514,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7724,
+        "rating": 1494.071,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

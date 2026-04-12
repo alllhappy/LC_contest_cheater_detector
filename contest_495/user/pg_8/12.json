@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "yashpatel2104",
+      "profile": {
+        "ranking": 3134430,
+        "realName": "yashpatel2104",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 33,
+            "submissions": 42
+          },
+          {
+            "difficulty": "Easy",
+            "count": 5,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Medium",
+            "count": 20,
+            "submissions": 23
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1836.2531661987305,
+      "globalRanking": 54364,
+      "topPercentage": 6.45
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 188,
+        "rating": 1836.253,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

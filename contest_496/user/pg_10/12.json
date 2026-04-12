@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "user0187R",
+      "profile": {
+        "ranking": 2230874,
+        "realName": "Mohnish Jain",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 57,
+            "submissions": 67
+          },
+          {
+            "difficulty": "Easy",
+            "count": 9,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Medium",
+            "count": 36,
+            "submissions": 42
+          },
+          {
+            "difficulty": "Hard",
+            "count": 12,
+            "submissions": 15
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1950.41793034352,
+      "globalRanking": 27225,
+      "topPercentage": 3.26
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7754,
+        "rating": 1576.879,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2423,
+        "rating": 1681.434,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 295,
+        "rating": 1834.188,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 238,
+        "rating": 1950.418,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

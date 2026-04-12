@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "BurnieChen",
+      "profile": {
+        "ranking": 106561,
+        "realName": "Burnie Chen",
+        "countryName": null,
+        "postViewCount": 3,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 640,
+            "submissions": 1109
+          },
+          {
+            "difficulty": "Easy",
+            "count": 173,
+            "submissions": 273
+          },
+          {
+            "difficulty": "Medium",
+            "count": 424,
+            "submissions": 771
+          },
+          {
+            "difficulty": "Hard",
+            "count": 43,
+            "submissions": 65
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1631.9835822952343,
+      "globalRanking": 165930,
+      "topPercentage": 19.5
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 11693,
+        "rating": 1526.324,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4542,
+        "rating": 1610.857,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8187,
+        "rating": 1631.984,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

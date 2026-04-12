@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "deen42",
+      "profile": {
+        "ranking": 1554846,
+        "realName": "Debanshu Ghosh",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 96,
+            "submissions": 105
+          },
+          {
+            "difficulty": "Easy",
+            "count": 28,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Medium",
+            "count": 55,
+            "submissions": 62
+          },
+          {
+            "difficulty": "Hard",
+            "count": 13,
+            "submissions": 13
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1905.968615883275,
+      "globalRanking": 35308,
+      "topPercentage": 4.22
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 486,
+        "rating": 1778.026,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 561,
+        "rating": 1905.969,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

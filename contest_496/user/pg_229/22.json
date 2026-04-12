@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "2313707",
+      "profile": {
+        "ranking": 360525,
+        "realName": "Vartika Mishra",
+        "countryName": null,
+        "postViewCount": 99,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 347,
+            "submissions": 645
+          },
+          {
+            "difficulty": "Easy",
+            "count": 171,
+            "submissions": 335
+          },
+          {
+            "difficulty": "Medium",
+            "count": 147,
+            "submissions": 263
+          },
+          {
+            "difficulty": "Hard",
+            "count": 29,
+            "submissions": 47
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1582.3525880512439,
+      "globalRanking": 222597,
+      "topPercentage": 26.09
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 14936,
+        "rating": 1512.729,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5722,
+        "rating": 1582.353,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

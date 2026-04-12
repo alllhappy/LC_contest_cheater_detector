@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "rqvIJzNt6x",
+      "profile": {
+        "ranking": 3188335,
+        "realName": "Samreen Kausar",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 32,
+            "submissions": 42
+          },
+          {
+            "difficulty": "Easy",
+            "count": 27,
+            "submissions": 35
+          },
+          {
+            "difficulty": "Medium",
+            "count": 5,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1604.2114825696442,
+      "globalRanking": 195320,
+      "topPercentage": 22.91
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10736,
+        "rating": 1545.416,
+        "contest": {
+          "title": "Weekly Contest 489",
+          "startTime": 1771122600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6482,
+        "rating": 1604.211,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

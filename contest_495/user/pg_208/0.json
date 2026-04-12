@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "KC2005",
+      "profile": {
+        "ranking": 477792,
+        "realName": "Kshitij Chilate",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 288,
+            "submissions": 448
+          },
+          {
+            "difficulty": "Easy",
+            "count": 130,
+            "submissions": 222
+          },
+          {
+            "difficulty": "Medium",
+            "count": 131,
+            "submissions": 184
+          },
+          {
+            "difficulty": "Hard",
+            "count": 27,
+            "submissions": 42
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1690.3864481225162,
+      "globalRanking": 118936,
+      "topPercentage": 14.01
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 16345,
+        "rating": 1496.235,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1237,
+        "rating": 1648.909,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5175,
+        "rating": 1690.386,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

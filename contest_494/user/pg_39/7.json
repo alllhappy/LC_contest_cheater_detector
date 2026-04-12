@@ -1,0 +1,101 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "NovaViduus",
+      "profile": {
+        "ranking": 925219,
+        "realName": "Graeme Huntley",
+        "countryName": "United States",
+        "postViewCount": 125,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 167,
+            "submissions": 200
+          },
+          {
+            "difficulty": "Easy",
+            "count": 62,
+            "submissions": 77
+          },
+          {
+            "difficulty": "Medium",
+            "count": 82,
+            "submissions": 99
+          },
+          {
+            "difficulty": "Hard",
+            "count": 23,
+            "submissions": 24
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 5,
+      "rating": 1958.5832364199316,
+      "globalRanking": 26049,
+      "topPercentage": 3.13
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11406,
+        "rating": 1541.92,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 344,
+        "rating": 1741.89,
+        "contest": {
+          "title": "Biweekly Contest 177",
+          "startTime": 1772289000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 538,
+        "rating": 1857.491,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1737,
+        "rating": 1902.583,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 958,
+        "rating": 1958.583,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

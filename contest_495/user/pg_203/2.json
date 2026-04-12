@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "_pekaboo",
+      "profile": {
+        "ranking": 953514,
+        "realName": "Ayush Kumar",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 162,
+            "submissions": 261
+          },
+          {
+            "difficulty": "Easy",
+            "count": 39,
+            "submissions": 53
+          },
+          {
+            "difficulty": "Medium",
+            "count": 102,
+            "submissions": 177
+          },
+          {
+            "difficulty": "Hard",
+            "count": 21,
+            "submissions": 31
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1614.9044036865234,
+      "globalRanking": 183418,
+      "topPercentage": 21.53
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5052,
+        "rating": 1614.904,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

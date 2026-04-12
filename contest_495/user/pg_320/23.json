@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "1yLymOStpa",
+      "profile": {
+        "ranking": 594977,
+        "realName": "Dudhat Rudra",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 244,
+            "submissions": 370
+          },
+          {
+            "difficulty": "Easy",
+            "count": 112,
+            "submissions": 178
+          },
+          {
+            "difficulty": "Medium",
+            "count": 117,
+            "submissions": 171
+          },
+          {
+            "difficulty": "Hard",
+            "count": 15,
+            "submissions": 21
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1573.2596547980058,
+      "globalRanking": 235303,
+      "topPercentage": 27.57
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7998,
+        "rating": 1575.64,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 13281,
+        "rating": 1573.26,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "wangflyer771",
+      "profile": {
+        "ranking": 979392,
+        "realName": "wangflyer771",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 158,
+            "submissions": 442
+          },
+          {
+            "difficulty": "Easy",
+            "count": 90,
+            "submissions": 269
+          },
+          {
+            "difficulty": "Medium",
+            "count": 63,
+            "submissions": 160
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 13
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1709.938551250257,
+      "globalRanking": 106472,
+      "topPercentage": 12.56
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4345,
+        "rating": 1626.961,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2859,
+        "rating": 1709.939,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

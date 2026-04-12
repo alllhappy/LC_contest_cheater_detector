@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "HarshitRao22",
+      "profile": {
+        "ranking": 2483330,
+        "realName": "HarshitRao22",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 49,
+            "submissions": 76
+          },
+          {
+            "difficulty": "Easy",
+            "count": 26,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Medium",
+            "count": 19,
+            "submissions": 26
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1717.254638671875,
+      "globalRanking": 102153,
+      "topPercentage": 12.05
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1183,
+        "rating": 1717.255,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

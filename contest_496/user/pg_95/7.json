@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "crixdg",
+      "profile": {
+        "ranking": 68011,
+        "realName": "Crix Dang",
+        "countryName": "Vietnam",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 759,
+            "submissions": 1016
+          },
+          {
+            "difficulty": "Easy",
+            "count": 197,
+            "submissions": 260
+          },
+          {
+            "difficulty": "Medium",
+            "count": 425,
+            "submissions": 578
+          },
+          {
+            "difficulty": "Hard",
+            "count": 137,
+            "submissions": 178
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1668.6573028564453,
+      "globalRanking": 134455,
+      "topPercentage": 15.82
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2357,
+        "rating": 1668.657,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "nitinaswal",
+      "profile": {
+        "ranking": 359033,
+        "realName": "Nitin Aswal",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 350,
+            "submissions": 571
+          },
+          {
+            "difficulty": "Easy",
+            "count": 190,
+            "submissions": 311
+          },
+          {
+            "difficulty": "Medium",
+            "count": 145,
+            "submissions": 236
+          },
+          {
+            "difficulty": "Hard",
+            "count": 15,
+            "submissions": 24
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1549.6015548706055,
+      "globalRanking": 272828,
+      "topPercentage": 31.93
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9720,
+        "rating": 1549.602,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

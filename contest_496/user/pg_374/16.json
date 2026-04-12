@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "j__siddhi",
+      "profile": {
+        "ranking": 1691370,
+        "realName": "j__siddhi",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 85,
+            "submissions": 103
+          },
+          {
+            "difficulty": "Easy",
+            "count": 46,
+            "submissions": 60
+          },
+          {
+            "difficulty": "Medium",
+            "count": 36,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1474.5387040437397,
+      "globalRanking": 451978,
+      "topPercentage": 52.68
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 37896,
+        "rating": 1415.483,
+        "contest": {
+          "title": "Biweekly Contest 175",
+          "startTime": 1769869800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9341,
+        "rating": 1474.539,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

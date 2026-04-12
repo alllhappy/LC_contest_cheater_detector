@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "khwaishchainani",
+      "profile": {
+        "ranking": 1306203,
+        "realName": "khwaishchainani",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 117,
+            "submissions": 139
+          },
+          {
+            "difficulty": "Easy",
+            "count": 50,
+            "submissions": 63
+          },
+          {
+            "difficulty": "Medium",
+            "count": 53,
+            "submissions": 62
+          },
+          {
+            "difficulty": "Hard",
+            "count": 14,
+            "submissions": 14
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1479.8812866210938,
+      "globalRanking": 435493,
+      "topPercentage": 50.77
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 40724,
+        "rating": 1412.93,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9119,
+        "rating": 1479.881,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

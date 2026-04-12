@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Ze_nith",
+      "profile": {
+        "ranking": 1623296,
+        "realName": "Ze_nith",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 90,
+            "submissions": 91
+          },
+          {
+            "difficulty": "Easy",
+            "count": 19,
+            "submissions": 19
+          },
+          {
+            "difficulty": "Medium",
+            "count": 53,
+            "submissions": 54
+          },
+          {
+            "difficulty": "Hard",
+            "count": 18,
+            "submissions": 18
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1713.0709196391858,
+      "globalRanking": 104605,
+      "topPercentage": 12.34
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 336,
+        "rating": 1800.879,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 33205,
+        "rating": 1713.071,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

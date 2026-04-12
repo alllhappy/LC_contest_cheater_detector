@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "yash_2310",
+      "profile": {
+        "ranking": 2027123,
+        "realName": "yash_2310",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 66,
+            "submissions": 101
+          },
+          {
+            "difficulty": "Easy",
+            "count": 29,
+            "submissions": 45
+          },
+          {
+            "difficulty": "Medium",
+            "count": 33,
+            "submissions": 49
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1653.7055969238281,
+      "globalRanking": 146251,
+      "topPercentage": 17.2
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2881,
+        "rating": 1653.706,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

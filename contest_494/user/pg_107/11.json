@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "_Arjan_",
+      "profile": {
+        "ranking": 3481754,
+        "realName": "_Arjan_",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 27,
+            "submissions": 34
+          },
+          {
+            "difficulty": "Easy",
+            "count": 12,
+            "submissions": 18
+          },
+          {
+            "difficulty": "Medium",
+            "count": 12,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1588.9121607730262,
+      "globalRanking": 213781,
+      "topPercentage": 25.06
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2662,
+        "rating": 1663.502,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 34575,
+        "rating": 1588.912,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

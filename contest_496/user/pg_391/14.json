@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "goonercat",
+      "profile": {
+        "ranking": 4642723,
+        "realName": "goonercat",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 15,
+            "submissions": 42
+          },
+          {
+            "difficulty": "Easy",
+            "count": 8,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Medium",
+            "count": 6,
+            "submissions": 11
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1549.1466522216797,
+      "globalRanking": 273597,
+      "topPercentage": 32.02
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9764,
+        "rating": 1549.147,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

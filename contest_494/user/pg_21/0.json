@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "y_a_sh",
+      "profile": {
+        "ranking": 790390,
+        "realName": "Yash Prabhat",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 193,
+            "submissions": 479
+          },
+          {
+            "difficulty": "Easy",
+            "count": 47,
+            "submissions": 90
+          },
+          {
+            "difficulty": "Medium",
+            "count": 121,
+            "submissions": 313
+          },
+          {
+            "difficulty": "Hard",
+            "count": 25,
+            "submissions": 76
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1775.9313583374023,
+      "globalRanking": 74254,
+      "topPercentage": 8.79
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 501,
+        "rating": 1775.931,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

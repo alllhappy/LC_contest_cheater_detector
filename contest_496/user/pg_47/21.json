@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "GouravKing",
+      "profile": {
+        "ranking": 819741,
+        "realName": "Gourav",
+        "countryName": null,
+        "postViewCount": 801,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 187,
+            "submissions": 636
+          },
+          {
+            "difficulty": "Easy",
+            "count": 74,
+            "submissions": 235
+          },
+          {
+            "difficulty": "Medium",
+            "count": 97,
+            "submissions": 362
+          },
+          {
+            "difficulty": "Hard",
+            "count": 16,
+            "submissions": 39
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1602.4779061171132,
+      "globalRanking": 197401,
+      "topPercentage": 23.16
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 31055,
+        "rating": 1414.641,
+        "contest": {
+          "title": "Weekly Contest 466",
+          "startTime": 1757212200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 12243,
+        "rating": 1457.589,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1171,
+        "rating": 1602.478,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

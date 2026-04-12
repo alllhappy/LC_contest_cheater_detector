@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "yonko_peanuts",
+      "profile": {
+        "ranking": 390124,
+        "realName": "Gopinath",
+        "countryName": null,
+        "postViewCount": 14,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 329,
+            "submissions": 352
+          },
+          {
+            "difficulty": "Easy",
+            "count": 81,
+            "submissions": 89
+          },
+          {
+            "difficulty": "Medium",
+            "count": 195,
+            "submissions": 208
+          },
+          {
+            "difficulty": "Hard",
+            "count": 53,
+            "submissions": 55
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1674.509419511748,
+      "globalRanking": 130074,
+      "topPercentage": 15.32
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 12976,
+        "rating": 1527.658,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9885,
+        "rating": 1562.786,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1475,
+        "rating": 1674.509,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

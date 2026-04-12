@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "qUqcaKBn9t",
+      "profile": {
+        "ranking": 4067878,
+        "realName": "Lalli",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 21,
+            "submissions": 26
+          },
+          {
+            "difficulty": "Easy",
+            "count": 12,
+            "submissions": 16
+          },
+          {
+            "difficulty": "Medium",
+            "count": 8,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1567.133903503418,
+      "globalRanking": 244379,
+      "topPercentage": 28.63
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8717,
+        "rating": 1567.134,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

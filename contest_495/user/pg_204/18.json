@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "SRIRAMSIVAMANAS",
+      "profile": {
+        "ranking": 1724781,
+        "realName": "SRIRAMSIVAMANAS",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 83,
+            "submissions": 94
+          },
+          {
+            "difficulty": "Easy",
+            "count": 25,
+            "submissions": 27
+          },
+          {
+            "difficulty": "Medium",
+            "count": 42,
+            "submissions": 46
+          },
+          {
+            "difficulty": "Hard",
+            "count": 16,
+            "submissions": 21
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1541.0219493665193,
+      "globalRanking": 288174,
+      "topPercentage": 33.71
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 22276,
+        "rating": 1442.322,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5093,
+        "rating": 1541.022,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

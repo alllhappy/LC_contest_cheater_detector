@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "SaiAshish",
+      "profile": {
+        "ranking": 8582,
+        "realName": "SaiAshish",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 1396,
+            "submissions": 2449
+          },
+          {
+            "difficulty": "Easy",
+            "count": 351,
+            "submissions": 577
+          },
+          {
+            "difficulty": "Medium",
+            "count": 740,
+            "submissions": 1351
+          },
+          {
+            "difficulty": "Hard",
+            "count": 305,
+            "submissions": 521
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1519.0718906057257,
+      "globalRanking": 332172,
+      "topPercentage": 38.82
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 15759,
+        "rating": 1415.051,
+        "contest": {
+          "title": "Biweekly Contest 171",
+          "startTime": 1765031400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5206,
+        "rating": 1519.072,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

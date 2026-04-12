@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "RajeshBandaru",
+      "profile": {
+        "ranking": 532621,
+        "realName": "RajeshBandaru",
+        "countryName": "India",
+        "postViewCount": 7,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 266,
+            "submissions": 458
+          },
+          {
+            "difficulty": "Easy",
+            "count": 124,
+            "submissions": 195
+          },
+          {
+            "difficulty": "Medium",
+            "count": 128,
+            "submissions": 236
+          },
+          {
+            "difficulty": "Hard",
+            "count": 14,
+            "submissions": 27
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1614.9112081852252,
+      "globalRanking": 183414,
+      "topPercentage": 21.53
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 16607,
+        "rating": 1459.27,
+        "contest": {
+          "title": "Biweekly Contest 161",
+          "startTime": 1752935400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3306,
+        "rating": 1570.63,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6538,
+        "rating": 1614.911,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

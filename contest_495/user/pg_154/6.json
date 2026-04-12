@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "max_merc",
+      "profile": {
+        "ranking": 4069651,
+        "realName": "max_merc",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 20,
+            "submissions": 22
+          },
+          {
+            "difficulty": "Easy",
+            "count": 8,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Medium",
+            "count": 11,
+            "submissions": 12
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1723.0799882750284,
+      "globalRanking": 98911,
+      "topPercentage": 11.67
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3239,
+        "rating": 1651.703,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8349,
+        "rating": 1671.897,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3831,
+        "rating": 1723.08,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

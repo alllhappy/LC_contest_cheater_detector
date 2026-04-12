@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Veera_Manikandan_A",
+      "profile": {
+        "ranking": 258831,
+        "realName": "Veera_Manikandan_A",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 424,
+            "submissions": 662
+          },
+          {
+            "difficulty": "Easy",
+            "count": 164,
+            "submissions": 274
+          },
+          {
+            "difficulty": "Medium",
+            "count": 243,
+            "submissions": 364
+          },
+          {
+            "difficulty": "Hard",
+            "count": 17,
+            "submissions": 24
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1664.7670797949072,
+      "globalRanking": 137438,
+      "topPercentage": 16.17
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7744,
+        "rating": 1566.851,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3346,
+        "rating": 1658.805,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9345,
+        "rating": 1664.767,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

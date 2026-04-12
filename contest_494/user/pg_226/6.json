@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "snehalkanase",
+      "profile": {
+        "ranking": 1218382,
+        "realName": "snehalkanase",
+        "countryName": "India",
+        "postViewCount": 983,
+        "reputation": 8
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 126,
+            "submissions": 140
+          },
+          {
+            "difficulty": "Easy",
+            "count": 65,
+            "submissions": 70
+          },
+          {
+            "difficulty": "Medium",
+            "count": 54,
+            "submissions": 62
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1479.8561016136134,
+      "globalRanking": 435564,
+      "topPercentage": 50.78
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5632,
+        "rating": 1605.354,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 30005,
+        "rating": 1535.561,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 32380,
+        "rating": 1479.856,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

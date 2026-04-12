@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "HarshithaPatlolla",
+      "profile": {
+        "ranking": 2218118,
+        "realName": "Harshiii Reddy",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 59,
+            "submissions": 69
+          },
+          {
+            "difficulty": "Easy",
+            "count": 31,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Medium",
+            "count": 22,
+            "submissions": 23
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1647.7805689761512,
+      "globalRanking": 151463,
+      "topPercentage": 17.81
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7022,
+        "rating": 1587.207,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5009,
+        "rating": 1647.781,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

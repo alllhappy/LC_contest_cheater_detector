@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "RxhlLssxhZ",
+      "profile": {
+        "ranking": 2655429,
+        "realName": "Prince Patel",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 44,
+            "submissions": 55
+          },
+          {
+            "difficulty": "Easy",
+            "count": 15,
+            "submissions": 20
+          },
+          {
+            "difficulty": "Medium",
+            "count": 24,
+            "submissions": 29
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1562.5585254869964,
+      "globalRanking": 251444,
+      "topPercentage": 29.45
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 37149,
+        "rating": 1413.222,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2285,
+        "rating": 1562.559,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

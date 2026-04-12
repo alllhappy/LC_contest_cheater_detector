@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "practiceForJob101",
+      "profile": {
+        "ranking": 1455883,
+        "realName": "practiceForJob101",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 103,
+            "submissions": 119
+          },
+          {
+            "difficulty": "Easy",
+            "count": 29,
+            "submissions": 32
+          },
+          {
+            "difficulty": "Medium",
+            "count": 55,
+            "submissions": 62
+          },
+          {
+            "difficulty": "Hard",
+            "count": 19,
+            "submissions": 25
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1731.52739700356,
+      "globalRanking": 94404,
+      "topPercentage": 11.15
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 2560,
+        "rating": 1661.387,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10991,
+        "rating": 1662.434,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2496,
+        "rating": 1731.527,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

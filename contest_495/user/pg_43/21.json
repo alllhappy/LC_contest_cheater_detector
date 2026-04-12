@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Anshuman2025",
+      "profile": {
+        "ranking": 1221057,
+        "realName": "Anshuman2025",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 128,
+            "submissions": 173
+          },
+          {
+            "difficulty": "Easy",
+            "count": 77,
+            "submissions": 109
+          },
+          {
+            "difficulty": "Medium",
+            "count": 46,
+            "submissions": 58
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1647.2381792570416,
+      "globalRanking": 151909,
+      "topPercentage": 17.86
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 22124,
+        "rating": 1472.357,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1071,
+        "rating": 1647.238,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

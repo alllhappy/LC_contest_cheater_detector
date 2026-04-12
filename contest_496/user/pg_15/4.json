@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Sarthakrajvanshi",
+      "profile": {
+        "ranking": 1992357,
+        "realName": "Sarthak Rajvanshi",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 68,
+            "submissions": 97
+          },
+          {
+            "difficulty": "Easy",
+            "count": 16,
+            "submissions": 20
+          },
+          {
+            "difficulty": "Medium",
+            "count": 35,
+            "submissions": 53
+          },
+          {
+            "difficulty": "Hard",
+            "count": 17,
+            "submissions": 24
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 2098.2021373720822,
+      "globalRanking": 12605,
+      "topPercentage": 1.53
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 171,
+        "rating": 1827.198,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 115,
+        "rating": 2015.458,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 355,
+        "rating": 2098.202,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

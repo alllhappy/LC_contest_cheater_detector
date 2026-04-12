@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ankitjsr007",
+      "profile": {
+        "ranking": 1877029,
+        "realName": "ankitjsr007",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 75,
+            "submissions": 109
+          },
+          {
+            "difficulty": "Easy",
+            "count": 30,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Medium",
+            "count": 39,
+            "submissions": 59
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1633.6191076981395,
+      "globalRanking": 164383,
+      "topPercentage": 19.32
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6437,
+        "rating": 1583.293,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6483,
+        "rating": 1633.619,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

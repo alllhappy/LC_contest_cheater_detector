@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "SilentSyntax",
+      "profile": {
+        "ranking": 2442317,
+        "realName": "ANIKET DE",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 50,
+            "submissions": 64
+          },
+          {
+            "difficulty": "Easy",
+            "count": 24,
+            "submissions": 33
+          },
+          {
+            "difficulty": "Medium",
+            "count": 21,
+            "submissions": 26
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 5
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1752.777099609375,
+      "globalRanking": 84084,
+      "topPercentage": 9.94
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 693,
+        "rating": 1752.777,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

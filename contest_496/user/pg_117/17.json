@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Profesor002",
+      "profile": {
+        "ranking": 267865,
+        "realName": "Profesor002",
+        "countryName": "Poland",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 414,
+            "submissions": 547
+          },
+          {
+            "difficulty": "Easy",
+            "count": 181,
+            "submissions": 227
+          },
+          {
+            "difficulty": "Medium",
+            "count": 209,
+            "submissions": 286
+          },
+          {
+            "difficulty": "Hard",
+            "count": 24,
+            "submissions": 34
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1637.5004617791426,
+      "globalRanking": 160734,
+      "topPercentage": 18.89
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10940,
+        "rating": 1533.322,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2917,
+        "rating": 1637.5,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

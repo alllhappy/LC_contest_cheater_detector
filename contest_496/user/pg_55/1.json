@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "testprepandwhatnot",
+      "profile": {
+        "ranking": 2770383,
+        "realName": "testprepandwhatnot",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 41,
+            "submissions": 49
+          },
+          {
+            "difficulty": "Easy",
+            "count": 17,
+            "submissions": 18
+          },
+          {
+            "difficulty": "Medium",
+            "count": 19,
+            "submissions": 24
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1706.7143289666426,
+      "globalRanking": 108436,
+      "topPercentage": 12.79
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7328,
+        "rating": 1571.855,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1351,
+        "rating": 1706.714,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

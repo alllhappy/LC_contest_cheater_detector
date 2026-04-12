@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "vaishnavi7001",
+      "profile": {
+        "ranking": 354140,
+        "realName": "Vaishnavi Saxena",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 350,
+            "submissions": 616
+          },
+          {
+            "difficulty": "Easy",
+            "count": 223,
+            "submissions": 383
+          },
+          {
+            "difficulty": "Medium",
+            "count": 114,
+            "submissions": 205
+          },
+          {
+            "difficulty": "Hard",
+            "count": 13,
+            "submissions": 28
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1637.486457824707,
+      "globalRanking": 160749,
+      "topPercentage": 18.89
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3558,
+        "rating": 1637.486,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

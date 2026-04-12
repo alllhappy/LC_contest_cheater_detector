@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "prashant2k26",
+      "profile": {
+        "ranking": 845368,
+        "realName": "User-Dead",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 182,
+            "submissions": 205
+          },
+          {
+            "difficulty": "Easy",
+            "count": 52,
+            "submissions": 59
+          },
+          {
+            "difficulty": "Medium",
+            "count": 104,
+            "submissions": 118
+          },
+          {
+            "difficulty": "Hard",
+            "count": 26,
+            "submissions": 28
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1747.8359071196596,
+      "globalRanking": 86402,
+      "topPercentage": 10.21
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5751,
+        "rating": 1607.463,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4573,
+        "rating": 1672.335,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1846,
+        "rating": 1747.836,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

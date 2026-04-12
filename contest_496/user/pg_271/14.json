@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Vignes-03",
+      "profile": {
+        "ranking": 1469050,
+        "realName": "Vignesh-03",
+        "countryName": null,
+        "postViewCount": 5,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 102,
+            "submissions": 180
+          },
+          {
+            "difficulty": "Easy",
+            "count": 53,
+            "submissions": 91
+          },
+          {
+            "difficulty": "Medium",
+            "count": 45,
+            "submissions": 85
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1583.9252471923828,
+      "globalRanking": 220412,
+      "topPercentage": 25.84
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6764,
+        "rating": 1583.925,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

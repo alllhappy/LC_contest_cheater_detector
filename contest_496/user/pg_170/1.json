@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ridhi1be",
+      "profile": {
+        "ranking": 164044,
+        "realName": "ridhi1be",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 532,
+            "submissions": 586
+          },
+          {
+            "difficulty": "Easy",
+            "count": 146,
+            "submissions": 166
+          },
+          {
+            "difficulty": "Medium",
+            "count": 299,
+            "submissions": 326
+          },
+          {
+            "difficulty": "Hard",
+            "count": 87,
+            "submissions": 94
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1623.8279342651367,
+      "globalRanking": 174045,
+      "topPercentage": 20.44
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4226,
+        "rating": 1623.828,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

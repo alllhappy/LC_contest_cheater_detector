@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "singhhemant001",
+      "profile": {
+        "ranking": 1202448,
+        "realName": "singhhemant001",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 128,
+            "submissions": 187
+          },
+          {
+            "difficulty": "Easy",
+            "count": 30,
+            "submissions": 64
+          },
+          {
+            "difficulty": "Medium",
+            "count": 75,
+            "submissions": 98
+          },
+          {
+            "difficulty": "Hard",
+            "count": 23,
+            "submissions": 25
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1781.8794250488281,
+      "globalRanking": 71963,
+      "topPercentage": 8.52
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 440,
+        "rating": 1781.879,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

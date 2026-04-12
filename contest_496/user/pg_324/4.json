@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "fRo58edLaF",
+      "profile": {
+        "ranking": 1153309,
+        "realName": "Mahi Bansal",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 134,
+            "submissions": 149
+          },
+          {
+            "difficulty": "Easy",
+            "count": 43,
+            "submissions": 50
+          },
+          {
+            "difficulty": "Medium",
+            "count": 80,
+            "submissions": 88
+          },
+          {
+            "difficulty": "Hard",
+            "count": 11,
+            "submissions": 11
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1577.2039513838918,
+      "globalRanking": 229623,
+      "topPercentage": 26.91
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 12141,
+        "rating": 1535.285,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8079,
+        "rating": 1577.204,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

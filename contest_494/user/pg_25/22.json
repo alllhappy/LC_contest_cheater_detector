@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "user4439P",
+      "profile": {
+        "ranking": 314149,
+        "realName": "Rich",
+        "countryName": "United States",
+        "postViewCount": 26,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 376,
+            "submissions": 606
+          },
+          {
+            "difficulty": "Easy",
+            "count": 173,
+            "submissions": 270
+          },
+          {
+            "difficulty": "Medium",
+            "count": 175,
+            "submissions": 288
+          },
+          {
+            "difficulty": "Hard",
+            "count": 28,
+            "submissions": 48
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1825.521469116211,
+      "globalRanking": 57470,
+      "topPercentage": 6.82
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2272,
+        "rating": 1677.2,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 623,
+        "rating": 1825.521,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

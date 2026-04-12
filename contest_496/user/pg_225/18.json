@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Mathin_81",
+      "profile": {
+        "ranking": 2352853,
+        "realName": "Mathin",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 54,
+            "submissions": 58
+          },
+          {
+            "difficulty": "Easy",
+            "count": 36,
+            "submissions": 39
+          },
+          {
+            "difficulty": "Medium",
+            "count": 16,
+            "submissions": 17
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1600.184440612793,
+      "globalRanking": 199927,
+      "topPercentage": 23.45
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5618,
+        "rating": 1600.184,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

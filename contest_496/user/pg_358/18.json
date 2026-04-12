@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "coderNesi",
+      "profile": {
+        "ranking": 455787,
+        "realName": "Nasir Yousuf",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 297,
+            "submissions": 326
+          },
+          {
+            "difficulty": "Easy",
+            "count": 126,
+            "submissions": 143
+          },
+          {
+            "difficulty": "Medium",
+            "count": 155,
+            "submissions": 166
+          },
+          {
+            "difficulty": "Hard",
+            "count": 16,
+            "submissions": 17
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1501.207925474163,
+      "globalRanking": 374282,
+      "topPercentage": 43.7
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 21986,
+        "rating": 1466.964,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 17150,
+        "rating": 1457.078,
+        "contest": {
+          "title": "Biweekly Contest 177",
+          "startTime": 1772289000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8943,
+        "rating": 1501.208,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

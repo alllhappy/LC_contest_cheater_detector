@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "8EuHOvhYti",
+      "profile": {
+        "ranking": 815689,
+        "realName": "TheHeadphoneDude",
+        "countryName": null,
+        "postViewCount": 28,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 188,
+            "submissions": 272
+          },
+          {
+            "difficulty": "Easy",
+            "count": 76,
+            "submissions": 96
+          },
+          {
+            "difficulty": "Medium",
+            "count": 91,
+            "submissions": 144
+          },
+          {
+            "difficulty": "Hard",
+            "count": 21,
+            "submissions": 32
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1640.744389096234,
+      "globalRanking": 157708,
+      "topPercentage": 18.54
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7821,
+        "rating": 1565.944,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7551,
+        "rating": 1610.633,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6929,
+        "rating": 1640.744,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

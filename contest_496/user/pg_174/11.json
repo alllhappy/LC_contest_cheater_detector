@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Kinshasa47",
+      "profile": {
+        "ranking": 138065,
+        "realName": "Jai Krishna Prasath D",
+        "countryName": "India",
+        "postViewCount": 90,
+        "reputation": 3
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 575,
+            "submissions": 932
+          },
+          {
+            "difficulty": "Easy",
+            "count": 194,
+            "submissions": 277
+          },
+          {
+            "difficulty": "Medium",
+            "count": 347,
+            "submissions": 592
+          },
+          {
+            "difficulty": "Hard",
+            "count": 34,
+            "submissions": 63
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1694.5047569085616,
+      "globalRanking": 116252,
+      "topPercentage": 13.7
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3633,
+        "rating": 1612.332,
+        "contest": {
+          "title": "Weekly Contest 480",
+          "startTime": 1765679400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5895,
+        "rating": 1647.746,
+        "contest": {
+          "title": "Weekly Contest 484",
+          "startTime": 1768098600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4336,
+        "rating": 1694.505,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

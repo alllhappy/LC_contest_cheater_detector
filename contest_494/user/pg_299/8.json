@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Avdhoot123",
+      "profile": {
+        "ranking": 801081,
+        "realName": "Avdhoot123",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 191,
+            "submissions": 359
+          },
+          {
+            "difficulty": "Easy",
+            "count": 65,
+            "submissions": 107
+          },
+          {
+            "difficulty": "Medium",
+            "count": 118,
+            "submissions": 235
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 17
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1632.1557697496917,
+      "globalRanking": 165783,
+      "topPercentage": 19.48
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6062,
+        "rating": 1592.949,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7459,
+        "rating": 1632.156,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

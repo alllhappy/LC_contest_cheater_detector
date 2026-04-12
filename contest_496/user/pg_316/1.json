@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "leon-xu-04",
+      "profile": {
+        "ranking": 3497954,
+        "realName": "Leon Xu",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 27,
+            "submissions": 81
+          },
+          {
+            "difficulty": "Easy",
+            "count": 13,
+            "submissions": 33
+          },
+          {
+            "difficulty": "Medium",
+            "count": 14,
+            "submissions": 48
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1569.9806213378906,
+      "globalRanking": 240074,
+      "topPercentage": 28.13
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7876,
+        "rating": 1569.981,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

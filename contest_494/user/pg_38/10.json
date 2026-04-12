@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Rohan4518",
+      "profile": {
+        "ranking": 705184,
+        "realName": "Rohan4518",
+        "countryName": null,
+        "postViewCount": 450,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 213,
+            "submissions": 245
+          },
+          {
+            "difficulty": "Easy",
+            "count": 63,
+            "submissions": 70
+          },
+          {
+            "difficulty": "Medium",
+            "count": 124,
+            "submissions": 141
+          },
+          {
+            "difficulty": "Hard",
+            "count": 26,
+            "submissions": 34
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1844.3022130181034,
+      "globalRanking": 52252,
+      "topPercentage": 6.2
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 2308,
+        "rating": 1638.668,
+        "contest": {
+          "title": "Biweekly Contest 166",
+          "startTime": 1758983400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1111,
+        "rating": 1749.138,
+        "contest": {
+          "title": "Biweekly Contest 169",
+          "startTime": 1762612200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 936,
+        "rating": 1844.302,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

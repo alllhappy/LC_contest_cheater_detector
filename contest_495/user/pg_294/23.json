@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "lkumarr",
+      "profile": {
+        "ranking": 2458249,
+        "realName": "lkumarr",
+        "countryName": null,
+        "postViewCount": 2,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 51,
+            "submissions": 56
+          },
+          {
+            "difficulty": "Easy",
+            "count": 15,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Medium",
+            "count": 28,
+            "submissions": 33
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1583.2185745239258,
+      "globalRanking": 221385,
+      "topPercentage": 25.95
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7348,
+        "rating": 1583.219,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

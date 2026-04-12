@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "joshhwuu",
+      "profile": {
+        "ranking": 451161,
+        "realName": "joshhwuu",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 300,
+            "submissions": 718
+          },
+          {
+            "difficulty": "Easy",
+            "count": 119,
+            "submissions": 271
+          },
+          {
+            "difficulty": "Medium",
+            "count": 162,
+            "submissions": 404
+          },
+          {
+            "difficulty": "Hard",
+            "count": 19,
+            "submissions": 43
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1542.7719919305098,
+      "globalRanking": 285011,
+      "topPercentage": 33.34
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 22624,
+        "rating": 1462.286,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6239,
+        "rating": 1542.772,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

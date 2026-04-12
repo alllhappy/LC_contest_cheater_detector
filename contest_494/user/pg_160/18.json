@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ishan_0777",
+      "profile": {
+        "ranking": 919914,
+        "realName": "ishan_0777",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 168,
+            "submissions": 218
+          },
+          {
+            "difficulty": "Easy",
+            "count": 51,
+            "submissions": 64
+          },
+          {
+            "difficulty": "Medium",
+            "count": 96,
+            "submissions": 129
+          },
+          {
+            "difficulty": "Hard",
+            "count": 21,
+            "submissions": 25
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1699.4373923853823,
+      "globalRanking": 113057,
+      "topPercentage": 13.33
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3994,
+        "rating": 1632.935,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3477,
+        "rating": 1699.437,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

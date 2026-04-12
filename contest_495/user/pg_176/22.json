@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "himanshi0523",
+      "profile": {
+        "ranking": 303081,
+        "realName": "himanshi0523",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 385,
+            "submissions": 785
+          },
+          {
+            "difficulty": "Easy",
+            "count": 67,
+            "submissions": 153
+          },
+          {
+            "difficulty": "Medium",
+            "count": 265,
+            "submissions": 516
+          },
+          {
+            "difficulty": "Hard",
+            "count": 53,
+            "submissions": 116
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1597.990638331363,
+      "globalRanking": 202588,
+      "topPercentage": 23.76
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4397,
+        "rating": 1626.022,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 16460,
+        "rating": 1597.991,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

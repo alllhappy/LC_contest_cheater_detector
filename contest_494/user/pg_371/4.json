@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "LAZER123",
+      "profile": {
+        "ranking": 702035,
+        "realName": "LAZER123",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 218,
+            "submissions": 265
+          },
+          {
+            "difficulty": "Easy",
+            "count": 63,
+            "submissions": 70
+          },
+          {
+            "difficulty": "Medium",
+            "count": 129,
+            "submissions": 161
+          },
+          {
+            "difficulty": "Hard",
+            "count": 26,
+            "submissions": 34
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1669.4056332976095,
+      "globalRanking": 133893,
+      "topPercentage": 15.76
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3441,
+        "rating": 1641.063,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9255,
+        "rating": 1656.919,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9014,
+        "rating": 1669.406,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "praveensingh08",
+      "profile": {
+        "ranking": 980205,
+        "realName": "Praveen Singh",
+        "countryName": "India",
+        "postViewCount": 4,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 158,
+            "submissions": 485
+          },
+          {
+            "difficulty": "Easy",
+            "count": 52,
+            "submissions": 184
+          },
+          {
+            "difficulty": "Medium",
+            "count": 95,
+            "submissions": 267
+          },
+          {
+            "difficulty": "Hard",
+            "count": 11,
+            "submissions": 34
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1717.6952362060547,
+      "globalRanking": 101907,
+      "topPercentage": 12.02
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1227,
+        "rating": 1717.695,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

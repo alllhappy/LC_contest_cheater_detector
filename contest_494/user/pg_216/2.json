@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "justaguy1337",
+      "profile": {
+        "ranking": 451429,
+        "realName": "Manya Michelle",
+        "countryName": "India",
+        "postViewCount": 1736,
+        "reputation": 12
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 299,
+            "submissions": 470
+          },
+          {
+            "difficulty": "Easy",
+            "count": 179,
+            "submissions": 278
+          },
+          {
+            "difficulty": "Medium",
+            "count": 112,
+            "submissions": 177
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 15
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1609.1651916503906,
+      "globalRanking": 189608,
+      "topPercentage": 22.25
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5378,
+        "rating": 1609.165,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

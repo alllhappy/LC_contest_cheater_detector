@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Parth9506",
+      "profile": {
+        "ranking": 223306,
+        "realName": "Parth9506",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 457,
+            "submissions": 776
+          },
+          {
+            "difficulty": "Easy",
+            "count": 100,
+            "submissions": 173
+          },
+          {
+            "difficulty": "Medium",
+            "count": 305,
+            "submissions": 497
+          },
+          {
+            "difficulty": "Hard",
+            "count": 52,
+            "submissions": 106
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1607.6500541285466,
+      "globalRanking": 191438,
+      "topPercentage": 22.46
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7573,
+        "rating": 1568.885,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7594,
+        "rating": 1607.65,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

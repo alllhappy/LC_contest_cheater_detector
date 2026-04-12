@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "GreenMario",
+      "profile": {
+        "ranking": 188079,
+        "realName": "Mohnish",
+        "countryName": "India",
+        "postViewCount": 27,
+        "reputation": 3
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 498,
+            "submissions": 560
+          },
+          {
+            "difficulty": "Easy",
+            "count": 191,
+            "submissions": 216
+          },
+          {
+            "difficulty": "Medium",
+            "count": 259,
+            "submissions": 292
+          },
+          {
+            "difficulty": "Hard",
+            "count": 48,
+            "submissions": 52
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1655.508041381836,
+      "globalRanking": 144834,
+      "topPercentage": 17.04
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2967,
+        "rating": 1655.508,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

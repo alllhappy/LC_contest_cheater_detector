@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Priyanka_Roy05",
+      "profile": {
+        "ranking": 3366989,
+        "realName": "Priyanka_Roy05",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 29,
+            "submissions": 46
+          },
+          {
+            "difficulty": "Easy",
+            "count": 8,
+            "submissions": 11
+          },
+          {
+            "difficulty": "Medium",
+            "count": 16,
+            "submissions": 26
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1584.8013297014636,
+      "globalRanking": 219274,
+      "topPercentage": 25.71
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 25565,
+        "rating": 1416.089,
+        "contest": {
+          "title": "Biweekly Contest 168",
+          "startTime": 1761402600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8669,
+        "rating": 1485.917,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3031,
+        "rating": 1584.801,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

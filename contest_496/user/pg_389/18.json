@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "gokul0410",
+      "profile": {
+        "ranking": 1099630,
+        "realName": "Gokulraj",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 141,
+            "submissions": 190
+          },
+          {
+            "difficulty": "Easy",
+            "count": 74,
+            "submissions": 97
+          },
+          {
+            "difficulty": "Medium",
+            "count": 58,
+            "submissions": 83
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1522.4861212367616,
+      "globalRanking": 324717,
+      "topPercentage": 37.96
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 17359,
+        "rating": 1498.089,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 18281,
+        "rating": 1489.825,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9718,
+        "rating": 1522.486,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

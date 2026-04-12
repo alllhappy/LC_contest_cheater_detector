@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "heet070",
+      "profile": {
+        "ranking": 299010,
+        "realName": "Heet Shah",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 388,
+            "submissions": 634
+          },
+          {
+            "difficulty": "Easy",
+            "count": 126,
+            "submissions": 219
+          },
+          {
+            "difficulty": "Medium",
+            "count": 219,
+            "submissions": 356
+          },
+          {
+            "difficulty": "Hard",
+            "count": 43,
+            "submissions": 59
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1597.8469848632812,
+      "globalRanking": 202763,
+      "topPercentage": 23.78
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5773,
+        "rating": 1597.847,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

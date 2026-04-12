@@ -1,0 +1,123 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "scale5558",
+      "profile": {
+        "ranking": 112045,
+        "realName": "scale5558",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 4
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 628,
+            "submissions": 646
+          },
+          {
+            "difficulty": "Easy",
+            "count": 168,
+            "submissions": 169
+          },
+          {
+            "difficulty": "Medium",
+            "count": 338,
+            "submissions": 341
+          },
+          {
+            "difficulty": "Hard",
+            "count": 122,
+            "submissions": 136
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 7,
+      "rating": 2283.780247864057,
+      "globalRanking": 4752,
+      "topPercentage": 0.58
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5977,
+        "rating": 1560.748,
+        "contest": {
+          "title": "Biweekly Contest 166",
+          "startTime": 1758983400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 479,
+        "rating": 1729.789,
+        "contest": {
+          "title": "Weekly Contest 469",
+          "startTime": 1759026600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4334,
+        "rating": 1746.682,
+        "contest": {
+          "title": "Weekly Contest 470",
+          "startTime": 1759631400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 28910,
+        "rating": 1684.491,
+        "contest": {
+          "title": "Biweekly Contest 167",
+          "startTime": 1760193000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 6,
+        "rating": 1916.818,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 5,
+        "rating": 2117.429,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 5,
+        "rating": 2283.78,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

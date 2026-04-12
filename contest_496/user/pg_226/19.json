@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Msumit100",
+      "profile": {
+        "ranking": 999566,
+        "realName": "Msumit100",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 155,
+            "submissions": 186
+          },
+          {
+            "difficulty": "Easy",
+            "count": 62,
+            "submissions": 83
+          },
+          {
+            "difficulty": "Medium",
+            "count": 80,
+            "submissions": 89
+          },
+          {
+            "difficulty": "Hard",
+            "count": 13,
+            "submissions": 14
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1599.7896194458008,
+      "globalRanking": 200389,
+      "topPercentage": 23.51
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5644,
+        "rating": 1599.79,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

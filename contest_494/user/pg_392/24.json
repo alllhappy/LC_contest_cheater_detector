@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "bit_unbothered",
+      "profile": {
+        "ranking": 875902,
+        "realName": "Sanjana",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 176,
+            "submissions": 197
+          },
+          {
+            "difficulty": "Easy",
+            "count": 146,
+            "submissions": 161
+          },
+          {
+            "difficulty": "Medium",
+            "count": 30,
+            "submissions": 36
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1625.6758699618954,
+      "globalRanking": 172152,
+      "topPercentage": 20.22
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10155,
+        "rating": 1547.788,
+        "contest": {
+          "title": "Weekly Contest 487",
+          "startTime": 1769913000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5711,
+        "rating": 1610.341,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9800,
+        "rating": 1625.676,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

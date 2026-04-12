@@ -1,0 +1,101 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "zenithor",
+      "profile": {
+        "ranking": 238571,
+        "realName": "Kishan",
+        "countryName": null,
+        "postViewCount": 104,
+        "reputation": 2
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 440,
+            "submissions": 480
+          },
+          {
+            "difficulty": "Easy",
+            "count": 57,
+            "submissions": 67
+          },
+          {
+            "difficulty": "Medium",
+            "count": 329,
+            "submissions": 356
+          },
+          {
+            "difficulty": "Hard",
+            "count": 54,
+            "submissions": 57
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 6,
+      "rating": 1818.0573728965237,
+      "globalRanking": 59601,
+      "topPercentage": 7.07
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7108,
+        "rating": 1614.139,
+        "contest": {
+          "title": "Weekly Contest 486",
+          "startTime": 1769308200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2230,
+        "rating": 1696.97,
+        "contest": {
+          "title": "Weekly Contest 489",
+          "startTime": 1771122600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 521,
+        "rating": 1809.658,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4479,
+        "rating": 1826.173,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 7728,
+        "rating": 1818.057,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

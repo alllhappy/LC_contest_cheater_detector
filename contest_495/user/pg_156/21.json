@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "CodeVik",
+      "profile": {
+        "ranking": 51577,
+        "realName": "CodeVik",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 2
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 835,
+            "submissions": 1299
+          },
+          {
+            "difficulty": "Easy",
+            "count": 178,
+            "submissions": 281
+          },
+          {
+            "difficulty": "Medium",
+            "count": 515,
+            "submissions": 814
+          },
+          {
+            "difficulty": "Hard",
+            "count": 142,
+            "submissions": 204
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1584.6193587582236,
+      "globalRanking": 219479,
+      "topPercentage": 25.73
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 1394,
+        "rating": 1479.638,
+        "contest": {
+          "title": "Biweekly Contest 15",
+          "startTime": 1576333800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3896,
+        "rating": 1584.619,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "evandabest",
+      "profile": {
+        "ranking": 104234,
+        "realName": "evandabest1814",
+        "countryName": "United States",
+        "postViewCount": 34,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 646,
+            "submissions": 1377
+          },
+          {
+            "difficulty": "Easy",
+            "count": 235,
+            "submissions": 464
+          },
+          {
+            "difficulty": "Medium",
+            "count": 358,
+            "submissions": 805
+          },
+          {
+            "difficulty": "Hard",
+            "count": 53,
+            "submissions": 108
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1630.4941177368164,
+      "globalRanking": 167363,
+      "topPercentage": 19.66
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4121,
+        "rating": 1630.494,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

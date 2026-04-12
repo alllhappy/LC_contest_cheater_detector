@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "CoderAnmolMittal",
+      "profile": {
+        "ranking": 734971,
+        "realName": "Anmol Mittal",
+        "countryName": null,
+        "postViewCount": 49,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 206,
+            "submissions": 260
+          },
+          {
+            "difficulty": "Easy",
+            "count": 83,
+            "submissions": 109
+          },
+          {
+            "difficulty": "Medium",
+            "count": 105,
+            "submissions": 130
+          },
+          {
+            "difficulty": "Hard",
+            "count": 18,
+            "submissions": 21
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1529.569907110917,
+      "globalRanking": 310121,
+      "topPercentage": 36.26
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 16369,
+        "rating": 1458.813,
+        "contest": {
+          "title": "Weekly Contest 482",
+          "startTime": 1766889000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7341,
+        "rating": 1529.57,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

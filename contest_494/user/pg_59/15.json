@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "master18",
+      "profile": {
+        "ranking": 3632899,
+        "realName": "master18",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 25,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Easy",
+            "count": 7,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Medium",
+            "count": 10,
+            "submissions": 14
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1705.62744140625,
+      "globalRanking": 109151,
+      "topPercentage": 12.87
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1466,
+        "rating": 1705.627,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

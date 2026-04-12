@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "shikhark-official",
+      "profile": {
+        "ranking": 153431,
+        "realName": "Shikhar Kumar",
+        "countryName": "United States",
+        "postViewCount": 1,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 547,
+            "submissions": 2696
+          },
+          {
+            "difficulty": "Easy",
+            "count": 286,
+            "submissions": 1690
+          },
+          {
+            "difficulty": "Medium",
+            "count": 224,
+            "submissions": 916
+          },
+          {
+            "difficulty": "Hard",
+            "count": 37,
+            "submissions": 90
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1565.7941918624074,
+      "globalRanking": 246441,
+      "topPercentage": 28.87
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 14414,
+        "rating": 1517.306,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8347,
+        "rating": 1565.794,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

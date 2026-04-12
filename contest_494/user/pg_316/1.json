@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "rashi_89",
+      "profile": {
+        "ranking": 3186397,
+        "realName": "rashi_89",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 32,
+            "submissions": 36
+          },
+          {
+            "difficulty": "Easy",
+            "count": 11,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Medium",
+            "count": 17,
+            "submissions": 17
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1576.3893127441406,
+      "globalRanking": 230809,
+      "topPercentage": 27.05
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7877,
+        "rating": 1576.389,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

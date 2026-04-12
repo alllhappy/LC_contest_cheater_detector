@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "mc4ever",
+      "profile": {
+        "ranking": 3249611,
+        "realName": "Kanish Yathra Raj",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 32,
+            "submissions": 39
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 1
+          },
+          {
+            "difficulty": "Medium",
+            "count": 7,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Hard",
+            "count": 24,
+            "submissions": 28
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1622.8752136230469,
+      "globalRanking": 174998,
+      "topPercentage": 20.55
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4575,
+        "rating": 1622.875,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

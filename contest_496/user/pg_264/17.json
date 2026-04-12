@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "sahasrareddychalla",
+      "profile": {
+        "ranking": 2657807,
+        "realName": "sahasrareddychalla",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 45,
+            "submissions": 49
+          },
+          {
+            "difficulty": "Easy",
+            "count": 13,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Medium",
+            "count": 26,
+            "submissions": 28
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1547.5804565907479,
+      "globalRanking": 276353,
+      "topPercentage": 32.34
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 20277,
+        "rating": 1483.781,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 15508,
+        "rating": 1492.632,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6592,
+        "rating": 1547.58,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

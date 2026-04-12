@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "PROAdarsh1",
+      "profile": {
+        "ranking": 721369,
+        "realName": "PROAdarsh1",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 209,
+            "submissions": 260
+          },
+          {
+            "difficulty": "Easy",
+            "count": 80,
+            "submissions": 95
+          },
+          {
+            "difficulty": "Medium",
+            "count": 101,
+            "submissions": 132
+          },
+          {
+            "difficulty": "Hard",
+            "count": 28,
+            "submissions": 33
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1890.5471922344982,
+      "globalRanking": 38930,
+      "topPercentage": 4.64
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3119,
+        "rating": 1644.31,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 820,
+        "rating": 1787.709,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1137,
+        "rating": 1860.825,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2716,
+        "rating": 1890.547,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

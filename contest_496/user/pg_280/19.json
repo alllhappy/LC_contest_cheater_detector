@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "user6350B",
+      "profile": {
+        "ranking": 497622,
+        "realName": "Shubham Sinha",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 278,
+            "submissions": 529
+          },
+          {
+            "difficulty": "Easy",
+            "count": 97,
+            "submissions": 185
+          },
+          {
+            "difficulty": "Medium",
+            "count": 164,
+            "submissions": 306
+          },
+          {
+            "difficulty": "Hard",
+            "count": 17,
+            "submissions": 38
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1566.052928852282,
+      "globalRanking": 246012,
+      "topPercentage": 28.82
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 8577,
+        "rating": 1508.38,
+        "contest": {
+          "title": "Weekly Contest 431",
+          "startTime": 1736044200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6994,
+        "rating": 1566.053,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

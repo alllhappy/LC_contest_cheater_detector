@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "adityan_42",
+      "profile": {
+        "ranking": 782963,
+        "realName": "Aditya Narayan",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 195,
+            "submissions": 357
+          },
+          {
+            "difficulty": "Easy",
+            "count": 61,
+            "submissions": 105
+          },
+          {
+            "difficulty": "Medium",
+            "count": 116,
+            "submissions": 224
+          },
+          {
+            "difficulty": "Hard",
+            "count": 18,
+            "submissions": 28
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1575.8399963378906,
+      "globalRanking": 231574,
+      "topPercentage": 27.14
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7394,
+        "rating": 1575.84,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

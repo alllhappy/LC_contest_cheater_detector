@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "i_am_sakthi",
+      "profile": {
+        "ranking": 1161738,
+        "realName": "i_am_sakthi",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 133,
+            "submissions": 211
+          },
+          {
+            "difficulty": "Easy",
+            "count": 67,
+            "submissions": 118
+          },
+          {
+            "difficulty": "Medium",
+            "count": 57,
+            "submissions": 80
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 13
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1853.4902271471526,
+      "globalRanking": 49521,
+      "topPercentage": 5.88
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 599,
+        "rating": 1752.219,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1190,
+        "rating": 1853.49,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

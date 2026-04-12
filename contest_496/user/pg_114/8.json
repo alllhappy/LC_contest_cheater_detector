@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ACHU2007",
+      "profile": {
+        "ranking": 3364949,
+        "realName": "Arumugham pillai",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 29,
+            "submissions": 35
+          },
+          {
+            "difficulty": "Easy",
+            "count": 13,
+            "submissions": 16
+          },
+          {
+            "difficulty": "Medium",
+            "count": 14,
+            "submissions": 17
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1654.973030090332,
+      "globalRanking": 145232,
+      "topPercentage": 17.08
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2833,
+        "rating": 1654.973,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

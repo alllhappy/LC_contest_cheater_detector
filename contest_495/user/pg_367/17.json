@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "CalmOverFlow",
+      "profile": {
+        "ranking": 3187206,
+        "realName": "CalmOverFlow",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 32,
+            "submissions": 36
+          },
+          {
+            "difficulty": "Easy",
+            "count": 16,
+            "submissions": 18
+          },
+          {
+            "difficulty": "Medium",
+            "count": 15,
+            "submissions": 17
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1626.6185287630105,
+      "globalRanking": 171208,
+      "topPercentage": 20.11
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11205,
+        "rating": 1517.581,
+        "contest": {
+          "title": "Biweekly Contest 174",
+          "startTime": 1768660200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4014,
+        "rating": 1606.64,
+        "contest": {
+          "title": "Biweekly Contest 175",
+          "startTime": 1769869800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9167,
+        "rating": 1626.619,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "jagadeep_reddy",
+      "profile": {
+        "ranking": 1185779,
+        "realName": "jagadeep_reddy",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 130,
+            "submissions": 176
+          },
+          {
+            "difficulty": "Easy",
+            "count": 59,
+            "submissions": 76
+          },
+          {
+            "difficulty": "Medium",
+            "count": 63,
+            "submissions": 90
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1693.977652626439,
+      "globalRanking": 116579,
+      "topPercentage": 13.74
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5859,
+        "rating": 1562.119,
+        "contest": {
+          "title": "Weekly Contest 451",
+          "startTime": 1748140200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1578,
+        "rating": 1693.978,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

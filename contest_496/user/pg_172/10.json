@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "tvssram9981",
+      "profile": {
+        "ranking": 2488801,
+        "realName": "Ram",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 49,
+            "submissions": 53
+          },
+          {
+            "difficulty": "Easy",
+            "count": 41,
+            "submissions": 44
+          },
+          {
+            "difficulty": "Medium",
+            "count": 7,
+            "submissions": 8
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1597.680744371916,
+      "globalRanking": 202955,
+      "topPercentage": 23.8
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 15342,
+        "rating": 1509.645,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4285,
+        "rating": 1597.681,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

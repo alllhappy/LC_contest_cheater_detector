@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Saidivya_15",
+      "profile": {
+        "ranking": 2356016,
+        "realName": "Saidivya_15",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 53,
+            "submissions": 62
+          },
+          {
+            "difficulty": "Easy",
+            "count": 40,
+            "submissions": 46
+          },
+          {
+            "difficulty": "Medium",
+            "count": 10,
+            "submissions": 12
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1565.00244140625,
+      "globalRanking": 247638,
+      "topPercentage": 29.01
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8919,
+        "rating": 1565.002,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

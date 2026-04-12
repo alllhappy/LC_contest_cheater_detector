@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "RankjaVinit",
+      "profile": {
+        "ranking": 929879,
+        "realName": "RankjaVinit",
+        "countryName": null,
+        "postViewCount": 39,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 167,
+            "submissions": 403
+          },
+          {
+            "difficulty": "Easy",
+            "count": 74,
+            "submissions": 200
+          },
+          {
+            "difficulty": "Medium",
+            "count": 80,
+            "submissions": 187
+          },
+          {
+            "difficulty": "Hard",
+            "count": 13,
+            "submissions": 16
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1495.676273826279,
+      "globalRanking": 390150,
+      "topPercentage": 45.53
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 18104,
+        "rating": 1488.928,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 25855,
+        "rating": 1444.162,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8273,
+        "rating": 1495.676,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

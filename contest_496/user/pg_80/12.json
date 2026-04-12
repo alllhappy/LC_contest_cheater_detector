@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Ertugrul28",
+      "profile": {
+        "ranking": 969766,
+        "realName": "Ertgrul28",
+        "countryName": "Bangladesh",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 159,
+            "submissions": 316
+          },
+          {
+            "difficulty": "Easy",
+            "count": 46,
+            "submissions": 72
+          },
+          {
+            "difficulty": "Medium",
+            "count": 78,
+            "submissions": 160
+          },
+          {
+            "difficulty": "Hard",
+            "count": 35,
+            "submissions": 84
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1774.3147386308015,
+      "globalRanking": 74865,
+      "topPercentage": 8.86
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 1987,
+        "rating": 1657.9,
+        "contest": {
+          "title": "Weekly Contest 434",
+          "startTime": 1737858600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 17918,
+        "rating": 1593.925,
+        "contest": {
+          "title": "Weekly Contest 435",
+          "startTime": 1738463400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 755,
+        "rating": 1711.746,
+        "contest": {
+          "title": "Weekly Contest 454",
+          "startTime": 1749954600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1987,
+        "rating": 1774.315,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

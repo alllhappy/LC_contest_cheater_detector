@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Resocram",
+      "profile": {
+        "ranking": 184488,
+        "realName": "Marco",
+        "countryName": "Canada",
+        "postViewCount": 329,
+        "reputation": 2
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 502,
+            "submissions": 1531
+          },
+          {
+            "difficulty": "Easy",
+            "count": 163,
+            "submissions": 390
+          },
+          {
+            "difficulty": "Medium",
+            "count": 294,
+            "submissions": 1010
+          },
+          {
+            "difficulty": "Hard",
+            "count": 45,
+            "submissions": 131
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1704.008363415682,
+      "globalRanking": 110123,
+      "topPercentage": 12.98
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8753,
+        "rating": 1556.531,
+        "contest": {
+          "title": "Weekly Contest 399",
+          "startTime": 1716690600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3210,
+        "rating": 1651.315,
+        "contest": {
+          "title": "Weekly Contest 400",
+          "startTime": 1717295400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4027,
+        "rating": 1704.008,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

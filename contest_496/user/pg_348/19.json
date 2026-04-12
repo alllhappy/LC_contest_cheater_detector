@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "runtimErr0r",
+      "profile": {
+        "ranking": 1551923,
+        "realName": "user4135X",
+        "countryName": null,
+        "postViewCount": 107,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 95,
+            "submissions": 137
+          },
+          {
+            "difficulty": "Easy",
+            "count": 37,
+            "submissions": 45
+          },
+          {
+            "difficulty": "Medium",
+            "count": 56,
+            "submissions": 89
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1520.76080337041,
+      "globalRanking": 328445,
+      "topPercentage": 38.39
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 10193,
+        "rating": 1486.682,
+        "contest": {
+          "title": "Biweekly Contest 101",
+          "startTime": 1680359400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7986,
+        "rating": 1486.902,
+        "contest": {
+          "title": "Biweekly Contest 102",
+          "startTime": 1681569000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 11638,
+        "rating": 1484.315,
+        "contest": {
+          "title": "Biweekly Contest 146",
+          "startTime": 1734791400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8694,
+        "rating": 1520.761,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "dhyeyraval",
+      "profile": {
+        "ranking": 1246896,
+        "realName": "dhyeyraval",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 130,
+            "submissions": 210
+          },
+          {
+            "difficulty": "Easy",
+            "count": 60,
+            "submissions": 94
+          },
+          {
+            "difficulty": "Medium",
+            "count": 63,
+            "submissions": 107
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1495.3762105070416,
+      "globalRanking": 390971,
+      "topPercentage": 45.63
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 20281,
+        "rating": 1442.047,
+        "contest": {
+          "title": "Weekly Contest 464",
+          "startTime": 1756002600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9263,
+        "rating": 1495.376,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

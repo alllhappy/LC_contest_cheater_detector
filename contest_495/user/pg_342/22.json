@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "arinnnnn",
+      "profile": {
+        "ranking": 2354721,
+        "realName": "arinnnnn",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 54,
+            "submissions": 131
+          },
+          {
+            "difficulty": "Easy",
+            "count": 19,
+            "submissions": 34
+          },
+          {
+            "difficulty": "Medium",
+            "count": 32,
+            "submissions": 89
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1552.7638887104235,
+      "globalRanking": 267413,
+      "topPercentage": 31.3
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8547,
+        "rating": 1569.577,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 16042,
+        "rating": 1552.764,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

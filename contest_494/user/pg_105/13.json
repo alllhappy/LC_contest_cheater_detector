@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Wubbzy3",
+      "profile": {
+        "ranking": 1356567,
+        "realName": "Wubbzy3",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 114,
+            "submissions": 125
+          },
+          {
+            "difficulty": "Easy",
+            "count": 35,
+            "submissions": 36
+          },
+          {
+            "difficulty": "Medium",
+            "count": 69,
+            "submissions": 78
+          },
+          {
+            "difficulty": "Hard",
+            "count": 10,
+            "submissions": 11
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1684.7993010763007,
+      "globalRanking": 122751,
+      "topPercentage": 14.46
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2614,
+        "rating": 1664.832,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7205,
+        "rating": 1683.77,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10323,
+        "rating": 1684.799,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

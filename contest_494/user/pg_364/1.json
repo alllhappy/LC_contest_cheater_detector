@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "jarvisadi",
+      "profile": {
+        "ranking": 897673,
+        "realName": "jarvisadi",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 172,
+            "submissions": 264
+          },
+          {
+            "difficulty": "Easy",
+            "count": 65,
+            "submissions": 97
+          },
+          {
+            "difficulty": "Medium",
+            "count": 102,
+            "submissions": 160
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1517.3952120451193,
+      "globalRanking": 335741,
+      "topPercentage": 39.23
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9077,
+        "rating": 1563.36,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 19233,
+        "rating": 1528.677,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 18263,
+        "rating": 1517.395,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

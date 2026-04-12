@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "leonard12345",
+      "profile": {
+        "ranking": 346096,
+        "realName": "leonard12345",
+        "countryName": null,
+        "postViewCount": 36,
+        "reputation": 2
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 356,
+            "submissions": 450
+          },
+          {
+            "difficulty": "Easy",
+            "count": 181,
+            "submissions": 233
+          },
+          {
+            "difficulty": "Medium",
+            "count": 145,
+            "submissions": 176
+          },
+          {
+            "difficulty": "Hard",
+            "count": 30,
+            "submissions": 41
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1851.4223098754883,
+      "globalRanking": 50154,
+      "topPercentage": 5.96
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 142,
+        "rating": 1851.422,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

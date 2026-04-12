@@ -1,0 +1,112 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "akaminer",
+      "profile": {
+        "ranking": 169226,
+        "realName": "Andrew Kaminer",
+        "countryName": "United States",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 523,
+            "submissions": 847
+          },
+          {
+            "difficulty": "Easy",
+            "count": 208,
+            "submissions": 320
+          },
+          {
+            "difficulty": "Medium",
+            "count": 264,
+            "submissions": 446
+          },
+          {
+            "difficulty": "Hard",
+            "count": 51,
+            "submissions": 81
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 6,
+      "rating": 1779.131793207317,
+      "globalRanking": 73008,
+      "topPercentage": 8.64
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3825,
+        "rating": 1626.331,
+        "contest": {
+          "title": "Weekly Contest 410",
+          "startTime": 1723343400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3465,
+        "rating": 1683.771,
+        "contest": {
+          "title": "Weekly Contest 482",
+          "startTime": 1766889000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 294,
+        "rating": 1830.306,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 8996,
+        "rating": 1817.023,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 22080,
+        "rating": 1770.64,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6392,
+        "rating": 1779.132,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

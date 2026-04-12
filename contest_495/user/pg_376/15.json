@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "paridarshan",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "Paridarshan Sahoo",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 6,
+            "submissions": 11
+          },
+          {
+            "difficulty": "Easy",
+            "count": 2,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Medium",
+            "count": 4,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1560.7795715332031,
+      "globalRanking": 254240,
+      "topPercentage": 29.77
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9390,
+        "rating": 1560.78,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

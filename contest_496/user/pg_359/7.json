@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Nakkeeran_T",
+      "profile": {
+        "ranking": 291401,
+        "realName": "NAKKEERAN T",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 394,
+            "submissions": 729
+          },
+          {
+            "difficulty": "Easy",
+            "count": 235,
+            "submissions": 449
+          },
+          {
+            "difficulty": "Medium",
+            "count": 141,
+            "submissions": 232
+          },
+          {
+            "difficulty": "Hard",
+            "count": 18,
+            "submissions": 48
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1501.9473159243935,
+      "globalRanking": 372375,
+      "topPercentage": 43.48
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 15084,
+        "rating": 1447.351,
+        "contest": {
+          "title": "Weekly Contest 456",
+          "startTime": 1751164200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8957,
+        "rating": 1501.947,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

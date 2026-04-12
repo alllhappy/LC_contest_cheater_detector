@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "jwizzle",
+      "profile": {
+        "ranking": 1558259,
+        "realName": "JosephBarkat",
+        "countryName": null,
+        "postViewCount": 9,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 95,
+            "submissions": 137
+          },
+          {
+            "difficulty": "Easy",
+            "count": 22,
+            "submissions": 34
+          },
+          {
+            "difficulty": "Medium",
+            "count": 54,
+            "submissions": 80
+          },
+          {
+            "difficulty": "Hard",
+            "count": 19,
+            "submissions": 23
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1891.0003461335834,
+      "globalRanking": 38836,
+      "topPercentage": 4.63
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 50,
+        "rating": 1913.996,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 3,
+        "ranking": 7626,
+        "rating": 1891.0,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

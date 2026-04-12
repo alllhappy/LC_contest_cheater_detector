@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "surya7228",
+      "profile": {
+        "ranking": 734870,
+        "realName": "AREVETI SAI GURU SURYA TEJA",
+        "countryName": null,
+        "postViewCount": 70,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 206,
+            "submissions": 271
+          },
+          {
+            "difficulty": "Easy",
+            "count": 90,
+            "submissions": 122
+          },
+          {
+            "difficulty": "Medium",
+            "count": 98,
+            "submissions": 126
+          },
+          {
+            "difficulty": "Hard",
+            "count": 18,
+            "submissions": 23
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1459.9114360212088,
+      "globalRanking": 501116,
+      "topPercentage": 58.34
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7360,
+        "rating": 1582.449,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 27514,
+        "rating": 1514.403,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 28607,
+        "rating": 1459.911,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

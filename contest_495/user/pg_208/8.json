@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Yogeshwara7",
+      "profile": {
+        "ranking": 1398605,
+        "realName": "Yogeshwara B",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 10
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 108,
+            "submissions": 149
+          },
+          {
+            "difficulty": "Easy",
+            "count": 64,
+            "submissions": 81
+          },
+          {
+            "difficulty": "Medium",
+            "count": 40,
+            "submissions": 61
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1560.0597983912419,
+      "globalRanking": 255415,
+      "topPercentage": 29.91
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5183,
+        "rating": 1612.819,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 22188,
+        "rating": 1560.06,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

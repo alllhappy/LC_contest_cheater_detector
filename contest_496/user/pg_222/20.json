@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "prinsi_pethani",
+      "profile": {
+        "ranking": 1286282,
+        "realName": "prinsi_pethani",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 119,
+            "submissions": 123
+          },
+          {
+            "difficulty": "Easy",
+            "count": 59,
+            "submissions": 62
+          },
+          {
+            "difficulty": "Medium",
+            "count": 41,
+            "submissions": 41
+          },
+          {
+            "difficulty": "Hard",
+            "count": 19,
+            "submissions": 20
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1601.3031005859375,
+      "globalRanking": 198725,
+      "topPercentage": 23.31
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5545,
+        "rating": 1601.303,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

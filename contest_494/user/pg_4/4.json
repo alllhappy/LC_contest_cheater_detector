@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "sathish0625",
+      "profile": {
+        "ranking": 1167735,
+        "realName": "Sathish Kumar",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 133,
+            "submissions": 193
+          },
+          {
+            "difficulty": "Easy",
+            "count": 41,
+            "submissions": 61
+          },
+          {
+            "difficulty": "Medium",
+            "count": 74,
+            "submissions": 105
+          },
+          {
+            "difficulty": "Hard",
+            "count": 18,
+            "submissions": 27
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1912.1863716527034,
+      "globalRanking": 33996,
+      "topPercentage": 4.06
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2432,
+        "rating": 1672.394,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 81,
+        "rating": 1912.186,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

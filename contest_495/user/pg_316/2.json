@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "kumarsiva200426",
+      "profile": {
+        "ranking": 769588,
+        "realName": "Sivakumar K",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 198,
+            "submissions": 234
+          },
+          {
+            "difficulty": "Easy",
+            "count": 114,
+            "submissions": 140
+          },
+          {
+            "difficulty": "Medium",
+            "count": 82,
+            "submissions": 92
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1502.5961863042232,
+      "globalRanking": 370742,
+      "topPercentage": 43.29
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 30944,
+        "rating": 1415.514,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 14652,
+        "rating": 1443.487,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7877,
+        "rating": 1502.596,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

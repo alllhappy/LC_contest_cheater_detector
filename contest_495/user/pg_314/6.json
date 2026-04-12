@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "nvasi_056",
+      "profile": {
+        "ranking": 506501,
+        "realName": "Nandkishor",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 275,
+            "submissions": 351
+          },
+          {
+            "difficulty": "Easy",
+            "count": 126,
+            "submissions": 160
+          },
+          {
+            "difficulty": "Medium",
+            "count": 135,
+            "submissions": 165
+          },
+          {
+            "difficulty": "Hard",
+            "count": 14,
+            "submissions": 26
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1540.7415691174958,
+      "globalRanking": 288671,
+      "topPercentage": 33.77
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 19592,
+        "rating": 1478.591,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7831,
+        "rating": 1540.742,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

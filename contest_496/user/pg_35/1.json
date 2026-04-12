@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "arunras",
+      "profile": {
+        "ranking": 156426,
+        "realName": "Arun",
+        "countryName": "United States",
+        "postViewCount": 714,
+        "reputation": 14
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 543,
+            "submissions": 1548
+          },
+          {
+            "difficulty": "Easy",
+            "count": 148,
+            "submissions": 445
+          },
+          {
+            "difficulty": "Medium",
+            "count": 308,
+            "submissions": 875
+          },
+          {
+            "difficulty": "Hard",
+            "count": 87,
+            "submissions": 228
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1739.3159866333008,
+      "globalRanking": 90435,
+      "topPercentage": 10.68
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 851,
+        "rating": 1739.316,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

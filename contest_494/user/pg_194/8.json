@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "JAYAVEL_M",
+      "profile": {
+        "ranking": 1257732,
+        "realName": "Jayavel M",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 122,
+            "submissions": 139
+          },
+          {
+            "difficulty": "Easy",
+            "count": 68,
+            "submissions": 83
+          },
+          {
+            "difficulty": "Medium",
+            "count": 40,
+            "submissions": 42
+          },
+          {
+            "difficulty": "Hard",
+            "count": 14,
+            "submissions": 14
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1486.0833337893146,
+      "globalRanking": 417163,
+      "topPercentage": 48.66
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 40204,
+        "rating": 1413.777,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 25825,
+        "rating": 1388.66,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4834,
+        "rating": 1486.083,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

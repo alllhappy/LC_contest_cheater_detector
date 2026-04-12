@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "COAacjKeI8",
+      "profile": {
+        "ranking": 1099551,
+        "realName": "Piyush Gupta",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 141,
+            "submissions": 189
+          },
+          {
+            "difficulty": "Easy",
+            "count": 47,
+            "submissions": 63
+          },
+          {
+            "difficulty": "Medium",
+            "count": 82,
+            "submissions": 107
+          },
+          {
+            "difficulty": "Hard",
+            "count": 12,
+            "submissions": 19
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1614.455223083496,
+      "globalRanking": 183869,
+      "topPercentage": 21.58
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5080,
+        "rating": 1614.455,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "m28ding",
+      "profile": {
+        "ranking": 147448,
+        "realName": "Michael",
+        "countryName": "Canada",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 557,
+            "submissions": 1561
+          },
+          {
+            "difficulty": "Easy",
+            "count": 160,
+            "submissions": 410
+          },
+          {
+            "difficulty": "Medium",
+            "count": 331,
+            "submissions": 994
+          },
+          {
+            "difficulty": "Hard",
+            "count": 66,
+            "submissions": 157
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 6,
+      "rating": 1801.9199636906708,
+      "globalRanking": 64836,
+      "topPercentage": 7.68
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1847,
+        "rating": 1668.503,
+        "contest": {
+          "title": "Weekly Contest 382",
+          "startTime": 1706409000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2015,
+        "rating": 1749.902,
+        "contest": {
+          "title": "Weekly Contest 385",
+          "startTime": 1708223400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6224,
+        "rating": 1754.82,
+        "contest": {
+          "title": "Weekly Contest 387",
+          "startTime": 1709433000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6864,
+        "rating": 1756.272,
+        "contest": {
+          "title": "Weekly Contest 388",
+          "startTime": 1710037800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2263,
+        "rating": 1804.017,
+        "contest": {
+          "title": "Weekly Contest 391",
+          "startTime": 1711852200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 3,
+        "ranking": 7592,
+        "rating": 1801.92,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

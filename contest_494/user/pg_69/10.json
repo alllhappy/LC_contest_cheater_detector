@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "hr604",
+      "profile": {
+        "ranking": 1025703,
+        "realName": "hr604",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 151,
+            "submissions": 345
+          },
+          {
+            "difficulty": "Easy",
+            "count": 89,
+            "submissions": 229
+          },
+          {
+            "difficulty": "Medium",
+            "count": 59,
+            "submissions": 113
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1768.9751601646626,
+      "globalRanking": 76950,
+      "topPercentage": 9.11
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 17401,
+        "rating": 1498.283,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 2629,
+        "rating": 1615.17,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2371,
+        "rating": 1696.252,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1711,
+        "rating": 1768.975,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

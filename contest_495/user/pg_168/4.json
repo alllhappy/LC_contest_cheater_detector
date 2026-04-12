@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Rohit_Biradar",
+      "profile": {
+        "ranking": 402985,
+        "realName": "Rohit Biradar",
+        "countryName": "United States",
+        "postViewCount": 2,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 322,
+            "submissions": 632
+          },
+          {
+            "difficulty": "Easy",
+            "count": 134,
+            "submissions": 302
+          },
+          {
+            "difficulty": "Medium",
+            "count": 166,
+            "submissions": 297
+          },
+          {
+            "difficulty": "Hard",
+            "count": 22,
+            "submissions": 33
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1630.0220489501953,
+      "globalRanking": 167833,
+      "topPercentage": 19.72
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4179,
+        "rating": 1630.022,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

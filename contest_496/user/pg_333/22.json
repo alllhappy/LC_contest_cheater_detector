@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ksprabhatkumar",
+      "profile": {
+        "ranking": 270482,
+        "realName": "Prabhat Kumar",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 411,
+            "submissions": 606
+          },
+          {
+            "difficulty": "Easy",
+            "count": 96,
+            "submissions": 140
+          },
+          {
+            "difficulty": "Medium",
+            "count": 254,
+            "submissions": 375
+          },
+          {
+            "difficulty": "Hard",
+            "count": 61,
+            "submissions": 91
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1549.287129676529,
+      "globalRanking": 273356,
+      "topPercentage": 31.99
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10550,
+        "rating": 1509.991,
+        "contest": {
+          "title": "Weekly Contest 473",
+          "startTime": 1761445800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 12889,
+        "rating": 1511.234,
+        "contest": {
+          "title": "Weekly Contest 485",
+          "startTime": 1768703400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8322,
+        "rating": 1549.287,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

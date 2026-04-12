@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "anshikarolya",
+      "profile": {
+        "ranking": 3878766,
+        "realName": "anshikarolya",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 22,
+            "submissions": 26
+          },
+          {
+            "difficulty": "Easy",
+            "count": 10,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Medium",
+            "count": 11,
+            "submissions": 12
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1517.4145949514289,
+      "globalRanking": 335697,
+      "topPercentage": 39.23
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 41583,
+        "rating": 1413.508,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5250,
+        "rating": 1517.415,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

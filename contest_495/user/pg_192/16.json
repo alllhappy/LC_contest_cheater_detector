@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "JATIN475",
+      "profile": {
+        "ranking": 834533,
+        "realName": "JATIN475",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 186,
+            "submissions": 255
+          },
+          {
+            "difficulty": "Easy",
+            "count": 65,
+            "submissions": 83
+          },
+          {
+            "difficulty": "Medium",
+            "count": 106,
+            "submissions": 151
+          },
+          {
+            "difficulty": "Hard",
+            "count": 15,
+            "submissions": 21
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1671.1203143120651,
+      "globalRanking": 132583,
+      "topPercentage": 15.61
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8208,
+        "rating": 1530.058,
+        "contest": {
+          "title": "Biweekly Contest 168",
+          "startTime": 1761402600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3461,
+        "rating": 1620.872,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4791,
+        "rating": 1671.12,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

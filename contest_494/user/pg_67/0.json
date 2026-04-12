@@ -1,0 +1,101 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "vednav9",
+      "profile": {
+        "ranking": 410925,
+        "realName": "vednav9",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 318,
+            "submissions": 381
+          },
+          {
+            "difficulty": "Easy",
+            "count": 94,
+            "submissions": 117
+          },
+          {
+            "difficulty": "Medium",
+            "count": 169,
+            "submissions": 204
+          },
+          {
+            "difficulty": "Hard",
+            "count": 55,
+            "submissions": 60
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 5,
+      "rating": 1807.2677455991218,
+      "globalRanking": 62955,
+      "topPercentage": 7.46
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 9950,
+        "rating": 1519.521,
+        "contest": {
+          "title": "Weekly Contest 465",
+          "startTime": 1756607400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2334,
+        "rating": 1639.769,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2546,
+        "rating": 1713.359,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4705,
+        "rating": 1745.967,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1651,
+        "rating": 1807.268,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

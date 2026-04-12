@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "otterbox901",
+      "profile": {
+        "ranking": 1170592,
+        "realName": "otterbox901",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 135,
+            "submissions": 165
+          },
+          {
+            "difficulty": "Easy",
+            "count": 68,
+            "submissions": 81
+          },
+          {
+            "difficulty": "Medium",
+            "count": 58,
+            "submissions": 71
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 13
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1667.8715756064967,
+      "globalRanking": 135091,
+      "topPercentage": 15.9
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8687,
+        "rating": 1568.075,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2705,
+        "rating": 1667.872,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

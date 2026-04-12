@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "rajesh3101",
+      "profile": {
+        "ranking": 796815,
+        "realName": "rajesh01",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 2
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 192,
+            "submissions": 287
+          },
+          {
+            "difficulty": "Easy",
+            "count": 77,
+            "submissions": 113
+          },
+          {
+            "difficulty": "Medium",
+            "count": 95,
+            "submissions": 145
+          },
+          {
+            "difficulty": "Hard",
+            "count": 20,
+            "submissions": 29
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1504.4093395674856,
+      "globalRanking": 366155,
+      "topPercentage": 42.76
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 18818,
+        "rating": 1453.065,
+        "contest": {
+          "title": "Weekly Contest 464",
+          "startTime": 1756002600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9189,
+        "rating": 1504.409,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

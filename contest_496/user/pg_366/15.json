@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Mr_Shek",
+      "profile": {
+        "ranking": 913890,
+        "realName": "Mr_Shek",
+        "countryName": null,
+        "postViewCount": 15,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 171,
+            "submissions": 264
+          },
+          {
+            "difficulty": "Easy",
+            "count": 60,
+            "submissions": 98
+          },
+          {
+            "difficulty": "Medium",
+            "count": 99,
+            "submissions": 149
+          },
+          {
+            "difficulty": "Hard",
+            "count": 12,
+            "submissions": 17
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1555.936010260331,
+      "globalRanking": 262183,
+      "topPercentage": 30.7
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 14040,
+        "rating": 1519.074,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9140,
+        "rating": 1555.936,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

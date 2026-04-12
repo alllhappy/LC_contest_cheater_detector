@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Shanky1483",
+      "profile": {
+        "ranking": 1410621,
+        "realName": "Shanky1483",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 107,
+            "submissions": 116
+          },
+          {
+            "difficulty": "Easy",
+            "count": 38,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Medium",
+            "count": 52,
+            "submissions": 59
+          },
+          {
+            "difficulty": "Hard",
+            "count": 17,
+            "submissions": 17
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1533.4506379479517,
+      "globalRanking": 302432,
+      "topPercentage": 35.37
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 15397,
+        "rating": 1480.456,
+        "contest": {
+          "title": "Biweekly Contest 174",
+          "startTime": 1768660200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 42606,
+        "rating": 1418.173,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2783,
+        "rating": 1533.451,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "hasan2809",
+      "profile": {
+        "ranking": 902930,
+        "realName": "hasan_2809",
+        "countryName": "India",
+        "postViewCount": 2,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 174,
+            "submissions": 411
+          },
+          {
+            "difficulty": "Easy",
+            "count": 59,
+            "submissions": 136
+          },
+          {
+            "difficulty": "Medium",
+            "count": 98,
+            "submissions": 235
+          },
+          {
+            "difficulty": "Hard",
+            "count": 17,
+            "submissions": 40
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1678.2680551950555,
+      "globalRanking": 127386,
+      "topPercentage": 15.0
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4059,
+        "rating": 1598.345,
+        "contest": {
+          "title": "Biweekly Contest 170",
+          "startTime": 1763821800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3414,
+        "rating": 1678.268,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

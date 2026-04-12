@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "krshydv",
+      "profile": {
+        "ranking": 634095,
+        "realName": "Krish Yadav",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 232,
+            "submissions": 249
+          },
+          {
+            "difficulty": "Easy",
+            "count": 59,
+            "submissions": 63
+          },
+          {
+            "difficulty": "Medium",
+            "count": 116,
+            "submissions": 125
+          },
+          {
+            "difficulty": "Hard",
+            "count": 57,
+            "submissions": 61
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 2085.1293725224036,
+      "globalRanking": 13408,
+      "topPercentage": 1.62
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1170,
+        "rating": 1708.895,
+        "contest": {
+          "title": "Biweekly Contest 177",
+          "startTime": 1772289000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 52,
+        "rating": 1945.116,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 106,
+        "rating": 2085.129,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

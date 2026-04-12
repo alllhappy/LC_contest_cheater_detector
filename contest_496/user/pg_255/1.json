@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "birjis",
+      "profile": {
+        "ranking": 805279,
+        "realName": "Birjis",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 191,
+            "submissions": 251
+          },
+          {
+            "difficulty": "Easy",
+            "count": 50,
+            "submissions": 63
+          },
+          {
+            "difficulty": "Medium",
+            "count": 116,
+            "submissions": 154
+          },
+          {
+            "difficulty": "Hard",
+            "count": 25,
+            "submissions": 34
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1650.5492931422184,
+      "globalRanking": 149049,
+      "topPercentage": 17.53
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5063,
+        "rating": 1609.051,
+        "contest": {
+          "title": "Biweekly Contest 175",
+          "startTime": 1769869800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6351,
+        "rating": 1650.549,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

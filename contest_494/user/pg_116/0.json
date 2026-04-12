@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "heyderek",
+      "profile": {
+        "ranking": 805607,
+        "realName": "Mohit Sehcha",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 190,
+            "submissions": 284
+          },
+          {
+            "difficulty": "Easy",
+            "count": 91,
+            "submissions": 133
+          },
+          {
+            "difficulty": "Medium",
+            "count": 80,
+            "submissions": 118
+          },
+          {
+            "difficulty": "Hard",
+            "count": 19,
+            "submissions": 33
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1692.480594455381,
+      "globalRanking": 117547,
+      "topPercentage": 13.85
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5829,
+        "rating": 1575.088,
+        "contest": {
+          "title": "Weekly Contest 466",
+          "startTime": 1757212200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5087,
+        "rating": 1618.86,
+        "contest": {
+          "title": "Biweekly Contest 165",
+          "startTime": 1757773800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2876,
+        "rating": 1692.481,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

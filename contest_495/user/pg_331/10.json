@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "yash_priyadarshan",
+      "profile": {
+        "ranking": 2620681,
+        "realName": "Yash Priyadarshan",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 45,
+            "submissions": 48
+          },
+          {
+            "difficulty": "Easy",
+            "count": 26,
+            "submissions": 28
+          },
+          {
+            "difficulty": "Medium",
+            "count": 16,
+            "submissions": 16
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1677.5179465267784,
+      "globalRanking": 127955,
+      "topPercentage": 15.07
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 2102,
+        "rating": 1657.379,
+        "contest": {
+          "title": "Weekly Contest 471",
+          "startTime": 1760236200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8260,
+        "rating": 1677.518,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

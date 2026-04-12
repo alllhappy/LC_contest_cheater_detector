@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Splish-Splash",
+      "profile": {
+        "ranking": 18757,
+        "realName": "Oleksii Seniushkovych",
+        "countryName": null,
+        "postViewCount": 1475,
+        "reputation": 30
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 1138,
+            "submissions": 2951
+          },
+          {
+            "difficulty": "Easy",
+            "count": 331,
+            "submissions": 835
+          },
+          {
+            "difficulty": "Medium",
+            "count": 615,
+            "submissions": 1609
+          },
+          {
+            "difficulty": "Hard",
+            "count": 192,
+            "submissions": 507
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1721.388816833496,
+      "globalRanking": 99847,
+      "topPercentage": 11.78
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1113,
+        "rating": 1721.389,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

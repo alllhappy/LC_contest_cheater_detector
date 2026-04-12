@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "nqtryhard",
+      "profile": {
+        "ranking": 2218987,
+        "realName": "nqtryhard",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 58,
+            "submissions": 86
+          },
+          {
+            "difficulty": "Easy",
+            "count": 18,
+            "submissions": 24
+          },
+          {
+            "difficulty": "Medium",
+            "count": 29,
+            "submissions": 49
+          },
+          {
+            "difficulty": "Hard",
+            "count": 11,
+            "submissions": 13
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1690.7651800858348,
+      "globalRanking": 118687,
+      "topPercentage": 13.98
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1108,
+        "rating": 1724.934,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 14530,
+        "rating": 1690.765,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

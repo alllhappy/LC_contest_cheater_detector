@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "sujit_p27",
+      "profile": {
+        "ranking": 177293,
+        "realName": "Shad0w_204",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 512,
+            "submissions": 742
+          },
+          {
+            "difficulty": "Easy",
+            "count": 150,
+            "submissions": 222
+          },
+          {
+            "difficulty": "Medium",
+            "count": 239,
+            "submissions": 361
+          },
+          {
+            "difficulty": "Hard",
+            "count": 123,
+            "submissions": 159
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1855.6055771677118,
+      "globalRanking": 48814,
+      "topPercentage": 5.8
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 478,
+        "rating": 1779.067,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1676,
+        "rating": 1855.606,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

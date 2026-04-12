@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Hemank_kumar",
+      "profile": {
+        "ranking": 549116,
+        "realName": "Hemank kumar",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 2
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 259,
+            "submissions": 347
+          },
+          {
+            "difficulty": "Easy",
+            "count": 93,
+            "submissions": 139
+          },
+          {
+            "difficulty": "Medium",
+            "count": 137,
+            "submissions": 176
+          },
+          {
+            "difficulty": "Hard",
+            "count": 29,
+            "submissions": 32
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1600.5321417750308,
+      "globalRanking": 199553,
+      "topPercentage": 23.41
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 16160,
+        "rating": 1414.207,
+        "contest": {
+          "title": "Weekly Contest 478",
+          "startTime": 1764469800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1126,
+        "rating": 1600.532,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

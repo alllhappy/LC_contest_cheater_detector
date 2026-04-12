@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "NIMISH_BOTHE",
+      "profile": {
+        "ranking": 949338,
+        "realName": "NIMISH",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 163,
+            "submissions": 198
+          },
+          {
+            "difficulty": "Easy",
+            "count": 81,
+            "submissions": 99
+          },
+          {
+            "difficulty": "Medium",
+            "count": 77,
+            "submissions": 93
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1536.182303177683,
+      "globalRanking": 297124,
+      "topPercentage": 34.75
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 17265,
+        "rating": 1495.528,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9316,
+        "rating": 1536.182,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

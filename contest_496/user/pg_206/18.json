@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "nandhinis019",
+      "profile": {
+        "ranking": 617704,
+        "realName": "nandhinis019",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 238,
+            "submissions": 302
+          },
+          {
+            "difficulty": "Easy",
+            "count": 75,
+            "submissions": 100
+          },
+          {
+            "difficulty": "Medium",
+            "count": 124,
+            "submissions": 156
+          },
+          {
+            "difficulty": "Hard",
+            "count": 39,
+            "submissions": 46
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1514.894827553197,
+      "globalRanking": 341264,
+      "topPercentage": 39.87
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 36886,
+        "rating": 1413.611,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5143,
+        "rating": 1514.895,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

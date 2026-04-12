@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "jimmygarg4959",
+      "profile": {
+        "ranking": 240632,
+        "realName": "Rahul Garg",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 441,
+            "submissions": 643
+          },
+          {
+            "difficulty": "Easy",
+            "count": 134,
+            "submissions": 198
+          },
+          {
+            "difficulty": "Medium",
+            "count": 258,
+            "submissions": 373
+          },
+          {
+            "difficulty": "Hard",
+            "count": 49,
+            "submissions": 72
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1844.1235391717207,
+      "globalRanking": 52297,
+      "topPercentage": 6.21
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 347,
+        "rating": 1798.885,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2637,
+        "rating": 1844.124,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

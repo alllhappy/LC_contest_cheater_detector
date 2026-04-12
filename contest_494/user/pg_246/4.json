@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "run_123",
+      "profile": {
+        "ranking": 1121711,
+        "realName": "run_123",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 138,
+            "submissions": 171
+          },
+          {
+            "difficulty": "Easy",
+            "count": 30,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Medium",
+            "count": 95,
+            "submissions": 114
+          },
+          {
+            "difficulty": "Hard",
+            "count": 13,
+            "submissions": 17
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1687.310871325041,
+      "globalRanking": 120991,
+      "topPercentage": 14.25
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6130,
+        "rating": 1598.253,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2632,
+        "rating": 1687.311,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

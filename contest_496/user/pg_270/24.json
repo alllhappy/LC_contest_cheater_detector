@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "majestie46",
+      "profile": {
+        "ranking": 1195818,
+        "realName": "majestie46",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 129,
+            "submissions": 142
+          },
+          {
+            "difficulty": "Easy",
+            "count": 57,
+            "submissions": 60
+          },
+          {
+            "difficulty": "Medium",
+            "count": 69,
+            "submissions": 79
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1584.122657775879,
+      "globalRanking": 220154,
+      "topPercentage": 25.81
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6749,
+        "rating": 1584.123,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

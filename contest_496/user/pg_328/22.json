@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "bhavik_dabral23",
+      "profile": {
+        "ranking": 1506243,
+        "realName": "bhavik_dabral23",
+        "countryName": null,
+        "postViewCount": 1,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 99,
+            "submissions": 152
+          },
+          {
+            "difficulty": "Easy",
+            "count": 39,
+            "submissions": 61
+          },
+          {
+            "difficulty": "Medium",
+            "count": 49,
+            "submissions": 73
+          },
+          {
+            "difficulty": "Hard",
+            "count": 11,
+            "submissions": 18
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1697.0715627600398,
+      "globalRanking": 114570,
+      "topPercentage": 13.5
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 945,
+        "rating": 1730.956,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 17439,
+        "rating": 1688.93,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8197,
+        "rating": 1697.072,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "varmah",
+      "profile": {
+        "ranking": 899349,
+        "realName": "Mahendra Varma",
+        "countryName": "United States",
+        "postViewCount": 3,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 171,
+            "submissions": 438
+          },
+          {
+            "difficulty": "Easy",
+            "count": 45,
+            "submissions": 106
+          },
+          {
+            "difficulty": "Medium",
+            "count": 105,
+            "submissions": 284
+          },
+          {
+            "difficulty": "Hard",
+            "count": 21,
+            "submissions": 48
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1717.6923751831055,
+      "globalRanking": 101909,
+      "topPercentage": 12.02
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1235,
+        "rating": 1717.692,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

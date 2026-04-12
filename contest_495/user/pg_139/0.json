@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "vahinich1236",
+      "profile": {
+        "ranking": 1040983,
+        "realName": "chilukamarri vahini",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 149,
+            "submissions": 178
+          },
+          {
+            "difficulty": "Easy",
+            "count": 77,
+            "submissions": 92
+          },
+          {
+            "difficulty": "Medium",
+            "count": 64,
+            "submissions": 71
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 15
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1554.2784239116468,
+      "globalRanking": 264954,
+      "topPercentage": 31.02
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 27014,
+        "rating": 1429.038,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3450,
+        "rating": 1554.278,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

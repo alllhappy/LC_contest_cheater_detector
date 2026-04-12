@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ayushxd",
+      "profile": {
+        "ranking": 651975,
+        "realName": "Ayush",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 227,
+            "submissions": 351
+          },
+          {
+            "difficulty": "Easy",
+            "count": 90,
+            "submissions": 161
+          },
+          {
+            "difficulty": "Medium",
+            "count": 117,
+            "submissions": 159
+          },
+          {
+            "difficulty": "Hard",
+            "count": 20,
+            "submissions": 31
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1552.466063811097,
+      "globalRanking": 267913,
+      "topPercentage": 31.36
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 12385,
+        "rating": 1483.074,
+        "contest": {
+          "title": "Weekly Contest 463",
+          "startTime": 1755397800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 17403,
+        "rating": 1484.923,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5730,
+        "rating": 1552.466,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

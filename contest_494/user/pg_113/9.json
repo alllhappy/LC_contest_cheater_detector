@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "oxy_moron",
+      "profile": {
+        "ranking": 342076,
+        "realName": "akshayjain3006",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 357,
+            "submissions": 700
+          },
+          {
+            "difficulty": "Easy",
+            "count": 84,
+            "submissions": 165
+          },
+          {
+            "difficulty": "Medium",
+            "count": 208,
+            "submissions": 415
+          },
+          {
+            "difficulty": "Hard",
+            "count": 65,
+            "submissions": 120
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1726.7516775976253,
+      "globalRanking": 96914,
+      "topPercentage": 11.44
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2810,
+        "rating": 1659.531,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5275,
+        "rating": 1705.473,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5978,
+        "rating": 1726.752,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

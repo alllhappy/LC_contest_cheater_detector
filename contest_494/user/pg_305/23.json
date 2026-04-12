@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "satyamshivhare85",
+      "profile": {
+        "ranking": 305768,
+        "realName": "Satyam Shivhare",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 383,
+            "submissions": 792
+          },
+          {
+            "difficulty": "Easy",
+            "count": 111,
+            "submissions": 247
+          },
+          {
+            "difficulty": "Medium",
+            "count": 227,
+            "submissions": 459
+          },
+          {
+            "difficulty": "Hard",
+            "count": 45,
+            "submissions": 86
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1467.4976699595288,
+      "globalRanking": 475050,
+      "topPercentage": 55.34
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7624,
+        "rating": 1579.316,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 26489,
+        "rating": 1522.13,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 28378,
+        "rating": 1467.498,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

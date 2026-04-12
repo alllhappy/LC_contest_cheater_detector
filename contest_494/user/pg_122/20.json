@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "DADIKUMARNAIDU",
+      "profile": {
+        "ranking": 678139,
+        "realName": "DADIKUMARNAIDU",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 220,
+            "submissions": 276
+          },
+          {
+            "difficulty": "Easy",
+            "count": 55,
+            "submissions": 68
+          },
+          {
+            "difficulty": "Medium",
+            "count": 132,
+            "submissions": 173
+          },
+          {
+            "difficulty": "Hard",
+            "count": 33,
+            "submissions": 35
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1611.0519618626645,
+      "globalRanking": 187508,
+      "topPercentage": 22.0
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 12464,
+        "rating": 1497.19,
+        "contest": {
+          "title": "Weekly Contest 462",
+          "startTime": 1754793000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3046,
+        "rating": 1611.052,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

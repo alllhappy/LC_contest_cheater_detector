@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "skeri22",
+      "profile": {
+        "ranking": 2693964,
+        "realName": "skeri22",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 43,
+            "submissions": 46
+          },
+          {
+            "difficulty": "Easy",
+            "count": 11,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Medium",
+            "count": 26,
+            "submissions": 26
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1643.224665357779,
+      "globalRanking": 155464,
+      "topPercentage": 18.28
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 16984,
+        "rating": 1498.921,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11342,
+        "rating": 1530.922,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1705,
+        "rating": 1643.225,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

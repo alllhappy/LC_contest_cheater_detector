@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Jayesh777-create",
+      "profile": {
+        "ranking": 1445221,
+        "realName": "Jayesh C",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 104,
+            "submissions": 109
+          },
+          {
+            "difficulty": "Easy",
+            "count": 32,
+            "submissions": 34
+          },
+          {
+            "difficulty": "Medium",
+            "count": 52,
+            "submissions": 55
+          },
+          {
+            "difficulty": "Hard",
+            "count": 20,
+            "submissions": 20
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1618.6538495515522,
+      "globalRanking": 179365,
+      "topPercentage": 21.06
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 34684,
+        "rating": 1415.242,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 829,
+        "rating": 1618.654,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

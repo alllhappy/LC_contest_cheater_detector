@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "mrityunjayved",
+      "profile": {
+        "ranking": 949262,
+        "realName": "Mrityunjay",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 163,
+            "submissions": 377
+          },
+          {
+            "difficulty": "Easy",
+            "count": 79,
+            "submissions": 196
+          },
+          {
+            "difficulty": "Medium",
+            "count": 76,
+            "submissions": 164
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 17
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1678.0586242675781,
+      "globalRanking": 127548,
+      "topPercentage": 15.02
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2193,
+        "rating": 1678.059,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

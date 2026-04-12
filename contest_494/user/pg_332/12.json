@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "zvxvz",
+      "profile": {
+        "ranking": 815192,
+        "realName": "zvxvz",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 188,
+            "submissions": 351
+          },
+          {
+            "difficulty": "Easy",
+            "count": 89,
+            "submissions": 164
+          },
+          {
+            "difficulty": "Medium",
+            "count": 96,
+            "submissions": 179
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1720.0307238937326,
+      "globalRanking": 100567,
+      "topPercentage": 11.87
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8288,
+        "rating": 1571.777,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4797,
+        "rating": 1634.308,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5916,
+        "rating": 1671.968,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3406,
+        "rating": 1720.031,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

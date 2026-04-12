@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "UIDemon",
+      "profile": {
+        "ranking": 229827,
+        "realName": "Ayushman Yadav",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 449,
+            "submissions": 667
+          },
+          {
+            "difficulty": "Easy",
+            "count": 182,
+            "submissions": 289
+          },
+          {
+            "difficulty": "Medium",
+            "count": 226,
+            "submissions": 327
+          },
+          {
+            "difficulty": "Hard",
+            "count": 41,
+            "submissions": 51
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1703.6747179533306,
+      "globalRanking": 110365,
+      "topPercentage": 13.01
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4592,
+        "rating": 1622.581,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3017,
+        "rating": 1703.675,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

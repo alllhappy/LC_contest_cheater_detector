@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Abhinaykrishna_60",
+      "profile": {
+        "ranking": 150489,
+        "realName": "Abhinay Krishna",
+        "countryName": null,
+        "postViewCount": 28,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 552,
+            "submissions": 673
+          },
+          {
+            "difficulty": "Easy",
+            "count": 195,
+            "submissions": 246
+          },
+          {
+            "difficulty": "Medium",
+            "count": 288,
+            "submissions": 356
+          },
+          {
+            "difficulty": "Hard",
+            "count": 69,
+            "submissions": 71
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1960.7123134137787,
+      "globalRanking": 25774,
+      "topPercentage": 3.09
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1771,
+        "rating": 1689.463,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 229,
+        "rating": 1880.113,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 738,
+        "rating": 1960.712,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

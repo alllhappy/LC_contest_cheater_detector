@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "heisunburger",
+      "profile": {
+        "ranking": 1383338,
+        "realName": "heisunburger",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 109,
+            "submissions": 289
+          },
+          {
+            "difficulty": "Easy",
+            "count": 52,
+            "submissions": 120
+          },
+          {
+            "difficulty": "Medium",
+            "count": 53,
+            "submissions": 157
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 12
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1560.24169921875,
+      "globalRanking": 255120,
+      "topPercentage": 29.88
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8725,
+        "rating": 1560.242,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

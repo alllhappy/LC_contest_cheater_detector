@@ -1,0 +1,112 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "liuxueyang",
+      "profile": {
+        "ranking": 2172371,
+        "realName": "liuxueyang",
+        "countryName": "China",
+        "postViewCount": 0,
+        "reputation": 3
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 59,
+            "submissions": 124
+          },
+          {
+            "difficulty": "Easy",
+            "count": 26,
+            "submissions": 59
+          },
+          {
+            "difficulty": "Medium",
+            "count": 28,
+            "submissions": 56
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 139,
+      "rating": 2089.778000876461,
+      "globalRanking": 13140,
+      "topPercentage": 1.59
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 2227,
+        "rating": 1443.915,
+        "contest": {
+          "title": "Weekly Contest 105",
+          "startTime": 1538875800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 1517,
+        "rating": 1457.619,
+        "contest": {
+          "title": "Weekly Contest 108",
+          "startTime": 1540690200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 1604,
+        "rating": 1465.471,
+        "contest": {
+          "title": "Weekly Contest 123",
+          "startTime": 1549765800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 1686,
+        "rating": 1476.187,
+        "contest": {
+          "title": "Weekly Contest 129",
+          "startTime": 1553391000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 3012,
+        "rating": 1446.688,
+        "contest": {
+          "title": "Weekly Contest 131",
+          "startTime": 1554604200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 2011,
+        "rating": 1453.001,
+        "contest": {
+          "title": "Weekly Contest 132",
+          "startTime": 1555209000
+        }
+      }
+    ]
+  }
+}

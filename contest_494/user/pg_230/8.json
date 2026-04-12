@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Shrikrishna_2007",
+      "profile": {
+        "ranking": 752060,
+        "realName": "Shrikrishna_2007",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 202,
+            "submissions": 390
+          },
+          {
+            "difficulty": "Easy",
+            "count": 65,
+            "submissions": 144
+          },
+          {
+            "difficulty": "Medium",
+            "count": 128,
+            "submissions": 229
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 17
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1512.9920662584807,
+      "globalRanking": 345573,
+      "topPercentage": 40.37
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 22093,
+        "rating": 1415.051,
+        "contest": {
+          "title": "Biweekly Contest 171",
+          "startTime": 1765031400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5734,
+        "rating": 1512.992,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

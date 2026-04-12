@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "akahashi-21",
+      "profile": {
+        "ranking": 343525,
+        "realName": "Akahashi",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 356,
+            "submissions": 498
+          },
+          {
+            "difficulty": "Easy",
+            "count": 92,
+            "submissions": 123
+          },
+          {
+            "difficulty": "Medium",
+            "count": 222,
+            "submissions": 313
+          },
+          {
+            "difficulty": "Hard",
+            "count": 42,
+            "submissions": 62
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1584.6512499860526,
+      "globalRanking": 219443,
+      "topPercentage": 25.72
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 10766,
+        "rating": 1415.442,
+        "contest": {
+          "title": "Weekly Contest 204",
+          "startTime": 1598754600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2950,
+        "rating": 1553.241,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8164,
+        "rating": 1584.651,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

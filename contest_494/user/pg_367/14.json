@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "nNkT6uQFOx",
+      "profile": {
+        "ranking": 762035,
+        "realName": "Tamanna Tamanna",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 201,
+            "submissions": 227
+          },
+          {
+            "difficulty": "Easy",
+            "count": 58,
+            "submissions": 68
+          },
+          {
+            "difficulty": "Medium",
+            "count": 123,
+            "submissions": 137
+          },
+          {
+            "difficulty": "Hard",
+            "count": 20,
+            "submissions": 22
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1484.2767967259701,
+      "globalRanking": 422426,
+      "topPercentage": 49.26
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 25447,
+        "rating": 1445.5,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9165,
+        "rating": 1504.153,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 19227,
+        "rating": 1484.277,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

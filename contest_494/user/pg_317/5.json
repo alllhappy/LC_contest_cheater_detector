@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "uTyu5eHL7H",
+      "profile": {
+        "ranking": 354273,
+        "realName": "Clay Douglas",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 350,
+            "submissions": 624
+          },
+          {
+            "difficulty": "Easy",
+            "count": 97,
+            "submissions": 165
+          },
+          {
+            "difficulty": "Medium",
+            "count": 206,
+            "submissions": 388
+          },
+          {
+            "difficulty": "Hard",
+            "count": 47,
+            "submissions": 71
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1668.5341282894738,
+      "globalRanking": 134567,
+      "topPercentage": 15.84
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7906,
+        "rating": 1576.06,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2988,
+        "rating": 1668.534,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

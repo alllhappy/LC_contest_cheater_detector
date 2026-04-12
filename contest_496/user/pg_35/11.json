@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Nuang_ee",
+      "profile": {
+        "ranking": 238047,
+        "realName": "Nuang_ee",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 440,
+            "submissions": 668
+          },
+          {
+            "difficulty": "Easy",
+            "count": 137,
+            "submissions": 203
+          },
+          {
+            "difficulty": "Medium",
+            "count": 237,
+            "submissions": 371
+          },
+          {
+            "difficulty": "Hard",
+            "count": 66,
+            "submissions": 94
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1738.546371459961,
+      "globalRanking": 90825,
+      "topPercentage": 10.73
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 861,
+        "rating": 1738.546,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

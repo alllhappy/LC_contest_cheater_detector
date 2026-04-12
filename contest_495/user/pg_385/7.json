@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "RONAK_AGARWAL_086",
+      "profile": {
+        "ranking": 94077,
+        "realName": "ronak agarwal",
+        "countryName": "India",
+        "postViewCount": 17,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 673,
+            "submissions": 848
+          },
+          {
+            "difficulty": "Easy",
+            "count": 257,
+            "submissions": 325
+          },
+          {
+            "difficulty": "Medium",
+            "count": 360,
+            "submissions": 461
+          },
+          {
+            "difficulty": "Hard",
+            "count": 56,
+            "submissions": 62
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1552.0034589265522,
+      "globalRanking": 268724,
+      "topPercentage": 31.45
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 13397,
+        "rating": 1511.333,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9607,
+        "rating": 1552.003,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

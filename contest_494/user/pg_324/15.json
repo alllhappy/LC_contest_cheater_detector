@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "dhruWgala",
+      "profile": {
+        "ranking": 985314,
+        "realName": "DHRUV GALA",
+        "countryName": "India",
+        "postViewCount": 28,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 158,
+            "submissions": 254
+          },
+          {
+            "difficulty": "Easy",
+            "count": 73,
+            "submissions": 135
+          },
+          {
+            "difficulty": "Medium",
+            "count": 67,
+            "submissions": 100
+          },
+          {
+            "difficulty": "Hard",
+            "count": 18,
+            "submissions": 19
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1536.1251539818586,
+      "globalRanking": 297239,
+      "topPercentage": 34.76
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11741,
+        "rating": 1533.571,
+        "contest": {
+          "title": "Weekly Contest 487",
+          "startTime": 1769913000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8091,
+        "rating": 1580.485,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 22995,
+        "rating": 1536.125,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

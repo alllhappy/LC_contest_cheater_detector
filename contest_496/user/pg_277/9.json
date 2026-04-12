@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "CoderReddy",
+      "profile": {
+        "ranking": 1334615,
+        "realName": "CoderReddy",
+        "countryName": "India",
+        "postViewCount": 14,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 114,
+            "submissions": 177
+          },
+          {
+            "difficulty": "Easy",
+            "count": 32,
+            "submissions": 52
+          },
+          {
+            "difficulty": "Medium",
+            "count": 72,
+            "submissions": 111
+          },
+          {
+            "difficulty": "Hard",
+            "count": 10,
+            "submissions": 14
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1590.8142463700144,
+      "globalRanking": 211359,
+      "topPercentage": 24.78
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8101,
+        "rating": 1539.411,
+        "contest": {
+          "title": "Weekly Contest 476",
+          "startTime": 1763260200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6909,
+        "rating": 1590.814,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

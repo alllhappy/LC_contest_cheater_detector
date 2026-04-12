@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "manavb-21",
+      "profile": {
+        "ranking": 2053474,
+        "realName": "Manav Bhatia",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 67,
+            "submissions": 76
+          },
+          {
+            "difficulty": "Easy",
+            "count": 21,
+            "submissions": 22
+          },
+          {
+            "difficulty": "Medium",
+            "count": 30,
+            "submissions": 37
+          },
+          {
+            "difficulty": "Hard",
+            "count": 16,
+            "submissions": 17
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1648.2502361046006,
+      "globalRanking": 151030,
+      "topPercentage": 17.76
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6572,
+        "rating": 1581.491,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3853,
+        "rating": 1662.258,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 13113,
+        "rating": 1648.25,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

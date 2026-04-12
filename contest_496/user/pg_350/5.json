@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "coder_solver_001",
+      "profile": {
+        "ranking": 470625,
+        "realName": "coder_solver_001",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 294,
+            "submissions": 468
+          },
+          {
+            "difficulty": "Easy",
+            "count": 64,
+            "submissions": 80
+          },
+          {
+            "difficulty": "Medium",
+            "count": 180,
+            "submissions": 312
+          },
+          {
+            "difficulty": "Hard",
+            "count": 50,
+            "submissions": 76
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1556.2927878440335,
+      "globalRanking": 261611,
+      "topPercentage": 30.63
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 9906,
+        "rating": 1555.281,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 22890,
+        "rating": 1523.303,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8730,
+        "rating": 1556.293,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

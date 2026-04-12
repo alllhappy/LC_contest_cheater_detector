@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "RuqVmZGxKb",
+      "profile": {
+        "ranking": 1122410,
+        "realName": "ERIC WESLEY E",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 138,
+            "submissions": 149
+          },
+          {
+            "difficulty": "Easy",
+            "count": 89,
+            "submissions": 95
+          },
+          {
+            "difficulty": "Medium",
+            "count": 42,
+            "submissions": 45
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1475.540959292763,
+      "globalRanking": 448830,
+      "topPercentage": 52.31
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 37645,
+        "rating": 1413.208,
+        "contest": {
+          "title": "Weekly Contest 489",
+          "startTime": 1771122600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9016,
+        "rating": 1475.541,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

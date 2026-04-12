@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ANJALI_JAISWAL_11",
+      "profile": {
+        "ranking": 60703,
+        "realName": "ANJALI_JAISWAL_11",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 790,
+            "submissions": 872
+          },
+          {
+            "difficulty": "Easy",
+            "count": 176,
+            "submissions": 209
+          },
+          {
+            "difficulty": "Medium",
+            "count": 433,
+            "submissions": 468
+          },
+          {
+            "difficulty": "Hard",
+            "count": 181,
+            "submissions": 195
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1513.451471202873,
+      "globalRanking": 344509,
+      "topPercentage": 40.25
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 30142,
+        "rating": 1412.676,
+        "contest": {
+          "title": "Weekly Contest 458",
+          "startTime": 1752373800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11197,
+        "rating": 1464.534,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8070,
+        "rating": 1513.451,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

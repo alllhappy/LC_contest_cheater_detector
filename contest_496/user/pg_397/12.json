@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Mohit_0017",
+      "profile": {
+        "ranking": 284370,
+        "realName": "Mohit",
+        "countryName": "India",
+        "postViewCount": 17,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 400,
+            "submissions": 1025
+          },
+          {
+            "difficulty": "Easy",
+            "count": 148,
+            "submissions": 372
+          },
+          {
+            "difficulty": "Medium",
+            "count": 210,
+            "submissions": 559
+          },
+          {
+            "difficulty": "Hard",
+            "count": 42,
+            "submissions": 94
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1534.6863244196252,
+      "globalRanking": 300028,
+      "topPercentage": 35.09
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 22477,
+        "rating": 1415.362,
+        "contest": {
+          "title": "Biweekly Contest 172",
+          "startTime": 1766241000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5958,
+        "rating": 1506.293,
+        "contest": {
+          "title": "Weekly Contest 487",
+          "startTime": 1769913000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9912,
+        "rating": 1534.686,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

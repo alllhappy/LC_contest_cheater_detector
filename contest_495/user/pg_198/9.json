@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Mahak_Gupta9005",
+      "profile": {
+        "ranking": 1508506,
+        "realName": "Mahak_Gupta9005",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 99,
+            "submissions": 161
+          },
+          {
+            "difficulty": "Easy",
+            "count": 61,
+            "submissions": 100
+          },
+          {
+            "difficulty": "Medium",
+            "count": 31,
+            "submissions": 47
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 14
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1547.2937970934418,
+      "globalRanking": 276852,
+      "topPercentage": 32.4
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 18121,
+        "rating": 1448.17,
+        "contest": {
+          "title": "Weekly Contest 474",
+          "startTime": 1762050600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4934,
+        "rating": 1547.294,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

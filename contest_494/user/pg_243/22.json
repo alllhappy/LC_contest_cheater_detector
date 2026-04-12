@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "kamaleshpandi07",
+      "profile": {
+        "ranking": 1420604,
+        "realName": "kamaleshpandi07",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 106,
+            "submissions": 132
+          },
+          {
+            "difficulty": "Easy",
+            "count": 33,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Medium",
+            "count": 66,
+            "submissions": 85
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1528.1319869192023,
+      "globalRanking": 313006,
+      "topPercentage": 36.6
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6073,
+        "rating": 1599.043,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 36826,
+        "rating": 1528.132,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

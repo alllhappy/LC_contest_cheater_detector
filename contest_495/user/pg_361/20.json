@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "niteesh_r15",
+      "profile": {
+        "ranking": 648438,
+        "realName": "niteesh_r15",
+        "countryName": "India",
+        "postViewCount": 10,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 228,
+            "submissions": 268
+          },
+          {
+            "difficulty": "Easy",
+            "count": 97,
+            "submissions": 124
+          },
+          {
+            "difficulty": "Medium",
+            "count": 119,
+            "submissions": 131
+          },
+          {
+            "difficulty": "Hard",
+            "count": 12,
+            "submissions": 13
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1535.0362549137164,
+      "globalRanking": 299376,
+      "topPercentage": 35.01
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 15103,
+        "rating": 1487.474,
+        "contest": {
+          "title": "Weekly Contest 484",
+          "startTime": 1768098600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 12764,
+        "rating": 1493.805,
+        "contest": {
+          "title": "Weekly Contest 485",
+          "startTime": 1768703400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9020,
+        "rating": 1535.036,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

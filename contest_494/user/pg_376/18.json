@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "mritvik",
+      "profile": {
+        "ranking": 1264763,
+        "realName": "Ritvik Mukherjee",
+        "countryName": "India",
+        "postViewCount": 78,
+        "reputation": 6
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 121,
+            "submissions": 162
+          },
+          {
+            "difficulty": "Easy",
+            "count": 59,
+            "submissions": 86
+          },
+          {
+            "difficulty": "Medium",
+            "count": 59,
+            "submissions": 72
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1594.5757992657402,
+      "globalRanking": 206683,
+      "topPercentage": 24.24
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9414,
+        "rating": 1508.025,
+        "contest": {
+          "title": "Weekly Contest 478",
+          "startTime": 1764469800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6075,
+        "rating": 1569.988,
+        "contest": {
+          "title": "Biweekly Contest 177",
+          "startTime": 1772289000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9394,
+        "rating": 1594.576,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

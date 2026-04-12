@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Bhav_1234",
+      "profile": {
+        "ranking": 678150,
+        "realName": "Bhav_1234",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 220,
+            "submissions": 412
+          },
+          {
+            "difficulty": "Easy",
+            "count": 75,
+            "submissions": 136
+          },
+          {
+            "difficulty": "Medium",
+            "count": 123,
+            "submissions": 240
+          },
+          {
+            "difficulty": "Hard",
+            "count": 22,
+            "submissions": 36
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1549.906520604184,
+      "globalRanking": 272284,
+      "topPercentage": 31.87
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 35671,
+        "rating": 1413.611,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2878,
+        "rating": 1549.907,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

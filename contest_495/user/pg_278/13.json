@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "madhu23277",
+      "profile": {
+        "ranking": 2122988,
+        "realName": "Madhumitha N",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 62,
+            "submissions": 62
+          },
+          {
+            "difficulty": "Easy",
+            "count": 14,
+            "submissions": 14
+          },
+          {
+            "difficulty": "Medium",
+            "count": 37,
+            "submissions": 37
+          },
+          {
+            "difficulty": "Hard",
+            "count": 11,
+            "submissions": 11
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1554.3378185924146,
+      "globalRanking": 264858,
+      "topPercentage": 31.01
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 42483,
+        "rating": 1413.777,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6938,
+        "rating": 1500.078,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6498,
+        "rating": 1554.338,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

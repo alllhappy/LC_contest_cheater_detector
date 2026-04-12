@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "novus547",
+      "profile": {
+        "ranking": 425106,
+        "realName": "novus547",
+        "countryName": null,
+        "postViewCount": 106,
+        "reputation": 4
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 311,
+            "submissions": 336
+          },
+          {
+            "difficulty": "Easy",
+            "count": 90,
+            "submissions": 97
+          },
+          {
+            "difficulty": "Medium",
+            "count": 187,
+            "submissions": 204
+          },
+          {
+            "difficulty": "Hard",
+            "count": 34,
+            "submissions": 35
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1778.656334975495,
+      "globalRanking": 73182,
+      "topPercentage": 8.66
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3294,
+        "rating": 1635.776,
+        "contest": {
+          "title": "Biweekly Contest 177",
+          "startTime": 1772289000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1665,
+        "rating": 1748.567,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4239,
+        "rating": 1778.656,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

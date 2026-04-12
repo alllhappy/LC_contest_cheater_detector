@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "anuragthakur1089",
+      "profile": {
+        "ranking": 1203401,
+        "realName": "Anurag Thakur",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 128,
+            "submissions": 243
+          },
+          {
+            "difficulty": "Easy",
+            "count": 82,
+            "submissions": 176
+          },
+          {
+            "difficulty": "Medium",
+            "count": 39,
+            "submissions": 60
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 2014.0806499280427,
+      "globalRanking": 19362,
+      "topPercentage": 2.33
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 248,
+        "rating": 1805.471,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 80,
+        "rating": 2014.081,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "xyron24",
+      "profile": {
+        "ranking": 1276601,
+        "realName": "xyron",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 123,
+            "submissions": 203
+          },
+          {
+            "difficulty": "Easy",
+            "count": 27,
+            "submissions": 42
+          },
+          {
+            "difficulty": "Medium",
+            "count": 88,
+            "submissions": 149
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1697.1009011112953,
+      "globalRanking": 114554,
+      "topPercentage": 13.5
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7703,
+        "rating": 1578.395,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6991,
+        "rating": 1616.932,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2369,
+        "rating": 1697.101,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

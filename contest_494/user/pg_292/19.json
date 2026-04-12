@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Meen_Budha",
+      "profile": {
+        "ranking": 437837,
+        "realName": "Meen Budha",
+        "countryName": null,
+        "postViewCount": 2988,
+        "reputation": 59
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 306,
+            "submissions": 479
+          },
+          {
+            "difficulty": "Easy",
+            "count": 183,
+            "submissions": 293
+          },
+          {
+            "difficulty": "Medium",
+            "count": 103,
+            "submissions": 161
+          },
+          {
+            "difficulty": "Hard",
+            "count": 20,
+            "submissions": 25
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1464.5544508906498,
+      "globalRanking": 485037,
+      "topPercentage": 56.48
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 19215,
+        "rating": 1449.257,
+        "contest": {
+          "title": "Biweekly Contest 174",
+          "startTime": 1768660200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 38930,
+        "rating": 1389.941,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7295,
+        "rating": 1464.554,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

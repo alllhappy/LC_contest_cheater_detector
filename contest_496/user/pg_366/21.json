@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Haripriyasenthilkumar",
+      "profile": {
+        "ranking": 943194,
+        "realName": "Haripriyasenthilkumar",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 167,
+            "submissions": 192
+          },
+          {
+            "difficulty": "Easy",
+            "count": 110,
+            "submissions": 130
+          },
+          {
+            "difficulty": "Medium",
+            "count": 47,
+            "submissions": 51
+          },
+          {
+            "difficulty": "Hard",
+            "count": 10,
+            "submissions": 11
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1475.3881023655942,
+      "globalRanking": 449296,
+      "topPercentage": 52.37
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 23383,
+        "rating": 1414.458,
+        "contest": {
+          "title": "Weekly Contest 484",
+          "startTime": 1768098600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9146,
+        "rating": 1475.388,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

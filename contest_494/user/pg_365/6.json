@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "subashinisuba245",
+      "profile": {
+        "ranking": 607270,
+        "realName": "subashinisuba245",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 241,
+            "submissions": 327
+          },
+          {
+            "difficulty": "Easy",
+            "count": 78,
+            "submissions": 123
+          },
+          {
+            "difficulty": "Medium",
+            "count": 132,
+            "submissions": 165
+          },
+          {
+            "difficulty": "Hard",
+            "count": 31,
+            "submissions": 39
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1563.0512237548828,
+      "globalRanking": 250683,
+      "topPercentage": 29.36
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9107,
+        "rating": 1563.051,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

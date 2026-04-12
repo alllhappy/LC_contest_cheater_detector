@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Dhakshin_K",
+      "profile": {
+        "ranking": 466683,
+        "realName": "Dhakshin_K",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 293,
+            "submissions": 322
+          },
+          {
+            "difficulty": "Easy",
+            "count": 91,
+            "submissions": 96
+          },
+          {
+            "difficulty": "Medium",
+            "count": 154,
+            "submissions": 176
+          },
+          {
+            "difficulty": "Hard",
+            "count": 48,
+            "submissions": 50
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1899.9463934735647,
+      "globalRanking": 36702,
+      "topPercentage": 4.38
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 116,
+        "rating": 1856.781,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 32222,
+        "rating": 1762.531,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 288,
+        "rating": 1899.946,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

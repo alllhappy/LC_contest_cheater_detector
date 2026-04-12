@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Mesourav69",
+      "profile": {
+        "ranking": 561531,
+        "realName": "souravlabx",
+        "countryName": "India",
+        "postViewCount": 16,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 255,
+            "submissions": 274
+          },
+          {
+            "difficulty": "Easy",
+            "count": 72,
+            "submissions": 76
+          },
+          {
+            "difficulty": "Medium",
+            "count": 132,
+            "submissions": 143
+          },
+          {
+            "difficulty": "Hard",
+            "count": 51,
+            "submissions": 55
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1745.5968790217328,
+      "globalRanking": 87393,
+      "topPercentage": 10.33
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 17230,
+        "rating": 1413.589,
+        "contest": {
+          "title": "Weekly Contest 479",
+          "startTime": 1765074600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 544,
+        "rating": 1637.772,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1175,
+        "rating": 1745.597,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

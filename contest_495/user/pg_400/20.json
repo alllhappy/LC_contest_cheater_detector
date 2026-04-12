@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "devanandms__",
+      "profile": {
+        "ranking": 1933951,
+        "realName": "devanandms__",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 72,
+            "submissions": 75
+          },
+          {
+            "difficulty": "Easy",
+            "count": 35,
+            "submissions": 36
+          },
+          {
+            "difficulty": "Medium",
+            "count": 30,
+            "submissions": 32
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1551.8269866750616,
+      "globalRanking": 269035,
+      "topPercentage": 31.49
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 14875,
+        "rating": 1514.668,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9995,
+        "rating": 1551.827,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

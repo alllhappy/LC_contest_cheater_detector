@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "_intoliawomi_",
+      "profile": {
+        "ranking": 3709039,
+        "realName": "_intoliawomi_",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 24,
+            "submissions": 37
+          },
+          {
+            "difficulty": "Easy",
+            "count": 9,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Medium",
+            "count": 11,
+            "submissions": 17
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 5
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1566.309602496407,
+      "globalRanking": 245629,
+      "topPercentage": 28.77
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 26023,
+        "rating": 1416.089,
+        "contest": {
+          "title": "Biweekly Contest 168",
+          "startTime": 1761402600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11514,
+        "rating": 1464.45,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3146,
+        "rating": 1566.31,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

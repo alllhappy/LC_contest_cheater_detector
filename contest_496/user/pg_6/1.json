@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Siddhant_M",
+      "profile": {
+        "ranking": 665088,
+        "realName": "Siddhant_M",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 223,
+            "submissions": 309
+          },
+          {
+            "difficulty": "Easy",
+            "count": 111,
+            "submissions": 170
+          },
+          {
+            "difficulty": "Medium",
+            "count": 102,
+            "submissions": 126
+          },
+          {
+            "difficulty": "Hard",
+            "count": 10,
+            "submissions": 13
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1858.1256866455078,
+      "globalRanking": 47960,
+      "topPercentage": 5.7
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 127,
+        "rating": 1858.126,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

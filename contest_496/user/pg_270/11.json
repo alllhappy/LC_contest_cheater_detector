@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "sumaila14",
+      "profile": {
+        "ranking": 607769,
+        "realName": "sumaila14",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 240,
+            "submissions": 287
+          },
+          {
+            "difficulty": "Easy",
+            "count": 95,
+            "submissions": 114
+          },
+          {
+            "difficulty": "Medium",
+            "count": 129,
+            "submissions": 153
+          },
+          {
+            "difficulty": "Hard",
+            "count": 16,
+            "submissions": 20
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1496.9964092246607,
+      "globalRanking": 386698,
+      "topPercentage": 45.13
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 23298,
+        "rating": 1413.657,
+        "contest": {
+          "title": "Weekly Contest 480",
+          "startTime": 1765679400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6736,
+        "rating": 1496.996,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

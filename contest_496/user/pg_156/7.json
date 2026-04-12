@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "sriramanenivikas123",
+      "profile": {
+        "ranking": 696249,
+        "realName": "VIKAS .S",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 217,
+            "submissions": 350
+          },
+          {
+            "difficulty": "Easy",
+            "count": 94,
+            "submissions": 161
+          },
+          {
+            "difficulty": "Medium",
+            "count": 109,
+            "submissions": 168
+          },
+          {
+            "difficulty": "Hard",
+            "count": 14,
+            "submissions": 21
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1532.7672289846319,
+      "globalRanking": 303813,
+      "topPercentage": 35.53
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 25326,
+        "rating": 1414.158,
+        "contest": {
+          "title": "Weekly Contest 476",
+          "startTime": 1763260200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3882,
+        "rating": 1532.767,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

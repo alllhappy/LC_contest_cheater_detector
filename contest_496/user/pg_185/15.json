@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "SunidhiTicroliya",
+      "profile": {
+        "ranking": 3298688,
+        "realName": "Sunidhi_Ticroliya",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 30,
+            "submissions": 41
+          },
+          {
+            "difficulty": "Easy",
+            "count": 22,
+            "submissions": 31
+          },
+          {
+            "difficulty": "Medium",
+            "count": 8,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1425.7255761032538,
+      "globalRanking": 623656,
+      "topPercentage": 72.4
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 20260,
+        "rating": 1432.72,
+        "contest": {
+          "title": "Weekly Contest 481",
+          "startTime": 1766284200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 39404,
+        "rating": 1325.293,
+        "contest": {
+          "title": "Weekly Contest 486",
+          "startTime": 1769308200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4615,
+        "rating": 1425.726,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Mr_H_S_",
+      "profile": {
+        "ranking": 60747,
+        "realName": "Mr_H_S_",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 790,
+            "submissions": 923
+          },
+          {
+            "difficulty": "Easy",
+            "count": 133,
+            "submissions": 175
+          },
+          {
+            "difficulty": "Medium",
+            "count": 268,
+            "submissions": 337
+          },
+          {
+            "difficulty": "Hard",
+            "count": 389,
+            "submissions": 411
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1532.3230138546144,
+      "globalRanking": 304670,
+      "topPercentage": 35.63
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 11612,
+        "rating": 1527.065,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9969,
+        "rating": 1561.729,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 19792,
+        "rating": 1532.323,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "9XNgyl8Z7V",
+      "profile": {
+        "ranking": 4390177,
+        "realName": "Chintan Golakiya",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 17,
+            "submissions": 28
+          },
+          {
+            "difficulty": "Easy",
+            "count": 6,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Medium",
+            "count": 9,
+            "submissions": 17
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1658.895019846388,
+      "globalRanking": 142047,
+      "topPercentage": 16.71
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4107,
+        "rating": 1633.919,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5364,
+        "rating": 1683.959,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 16350,
+        "rating": 1658.895,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

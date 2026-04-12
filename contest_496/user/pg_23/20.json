@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "U_SEA",
+      "profile": {
+        "ranking": 1931289,
+        "realName": "U_SEA",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 71,
+            "submissions": 77
+          },
+          {
+            "difficulty": "Easy",
+            "count": 22,
+            "submissions": 27
+          },
+          {
+            "difficulty": "Medium",
+            "count": 34,
+            "submissions": 34
+          },
+          {
+            "difficulty": "Hard",
+            "count": 15,
+            "submissions": 16
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1765.2883529663086,
+      "globalRanking": 78457,
+      "topPercentage": 9.28
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 571,
+        "rating": 1765.288,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

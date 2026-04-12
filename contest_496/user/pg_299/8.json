@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "AyushSemz",
+      "profile": {
+        "ranking": 637955,
+        "realName": "AyushSemz",
+        "countryName": "India",
+        "postViewCount": 1,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 231,
+            "submissions": 324
+          },
+          {
+            "difficulty": "Easy",
+            "count": 86,
+            "submissions": 116
+          },
+          {
+            "difficulty": "Medium",
+            "count": 127,
+            "submissions": 186
+          },
+          {
+            "difficulty": "Hard",
+            "count": 18,
+            "submissions": 22
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1489.822930548417,
+      "globalRanking": 406494,
+      "topPercentage": 47.42
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 34988,
+        "rating": 1413.611,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7458,
+        "rating": 1489.823,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Nitharsna21",
+      "profile": {
+        "ranking": 3786655,
+        "realName": "S.Nitharsna",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 23,
+            "submissions": 33
+          },
+          {
+            "difficulty": "Easy",
+            "count": 10,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Medium",
+            "count": 12,
+            "submissions": 17
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1522.6739671212845,
+      "globalRanking": 324358,
+      "topPercentage": 37.91
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 19163,
+        "rating": 1484.322,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 18988,
+        "rating": 1481.21,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8651,
+        "rating": 1522.674,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

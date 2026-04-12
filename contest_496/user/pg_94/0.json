@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "abedjafor123",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "abedjafor123",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 12,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Easy",
+            "count": 5,
+            "submissions": 17
+          },
+          {
+            "difficulty": "Medium",
+            "count": 7,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1510.0892930908608,
+      "globalRanking": 352331,
+      "topPercentage": 41.15
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 25792,
+        "rating": 1416.089,
+        "contest": {
+          "title": "Biweekly Contest 168",
+          "startTime": 1761402600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 26233,
+        "rating": 1376.379,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2325,
+        "rating": 1510.089,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

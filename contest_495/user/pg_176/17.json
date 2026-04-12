@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "comp_decxter",
+      "profile": {
+        "ranking": 666913,
+        "realName": "ashishjoshi",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 223,
+            "submissions": 620
+          },
+          {
+            "difficulty": "Easy",
+            "count": 38,
+            "submissions": 92
+          },
+          {
+            "difficulty": "Medium",
+            "count": 148,
+            "submissions": 421
+          },
+          {
+            "difficulty": "Hard",
+            "count": 37,
+            "submissions": 107
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1717.1987105337164,
+      "globalRanking": 102187,
+      "topPercentage": 12.06
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4720,
+        "rating": 1609.177,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4392,
+        "rating": 1676.344,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4406,
+        "rating": 1717.199,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

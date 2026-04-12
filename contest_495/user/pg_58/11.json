@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Ayushi_Raj02",
+      "profile": {
+        "ranking": 240780,
+        "realName": "Ayushi_Raj",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 439,
+            "submissions": 463
+          },
+          {
+            "difficulty": "Easy",
+            "count": 118,
+            "submissions": 124
+          },
+          {
+            "difficulty": "Medium",
+            "count": 233,
+            "submissions": 249
+          },
+          {
+            "difficulty": "Hard",
+            "count": 88,
+            "submissions": 90
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1707.509994506836,
+      "globalRanking": 107964,
+      "topPercentage": 12.73
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1436,
+        "rating": 1707.51,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

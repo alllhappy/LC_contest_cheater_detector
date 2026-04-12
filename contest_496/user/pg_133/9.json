@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "sartma",
+      "profile": {
+        "ranking": 460968,
+        "realName": "Sarthak Maheshwari",
+        "countryName": null,
+        "postViewCount": 28,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 294,
+            "submissions": 610
+          },
+          {
+            "difficulty": "Easy",
+            "count": 62,
+            "submissions": 106
+          },
+          {
+            "difficulty": "Medium",
+            "count": 178,
+            "submissions": 381
+          },
+          {
+            "difficulty": "Hard",
+            "count": 54,
+            "submissions": 123
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1645.9733560084294,
+      "globalRanking": 152999,
+      "topPercentage": 17.99
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 8052,
+        "rating": 1553.804,
+        "contest": {
+          "title": "Weekly Contest 485",
+          "startTime": 1768703400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3309,
+        "rating": 1645.973,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

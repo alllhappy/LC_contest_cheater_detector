@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "anotherKill6529",
+      "profile": {
+        "ranking": 1679514,
+        "realName": "anotherKill6529",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 86,
+            "submissions": 98
+          },
+          {
+            "difficulty": "Easy",
+            "count": 13,
+            "submissions": 16
+          },
+          {
+            "difficulty": "Medium",
+            "count": 58,
+            "submissions": 63
+          },
+          {
+            "difficulty": "Hard",
+            "count": 15,
+            "submissions": 19
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1634.0191267396037,
+      "globalRanking": 164020,
+      "topPercentage": 19.27
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3845,
+        "rating": 1625.341,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3536,
+        "rating": 1700.728,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 37583,
+        "rating": 1634.019,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "kingsleycode",
+      "profile": {
+        "ranking": 503135,
+        "realName": "kingsleycode",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 276,
+            "submissions": 395
+          },
+          {
+            "difficulty": "Easy",
+            "count": 10,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Medium",
+            "count": 146,
+            "submissions": 197
+          },
+          {
+            "difficulty": "Hard",
+            "count": 120,
+            "submissions": 185
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 5,
+      "rating": 1610.221,
+      "globalRanking": 188399,
+      "topPercentage": 22.11
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 7586,
+        "rating": 1497.763,
+        "contest": {
+          "title": "Biweekly Contest 74",
+          "startTime": 1647700200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7527,
+        "rating": 1515.511,
+        "contest": {
+          "title": "Weekly Contest 285",
+          "startTime": 1647743400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6903,
+        "rating": 1537.094,
+        "contest": {
+          "title": "Weekly Contest 286",
+          "startTime": 1648348200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 2119,
+        "rating": 1605.364,
+        "contest": {
+          "title": "Weekly Contest 326",
+          "startTime": 1672540200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6756,
+        "rating": 1610.221,
+        "contest": {
+          "title": "Weekly Contest 327",
+          "startTime": 1673145000
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "KrushikaMV",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "KrushikaMV",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 4,
+            "submissions": 11
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Medium",
+            "count": 2,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1658.7458158794202,
+      "globalRanking": 142165,
+      "topPercentage": 16.72
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4850,
+        "rating": 1618.2,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6249,
+        "rating": 1658.746,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

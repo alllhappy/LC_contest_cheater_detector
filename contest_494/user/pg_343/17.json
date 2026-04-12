@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "piyushkumar9973",
+      "profile": {
+        "ranking": 184308,
+        "realName": "Champ9973",
+        "countryName": "India",
+        "postViewCount": 89,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 503,
+            "submissions": 690
+          },
+          {
+            "difficulty": "Easy",
+            "count": 261,
+            "submissions": 346
+          },
+          {
+            "difficulty": "Medium",
+            "count": 223,
+            "submissions": 316
+          },
+          {
+            "difficulty": "Hard",
+            "count": 19,
+            "submissions": 28
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1537.3384576094777,
+      "globalRanking": 294853,
+      "topPercentage": 34.49
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 20446,
+        "rating": 1482.722,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8568,
+        "rating": 1537.338,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

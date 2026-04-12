@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "vivekcodev",
+      "profile": {
+        "ranking": 924969,
+        "realName": "Vivek Kumar",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 168,
+            "submissions": 191
+          },
+          {
+            "difficulty": "Easy",
+            "count": 55,
+            "submissions": 63
+          },
+          {
+            "difficulty": "Medium",
+            "count": 101,
+            "submissions": 110
+          },
+          {
+            "difficulty": "Hard",
+            "count": 12,
+            "submissions": 18
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1425.582266125643,
+      "globalRanking": 624065,
+      "topPercentage": 72.45
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 37250,
+        "rating": 1354.861,
+        "contest": {
+          "title": "Weekly Contest 486",
+          "startTime": 1769308200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8913,
+        "rating": 1425.582,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

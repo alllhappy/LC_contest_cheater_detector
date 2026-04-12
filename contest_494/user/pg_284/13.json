@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "cyzh",
+      "profile": {
+        "ranking": 187216,
+        "realName": "cyzh",
+        "countryName": "Russia",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 499,
+            "submissions": 731
+          },
+          {
+            "difficulty": "Easy",
+            "count": 13,
+            "submissions": 16
+          },
+          {
+            "difficulty": "Medium",
+            "count": 242,
+            "submissions": 348
+          },
+          {
+            "difficulty": "Hard",
+            "count": 244,
+            "submissions": 367
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1808.184,
+      "globalRanking": 62664,
+      "topPercentage": 7.43
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 340,
+        "rating": 1808.184,
+        "contest": {
+          "title": "Weekly Contest 365",
+          "startTime": 1696127400
+        }
+      }
+    ]
+  }
+}

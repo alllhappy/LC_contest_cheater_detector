@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "gautamadak",
+      "profile": {
+        "ranking": 4277769,
+        "realName": "gautamadak",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 18,
+            "submissions": 22
+          },
+          {
+            "difficulty": "Easy",
+            "count": 8,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Medium",
+            "count": 10,
+            "submissions": 12
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1578.2575607299805,
+      "globalRanking": 228119,
+      "topPercentage": 26.74
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7715,
+        "rating": 1578.258,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

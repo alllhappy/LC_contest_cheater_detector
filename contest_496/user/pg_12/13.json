@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "AjayKumar19",
+      "profile": {
+        "ranking": 1705665,
+        "realName": "Ajay kumar",
+        "countryName": "India",
+        "postViewCount": 3,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 85,
+            "submissions": 153
+          },
+          {
+            "difficulty": "Easy",
+            "count": 55,
+            "submissions": 107
+          },
+          {
+            "difficulty": "Medium",
+            "count": 28,
+            "submissions": 43
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1822.9348644088755,
+      "globalRanking": 58181,
+      "topPercentage": 6.9
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 15114,
+        "rating": 1479.821,
+        "contest": {
+          "title": "Biweekly Contest 163",
+          "startTime": 1755354600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 634,
+        "rating": 1668.615,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 289,
+        "rating": 1822.935,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

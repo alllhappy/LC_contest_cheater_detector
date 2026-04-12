@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "NIKHIL180280",
+      "profile": {
+        "ranking": 13957,
+        "realName": "Clara",
+        "countryName": "India",
+        "postViewCount": 298,
+        "reputation": 6
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 1231,
+            "submissions": 1536
+          },
+          {
+            "difficulty": "Easy",
+            "count": 574,
+            "submissions": 699
+          },
+          {
+            "difficulty": "Medium",
+            "count": 507,
+            "submissions": 637
+          },
+          {
+            "difficulty": "Hard",
+            "count": 150,
+            "submissions": 200
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1538.2863615926785,
+      "globalRanking": 293093,
+      "topPercentage": 34.28
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2324,
+        "rating": 1673.352,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 34650,
+        "rating": 1597.899,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 31676,
+        "rating": 1538.286,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

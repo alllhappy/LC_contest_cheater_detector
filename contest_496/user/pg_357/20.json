@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Laiba0786",
+      "profile": {
+        "ranking": 464241,
+        "realName": "Laiba Saleem",
+        "countryName": "India",
+        "postViewCount": 2,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 294,
+            "submissions": 332
+          },
+          {
+            "difficulty": "Easy",
+            "count": 86,
+            "submissions": 106
+          },
+          {
+            "difficulty": "Medium",
+            "count": 161,
+            "submissions": 177
+          },
+          {
+            "difficulty": "Hard",
+            "count": 47,
+            "submissions": 49
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1476.5730588443155,
+      "globalRanking": 445572,
+      "topPercentage": 51.94
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 21252,
+        "rating": 1413.497,
+        "contest": {
+          "title": "Weekly Contest 473",
+          "startTime": 1761445800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8920,
+        "rating": 1476.573,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

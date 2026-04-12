@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "PrachiMPatil",
+      "profile": {
+        "ranking": 1410258,
+        "realName": "PrachiMPatil",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 107,
+            "submissions": 128
+          },
+          {
+            "difficulty": "Easy",
+            "count": 33,
+            "submissions": 43
+          },
+          {
+            "difficulty": "Medium",
+            "count": 68,
+            "submissions": 77
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1574.4667053222656,
+      "globalRanking": 233642,
+      "topPercentage": 27.38
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7505,
+        "rating": 1574.467,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

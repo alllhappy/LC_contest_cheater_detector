@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "kartikeyjangir",
+      "profile": {
+        "ranking": 906265,
+        "realName": "KartikeyJangir",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 172,
+            "submissions": 216
+          },
+          {
+            "difficulty": "Easy",
+            "count": 78,
+            "submissions": 91
+          },
+          {
+            "difficulty": "Medium",
+            "count": 84,
+            "submissions": 109
+          },
+          {
+            "difficulty": "Hard",
+            "count": 10,
+            "submissions": 16
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1708.2320053842686,
+      "globalRanking": 107537,
+      "topPercentage": 12.68
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4347,
+        "rating": 1615.748,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6046,
+        "rating": 1663.186,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4237,
+        "rating": 1708.232,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

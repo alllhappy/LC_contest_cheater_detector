@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "AngryJellyBean",
+      "profile": {
+        "ranking": 2309137,
+        "realName": "AngryJellyBean",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 54,
+            "submissions": 109
+          },
+          {
+            "difficulty": "Easy",
+            "count": 31,
+            "submissions": 76
+          },
+          {
+            "difficulty": "Medium",
+            "count": 23,
+            "submissions": 33
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1690.0749206542969,
+      "globalRanking": 119145,
+      "topPercentage": 14.04
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1751,
+        "rating": 1690.075,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

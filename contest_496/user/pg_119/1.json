@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "lenguyenkhang27",
+      "profile": {
+        "ranking": 1009867,
+        "realName": "lenguyenkhang27",
+        "countryName": "Vietnam",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 154,
+            "submissions": 221
+          },
+          {
+            "difficulty": "Easy",
+            "count": 57,
+            "submissions": 92
+          },
+          {
+            "difficulty": "Medium",
+            "count": 76,
+            "submissions": 103
+          },
+          {
+            "difficulty": "Hard",
+            "count": 21,
+            "submissions": 26
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1646.7581297221936,
+      "globalRanking": 152304,
+      "topPercentage": 17.91
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9605,
+        "rating": 1546.452,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2951,
+        "rating": 1646.758,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

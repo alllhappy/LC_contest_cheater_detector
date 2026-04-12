@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "genwinn",
+      "profile": {
+        "ranking": 1666033,
+        "realName": "Ashish",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 88,
+            "submissions": 189
+          },
+          {
+            "difficulty": "Easy",
+            "count": 45,
+            "submissions": 102
+          },
+          {
+            "difficulty": "Medium",
+            "count": 36,
+            "submissions": 79
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1691.692115305901,
+      "globalRanking": 118074,
+      "topPercentage": 13.91
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 12548,
+        "rating": 1537.654,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7831,
+        "rating": 1585.79,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1594,
+        "rating": 1691.692,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

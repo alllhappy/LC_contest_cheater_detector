@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "OFA7CaASen",
+      "profile": {
+        "ranking": 3085270,
+        "realName": "PRNV_09",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 34,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Easy",
+            "count": 25,
+            "submissions": 28
+          },
+          {
+            "difficulty": "Medium",
+            "count": 8,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1645.6317901611328,
+      "globalRanking": 153327,
+      "topPercentage": 18.03
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3203,
+        "rating": 1645.632,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

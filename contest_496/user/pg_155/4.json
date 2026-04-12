@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "bmsb165",
+      "profile": {
+        "ranking": 2299477,
+        "realName": "Sudhanva Bharadwaj BM",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 55,
+            "submissions": 75
+          },
+          {
+            "difficulty": "Easy",
+            "count": 28,
+            "submissions": 38
+          },
+          {
+            "difficulty": "Medium",
+            "count": 24,
+            "submissions": 33
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1631.195068359375,
+      "globalRanking": 166668,
+      "topPercentage": 19.58
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3854,
+        "rating": 1631.195,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "dharani269",
+      "profile": {
+        "ranking": 1708570,
+        "realName": "dharani269",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 84,
+            "submissions": 124
+          },
+          {
+            "difficulty": "Easy",
+            "count": 40,
+            "submissions": 60
+          },
+          {
+            "difficulty": "Medium",
+            "count": 40,
+            "submissions": 60
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1539.7312971448396,
+      "globalRanking": 290457,
+      "topPercentage": 33.97
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 16800,
+        "rating": 1466.397,
+        "contest": {
+          "title": "Biweekly Contest 164",
+          "startTime": 1756564200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6863,
+        "rating": 1539.731,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

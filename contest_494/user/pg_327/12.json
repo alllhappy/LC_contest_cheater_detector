@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ljoeho",
+      "profile": {
+        "ranking": 337446,
+        "realName": "Jeffery Ho",
+        "countryName": "Taiwan",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 361,
+            "submissions": 672
+          },
+          {
+            "difficulty": "Easy",
+            "count": 161,
+            "submissions": 339
+          },
+          {
+            "difficulty": "Medium",
+            "count": 181,
+            "submissions": 296
+          },
+          {
+            "difficulty": "Hard",
+            "count": 19,
+            "submissions": 37
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1632.1253881834946,
+      "globalRanking": 165804,
+      "topPercentage": 19.48
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8985,
+        "rating": 1528.879,
+        "contest": {
+          "title": "Weekly Contest 476",
+          "startTime": 1763260200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 9938,
+        "rating": 1531.55,
+        "contest": {
+          "title": "Weekly Contest 477",
+          "startTime": 1763865000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2345,
+        "rating": 1609.324,
+        "contest": {
+          "title": "Weekly Contest 478",
+          "startTime": 1764469800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8163,
+        "rating": 1632.125,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ishikarathod999gmail_com",
+      "profile": {
+        "ranking": 992635,
+        "realName": "ISHIKA",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 156,
+            "submissions": 183
+          },
+          {
+            "difficulty": "Easy",
+            "count": 44,
+            "submissions": 56
+          },
+          {
+            "difficulty": "Medium",
+            "count": 102,
+            "submissions": 117
+          },
+          {
+            "difficulty": "Hard",
+            "count": 10,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1428.6719053769655,
+      "globalRanking": 614787,
+      "topPercentage": 71.38
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 25590,
+        "rating": 1416.015,
+        "contest": {
+          "title": "Biweekly Contest 166",
+          "startTime": 1758983400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 27252,
+        "rating": 1357.256,
+        "contest": {
+          "title": "Weekly Contest 480",
+          "startTime": 1765679400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8740,
+        "rating": 1428.672,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

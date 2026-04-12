@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "vishal_4545",
+      "profile": {
+        "ranking": 666916,
+        "realName": "vishal_4545",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 223,
+            "submissions": 314
+          },
+          {
+            "difficulty": "Easy",
+            "count": 89,
+            "submissions": 132
+          },
+          {
+            "difficulty": "Medium",
+            "count": 117,
+            "submissions": 159
+          },
+          {
+            "difficulty": "Hard",
+            "count": 17,
+            "submissions": 23
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1778.6550521850586,
+      "globalRanking": 73184,
+      "topPercentage": 8.66
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 463,
+        "rating": 1778.655,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ItsNghia",
+      "profile": {
+        "ranking": 842928,
+        "realName": "Homesick",
+        "countryName": "Vietnam",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 182,
+            "submissions": 353
+          },
+          {
+            "difficulty": "Easy",
+            "count": 82,
+            "submissions": 150
+          },
+          {
+            "difficulty": "Medium",
+            "count": 88,
+            "submissions": 178
+          },
+          {
+            "difficulty": "Hard",
+            "count": 12,
+            "submissions": 25
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1572.901725769043,
+      "globalRanking": 235836,
+      "topPercentage": 27.63
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7633,
+        "rating": 1572.902,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

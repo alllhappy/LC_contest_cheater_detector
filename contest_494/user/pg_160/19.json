@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "user9259r",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "Josh Yusei",
+        "countryName": "Taiwan",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 12,
+            "submissions": 22
+          },
+          {
+            "difficulty": "Easy",
+            "count": 6,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Medium",
+            "count": 6,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1632.9145431518555,
+      "globalRanking": 165069,
+      "topPercentage": 19.4
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3995,
+        "rating": 1632.915,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

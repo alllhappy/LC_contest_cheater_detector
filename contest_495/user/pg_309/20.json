@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "krrohit12",
+      "profile": {
+        "ranking": 4390380,
+        "realName": "krrohit12",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 19,
+            "submissions": 26
+          },
+          {
+            "difficulty": "Easy",
+            "count": 7,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Medium",
+            "count": 10,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1582.7055479350843,
+      "globalRanking": 222114,
+      "topPercentage": 26.04
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 11090,
+        "rating": 1531.906,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7720,
+        "rating": 1582.706,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

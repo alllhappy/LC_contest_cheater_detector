@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "raaj_02_07",
+      "profile": {
+        "ranking": 349315,
+        "realName": "raunak raj",
+        "countryName": "India",
+        "postViewCount": 9,
+        "reputation": 138
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 357,
+            "submissions": 636
+          },
+          {
+            "difficulty": "Easy",
+            "count": 153,
+            "submissions": 254
+          },
+          {
+            "difficulty": "Medium",
+            "count": 181,
+            "submissions": 350
+          },
+          {
+            "difficulty": "Hard",
+            "count": 23,
+            "submissions": 30
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1602.868813979157,
+      "globalRanking": 196944,
+      "topPercentage": 23.1
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 11815,
+        "rating": 1532.092,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6848,
+        "rating": 1590.048,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9651,
+        "rating": 1602.869,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "thesis_007",
+      "profile": {
+        "ranking": 831595,
+        "realName": "thesis_007",
+        "countryName": null,
+        "postViewCount": 2,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 184,
+            "submissions": 266
+          },
+          {
+            "difficulty": "Easy",
+            "count": 83,
+            "submissions": 112
+          },
+          {
+            "difficulty": "Medium",
+            "count": 85,
+            "submissions": 133
+          },
+          {
+            "difficulty": "Hard",
+            "count": 16,
+            "submissions": 21
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 5,
+      "rating": 1724.8721310163678,
+      "globalRanking": 97956,
+      "topPercentage": 11.56
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 2019,
+        "rating": 1550.222,
+        "contest": {
+          "title": "Biweekly Contest 37",
+          "startTime": 1602945000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 1286,
+        "rating": 1638.586,
+        "contest": {
+          "title": "Biweekly Contest 59",
+          "startTime": 1629556200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 2357,
+        "rating": 1668.795,
+        "contest": {
+          "title": "Weekly Contest 260",
+          "startTime": 1632623400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3718,
+        "rating": 1670.619,
+        "contest": {
+          "title": "Weekly Contest 263",
+          "startTime": 1634437800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2660,
+        "rating": 1724.872,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "id_not_found",
+      "profile": {
+        "ranking": 171155,
+        "realName": "Alex",
+        "countryName": null,
+        "postViewCount": 3253,
+        "reputation": 33
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 520,
+            "submissions": 877
+          },
+          {
+            "difficulty": "Easy",
+            "count": 111,
+            "submissions": 173
+          },
+          {
+            "difficulty": "Medium",
+            "count": 355,
+            "submissions": 625
+          },
+          {
+            "difficulty": "Hard",
+            "count": 54,
+            "submissions": 79
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 5,
+      "rating": 1569.78772490722,
+      "globalRanking": 240382,
+      "topPercentage": 28.16
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5455,
+        "rating": 1513.853,
+        "contest": {
+          "title": "Weekly Contest 192",
+          "startTime": 1591497000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5712,
+        "rating": 1518.982,
+        "contest": {
+          "title": "Weekly Contest 193",
+          "startTime": 1592101800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5251,
+        "rating": 1529.751,
+        "contest": {
+          "title": "Weekly Contest 197",
+          "startTime": 1594521000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 5961,
+        "rating": 1532.84,
+        "contest": {
+          "title": "Weekly Contest 198",
+          "startTime": 1595125800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7454,
+        "rating": 1569.788,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

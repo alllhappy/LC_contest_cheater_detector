@@ -1,0 +1,45 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "jys123",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "jys123",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 1,
+            "submissions": 1
+          },
+          {
+            "difficulty": "Easy",
+            "count": 0,
+            "submissions": 0
+          },
+          {
+            "difficulty": "Medium",
+            "count": 0,
+            "submissions": 0
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 110,
+      "rating": 2018.236244193411,
+      "globalRanking": 18941,
+      "topPercentage": 2.28
+    },
+    "userContestRankingHistory": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "karabalabazyabka",
+      "profile": {
+        "ranking": 1272111,
+        "realName": "karabalabazyabka",
+        "countryName": null,
+        "postViewCount": 5,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 120,
+            "submissions": 243
+          },
+          {
+            "difficulty": "Easy",
+            "count": 70,
+            "submissions": 141
+          },
+          {
+            "difficulty": "Medium",
+            "count": 46,
+            "submissions": 91
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 11
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1673.466792765557,
+      "globalRanking": 130831,
+      "topPercentage": 15.4
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2662,
+        "rating": 1638.082,
+        "contest": {
+          "title": "Weekly Contest 482",
+          "startTime": 1766889000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 9433,
+        "rating": 1651.902,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7685,
+        "rating": 1673.467,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

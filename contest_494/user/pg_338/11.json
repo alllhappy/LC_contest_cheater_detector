@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "manjak4s",
+      "profile": {
+        "ranking": 3188801,
+        "realName": "Mayer",
+        "countryName": "United States",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 32,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Easy",
+            "count": 20,
+            "submissions": 27
+          },
+          {
+            "difficulty": "Medium",
+            "count": 10,
+            "submissions": 11
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1570.1465606689453,
+      "globalRanking": 239824,
+      "topPercentage": 28.1
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8437,
+        "rating": 1570.147,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

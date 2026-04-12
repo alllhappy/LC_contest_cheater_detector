@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "sirivennela_07",
+      "profile": {
+        "ranking": 2485998,
+        "realName": "sirivennela_07",
+        "countryName": null,
+        "postViewCount": 6,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 49,
+            "submissions": 61
+          },
+          {
+            "difficulty": "Easy",
+            "count": 28,
+            "submissions": 34
+          },
+          {
+            "difficulty": "Medium",
+            "count": 18,
+            "submissions": 22
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 5
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1706.2597274780273,
+      "globalRanking": 108722,
+      "topPercentage": 12.82
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1389,
+        "rating": 1706.26,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

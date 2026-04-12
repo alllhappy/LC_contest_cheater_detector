@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Shashank24B047",
+      "profile": {
+        "ranking": 717693,
+        "realName": "shashank agarwal",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 215,
+            "submissions": 364
+          },
+          {
+            "difficulty": "Easy",
+            "count": 95,
+            "submissions": 138
+          },
+          {
+            "difficulty": "Medium",
+            "count": 110,
+            "submissions": 207
+          },
+          {
+            "difficulty": "Hard",
+            "count": 10,
+            "submissions": 19
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1593.2912661344667,
+      "globalRanking": 208230,
+      "topPercentage": 24.42
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10390,
+        "rating": 1556.01,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13496,
+        "rating": 1562.709,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8038,
+        "rating": 1593.291,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

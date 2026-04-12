@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "rajsaurabh66",
+      "profile": {
+        "ranking": 440338,
+        "realName": "rajsaurabh66",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 304,
+            "submissions": 421
+          },
+          {
+            "difficulty": "Easy",
+            "count": 152,
+            "submissions": 204
+          },
+          {
+            "difficulty": "Medium",
+            "count": 135,
+            "submissions": 196
+          },
+          {
+            "difficulty": "Hard",
+            "count": 17,
+            "submissions": 21
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1540.6150817871094,
+      "globalRanking": 288894,
+      "topPercentage": 33.79
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9293,
+        "rating": 1561.764,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 17097,
+        "rating": 1540.615,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

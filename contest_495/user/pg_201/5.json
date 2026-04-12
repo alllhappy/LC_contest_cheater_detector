@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "SumedhaPaliwal5",
+      "profile": {
+        "ranking": 1315017,
+        "realName": "SumedhaPaliwal",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 116,
+            "submissions": 118
+          },
+          {
+            "difficulty": "Easy",
+            "count": 94,
+            "submissions": 96
+          },
+          {
+            "difficulty": "Medium",
+            "count": 20,
+            "submissions": 20
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1508.505518161639,
+      "globalRanking": 356175,
+      "topPercentage": 41.6
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 22011,
+        "rating": 1466.117,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 27983,
+        "rating": 1419.482,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5005,
+        "rating": 1508.506,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

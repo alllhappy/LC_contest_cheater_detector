@@ -1,0 +1,101 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "souvik13109",
+      "profile": {
+        "ranking": 500828,
+        "realName": "Souvik Sural",
+        "countryName": "India",
+        "postViewCount": 66,
+        "reputation": 4
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 279,
+            "submissions": 446
+          },
+          {
+            "difficulty": "Easy",
+            "count": 121,
+            "submissions": 231
+          },
+          {
+            "difficulty": "Medium",
+            "count": 131,
+            "submissions": 184
+          },
+          {
+            "difficulty": "Hard",
+            "count": 27,
+            "submissions": 31
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 5,
+      "rating": 1637.6928014462437,
+      "globalRanking": 160552,
+      "topPercentage": 18.87
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6582,
+        "rating": 1546.377,
+        "contest": {
+          "title": "Weekly Contest 478",
+          "startTime": 1764469800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 16691,
+        "rating": 1480.741,
+        "contest": {
+          "title": "Biweekly Contest 171",
+          "startTime": 1765031400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 25704,
+        "rating": 1443.895,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3775,
+        "rating": 1531.697,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1217,
+        "rating": 1637.693,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

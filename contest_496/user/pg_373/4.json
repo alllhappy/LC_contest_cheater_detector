@@ -1,0 +1,112 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "magic_ron",
+      "profile": {
+        "ranking": 75691,
+        "realName": "jhawk",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 3
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 730,
+            "submissions": 1081
+          },
+          {
+            "difficulty": "Easy",
+            "count": 216,
+            "submissions": 315
+          },
+          {
+            "difficulty": "Medium",
+            "count": 497,
+            "submissions": 741
+          },
+          {
+            "difficulty": "Hard",
+            "count": 17,
+            "submissions": 25
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 6,
+      "rating": 1584.8019519581583,
+      "globalRanking": 219273,
+      "topPercentage": 25.71
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7126,
+        "rating": 1544.786,
+        "contest": {
+          "title": "Biweekly Contest 168",
+          "startTime": 1761402600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4768,
+        "rating": 1602.431,
+        "contest": {
+          "title": "Weekly Contest 474",
+          "startTime": 1762050600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 11087,
+        "rating": 1581.429,
+        "contest": {
+          "title": "Weekly Contest 479",
+          "startTime": 1765074600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8427,
+        "rating": 1590.072,
+        "contest": {
+          "title": "Weekly Contest 480",
+          "startTime": 1765679400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 14495,
+        "rating": 1567.771,
+        "contest": {
+          "title": "Weekly Contest 482",
+          "startTime": 1766889000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9304,
+        "rating": 1584.802,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

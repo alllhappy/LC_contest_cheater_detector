@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "mikai_s",
+      "profile": {
+        "ranking": 601202,
+        "realName": "mikai_s",
+        "countryName": "New Zealand",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 242,
+            "submissions": 544
+          },
+          {
+            "difficulty": "Easy",
+            "count": 92,
+            "submissions": 209
+          },
+          {
+            "difficulty": "Medium",
+            "count": 136,
+            "submissions": 310
+          },
+          {
+            "difficulty": "Hard",
+            "count": 14,
+            "submissions": 25
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1627.382378829153,
+      "globalRanking": 170416,
+      "topPercentage": 20.02
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13984,
+        "rating": 1519.515,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3090,
+        "rating": 1627.382,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

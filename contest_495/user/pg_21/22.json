@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "UK07",
+      "profile": {
+        "ranking": 12072,
+        "realName": "Utkarsh Kumawat",
+        "countryName": "India",
+        "postViewCount": 61314,
+        "reputation": 328
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 1278,
+            "submissions": 2692
+          },
+          {
+            "difficulty": "Easy",
+            "count": 340,
+            "submissions": 773
+          },
+          {
+            "difficulty": "Medium",
+            "count": 728,
+            "submissions": 1582
+          },
+          {
+            "difficulty": "Hard",
+            "count": 210,
+            "submissions": 335
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1786.5028685171394,
+      "globalRanking": 70248,
+      "topPercentage": 8.32
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4189,
+        "rating": 1596.385,
+        "contest": {
+          "title": "Weekly Contest 382",
+          "startTime": 1706409000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4098,
+        "rating": 1649.15,
+        "contest": {
+          "title": "Weekly Contest 383",
+          "startTime": 1707013800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 522,
+        "rating": 1786.503,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

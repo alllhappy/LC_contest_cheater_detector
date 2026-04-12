@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "kkkkkj004",
+      "profile": {
+        "ranking": 2772288,
+        "realName": "kkkkkj004",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 41,
+            "submissions": 44
+          },
+          {
+            "difficulty": "Easy",
+            "count": 7,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Medium",
+            "count": 25,
+            "submissions": 25
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 12
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1705.9255901135896,
+      "globalRanking": 108944,
+      "topPercentage": 12.85
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5549,
+        "rating": 1606.585,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2069,
+        "rating": 1705.926,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

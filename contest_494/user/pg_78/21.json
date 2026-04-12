@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "vHn9wOhn55",
+      "profile": {
+        "ranking": 986761,
+        "realName": "Anjani Singh",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 158,
+            "submissions": 177
+          },
+          {
+            "difficulty": "Easy",
+            "count": 54,
+            "submissions": 60
+          },
+          {
+            "difficulty": "Medium",
+            "count": 80,
+            "submissions": 89
+          },
+          {
+            "difficulty": "Hard",
+            "count": 24,
+            "submissions": 28
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1517.2638866276243,
+      "globalRanking": 336044,
+      "topPercentage": 39.27
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 39564,
+        "rating": 1415.514,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1947,
+        "rating": 1575.411,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 37162,
+        "rating": 1517.264,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

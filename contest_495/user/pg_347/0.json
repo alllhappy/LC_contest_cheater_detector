@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "330i",
+      "profile": {
+        "ranking": 507815,
+        "realName": "Ian Kim",
+        "countryName": "United States",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 274,
+            "submissions": 659
+          },
+          {
+            "difficulty": "Easy",
+            "count": 74,
+            "submissions": 162
+          },
+          {
+            "difficulty": "Medium",
+            "count": 171,
+            "submissions": 416
+          },
+          {
+            "difficulty": "Hard",
+            "count": 29,
+            "submissions": 81
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1681.3918869541642,
+      "globalRanking": 125136,
+      "topPercentage": 14.74
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9756,
+        "rating": 1551.59,
+        "contest": {
+          "title": "Weekly Contest 487",
+          "startTime": 1769913000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6345,
+        "rating": 1607.655,
+        "contest": {
+          "title": "Weekly Contest 489",
+          "startTime": 1771122600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8650,
+        "rating": 1630.598,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3767,
+        "rating": 1681.392,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "AdityaMedpalliwar",
+      "profile": {
+        "ranking": 2548094,
+        "realName": "Aditya Medpalliwar",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 49,
+            "submissions": 57
+          },
+          {
+            "difficulty": "Easy",
+            "count": 23,
+            "submissions": 24
+          },
+          {
+            "difficulty": "Medium",
+            "count": 22,
+            "submissions": 27
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1603.613903647975,
+      "globalRanking": 196017,
+      "topPercentage": 23.0
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 12417,
+        "rating": 1526.959,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5181,
+        "rating": 1603.614,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

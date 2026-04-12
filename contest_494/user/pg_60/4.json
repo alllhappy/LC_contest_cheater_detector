@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "vishal_parsec",
+      "profile": {
+        "ranking": 541390,
+        "realName": "Vishal Raj",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 263,
+            "submissions": 386
+          },
+          {
+            "difficulty": "Easy",
+            "count": 92,
+            "submissions": 136
+          },
+          {
+            "difficulty": "Medium",
+            "count": 148,
+            "submissions": 212
+          },
+          {
+            "difficulty": "Hard",
+            "count": 23,
+            "submissions": 38
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1704.9779891967773,
+      "globalRanking": 109533,
+      "topPercentage": 12.92
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1480,
+        "rating": 1704.978,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "priyankp1209",
+      "profile": {
+        "ranking": 286844,
+        "realName": "Priyaank",
+        "countryName": "India",
+        "postViewCount": 66,
+        "reputation": 15
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 398,
+            "submissions": 539
+          },
+          {
+            "difficulty": "Easy",
+            "count": 99,
+            "submissions": 131
+          },
+          {
+            "difficulty": "Medium",
+            "count": 264,
+            "submissions": 358
+          },
+          {
+            "difficulty": "Hard",
+            "count": 35,
+            "submissions": 50
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1623.8711507696855,
+      "globalRanking": 174004,
+      "topPercentage": 20.43
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5982,
+        "rating": 1600.316,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9375,
+        "rating": 1623.871,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

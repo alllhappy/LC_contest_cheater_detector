@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "AtharvaJill",
+      "profile": {
+        "ranking": 541215,
+        "realName": "Atharva JiIlhewar",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 262,
+            "submissions": 444
+          },
+          {
+            "difficulty": "Easy",
+            "count": 177,
+            "submissions": 311
+          },
+          {
+            "difficulty": "Medium",
+            "count": 76,
+            "submissions": 115
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 18
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1989.0046720104483,
+      "globalRanking": 22166,
+      "topPercentage": 2.67
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 133,
+        "rating": 1856.835,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 33,
+        "rating": 2092.097,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 27706,
+        "rating": 1989.005,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

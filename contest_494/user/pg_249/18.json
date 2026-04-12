@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Tornado025",
+      "profile": {
+        "ranking": 1113945,
+        "realName": "Tornado025",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 145,
+            "submissions": 151
+          },
+          {
+            "difficulty": "Easy",
+            "count": 59,
+            "submissions": 59
+          },
+          {
+            "difficulty": "Medium",
+            "count": 83,
+            "submissions": 89
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1597.0344543457031,
+      "globalRanking": 203714,
+      "topPercentage": 23.89
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6219,
+        "rating": 1597.034,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

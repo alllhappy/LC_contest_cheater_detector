@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "avmatys",
+      "profile": {
+        "ranking": 9084,
+        "realName": "avmatys",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 1381,
+            "submissions": 2442
+          },
+          {
+            "difficulty": "Easy",
+            "count": 338,
+            "submissions": 530
+          },
+          {
+            "difficulty": "Medium",
+            "count": 866,
+            "submissions": 1637
+          },
+          {
+            "difficulty": "Hard",
+            "count": 177,
+            "submissions": 275
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1726.4189964767143,
+      "globalRanking": 97091,
+      "topPercentage": 11.46
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4751,
+        "rating": 1619.23,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3868,
+        "rating": 1683.075,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4070,
+        "rating": 1726.419,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

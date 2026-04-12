@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "arnav175",
+      "profile": {
+        "ranking": 252286,
+        "realName": "arnav175",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 427,
+            "submissions": 508
+          },
+          {
+            "difficulty": "Easy",
+            "count": 172,
+            "submissions": 213
+          },
+          {
+            "difficulty": "Medium",
+            "count": 245,
+            "submissions": 283
+          },
+          {
+            "difficulty": "Hard",
+            "count": 10,
+            "submissions": 12
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1583.851690680253,
+      "globalRanking": 220506,
+      "topPercentage": 25.85
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 16021,
+        "rating": 1474.594,
+        "contest": {
+          "title": "Weekly Contest 464",
+          "startTime": 1756002600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3698,
+        "rating": 1583.852,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

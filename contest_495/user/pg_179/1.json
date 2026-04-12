@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "haHTr3Ukys",
+      "profile": {
+        "ranking": 1247549,
+        "realName": "Kadali mohan kiran",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 123,
+            "submissions": 181
+          },
+          {
+            "difficulty": "Easy",
+            "count": 71,
+            "submissions": 108
+          },
+          {
+            "difficulty": "Medium",
+            "count": 39,
+            "submissions": 54
+          },
+          {
+            "difficulty": "Hard",
+            "count": 13,
+            "submissions": 19
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1625.0553131103516,
+      "globalRanking": 172793,
+      "topPercentage": 20.29
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4451,
+        "rating": 1625.055,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

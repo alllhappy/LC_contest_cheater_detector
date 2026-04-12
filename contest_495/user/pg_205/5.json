@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "kunj_shah_2908",
+      "profile": {
+        "ranking": 237560,
+        "realName": "shreenath",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 441,
+            "submissions": 890
+          },
+          {
+            "difficulty": "Easy",
+            "count": 125,
+            "submissions": 236
+          },
+          {
+            "difficulty": "Medium",
+            "count": 278,
+            "submissions": 583
+          },
+          {
+            "difficulty": "Hard",
+            "count": 38,
+            "submissions": 71
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1532.3946148706273,
+      "globalRanking": 304517,
+      "topPercentage": 35.61
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 22780,
+        "rating": 1461.516,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 21557,
+        "rating": 1446.309,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 15195,
+        "rating": 1461.594,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5105,
+        "rating": 1532.395,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

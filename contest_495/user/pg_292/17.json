@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "RobertttBS",
+      "profile": {
+        "ranking": 2246301,
+        "realName": "RobertttBS",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 58,
+            "submissions": 85
+          },
+          {
+            "difficulty": "Easy",
+            "count": 12,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Medium",
+            "count": 30,
+            "submissions": 49
+          },
+          {
+            "difficulty": "Hard",
+            "count": 16,
+            "submissions": 21
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1639.3068079786408,
+      "globalRanking": 159025,
+      "topPercentage": 18.69
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5841,
+        "rating": 1606.204,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 12735,
+        "rating": 1607.324,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7292,
+        "rating": 1639.307,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

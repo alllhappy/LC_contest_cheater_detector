@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "dhwani05",
+      "profile": {
+        "ranking": 253277,
+        "realName": "dhwani05",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 429,
+            "submissions": 628
+          },
+          {
+            "difficulty": "Easy",
+            "count": 153,
+            "submissions": 240
+          },
+          {
+            "difficulty": "Medium",
+            "count": 242,
+            "submissions": 345
+          },
+          {
+            "difficulty": "Hard",
+            "count": 34,
+            "submissions": 43
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1628.679041700471,
+      "globalRanking": 169084,
+      "topPercentage": 19.86
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8582,
+        "rating": 1568.579,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 18392,
+        "rating": 1537.366,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2648,
+        "rating": 1628.679,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

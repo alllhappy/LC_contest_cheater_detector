@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "FID0mx6iDi",
+      "profile": {
+        "ranking": 875766,
+        "realName": "Arshit",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 176,
+            "submissions": 184
+          },
+          {
+            "difficulty": "Easy",
+            "count": 88,
+            "submissions": 92
+          },
+          {
+            "difficulty": "Medium",
+            "count": 79,
+            "submissions": 83
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1684.864654769745,
+      "globalRanking": 122711,
+      "topPercentage": 14.46
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4994,
+        "rating": 1603.063,
+        "contest": {
+          "title": "Biweekly Contest 177",
+          "startTime": 1772289000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7966,
+        "rating": 1636.041,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4022,
+        "rating": 1684.865,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

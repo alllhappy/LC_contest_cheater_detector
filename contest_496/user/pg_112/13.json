@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Sarthak_Patoliya",
+      "profile": {
+        "ranking": 1256670,
+        "realName": "Sarthak Patoliya",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 122,
+            "submissions": 168
+          },
+          {
+            "difficulty": "Easy",
+            "count": 66,
+            "submissions": 86
+          },
+          {
+            "difficulty": "Medium",
+            "count": 48,
+            "submissions": 70
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 12
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1728.262783764681,
+      "globalRanking": 96118,
+      "topPercentage": 11.35
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6137,
+        "rating": 1591.93,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4439,
+        "rating": 1664.408,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2788,
+        "rating": 1728.263,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

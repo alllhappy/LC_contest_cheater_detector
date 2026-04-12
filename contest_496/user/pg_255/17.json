@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "sinhayash",
+      "profile": {
+        "ranking": 1670358,
+        "realName": "Yash Sinha",
+        "countryName": "India",
+        "postViewCount": 438,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 86,
+            "submissions": 122
+          },
+          {
+            "difficulty": "Easy",
+            "count": 40,
+            "submissions": 56
+          },
+          {
+            "difficulty": "Medium",
+            "count": 42,
+            "submissions": 61
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 5
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1581.4593473238706,
+      "globalRanking": 223835,
+      "topPercentage": 26.24
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10621,
+        "rating": 1518.923,
+        "contest": {
+          "title": "Biweekly Contest 167",
+          "startTime": 1760193000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 12835,
+        "rating": 1532.421,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6367,
+        "rating": 1581.459,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

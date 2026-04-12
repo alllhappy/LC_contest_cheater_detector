@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "reddragon9999",
+      "profile": {
+        "ranking": 468794,
+        "realName": "reddragon9999",
+        "countryName": "India",
+        "postViewCount": 72,
+        "reputation": 2
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 291,
+            "submissions": 408
+          },
+          {
+            "difficulty": "Easy",
+            "count": 124,
+            "submissions": 186
+          },
+          {
+            "difficulty": "Medium",
+            "count": 129,
+            "submissions": 180
+          },
+          {
+            "difficulty": "Hard",
+            "count": 38,
+            "submissions": 42
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1637.3818046168276,
+      "globalRanking": 160847,
+      "topPercentage": 18.9
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7820,
+        "rating": 1577.668,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5268,
+        "rating": 1637.382,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

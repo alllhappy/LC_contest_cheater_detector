@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Maanukumar",
+      "profile": {
+        "ranking": 354329,
+        "realName": "Manav Kumar",
+        "countryName": null,
+        "postViewCount": 10,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 350,
+            "submissions": 499
+          },
+          {
+            "difficulty": "Easy",
+            "count": 32,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Medium",
+            "count": 240,
+            "submissions": 348
+          },
+          {
+            "difficulty": "Hard",
+            "count": 78,
+            "submissions": 111
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1572.9828884727076,
+      "globalRanking": 235704,
+      "topPercentage": 27.62
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9991,
+        "rating": 1554.216,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11519,
+        "rating": 1572.983,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

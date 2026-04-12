@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "user3824PF",
+      "profile": {
+        "ranking": 521562,
+        "realName": "Amit Kumar",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 269,
+            "submissions": 458
+          },
+          {
+            "difficulty": "Easy",
+            "count": 69,
+            "submissions": 134
+          },
+          {
+            "difficulty": "Medium",
+            "count": 160,
+            "submissions": 265
+          },
+          {
+            "difficulty": "Hard",
+            "count": 40,
+            "submissions": 59
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1729.8030853271484,
+      "globalRanking": 95288,
+      "topPercentage": 11.25
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 982,
+        "rating": 1729.803,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

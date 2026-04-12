@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "absar0920",
+      "profile": {
+        "ranking": 2886019,
+        "realName": "Muhammad Absar",
+        "countryName": "Pakistan",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 38,
+            "submissions": 59
+          },
+          {
+            "difficulty": "Easy",
+            "count": 15,
+            "submissions": 27
+          },
+          {
+            "difficulty": "Medium",
+            "count": 17,
+            "submissions": 23
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1827.176061016492,
+      "globalRanking": 56961,
+      "topPercentage": 6.76
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1475,
+        "rating": 1705.21,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 141,
+        "rating": 1912.79,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 28236,
+        "rating": 1827.176,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

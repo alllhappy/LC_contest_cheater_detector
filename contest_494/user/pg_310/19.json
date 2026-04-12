@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "developerC76",
+      "profile": {
+        "ranking": 1345666,
+        "realName": "developerc76",
+        "countryName": "Switzerland",
+        "postViewCount": 780,
+        "reputation": 3
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 113,
+            "submissions": 153
+          },
+          {
+            "difficulty": "Easy",
+            "count": 65,
+            "submissions": 90
+          },
+          {
+            "difficulty": "Medium",
+            "count": 40,
+            "submissions": 53
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1577.9085159301758,
+      "globalRanking": 228600,
+      "topPercentage": 26.79
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7745,
+        "rating": 1577.909,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

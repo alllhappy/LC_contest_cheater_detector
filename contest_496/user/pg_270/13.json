@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "yasaswin05",
+      "profile": {
+        "ranking": 1443142,
+        "realName": "moonfall1325",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 104,
+            "submissions": 142
+          },
+          {
+            "difficulty": "Easy",
+            "count": 47,
+            "submissions": 64
+          },
+          {
+            "difficulty": "Medium",
+            "count": 53,
+            "submissions": 74
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1584.268569946289,
+      "globalRanking": 219955,
+      "topPercentage": 25.78
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6738,
+        "rating": 1584.269,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

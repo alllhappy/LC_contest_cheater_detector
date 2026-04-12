@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "_madushyam",
+      "profile": {
+        "ranking": 948864,
+        "realName": "_madushyam",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 163,
+            "submissions": 339
+          },
+          {
+            "difficulty": "Easy",
+            "count": 37,
+            "submissions": 76
+          },
+          {
+            "difficulty": "Medium",
+            "count": 103,
+            "submissions": 226
+          },
+          {
+            "difficulty": "Hard",
+            "count": 23,
+            "submissions": 37
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1733.5013339394018,
+      "globalRanking": 93396,
+      "topPercentage": 11.03
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1760,
+        "rating": 1694.91,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5237,
+        "rating": 1733.501,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

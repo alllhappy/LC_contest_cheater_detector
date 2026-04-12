@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "zimmMK",
+      "profile": {
+        "ranking": 2072137,
+        "realName": "Mrinmoy Koiri",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 64,
+            "submissions": 88
+          },
+          {
+            "difficulty": "Easy",
+            "count": 25,
+            "submissions": 45
+          },
+          {
+            "difficulty": "Medium",
+            "count": 30,
+            "submissions": 32
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 11
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1668.238293194267,
+      "globalRanking": 134804,
+      "topPercentage": 15.87
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 24038,
+        "rating": 1423.408,
+        "contest": {
+          "title": "Weekly Contest 399",
+          "startTime": 1716690600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1165,
+        "rating": 1607.781,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3799,
+        "rating": 1668.238,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

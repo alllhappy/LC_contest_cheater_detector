@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Neo1732",
+      "profile": {
+        "ranking": 348657,
+        "realName": "Laukik Patade",
+        "countryName": "United States",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 360,
+            "submissions": 551
+          },
+          {
+            "difficulty": "Easy",
+            "count": 79,
+            "submissions": 115
+          },
+          {
+            "difficulty": "Medium",
+            "count": 250,
+            "submissions": 394
+          },
+          {
+            "difficulty": "Hard",
+            "count": 31,
+            "submissions": 42
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1648.1943632427015,
+      "globalRanking": 151074,
+      "topPercentage": 17.77
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 12726,
+        "rating": 1530.364,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2300,
+        "rating": 1648.194,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

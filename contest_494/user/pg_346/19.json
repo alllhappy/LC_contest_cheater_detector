@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "gksbrandon",
+      "profile": {
+        "ranking": 135232,
+        "realName": "gksbrandon",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 580,
+            "submissions": 3633
+          },
+          {
+            "difficulty": "Easy",
+            "count": 162,
+            "submissions": 1096
+          },
+          {
+            "difficulty": "Medium",
+            "count": 343,
+            "submissions": 2172
+          },
+          {
+            "difficulty": "Hard",
+            "count": 75,
+            "submissions": 365
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1615.3342166318646,
+      "globalRanking": 182909,
+      "topPercentage": 21.47
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3616,
+        "rating": 1633.421,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 23111,
+        "rating": 1589.591,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8645,
+        "rating": 1615.334,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

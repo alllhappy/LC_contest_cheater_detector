@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "lakshya_tiwari",
+      "profile": {
+        "ranking": 377655,
+        "realName": "Lakshya Tiwari",
+        "countryName": "India",
+        "postViewCount": 5,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 338,
+            "submissions": 553
+          },
+          {
+            "difficulty": "Easy",
+            "count": 105,
+            "submissions": 165
+          },
+          {
+            "difficulty": "Medium",
+            "count": 202,
+            "submissions": 334
+          },
+          {
+            "difficulty": "Hard",
+            "count": 31,
+            "submissions": 54
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1547.6161588208772,
+      "globalRanking": 276295,
+      "topPercentage": 32.33
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 13606,
+        "rating": 1482.848,
+        "contest": {
+          "title": "Biweekly Contest 172",
+          "startTime": 1766241000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 11782,
+        "rating": 1505.195,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8508,
+        "rating": 1547.616,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

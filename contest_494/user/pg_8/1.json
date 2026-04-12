@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "tendaigom",
+      "profile": {
+        "ranking": 1681879,
+        "realName": "tendaigom",
+        "countryName": "Vietnam",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 85,
+            "submissions": 106
+          },
+          {
+            "difficulty": "Easy",
+            "count": 15,
+            "submissions": 22
+          },
+          {
+            "difficulty": "Medium",
+            "count": 61,
+            "submissions": 73
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 11
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1839.6434783935547,
+      "globalRanking": 53456,
+      "topPercentage": 6.34
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 178,
+        "rating": 1839.643,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

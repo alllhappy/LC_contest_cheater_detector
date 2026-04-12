@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "itsyashg8233",
+      "profile": {
+        "ranking": 924313,
+        "realName": "Yash Gupta",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 168,
+            "submissions": 333
+          },
+          {
+            "difficulty": "Easy",
+            "count": 80,
+            "submissions": 143
+          },
+          {
+            "difficulty": "Medium",
+            "count": 79,
+            "submissions": 178
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 12
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1618.275574171052,
+      "globalRanking": 179750,
+      "topPercentage": 21.1
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 14946,
+        "rating": 1481.735,
+        "contest": {
+          "title": "Biweekly Contest 164",
+          "startTime": 1756564200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5546,
+        "rating": 1565.238,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5226,
+        "rating": 1618.276,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

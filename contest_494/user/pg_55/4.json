@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "anand_298",
+      "profile": {
+        "ranking": 537808,
+        "realName": "Anand",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 263,
+            "submissions": 457
+          },
+          {
+            "difficulty": "Easy",
+            "count": 137,
+            "submissions": 225
+          },
+          {
+            "difficulty": "Medium",
+            "count": 111,
+            "submissions": 205
+          },
+          {
+            "difficulty": "Hard",
+            "count": 15,
+            "submissions": 27
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1634.5069282933284,
+      "globalRanking": 163551,
+      "topPercentage": 19.22
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 22288,
+        "rating": 1471.358,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1355,
+        "rating": 1634.507,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

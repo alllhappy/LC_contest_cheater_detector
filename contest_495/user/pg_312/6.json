@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "WemmRAnPg6",
+      "profile": {
+        "ranking": 630786,
+        "realName": "Daksh Jain",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 233,
+            "submissions": 510
+          },
+          {
+            "difficulty": "Easy",
+            "count": 36,
+            "submissions": 55
+          },
+          {
+            "difficulty": "Medium",
+            "count": 171,
+            "submissions": 371
+          },
+          {
+            "difficulty": "Hard",
+            "count": 26,
+            "submissions": 84
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1566.3799991455078,
+      "globalRanking": 245517,
+      "topPercentage": 28.76
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 14922,
+        "rating": 1511.458,
+        "contest": {
+          "title": "Biweekly Contest 175",
+          "startTime": 1769869800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7781,
+        "rating": 1566.38,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

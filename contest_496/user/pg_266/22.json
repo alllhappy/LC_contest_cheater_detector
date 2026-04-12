@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "rajbhut2832005",
+      "profile": {
+        "ranking": 2210768,
+        "realName": "rajbhut2832005",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 60,
+            "submissions": 76
+          },
+          {
+            "difficulty": "Easy",
+            "count": 48,
+            "submissions": 61
+          },
+          {
+            "difficulty": "Medium",
+            "count": 12,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1623.9139155337684,
+      "globalRanking": 173964,
+      "topPercentage": 20.43
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7729,
+        "rating": 1578.721,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6647,
+        "rating": 1623.914,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

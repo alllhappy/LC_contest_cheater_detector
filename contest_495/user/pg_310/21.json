@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "abhil231",
+      "profile": {
+        "ranking": 1649920,
+        "realName": "Abhishek_Raj",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 88,
+            "submissions": 114
+          },
+          {
+            "difficulty": "Easy",
+            "count": 56,
+            "submissions": 71
+          },
+          {
+            "difficulty": "Medium",
+            "count": 29,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1449.840435101778,
+      "globalRanking": 537793,
+      "topPercentage": 62.55
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 34803,
+        "rating": 1413.783,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 23198,
+        "rating": 1375.043,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7746,
+        "rating": 1449.84,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

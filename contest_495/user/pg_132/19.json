@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "LeishangthemHolen",
+      "profile": {
+        "ranking": 3874942,
+        "realName": "LeishangthemHolen",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 22,
+            "submissions": 77
+          },
+          {
+            "difficulty": "Easy",
+            "count": 7,
+            "submissions": 22
+          },
+          {
+            "difficulty": "Medium",
+            "count": 10,
+            "submissions": 41
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 14
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1648.289680480957,
+      "globalRanking": 150998,
+      "topPercentage": 17.76
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3294,
+        "rating": 1648.29,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

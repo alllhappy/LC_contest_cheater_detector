@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "shubhbadonia",
+      "profile": {
+        "ranking": 338612,
+        "realName": "Shubh Badonia",
+        "countryName": null,
+        "postViewCount": 9,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 360,
+            "submissions": 616
+          },
+          {
+            "difficulty": "Easy",
+            "count": 126,
+            "submissions": 220
+          },
+          {
+            "difficulty": "Medium",
+            "count": 188,
+            "submissions": 333
+          },
+          {
+            "difficulty": "Hard",
+            "count": 46,
+            "submissions": 63
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1559.7673395375168,
+      "globalRanking": 255866,
+      "topPercentage": 29.96
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 12165,
+        "rating": 1533.54,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 20440,
+        "rating": 1515.295,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7871,
+        "rating": 1559.767,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

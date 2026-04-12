@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Trinabh007",
+      "profile": {
+        "ranking": 388307,
+        "realName": "Trinabh Chadha",
+        "countryName": null,
+        "postViewCount": 4,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 330,
+            "submissions": 596
+          },
+          {
+            "difficulty": "Easy",
+            "count": 134,
+            "submissions": 217
+          },
+          {
+            "difficulty": "Medium",
+            "count": 164,
+            "submissions": 312
+          },
+          {
+            "difficulty": "Hard",
+            "count": 32,
+            "submissions": 67
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1638.7903313887746,
+      "globalRanking": 159484,
+      "topPercentage": 18.75
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8302,
+        "rating": 1560.422,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4104,
+        "rating": 1638.79,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

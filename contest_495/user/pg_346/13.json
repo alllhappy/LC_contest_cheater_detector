@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "MORAMPUDIHARITEJA",
+      "profile": {
+        "ranking": 2770319,
+        "realName": "MORAMPUDIHARITEJA",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 41,
+            "submissions": 46
+          },
+          {
+            "difficulty": "Easy",
+            "count": 26,
+            "submissions": 28
+          },
+          {
+            "difficulty": "Medium",
+            "count": 14,
+            "submissions": 17
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1560.2549098967388,
+      "globalRanking": 255101,
+      "topPercentage": 29.87
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 38177,
+        "rating": 1413.131,
+        "contest": {
+          "title": "Weekly Contest 487",
+          "startTime": 1769913000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5077,
+        "rating": 1521.844,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8638,
+        "rating": 1560.255,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

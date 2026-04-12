@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "achyuth8055",
+      "profile": {
+        "ranking": 597181,
+        "realName": "Achyuth",
+        "countryName": "United States",
+        "postViewCount": 463,
+        "reputation": 4
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 243,
+            "submissions": 439
+          },
+          {
+            "difficulty": "Easy",
+            "count": 128,
+            "submissions": 242
+          },
+          {
+            "difficulty": "Medium",
+            "count": 96,
+            "submissions": 160
+          },
+          {
+            "difficulty": "Hard",
+            "count": 19,
+            "submissions": 37
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1696.8679759614195,
+      "globalRanking": 114699,
+      "topPercentage": 13.52
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6922,
+        "rating": 1584.898,
+        "contest": {
+          "title": "Weekly Contest 489",
+          "startTime": 1771122600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 29633,
+        "rating": 1515.128,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 349,
+        "rating": 1696.868,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

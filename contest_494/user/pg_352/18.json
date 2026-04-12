@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "dassrijan76",
+      "profile": {
+        "ranking": 733946,
+        "realName": "Srijan Das",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 207,
+            "submissions": 220
+          },
+          {
+            "difficulty": "Easy",
+            "count": 129,
+            "submissions": 137
+          },
+          {
+            "difficulty": "Medium",
+            "count": 66,
+            "submissions": 71
+          },
+          {
+            "difficulty": "Hard",
+            "count": 12,
+            "submissions": 12
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1684.0142943238038,
+      "globalRanking": 123286,
+      "topPercentage": 14.52
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7360,
+        "rating": 1586.921,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8794,
+        "rating": 1616.954,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3383,
+        "rating": 1684.014,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

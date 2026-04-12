@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Deep_Das_void",
+      "profile": {
+        "ranking": 198766,
+        "realName": "Deep_Das_void",
+        "countryName": "India",
+        "postViewCount": 14,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 485,
+            "submissions": 647
+          },
+          {
+            "difficulty": "Easy",
+            "count": 235,
+            "submissions": 309
+          },
+          {
+            "difficulty": "Medium",
+            "count": 204,
+            "submissions": 269
+          },
+          {
+            "difficulty": "Hard",
+            "count": 46,
+            "submissions": 69
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1588.4662413321946,
+      "globalRanking": 214352,
+      "topPercentage": 25.13
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 33218,
+        "rating": 1413.523,
+        "contest": {
+          "title": "Weekly Contest 464",
+          "startTime": 1756002600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4979,
+        "rating": 1521.187,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4683,
+        "rating": 1588.466,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

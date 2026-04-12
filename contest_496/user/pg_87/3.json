@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "sarath2006",
+      "profile": {
+        "ranking": 2029772,
+        "realName": "sarath2006",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 66,
+            "submissions": 73
+          },
+          {
+            "difficulty": "Easy",
+            "count": 43,
+            "submissions": 49
+          },
+          {
+            "difficulty": "Medium",
+            "count": 22,
+            "submissions": 23
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1675.2662658691406,
+      "globalRanking": 129535,
+      "topPercentage": 15.25
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2153,
+        "rating": 1675.266,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

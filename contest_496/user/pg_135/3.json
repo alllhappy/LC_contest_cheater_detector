@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Deevanshik",
+      "profile": {
+        "ranking": 431090,
+        "realName": "Deevanshik",
+        "countryName": "India",
+        "postViewCount": 24,
+        "reputation": 12
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 310,
+            "submissions": 569
+          },
+          {
+            "difficulty": "Easy",
+            "count": 96,
+            "submissions": 168
+          },
+          {
+            "difficulty": "Medium",
+            "count": 173,
+            "submissions": 341
+          },
+          {
+            "difficulty": "Hard",
+            "count": 41,
+            "submissions": 60
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1642.1012878417969,
+      "globalRanking": 156498,
+      "topPercentage": 18.4
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3353,
+        "rating": 1642.101,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

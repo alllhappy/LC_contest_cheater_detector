@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "purplejellyfish",
+      "profile": {
+        "ranking": 362419,
+        "realName": "purplejellyfish",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 9
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 345,
+            "submissions": 952
+          },
+          {
+            "difficulty": "Easy",
+            "count": 101,
+            "submissions": 243
+          },
+          {
+            "difficulty": "Medium",
+            "count": 202,
+            "submissions": 606
+          },
+          {
+            "difficulty": "Hard",
+            "count": 42,
+            "submissions": 103
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1618.6206517783717,
+      "globalRanking": 179397,
+      "topPercentage": 21.06
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6216,
+        "rating": 1593.902,
+        "contest": {
+          "title": "Weekly Contest 489",
+          "startTime": 1771122600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9395,
+        "rating": 1618.621,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

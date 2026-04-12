@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "RajasiDeshpande",
+      "profile": {
+        "ranking": 860153,
+        "realName": "RajasiDeshpande",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 179,
+            "submissions": 179
+          },
+          {
+            "difficulty": "Easy",
+            "count": 65,
+            "submissions": 65
+          },
+          {
+            "difficulty": "Medium",
+            "count": 93,
+            "submissions": 93
+          },
+          {
+            "difficulty": "Hard",
+            "count": 21,
+            "submissions": 21
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1505.7570285775428,
+      "globalRanking": 362767,
+      "topPercentage": 42.37
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 26880,
+        "rating": 1414.573,
+        "contest": {
+          "title": "Weekly Contest 474",
+          "startTime": 1762050600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11265,
+        "rating": 1436.886,
+        "contest": {
+          "title": "Weekly Contest 480",
+          "startTime": 1765679400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 12926,
+        "rating": 1450.9,
+        "contest": {
+          "title": "Weekly Contest 484",
+          "startTime": 1768098600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7359,
+        "rating": 1505.757,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

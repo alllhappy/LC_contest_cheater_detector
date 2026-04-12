@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "akash_incode",
+      "profile": {
+        "ranking": 506698,
+        "realName": "Akash mondal",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 277,
+            "submissions": 548
+          },
+          {
+            "difficulty": "Easy",
+            "count": 122,
+            "submissions": 241
+          },
+          {
+            "difficulty": "Medium",
+            "count": 135,
+            "submissions": 284
+          },
+          {
+            "difficulty": "Hard",
+            "count": 20,
+            "submissions": 23
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1552.812977841026,
+      "globalRanking": 267313,
+      "topPercentage": 31.29
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 32461,
+        "rating": 1415.242,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2965,
+        "rating": 1552.813,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

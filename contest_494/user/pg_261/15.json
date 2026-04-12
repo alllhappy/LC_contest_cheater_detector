@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "akp8704",
+      "profile": {
+        "ranking": 1772830,
+        "realName": "akp8704",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 80,
+            "submissions": 115
+          },
+          {
+            "difficulty": "Easy",
+            "count": 25,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Medium",
+            "count": 51,
+            "submissions": 70
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 5
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1625.5333676861444,
+      "globalRanking": 172299,
+      "topPercentage": 20.24
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 16138,
+        "rating": 1510.989,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6516,
+        "rating": 1576.958,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6819,
+        "rating": 1617.896,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10041,
+        "rating": 1625.533,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}
