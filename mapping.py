@@ -1,4 +1,4 @@
- #ld:dict , user:dict ,user:int , qid : array
+ #ld:dict , user:dict ,currU:int , qid : array
 '''
 function to make all the information of user in leaderboard into a list for CSV file genereation
 
@@ -13,7 +13,7 @@ def makeRow(ld,user,currU,qid):
     countryName=d1['country_name']  
     score=d1['score']
     finishTime=d1['finish_time']
-    d1=ld['submissions'][0]
+    d1=ld['submissions'][currU] #fixed this bug
     arr=[None]*8
     problemSolved=0 #problem count in current
     for i in range(0,4):

@@ -19,7 +19,7 @@ logging.info(f'STARTING PROCESS FOR JSON DATA TO CSV conversion for contest - {C
 ldPath=f'{folderPath}/leaderboard'
 
 #initialisation of csv file and its writer object
-output_csv=open(f'contest_{CONTEST}/weekly_contest{CONTEST}.csv','w',encoding='utf-8')
+output_csv=open(f'contest_{CONTEST}/weekly_contest{CONTEST}.csv','w',encoding='utf-8') #reason of encoding in ch10 automation book
 writer=csv.writer(output_csv)
       
 #header row total 31 features
