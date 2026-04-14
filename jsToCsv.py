@@ -11,7 +11,7 @@ import mapping
 import logging
 
 
-CONTEST='494' #variable
+CONTEST='496' #variable
 USER_ON_SINGLE_PAGE=25
 folderPath=f'contest_{CONTEST}'
 logging.basicConfig(filename=f'contest_{CONTEST}/{CONTEST}_jsToCsvLog.txt',format=' %(asctime)s -  %(levelname)s -  %(message)s',level=logging.DEBUG)
@@ -19,7 +19,7 @@ logging.info(f'STARTING PROCESS FOR JSON DATA TO CSV conversion for contest - {C
 ldPath=f'{folderPath}/leaderboard'
 
 #initialisation of csv file and its writer object
-output_csv=open(f'contest_{CONTEST}/weekly_contest{CONTEST}.csv','w',encoding='utf-8') #reason of encoding in ch10 automation book
+output_csv=open(f'contest_{CONTEST}/weekly_contest{CONTEST}U.csv','w',encoding='utf-8') #reason of encoding in ch10 automation book
 writer=csv.writer(output_csv)
       
 #header row total 31 features
