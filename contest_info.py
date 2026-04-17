@@ -13,13 +13,14 @@ import json
 
 
 
-CONTEST=496
+CONTEST=495
 def getContestInfo(contest):
     output_csv=open(f'dataset/weekly_contest{CONTEST}_info.csv','w',encoding='utf-8')
     contest_info_url=f'https://leetcode.com/contest/api/info/weekly-contest-{contest}/'
     writer=csv.writer(output_csv)
 
     writer.writerow([
+        'contestID'
         'Contest_slug',
         'StartTimeStamp',
         'Q1Credit',
@@ -47,17 +48,19 @@ def getContestInfo(contest):
         response=session.get(contest_info_url,impersonate='chrome')
         # print(response.text)
         data=response.json()
+        id=data['contest']['id']
         cName=data['contest']['title_slug']
         startTime=data['contest']['start_time']
         q1_credit=data['questions'][0]['credit']
         q2_credit=data['questions'][1]['credit']
         q3_credit=data['questions'][2]['credit']
         q4_credit=data['questions'][3]['credit']
-        writer.writerow([str(cName),int(startTime),q1_credit,q2_credit,q3_credit,q4_credit])
+        writer.writerow([id,str(cName),int(startTime),q1_credit,q2_credit,q3_credit,q4_credit])
     except:
         print("error could not retrieve contest info data")
 
     output_csv.close()
 
+# getContestInfo(CONTEST)
 getContestInfo(CONTEST)
 
