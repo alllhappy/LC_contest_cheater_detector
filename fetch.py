@@ -49,7 +49,7 @@ query userPublicProfile($username: String!) {
 }
 """
 
-logging.basicConfig(filename=f'496_user_log.txt',format=' %(asctime)s -  %(levelname)s -  %(message)s',level=logging.DEBUG)
+# logging.basicConfig(filename=f'fetch_user_log.txt',format=' %(asctime)s -  %(levelname)s -  %(message)s',level=logging.DEBUG)
 
 session = requests.Session()
 headers = {
@@ -95,7 +95,7 @@ def getUserDetails(ip_rank,ip_contest): #both inputs are int
     index= ip_rank % 25
 
     contest_ranking_url=f"https://leetcode.com/contest/api/ranking/{CONTESTSLUG}/?pagination={ld_pg}&region=global"
-    response=session.get(contest_ranking_url,impersonate='chrome')
+    response_ld=session.get(contest_ranking_url,impersonate='chrome')
     # if(response.status_code !=200):
     #     '''error handling'''
     #     # logging.error(f"ERROR ON PAGE : {i} with status code {response.status_code()}")
@@ -110,8 +110,8 @@ def getUserDetails(ip_rank,ip_contest): #both inputs are int
     #         # logging.error(f"ERROR ON PAGE : {i} with status code {response.status_code()}")
     #         # logging.error(response.text)
     #         return
-    response_js=json.loads(response.text)
-    ip_user_slug=response_js['total_rank'][index]['user_slug']
+    response_ld_js=json.loads(response_ld.text)
+    ip_user_slug=response_ld_js['total_rank'][index]['user_slug']
     variables= {
         'username' : ip_user_slug
     }
@@ -121,12 +121,20 @@ def getUserDetails(ip_rank,ip_contest): #both inputs are int
             "variables": variables
         }
     time.sleep(1)
-    response = session.post(graphql_url, json=payload,impersonate='chrome') #main line
-    print(response.text)
+    response_us = session.post(graphql_url, json=payload,impersonate='chrome') #main line
+    response_us_js=response_us.json()['data']
+    qid=[
+        str(response_ld_js['questions'][0]['question_id']),
+        str(response_ld_js['questions'][1]['question_id']),
+        str(response_ld_js['questions'][2]['question_id']),
+        str(response_ld_js['questions'][3]['question_id']),
+        ]
+    return mapping.makeRow(response_ld_js,response_us_js,index,qid)
 
 
 
-getUserDetails(14,496)
+#testing
+# print(getUserDetails(14,496))
     
     
 
