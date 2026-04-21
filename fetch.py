@@ -134,7 +134,9 @@ def getUserDetails(ip_rank,ip_contest): #both inputs are int
 
 
 #testing
-# print(getUserDetails(14,496))
+if __name__ =='__main__':
+  print(getUserDetails(6,498))
+    
     
     
 

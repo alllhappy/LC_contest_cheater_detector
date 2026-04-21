@@ -2,8 +2,6 @@ import joblib
 import pandas as pd
 import numpy as np
 
-# defining the rules first
-
 def rule_low_active(df): #Near-zero active time with high score
     return (df['active_days'] < 50) & (df['Score'] >= 10)
 
@@ -24,11 +22,8 @@ def rule_zero_rating_jump(df):
 
 def rule_ghost_profile(df):
     return (df['Total_solved'] < 50) & (df['Rank'] < 5000)
-
-
 # Loading Model
-model = joblib.load("cheat_detection_model.pkl")
-
+model = joblib.load("pre_final_hybrid/cheat_detection_model.pkl")
 lof_models = model["lof_models"]
 LOF_FEATURES = model["LOF_FEATURES"]
 RATING_BINS = model["RATING_BINS"]
@@ -38,7 +33,7 @@ RULES = model["RULES"]
 threshold = model["Combined_threshold"]
 lof_max = model["lof_max"]
 lof_min = model["lof_min"]
-print("Model loaded successfully")
+# print("Model loaded successfully")
 
 
 RULE_FUNC_MAP = {
@@ -51,7 +46,6 @@ RULE_FUNC_MAP = {
     'Zero rating jump high rating'          : rule_zero_rating_jump,
     'Ghost profile high rank'               : rule_ghost_profile,
 }
-
 for rule in RULES:
     rule['func'] = RULE_FUNC_MAP[rule['name']]
 
@@ -128,51 +122,53 @@ def predict_user(user):
 # TESTING
 # Uncomment below to test on a testing data set
 
-df_test = pd.read_csv("testing_data.csv")
-results = []
-for _, row in df_test.iterrows():
-    result = predict_user(row.to_dict())
-    results.append(result)
+if __name__ =="__main__" :
 
-df_test['label']          = [r['label'] for r in results]
-df_test['final_score']    = [r['final_score'] for r in results]
-df_test['triggered_rules']= [r['triggered_rules'] for r in results]
+    df_test = pd.read_csv("pre_final_hybrid/testing_data.csv")
+    results = []
+    for _, row in df_test.iterrows():
+        result = predict_user(row.to_dict())
+        results.append(result)
 
-df_test.to_csv("predictions.csv", index=False)
-print("Saved to predictions.csv")
+    df_test['label']          = [r['label'] for r in results]
+    df_test['final_score']    = [r['final_score'] for r in results]
+    df_test['triggered_rules']= [r['triggered_rules'] for r in results]
 
-from sklearn.metrics import (
-    confusion_matrix,
-    accuracy_score,
-    precision_score,
-    recall_score,
-    f1_score
-)
+    df_test.to_csv("pre_final_hybrid/predictions.csv", index=False)
+    print("Saved to predictions.csv")
 
-# true labels
-y_true = df_test["ylabel"]
+    from sklearn.metrics import (
+        confusion_matrix,
+        accuracy_score,
+        precision_score,
+        recall_score,
+        f1_score
+    )
 
-# predicted labels (0 = clean, 1 = suspicious)
-y_pred = [0 if x == "CLEAN" else 1 for x in df_test["label"]]
+    # true labels
+    y_true = df_test["ylabel"]
 
-# metrics
-cm = confusion_matrix(y_true, y_pred)
-acc = accuracy_score(y_true, y_pred)
-prec = precision_score(y_true, y_pred, zero_division=0)
-rec = recall_score(y_true, y_pred, zero_division=0)
-f1 = f1_score(y_true, y_pred, zero_division=0)
+    # predicted labels (0 = clean, 1 = suspicious)
+    y_pred = [0 if x == "CLEAN" else 1 for x in df_test["label"]]
+
+    # metrics
+    cm = confusion_matrix(y_true, y_pred)
+    acc = accuracy_score(y_true, y_pred)
+    prec = precision_score(y_true, y_pred, zero_division=0)
+    rec = recall_score(y_true, y_pred, zero_division=0)
+    f1 = f1_score(y_true, y_pred, zero_division=0)
 
 
-cm_df = pd.DataFrame(
-    cm,
-    index=["Actual Clean (0)", "Actual Suspicious (1)"],
-    columns=["Pred Clean (0)", "Pred Suspicious (1)"]
-)
+    cm_df = pd.DataFrame(
+        cm,
+        index=["Actual Clean (0)", "Actual Suspicious (1)"],
+        columns=["Pred Clean (0)", "Pred Suspicious (1)"]
+    )
 
-print("Confusion Matrix:")
-print(cm_df)
+    print("Confusion Matrix:")
+    print(cm_df)
 
-print("\nAccuracy :", round(acc, 4))
-print("Precision:", round(prec, 4))
-print("Recall   :", round(rec, 4))
-print("F1 Score :", round(f1, 4))
+    print("\nAccuracy :", round(acc, 4))
+    print("Precision:", round(prec, 4))
+    print("Recall   :", round(rec, 4))
+    print("F1 Score :", round(f1, 4))

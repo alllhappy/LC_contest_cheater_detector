@@ -61,10 +61,16 @@ def makeRow(ld,user,currU,qid):
 
     #check can be null or not
     d1=user['userContestRanking'] #if someone participated in contest then He will have this column
-    currRow.append(d1['attendedContestsCount'])
-    currRow.append(d1['rating'])
-    currRow.append(d1['globalRanking'])
-    currRow.append(d1['topPercentage'])
+    if d1 is not None:
+        currRow.append(d1['attendedContestsCount'])
+        currRow.append(d1['rating'])
+        currRow.append(d1['globalRanking'])
+        currRow.append(d1['topPercentage'])
+    else :
+        currRow.append(0)
+        currRow.append(0)
+        currRow.append(0)
+        currRow.append(0)
 
     d1=user['userContestRankingHistory']
     userHistory=json.dumps(d1)
