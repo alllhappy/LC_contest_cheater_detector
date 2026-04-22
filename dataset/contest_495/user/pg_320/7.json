@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "AARCHEESOMANI",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "AARCHEESOMANI",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 6,
+            "submissions": 12
+          },
+          {
+            "difficulty": "Easy",
+            "count": 2,
+            "submissions": 5
+          },
+          {
+            "difficulty": "Medium",
+            "count": 3,
+            "submissions": 5
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1826.9622200413753,
+      "globalRanking": 57049,
+      "topPercentage": 6.77
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 140,
+        "rating": 1838.751,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 7982,
+        "rating": 1826.962,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

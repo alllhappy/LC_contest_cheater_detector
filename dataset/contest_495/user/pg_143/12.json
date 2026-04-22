@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "slayernullpointer",
+      "profile": {
+        "ranking": 2694212,
+        "realName": "slayernullpointer",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 43,
+            "submissions": 47
+          },
+          {
+            "difficulty": "Easy",
+            "count": 34,
+            "submissions": 36
+          },
+          {
+            "difficulty": "Medium",
+            "count": 7,
+            "submissions": 8
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1642.364501953125,
+      "globalRanking": 156249,
+      "topPercentage": 18.37
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3562,
+        "rating": 1642.365,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

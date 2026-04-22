@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Red_han",
+      "profile": {
+        "ranking": 2772213,
+        "realName": "Red_han",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 41,
+            "submissions": 46
+          },
+          {
+            "difficulty": "Easy",
+            "count": 11,
+            "submissions": 12
+          },
+          {
+            "difficulty": "Medium",
+            "count": 23,
+            "submissions": 27
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1613.800048828125,
+      "globalRanking": 184565,
+      "topPercentage": 21.66
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5121,
+        "rating": 1613.8,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

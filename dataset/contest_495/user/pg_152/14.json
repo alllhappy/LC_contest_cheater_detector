@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "aatmansp",
+      "profile": {
+        "ranking": 234176,
+        "realName": "aatmansp",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 444,
+            "submissions": 777
+          },
+          {
+            "difficulty": "Easy",
+            "count": 284,
+            "submissions": 431
+          },
+          {
+            "difficulty": "Medium",
+            "count": 140,
+            "submissions": 313
+          },
+          {
+            "difficulty": "Hard",
+            "count": 20,
+            "submissions": 33
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1584.233327578896,
+      "globalRanking": 220010,
+      "topPercentage": 25.79
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 19958,
+        "rating": 1476.974,
+        "contest": {
+          "title": "Biweekly Contest 175",
+          "startTime": 1769869800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3789,
+        "rating": 1584.233,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

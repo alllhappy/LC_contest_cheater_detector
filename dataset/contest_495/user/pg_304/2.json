@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "sank99",
+      "profile": {
+        "ranking": 829550,
+        "realName": "sankalppandey9956",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 190,
+            "submissions": 220
+          },
+          {
+            "difficulty": "Easy",
+            "count": 90,
+            "submissions": 110
+          },
+          {
+            "difficulty": "Medium",
+            "count": 88,
+            "submissions": 97
+          },
+          {
+            "difficulty": "Hard",
+            "count": 12,
+            "submissions": 13
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1459.4251664927644,
+      "globalRanking": 502860,
+      "topPercentage": 58.54
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 27924,
+        "rating": 1415.514,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 21853,
+        "rating": 1385.69,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7577,
+        "rating": 1459.425,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

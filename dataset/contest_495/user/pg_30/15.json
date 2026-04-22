@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "bmo_1111",
+      "profile": {
+        "ranking": 2483655,
+        "realName": "bmo_1111",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 49,
+            "submissions": 75
+          },
+          {
+            "difficulty": "Easy",
+            "count": 27,
+            "submissions": 52
+          },
+          {
+            "difficulty": "Medium",
+            "count": 15,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1915.9503189585037,
+      "globalRanking": 33244,
+      "topPercentage": 3.97
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1448,
+        "rating": 1695.339,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 740,
+        "rating": 1831.547,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 797,
+        "rating": 1915.95,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "soham0717",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "soham0717",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 6,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 3
+          },
+          {
+            "difficulty": "Medium",
+            "count": 5,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1551.598398309005,
+      "globalRanking": 269405,
+      "topPercentage": 31.53
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 33352,
+        "rating": 1413.222,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2780,
+        "rating": 1551.598,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

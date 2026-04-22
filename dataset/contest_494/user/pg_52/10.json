@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "mrrahulkaran",
+      "profile": {
+        "ranking": 3638785,
+        "realName": "RAHUL KARAN",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 25,
+            "submissions": 26
+          },
+          {
+            "difficulty": "Easy",
+            "count": 16,
+            "submissions": 17
+          },
+          {
+            "difficulty": "Medium",
+            "count": 7,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1633.983812834087,
+      "globalRanking": 164044,
+      "topPercentage": 19.28
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1286,
+        "rating": 1714.531,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 38053,
+        "rating": 1633.984,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

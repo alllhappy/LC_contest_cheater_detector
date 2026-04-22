@@ -1,0 +1,112 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "banoth_2004",
+      "profile": {
+        "ranking": 598155,
+        "realName": "banoth_2004",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 243,
+            "submissions": 428
+          },
+          {
+            "difficulty": "Easy",
+            "count": 95,
+            "submissions": 164
+          },
+          {
+            "difficulty": "Medium",
+            "count": 133,
+            "submissions": 238
+          },
+          {
+            "difficulty": "Hard",
+            "count": 15,
+            "submissions": 26
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 6,
+      "rating": 1514.628587969288,
+      "globalRanking": 341848,
+      "topPercentage": 39.94
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 18206,
+        "rating": 1447.44,
+        "contest": {
+          "title": "Weekly Contest 459",
+          "startTime": 1752978600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13860,
+        "rating": 1453.797,
+        "contest": {
+          "title": "Biweekly Contest 162",
+          "startTime": 1754145000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13611,
+        "rating": 1454.187,
+        "contest": {
+          "title": "Weekly Contest 461",
+          "startTime": 1754188200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 12623,
+        "rating": 1461.609,
+        "contest": {
+          "title": "Biweekly Contest 163",
+          "startTime": 1755354600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 26576,
+        "rating": 1418.544,
+        "contest": {
+          "title": "Weekly Contest 463",
+          "startTime": 1755397800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2652,
+        "rating": 1514.629,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

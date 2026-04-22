@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Harshil62773",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "Harshil62773",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 4,
+            "submissions": 5
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 2
+          },
+          {
+            "difficulty": "Medium",
+            "count": 3,
+            "submissions": 3
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1595.1088353207238,
+      "globalRanking": 206052,
+      "topPercentage": 24.17
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11511,
+        "rating": 1546.194,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7013,
+        "rating": 1595.109,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Durgabai_14",
+      "profile": {
+        "ranking": 4789880,
+        "realName": "Durgabai_14",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 14,
+            "submissions": 14
+          },
+          {
+            "difficulty": "Easy",
+            "count": 12,
+            "submissions": 12
+          },
+          {
+            "difficulty": "Medium",
+            "count": 1,
+            "submissions": 1
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1506.9587225917178,
+      "globalRanking": 359813,
+      "topPercentage": 42.02
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 19834,
+        "rating": 1479.959,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 38890,
+        "rating": 1417.677,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5019,
+        "rating": 1506.959,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

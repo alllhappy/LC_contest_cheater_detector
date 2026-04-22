@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "aruto_exe",
+      "profile": {
+        "ranking": 498685,
+        "realName": "Arushee Tomar",
+        "countryName": "India",
+        "postViewCount": 93,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 278,
+            "submissions": 555
+          },
+          {
+            "difficulty": "Easy",
+            "count": 108,
+            "submissions": 223
+          },
+          {
+            "difficulty": "Medium",
+            "count": 139,
+            "submissions": 276
+          },
+          {
+            "difficulty": "Hard",
+            "count": 31,
+            "submissions": 56
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1554.6563801012542,
+      "globalRanking": 264335,
+      "topPercentage": 30.95
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9161,
+        "rating": 1563.114,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 14724,
+        "rating": 1554.656,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

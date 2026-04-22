@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Huthrika",
+      "profile": {
+        "ranking": 3877571,
+        "realName": "Huthrika",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 22,
+            "submissions": 25
+          },
+          {
+            "difficulty": "Easy",
+            "count": 13,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Medium",
+            "count": 9,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1666.083655462195,
+      "globalRanking": 136445,
+      "topPercentage": 16.06
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5027,
+        "rating": 1614.676,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9398,
+        "rating": 1626.854,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5477,
+        "rating": 1666.084,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "abhisheky1817",
+      "profile": {
+        "ranking": 1893710,
+        "realName": "abhisheky1817",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 73,
+            "submissions": 115
+          },
+          {
+            "difficulty": "Easy",
+            "count": 37,
+            "submissions": 61
+          },
+          {
+            "difficulty": "Medium",
+            "count": 35,
+            "submissions": 53
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1587.069360833419,
+      "globalRanking": 216212,
+      "topPercentage": 25.35
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 15158,
+        "rating": 1510.417,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5534,
+        "rating": 1587.069,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

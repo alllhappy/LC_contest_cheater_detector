@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "kXRNX4v8UX",
+      "profile": {
+        "ranking": 2989453,
+        "realName": "nallapumanojkumar",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 37,
+            "submissions": 39
+          },
+          {
+            "difficulty": "Easy",
+            "count": 20,
+            "submissions": 20
+          },
+          {
+            "difficulty": "Medium",
+            "count": 17,
+            "submissions": 19
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1561.4466778363171,
+      "globalRanking": 253193,
+      "topPercentage": 29.65
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7331,
+        "rating": 1571.817,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8389,
+        "rating": 1608.513,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 23015,
+        "rating": 1561.447,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "tanviyaduvanshi",
+      "profile": {
+        "ranking": 3793095,
+        "realName": "tanviyaduvanshi",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 23,
+            "submissions": 26
+          },
+          {
+            "difficulty": "Easy",
+            "count": 12,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Medium",
+            "count": 10,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1784.8479622288753,
+      "globalRanking": 70875,
+      "topPercentage": 8.39
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2248,
+        "rating": 1664.998,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1159,
+        "rating": 1784.848,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

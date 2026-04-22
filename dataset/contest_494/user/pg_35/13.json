@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Poseidon1",
+      "profile": {
+        "ranking": 2055777,
+        "realName": "Karthik S",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 65,
+            "submissions": 73
+          },
+          {
+            "difficulty": "Easy",
+            "count": 29,
+            "submissions": 34
+          },
+          {
+            "difficulty": "Medium",
+            "count": 28,
+            "submissions": 29
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1685.4268116672847,
+      "globalRanking": 122319,
+      "topPercentage": 14.41
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4748,
+        "rating": 1617.966,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 10679,
+        "rating": 1625.235,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 864,
+        "rating": 1747.749,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 32851,
+        "rating": 1685.427,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

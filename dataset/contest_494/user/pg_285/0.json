@@ -1,0 +1,101 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Vineetyadavz",
+      "profile": {
+        "ranking": 769937,
+        "realName": "Vineet Yadav",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 198,
+            "submissions": 275
+          },
+          {
+            "difficulty": "Easy",
+            "count": 81,
+            "submissions": 120
+          },
+          {
+            "difficulty": "Medium",
+            "count": 110,
+            "submissions": 148
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 5,
+      "rating": 1535.149794112454,
+      "globalRanking": 299129,
+      "topPercentage": 34.98
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 14850,
+        "rating": 1478.356,
+        "contest": {
+          "title": "Weekly Contest 460",
+          "startTime": 1753583400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6417,
+        "rating": 1530.312,
+        "contest": {
+          "title": "Weekly Contest 480",
+          "startTime": 1765679400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 24394,
+        "rating": 1498.229,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7101,
+        "rating": 1546.247,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 16096,
+        "rating": 1535.15,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

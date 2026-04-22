@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "zahir04",
+      "profile": {
+        "ranking": 3427999,
+        "realName": "zahir04",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 28,
+            "submissions": 47
+          },
+          {
+            "difficulty": "Easy",
+            "count": 12,
+            "submissions": 24
+          },
+          {
+            "difficulty": "Medium",
+            "count": 12,
+            "submissions": 17
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1673.0094998540312,
+      "globalRanking": 131173,
+      "topPercentage": 15.44
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 29089,
+        "rating": 1414.573,
+        "contest": {
+          "title": "Weekly Contest 474",
+          "startTime": 1762050600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 14068,
+        "rating": 1448.251,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 672,
+        "rating": 1615.782,
+        "contest": {
+          "title": "Weekly Contest 489",
+          "startTime": 1771122600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3430,
+        "rating": 1673.009,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "HIYA25",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "HIYA25",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 3,
+            "submissions": 3
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 1
+          },
+          {
+            "difficulty": "Medium",
+            "count": 2,
+            "submissions": 2
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1442.8392527184433,
+      "globalRanking": 564008,
+      "topPercentage": 65.56
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8987,
+        "rating": 1564.293,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 37623,
+        "rating": 1496.051,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 35762,
+        "rating": 1442.839,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

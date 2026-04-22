@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Dev_52",
+      "profile": {
+        "ranking": 1930172,
+        "realName": "Dev_52",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 71,
+            "submissions": 88
+          },
+          {
+            "difficulty": "Easy",
+            "count": 30,
+            "submissions": 38
+          },
+          {
+            "difficulty": "Medium",
+            "count": 34,
+            "submissions": 43
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1648.8725762618215,
+      "globalRanking": 150470,
+      "topPercentage": 17.69
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7192,
+        "rating": 1584.483,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4413,
+        "rating": 1648.873,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

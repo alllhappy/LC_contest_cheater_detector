@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "hellotharun_2006",
+      "profile": {
+        "ranking": 2056134,
+        "realName": "Nimmanagoti Tharun Kumar",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 65,
+            "submissions": 107
+          },
+          {
+            "difficulty": "Easy",
+            "count": 33,
+            "submissions": 50
+          },
+          {
+            "difficulty": "Medium",
+            "count": 23,
+            "submissions": 42
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 15
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1514.1951912327818,
+      "globalRanking": 342811,
+      "topPercentage": 40.05
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7238,
+        "rating": 1583.922,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 38181,
+        "rating": 1514.195,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

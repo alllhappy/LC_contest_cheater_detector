@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "aryansudhir",
+      "profile": {
+        "ranking": 3876642,
+        "realName": "aryansudhir",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 22,
+            "submissions": 22
+          },
+          {
+            "difficulty": "Easy",
+            "count": 7,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Medium",
+            "count": 10,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 5
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1708.7757068169153,
+      "globalRanking": 107210,
+      "topPercentage": 12.64
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 28398,
+        "rating": 1414.458,
+        "contest": {
+          "title": "Weekly Contest 484",
+          "startTime": 1768098600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1488,
+        "rating": 1588.645,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1112,
+        "rating": 1708.776,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

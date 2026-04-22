@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Ankita_Deb28",
+      "profile": {
+        "ranking": 3789988,
+        "realName": "Ankita_Deb28",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 23,
+            "submissions": 27
+          },
+          {
+            "difficulty": "Easy",
+            "count": 10,
+            "submissions": 11
+          },
+          {
+            "difficulty": "Medium",
+            "count": 10,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1491.2695914927972,
+      "globalRanking": 402396,
+      "topPercentage": 46.95
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 27830,
+        "rating": 1414.524,
+        "contest": {
+          "title": "Weekly Contest 472",
+          "startTime": 1760841000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3266,
+        "rating": 1546.377,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 26390,
+        "rating": 1491.27,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

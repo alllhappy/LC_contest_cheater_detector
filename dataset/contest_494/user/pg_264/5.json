@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Dhruv_Taneja31",
+      "profile": {
+        "ranking": 598193,
+        "realName": "Dhruv Taneja",
+        "countryName": "India",
+        "postViewCount": 7,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 243,
+            "submissions": 549
+          },
+          {
+            "difficulty": "Easy",
+            "count": 92,
+            "submissions": 157
+          },
+          {
+            "difficulty": "Medium",
+            "count": 136,
+            "submissions": 357
+          },
+          {
+            "difficulty": "Hard",
+            "count": 15,
+            "submissions": 35
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1450.5624306847876,
+      "globalRanking": 535096,
+      "topPercentage": 62.24
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 24480,
+        "rating": 1415.362,
+        "contest": {
+          "title": "Biweekly Contest 172",
+          "startTime": 1766241000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 20016,
+        "rating": 1382.985,
+        "contest": {
+          "title": "Biweekly Contest 174",
+          "startTime": 1768660200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 22136,
+        "rating": 1375.281,
+        "contest": {
+          "title": "Biweekly Contest 175",
+          "startTime": 1769869800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6581,
+        "rating": 1450.562,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

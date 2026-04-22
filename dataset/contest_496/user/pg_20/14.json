@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "xjcifUy9v6",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "Pranjal Kundu",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 12,
+            "submissions": 14
+          },
+          {
+            "difficulty": "Easy",
+            "count": 4,
+            "submissions": 5
+          },
+          {
+            "difficulty": "Medium",
+            "count": 7,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1840.903424425627,
+      "globalRanking": 53087,
+      "topPercentage": 6.3
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1320,
+        "rating": 1685.52,
+        "contest": {
+          "title": "Weekly Contest 473",
+          "startTime": 1761445800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 490,
+        "rating": 1840.903,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

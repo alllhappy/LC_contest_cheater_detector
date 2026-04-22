@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "a_lan",
+      "profile": {
+        "ranking": 736307,
+        "realName": "AnaghaLanghe",
+        "countryName": "United States",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 206,
+            "submissions": 574
+          },
+          {
+            "difficulty": "Easy",
+            "count": 72,
+            "submissions": 249
+          },
+          {
+            "difficulty": "Medium",
+            "count": 118,
+            "submissions": 302
+          },
+          {
+            "difficulty": "Hard",
+            "count": 16,
+            "submissions": 23
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1728.944866121967,
+      "globalRanking": 95733,
+      "topPercentage": 11.3
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7772,
+        "rating": 1577.597,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4486,
+        "rating": 1650.755,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2131,
+        "rating": 1728.945,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

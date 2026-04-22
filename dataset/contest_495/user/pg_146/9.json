@@ -1,0 +1,101 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Justin900429",
+      "profile": {
+        "ranking": 7534,
+        "realName": "Justin",
+        "countryName": null,
+        "postViewCount": 119,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 1445,
+            "submissions": 3004
+          },
+          {
+            "difficulty": "Easy",
+            "count": 378,
+            "submissions": 775
+          },
+          {
+            "difficulty": "Medium",
+            "count": 799,
+            "submissions": 1764
+          },
+          {
+            "difficulty": "Hard",
+            "count": 268,
+            "submissions": 465
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 5,
+      "rating": 1806.2634311339395,
+      "globalRanking": 63326,
+      "topPercentage": 7.51
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8896,
+        "rating": 1516.219,
+        "contest": {
+          "title": "Weekly Contest 313",
+          "startTime": 1664677800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2114,
+        "rating": 1642.686,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3245,
+        "rating": 1708.128,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1519,
+        "rating": 1776.915,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3634,
+        "rating": 1806.263,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

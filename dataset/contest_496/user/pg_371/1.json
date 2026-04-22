@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "aanu_p",
+      "profile": {
+        "ranking": 1107255,
+        "realName": "aanu_p",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 140,
+            "submissions": 146
+          },
+          {
+            "difficulty": "Easy",
+            "count": 137,
+            "submissions": 143
+          },
+          {
+            "difficulty": "Medium",
+            "count": 3,
+            "submissions": 3
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1575.430919614178,
+      "globalRanking": 232163,
+      "topPercentage": 27.21
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7807,
+        "rating": 1566.11,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 17367,
+        "rating": 1550.821,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9251,
+        "rating": 1575.431,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

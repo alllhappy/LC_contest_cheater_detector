@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "udaygupta_9325",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "udaygupta09032005",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 7,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Easy",
+            "count": 3,
+            "submissions": 3
+          },
+          {
+            "difficulty": "Medium",
+            "count": 4,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1568.0126740406704,
+      "globalRanking": 243062,
+      "topPercentage": 28.48
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 16854,
+        "rating": 1497.849,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10474,
+        "rating": 1535.327,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8451,
+        "rating": 1568.013,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

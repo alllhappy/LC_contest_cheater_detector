@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "SreedeviPulaparthi",
+      "profile": {
+        "ranking": 1238576,
+        "realName": "bmggerwi",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 124,
+            "submissions": 164
+          },
+          {
+            "difficulty": "Easy",
+            "count": 47,
+            "submissions": 68
+          },
+          {
+            "difficulty": "Medium",
+            "count": 70,
+            "submissions": 88
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1576.9326059441817,
+      "globalRanking": 230031,
+      "topPercentage": 26.96
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13363,
+        "rating": 1525.105,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7210,
+        "rating": 1576.933,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

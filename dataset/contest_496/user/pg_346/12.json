@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "pranucse",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "pranucse",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 6,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Easy",
+            "count": 2,
+            "submissions": 2
+          },
+          {
+            "difficulty": "Medium",
+            "count": 4,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1645.500711089051,
+      "globalRanking": 153471,
+      "topPercentage": 18.05
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7401,
+        "rating": 1581.831,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6981,
+        "rating": 1630.638,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8637,
+        "rating": 1645.501,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

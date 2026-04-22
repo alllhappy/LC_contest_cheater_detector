@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "guna_vinoth",
+      "profile": {
+        "ranking": 670682,
+        "realName": "guna_vinoth",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 223,
+            "submissions": 254
+          },
+          {
+            "difficulty": "Easy",
+            "count": 84,
+            "submissions": 103
+          },
+          {
+            "difficulty": "Medium",
+            "count": 101,
+            "submissions": 109
+          },
+          {
+            "difficulty": "Hard",
+            "count": 38,
+            "submissions": 42
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1679.328768753855,
+      "globalRanking": 126607,
+      "topPercentage": 14.91
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 34994,
+        "rating": 1413.131,
+        "contest": {
+          "title": "Weekly Contest 487",
+          "startTime": 1769913000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 217,
+        "rating": 1679.329,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

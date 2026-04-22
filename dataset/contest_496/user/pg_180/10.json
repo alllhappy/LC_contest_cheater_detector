@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "FjmTkrx1hZ",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "ashu",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 6,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 1
+          },
+          {
+            "difficulty": "Medium",
+            "count": 3,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1848.565653750771,
+      "globalRanking": 51013,
+      "topPercentage": 6.06
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 201,
+        "rating": 1832.228,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4485,
+        "rating": 1848.566,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

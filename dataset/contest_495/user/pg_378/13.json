@@ -1,0 +1,112 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "labooon",
+      "profile": {
+        "ranking": 4791575,
+        "realName": "labooon",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 14,
+            "submissions": 14
+          },
+          {
+            "difficulty": "Easy",
+            "count": 5,
+            "submissions": 5
+          },
+          {
+            "difficulty": "Medium",
+            "count": 9,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 6,
+      "rating": 1618.5705682068915,
+      "globalRanking": 179456,
+      "topPercentage": 21.07
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 14092,
+        "rating": 1513.352,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 17185,
+        "rating": 1513.695,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8029,
+        "rating": 1557.37,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4276,
+        "rating": 1612.149,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9438,
+        "rating": 1626.773,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 13411,
+        "rating": 1618.571,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

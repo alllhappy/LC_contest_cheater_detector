@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "dhruxy",
+      "profile": {
+        "ranking": 1419221,
+        "realName": "dhruxy",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 112,
+            "submissions": 138
+          },
+          {
+            "difficulty": "Easy",
+            "count": 42,
+            "submissions": 54
+          },
+          {
+            "difficulty": "Medium",
+            "count": 63,
+            "submissions": 76
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1632.5538598403068,
+      "globalRanking": 165412,
+      "topPercentage": 19.44
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 11926,
+        "rating": 1524.21,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 15473,
+        "rating": 1526.021,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1992,
+        "rating": 1632.554,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

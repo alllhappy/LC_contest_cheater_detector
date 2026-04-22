@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "prakshityadav",
+      "profile": {
+        "ranking": 182512,
+        "realName": "Prakshit Yadav",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 506,
+            "submissions": 810
+          },
+          {
+            "difficulty": "Easy",
+            "count": 291,
+            "submissions": 448
+          },
+          {
+            "difficulty": "Medium",
+            "count": 201,
+            "submissions": 334
+          },
+          {
+            "difficulty": "Hard",
+            "count": 14,
+            "submissions": 28
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1643.2487086245887,
+      "globalRanking": 155435,
+      "topPercentage": 18.27
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 19288,
+        "rating": 1490.049,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1494,
+        "rating": 1643.249,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

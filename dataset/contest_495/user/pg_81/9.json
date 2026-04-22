@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "i_am_a_kid",
+      "profile": {
+        "ranking": 4056424,
+        "realName": "Jatt Saab",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 20,
+            "submissions": 20
+          },
+          {
+            "difficulty": "Easy",
+            "count": 4,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Medium",
+            "count": 9,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1841.5395443044788,
+      "globalRanking": 52926,
+      "topPercentage": 6.28
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3780,
+        "rating": 1635.381,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3935,
+        "rating": 1697.202,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1062,
+        "rating": 1789.881,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2009,
+        "rating": 1841.54,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "sharmi_naidu",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "sharmi_naidu",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 12,
+            "submissions": 14
+          },
+          {
+            "difficulty": "Easy",
+            "count": 4,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Medium",
+            "count": 5,
+            "submissions": 5
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1732.7409041555304,
+      "globalRanking": 93803,
+      "topPercentage": 11.08
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 39676,
+        "rating": 1413.783,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 65,
+        "rating": 1732.741,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

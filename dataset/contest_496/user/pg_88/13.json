@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "RAKESH_CONTEST",
+      "profile": {
+        "ranking": 3971595,
+        "realName": "RAKESH_CONTEST",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 21,
+            "submissions": 21
+          },
+          {
+            "difficulty": "Easy",
+            "count": 10,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Medium",
+            "count": 8,
+            "submissions": 8
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1674.093246459961,
+      "globalRanking": 130380,
+      "topPercentage": 15.35
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2188,
+        "rating": 1674.093,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

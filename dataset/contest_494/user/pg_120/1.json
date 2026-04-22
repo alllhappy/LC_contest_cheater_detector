@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "vivek_verma_07",
+      "profile": {
+        "ranking": 1294594,
+        "realName": "vivek_verma_07",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 118,
+            "submissions": 133
+          },
+          {
+            "difficulty": "Easy",
+            "count": 31,
+            "submissions": 36
+          },
+          {
+            "difficulty": "Medium",
+            "count": 71,
+            "submissions": 81
+          },
+          {
+            "difficulty": "Hard",
+            "count": 16,
+            "submissions": 16
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1552.7875290283364,
+      "globalRanking": 267358,
+      "topPercentage": 31.3
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 17026,
+        "rating": 1496.741,
+        "contest": {
+          "title": "Weekly Contest 489",
+          "startTime": 1771122600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2977,
+        "rating": 1611.974,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 34035,
+        "rating": 1552.788,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

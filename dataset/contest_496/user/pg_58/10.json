@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "archita97",
+      "profile": {
+        "ranking": 604444,
+        "realName": "ARCHITA KUMARI",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 242,
+            "submissions": 279
+          },
+          {
+            "difficulty": "Easy",
+            "count": 92,
+            "submissions": 111
+          },
+          {
+            "difficulty": "Medium",
+            "count": 107,
+            "submissions": 118
+          },
+          {
+            "difficulty": "Hard",
+            "count": 43,
+            "submissions": 50
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1589.1618226703845,
+      "globalRanking": 213483,
+      "topPercentage": 25.03
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 34816,
+        "rating": 1415.677,
+        "contest": {
+          "title": "Biweekly Contest 177",
+          "startTime": 1772289000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1435,
+        "rating": 1589.162,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

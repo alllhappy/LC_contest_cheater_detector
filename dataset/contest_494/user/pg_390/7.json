@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Noman_Ali17",
+      "profile": {
+        "ranking": 1543866,
+        "realName": "Noman_Ali17",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 99,
+            "submissions": 104
+          },
+          {
+            "difficulty": "Easy",
+            "count": 45,
+            "submissions": 48
+          },
+          {
+            "difficulty": "Medium",
+            "count": 45,
+            "submissions": 47
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1587.724951344816,
+      "globalRanking": 215317,
+      "topPercentage": 25.24
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 12422,
+        "rating": 1449.102,
+        "contest": {
+          "title": "Biweekly Contest 156",
+          "startTime": 1746887400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8904,
+        "rating": 1509.289,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6614,
+        "rating": 1566.958,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9733,
+        "rating": 1587.725,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

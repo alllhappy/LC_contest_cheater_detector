@@ -1,0 +1,101 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Prathiksha06",
+      "profile": {
+        "ranking": 345780,
+        "realName": "Prathiksha T S",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 355,
+            "submissions": 652
+          },
+          {
+            "difficulty": "Easy",
+            "count": 108,
+            "submissions": 194
+          },
+          {
+            "difficulty": "Medium",
+            "count": 226,
+            "submissions": 420
+          },
+          {
+            "difficulty": "Hard",
+            "count": 21,
+            "submissions": 38
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 5,
+      "rating": 1516.8558634085375,
+      "globalRanking": 336966,
+      "topPercentage": 39.37
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 15881,
+        "rating": 1474.271,
+        "contest": {
+          "title": "Weekly Contest 467",
+          "startTime": 1757817000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 13791,
+        "rating": 1494.889,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 22344,
+        "rating": 1477.584,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 14466,
+        "rating": 1482.122,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8626,
+        "rating": 1516.856,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

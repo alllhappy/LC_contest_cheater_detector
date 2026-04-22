@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "dass_ankitaa",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "dass_ankitaa",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 11,
+            "submissions": 12
+          },
+          {
+            "difficulty": "Easy",
+            "count": 5,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Medium",
+            "count": 6,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1676.1495576232055,
+      "globalRanking": 128937,
+      "topPercentage": 15.18
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9269,
+        "rating": 1562.027,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5164,
+        "rating": 1630.225,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4718,
+        "rating": 1676.15,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

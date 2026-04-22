@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Josiah-tan",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "Josiah-tan",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 12,
+            "submissions": 24
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 1
+          },
+          {
+            "difficulty": "Medium",
+            "count": 7,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1847.9705609773334,
+      "globalRanking": 51202,
+      "topPercentage": 6.08
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1196,
+        "rating": 1719.841,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 744,
+        "rating": 1847.971,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "PatrickXiao",
+      "profile": {
+        "ranking": 630650,
+        "realName": "Patrick",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 233,
+            "submissions": 459
+          },
+          {
+            "difficulty": "Easy",
+            "count": 79,
+            "submissions": 149
+          },
+          {
+            "difficulty": "Medium",
+            "count": 142,
+            "submissions": 289
+          },
+          {
+            "difficulty": "Hard",
+            "count": 12,
+            "submissions": 21
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1744.6075238679584,
+      "globalRanking": 87879,
+      "topPercentage": 10.39
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 15575,
+        "rating": 1508.812,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 233,
+        "rating": 1744.608,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

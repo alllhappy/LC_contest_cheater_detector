@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "roychon",
+      "profile": {
+        "ranking": 53003,
+        "realName": "roychon",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 828,
+            "submissions": 2066
+          },
+          {
+            "difficulty": "Easy",
+            "count": 210,
+            "submissions": 371
+          },
+          {
+            "difficulty": "Medium",
+            "count": 505,
+            "submissions": 1386
+          },
+          {
+            "difficulty": "Hard",
+            "count": 113,
+            "submissions": 309
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1690.5145962813529,
+      "globalRanking": 118858,
+      "topPercentage": 14.0
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4092,
+        "rating": 1627.058,
+        "contest": {
+          "title": "Weekly Contest 489",
+          "startTime": 1771122600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4083,
+        "rating": 1690.515,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

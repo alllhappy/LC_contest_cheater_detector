@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "abhimarkz",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "Abhishek",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 5,
+            "submissions": 5
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 1
+          },
+          {
+            "difficulty": "Medium",
+            "count": 3,
+            "submissions": 3
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1784.5144271850586,
+      "globalRanking": 70993,
+      "topPercentage": 8.41
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 422,
+        "rating": 1784.514,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

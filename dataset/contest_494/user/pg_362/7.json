@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "suzain123",
+      "profile": {
+        "ranking": 124485,
+        "realName": "Suzain",
+        "countryName": "India",
+        "postViewCount": 2,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 601,
+            "submissions": 687
+          },
+          {
+            "difficulty": "Easy",
+            "count": 199,
+            "submissions": 230
+          },
+          {
+            "difficulty": "Medium",
+            "count": 350,
+            "submissions": 399
+          },
+          {
+            "difficulty": "Hard",
+            "count": 52,
+            "submissions": 58
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1543.8823237175893,
+      "globalRanking": 282977,
+      "topPercentage": 33.11
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 32263,
+        "rating": 1414.458,
+        "contest": {
+          "title": "Weekly Contest 484",
+          "startTime": 1768098600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8768,
+        "rating": 1484.145,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 12612,
+        "rating": 1510.02,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9033,
+        "rating": 1543.882,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

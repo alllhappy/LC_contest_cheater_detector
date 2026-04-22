@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Grazen",
+      "profile": {
+        "ranking": 1673142,
+        "realName": "Grazen",
+        "countryName": "Peru",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 86,
+            "submissions": 141
+          },
+          {
+            "difficulty": "Easy",
+            "count": 23,
+            "submissions": 31
+          },
+          {
+            "difficulty": "Medium",
+            "count": 50,
+            "submissions": 87
+          },
+          {
+            "difficulty": "Hard",
+            "count": 13,
+            "submissions": 23
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1665.999412536621,
+      "globalRanking": 136498,
+      "topPercentage": 16.06
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2593,
+        "rating": 1665.999,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

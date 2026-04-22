@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "oXoKZIOxpv",
+      "profile": {
+        "ranking": 2897121,
+        "realName": "Madhumitha R",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 38,
+            "submissions": 38
+          },
+          {
+            "difficulty": "Easy",
+            "count": 36,
+            "submissions": 36
+          },
+          {
+            "difficulty": "Medium",
+            "count": 2,
+            "submissions": 2
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1492.0942425966102,
+      "globalRanking": 399984,
+      "topPercentage": 46.67
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 20879,
+        "rating": 1469.836,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 24538,
+        "rating": 1433.984,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7679,
+        "rating": 1492.094,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

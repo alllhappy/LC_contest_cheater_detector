@@ -1,0 +1,112 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "goodice",
+      "profile": {
+        "ranking": 686717,
+        "realName": "goodice",
+        "countryName": null,
+        "postViewCount": 2025,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 217,
+            "submissions": 370
+          },
+          {
+            "difficulty": "Easy",
+            "count": 53,
+            "submissions": 89
+          },
+          {
+            "difficulty": "Medium",
+            "count": 140,
+            "submissions": 247
+          },
+          {
+            "difficulty": "Hard",
+            "count": 24,
+            "submissions": 34
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 6,
+      "rating": 1573.8700291835169,
+      "globalRanking": 234471,
+      "topPercentage": 27.47
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6791,
+        "rating": 1569.712,
+        "contest": {
+          "title": "Weekly Contest 485",
+          "startTime": 1768703400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 17562,
+        "rating": 1550.033,
+        "contest": {
+          "title": "Weekly Contest 487",
+          "startTime": 1769913000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7882,
+        "rating": 1587.213,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 12739,
+        "rating": 1590.404,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8442,
+        "rating": 1612.926,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 23395,
+        "rating": 1573.87,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

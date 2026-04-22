@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "SohamArora",
+      "profile": {
+        "ranking": 480201,
+        "realName": "SohamArora",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 286,
+            "submissions": 1004
+          },
+          {
+            "difficulty": "Easy",
+            "count": 88,
+            "submissions": 338
+          },
+          {
+            "difficulty": "Medium",
+            "count": 169,
+            "submissions": 598
+          },
+          {
+            "difficulty": "Hard",
+            "count": 29,
+            "submissions": 68
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1569.972038269043,
+      "globalRanking": 240082,
+      "topPercentage": 28.13
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8453,
+        "rating": 1569.972,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

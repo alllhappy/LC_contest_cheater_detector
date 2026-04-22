@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "StarryNightOwl",
+      "profile": {
+        "ranking": 1377859,
+        "realName": "Subhrank Priya",
+        "countryName": "India",
+        "postViewCount": 32,
+        "reputation": 2
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 111,
+            "submissions": 112
+          },
+          {
+            "difficulty": "Easy",
+            "count": 34,
+            "submissions": 35
+          },
+          {
+            "difficulty": "Medium",
+            "count": 56,
+            "submissions": 56
+          },
+          {
+            "difficulty": "Hard",
+            "count": 21,
+            "submissions": 21
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1665.8266246676208,
+      "globalRanking": 136627,
+      "topPercentage": 16.08
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8892,
+        "rating": 1559.601,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5651,
+        "rating": 1623.032,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5168,
+        "rating": 1665.827,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

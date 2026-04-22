@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "penguiney",
+      "profile": {
+        "ranking": 695699,
+        "realName": "penguiney",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 215,
+            "submissions": 319
+          },
+          {
+            "difficulty": "Easy",
+            "count": 65,
+            "submissions": 84
+          },
+          {
+            "difficulty": "Medium",
+            "count": 117,
+            "submissions": 186
+          },
+          {
+            "difficulty": "Hard",
+            "count": 33,
+            "submissions": 49
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1628.3369064331055,
+      "globalRanking": 169441,
+      "topPercentage": 19.9
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3995,
+        "rating": 1628.337,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

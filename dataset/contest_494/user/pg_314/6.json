@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Rohitcode01",
+      "profile": {
+        "ranking": 641669,
+        "realName": "Rohitcode01",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 233,
+            "submissions": 329
+          },
+          {
+            "difficulty": "Easy",
+            "count": 111,
+            "submissions": 162
+          },
+          {
+            "difficulty": "Medium",
+            "count": 109,
+            "submissions": 153
+          },
+          {
+            "difficulty": "Hard",
+            "count": 13,
+            "submissions": 14
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1531.5197906390404,
+      "globalRanking": 306287,
+      "topPercentage": 35.81
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 17863,
+        "rating": 1460.192,
+        "contest": {
+          "title": "Biweekly Contest 174",
+          "startTime": 1768660200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 10265,
+        "rating": 1503.004,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 21919,
+        "rating": 1486.236,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7832,
+        "rating": 1531.52,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

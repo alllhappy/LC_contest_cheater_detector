@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "rwU7JMgJeA",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "Sandeep Reddy",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 4,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 1
+          },
+          {
+            "difficulty": "Medium",
+            "count": 3,
+            "submissions": 3
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1624.7683073344983,
+      "globalRanking": 173084,
+      "topPercentage": 20.33
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8366,
+        "rating": 1571.546,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5994,
+        "rating": 1624.768,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

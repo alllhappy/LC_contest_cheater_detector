@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "_sleeping_pill",
+      "profile": {
+        "ranking": 1932670,
+        "realName": "_sleeping_pill",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 71,
+            "submissions": 154
+          },
+          {
+            "difficulty": "Easy",
+            "count": 14,
+            "submissions": 31
+          },
+          {
+            "difficulty": "Medium",
+            "count": 52,
+            "submissions": 113
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1588.6144638061523,
+      "globalRanking": 214165,
+      "topPercentage": 25.11
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6417,
+        "rating": 1588.614,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "banjani",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "banjani",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 12,
+            "submissions": 28
+          },
+          {
+            "difficulty": "Easy",
+            "count": 4,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Medium",
+            "count": 6,
+            "submissions": 17
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1516.0402721469786,
+      "globalRanking": 338750,
+      "topPercentage": 39.58
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 14212,
+        "rating": 1482.373,
+        "contest": {
+          "title": "Weekly Contest 474",
+          "startTime": 1762050600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4791,
+        "rating": 1574.103,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 37215,
+        "rating": 1516.04,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

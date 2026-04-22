@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "tusharkapoor66",
+      "profile": {
+        "ranking": 1257490,
+        "realName": "tusharkapoor66",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 123,
+            "submissions": 243
+          },
+          {
+            "difficulty": "Easy",
+            "count": 61,
+            "submissions": 114
+          },
+          {
+            "difficulty": "Medium",
+            "count": 56,
+            "submissions": 119
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1544.250841579694,
+      "globalRanking": 282265,
+      "topPercentage": 33.03
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 29742,
+        "rating": 1414.166,
+        "contest": {
+          "title": "Weekly Contest 485",
+          "startTime": 1768703400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10886,
+        "rating": 1458.124,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4193,
+        "rating": 1544.251,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

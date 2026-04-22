@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "doubleStar1979",
+      "profile": {
+        "ranking": 1694436,
+        "realName": "Anik Mukherjee",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 86,
+            "submissions": 100
+          },
+          {
+            "difficulty": "Easy",
+            "count": 27,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Medium",
+            "count": 46,
+            "submissions": 56
+          },
+          {
+            "difficulty": "Hard",
+            "count": 13,
+            "submissions": 14
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1803.433731506063,
+      "globalRanking": 64304,
+      "topPercentage": 7.62
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 12,
+        "rating": 1997.377,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 30427,
+        "rating": 1886.992,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 33044,
+        "rating": 1803.434,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

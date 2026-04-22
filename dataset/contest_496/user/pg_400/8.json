@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "rudraksh_part2",
+      "profile": {
+        "ranking": 3431947,
+        "realName": "Rudraksh Khandelwal",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 28,
+            "submissions": 33
+          },
+          {
+            "difficulty": "Easy",
+            "count": 7,
+            "submissions": 11
+          },
+          {
+            "difficulty": "Medium",
+            "count": 20,
+            "submissions": 21
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1548.0926349657277,
+      "globalRanking": 275455,
+      "topPercentage": 32.24
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 15073,
+        "rating": 1507.081,
+        "contest": {
+          "title": "Weekly Contest 487",
+          "startTime": 1769913000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13655,
+        "rating": 1523.182,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9983,
+        "rating": 1548.093,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

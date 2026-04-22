@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Venisha27",
+      "profile": {
+        "ranking": 860220,
+        "realName": "Venisha27",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 179,
+            "submissions": 268
+          },
+          {
+            "difficulty": "Easy",
+            "count": 115,
+            "submissions": 171
+          },
+          {
+            "difficulty": "Medium",
+            "count": 62,
+            "submissions": 93
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1508.0199115446067,
+      "globalRanking": 357295,
+      "topPercentage": 41.73
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10561,
+        "rating": 1512.348,
+        "contest": {
+          "title": "Biweekly Contest 161",
+          "startTime": 1752935400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 32590,
+        "rating": 1449.193,
+        "contest": {
+          "title": "Biweekly Contest 164",
+          "startTime": 1756564200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7702,
+        "rating": 1508.02,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

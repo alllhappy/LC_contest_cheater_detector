@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Sagargoel07",
+      "profile": {
+        "ranking": 550039,
+        "realName": "Sagargoel07",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 259,
+            "submissions": 326
+          },
+          {
+            "difficulty": "Easy",
+            "count": 98,
+            "submissions": 120
+          },
+          {
+            "difficulty": "Medium",
+            "count": 138,
+            "submissions": 176
+          },
+          {
+            "difficulty": "Hard",
+            "count": 23,
+            "submissions": 30
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1582.7278337980572,
+      "globalRanking": 222082,
+      "topPercentage": 26.03
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7847,
+        "rating": 1576.735,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11873,
+        "rating": 1582.728,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Mrityunjay01",
+      "profile": {
+        "ranking": 336927,
+        "realName": "Mrityunjay Kumar Dwivedi",
+        "countryName": "India",
+        "postViewCount": 592,
+        "reputation": -1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 362,
+            "submissions": 507
+          },
+          {
+            "difficulty": "Easy",
+            "count": 130,
+            "submissions": 160
+          },
+          {
+            "difficulty": "Medium",
+            "count": 196,
+            "submissions": 294
+          },
+          {
+            "difficulty": "Hard",
+            "count": 36,
+            "submissions": 53
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 5,
+      "rating": 1442.1628724897262,
+      "globalRanking": 566548,
+      "topPercentage": 65.85
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 8421,
+        "rating": 1508.034,
+        "contest": {
+          "title": "Weekly Contest 430",
+          "startTime": 1735439400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 18174,
+        "rating": 1472.168,
+        "contest": {
+          "title": "Weekly Contest 466",
+          "startTime": 1757212200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 21885,
+        "rating": 1434.295,
+        "contest": {
+          "title": "Weekly Contest 484",
+          "startTime": 1768098600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 26052,
+        "rating": 1390.41,
+        "contest": {
+          "title": "Biweekly Contest 174",
+          "startTime": 1768660200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9023,
+        "rating": 1442.163,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

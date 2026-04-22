@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "varun_mishra1",
+      "profile": {
+        "ranking": 2897728,
+        "realName": "varun_mishra1",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 38,
+            "submissions": 51
+          },
+          {
+            "difficulty": "Easy",
+            "count": 23,
+            "submissions": 28
+          },
+          {
+            "difficulty": "Medium",
+            "count": 14,
+            "submissions": 22
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1572.5778278551604,
+      "globalRanking": 236340,
+      "topPercentage": 27.69
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 12530,
+        "rating": 1518.831,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7721,
+        "rating": 1572.578,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

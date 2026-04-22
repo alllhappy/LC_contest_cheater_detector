@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Krishshokeen",
+      "profile": {
+        "ranking": 585732,
+        "realName": "Krishshokeen",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 248,
+            "submissions": 288
+          },
+          {
+            "difficulty": "Easy",
+            "count": 87,
+            "submissions": 110
+          },
+          {
+            "difficulty": "Medium",
+            "count": 125,
+            "submissions": 140
+          },
+          {
+            "difficulty": "Hard",
+            "count": 36,
+            "submissions": 38
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1608.2930723105983,
+      "globalRanking": 190683,
+      "topPercentage": 22.37
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 34783,
+        "rating": 1413.611,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1001,
+        "rating": 1608.293,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

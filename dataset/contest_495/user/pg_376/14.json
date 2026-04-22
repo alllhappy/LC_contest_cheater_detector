@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Tanisha_0212",
+      "profile": {
+        "ranking": 607961,
+        "realName": "Tanisha",
+        "countryName": "India",
+        "postViewCount": 3,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 240,
+            "submissions": 285
+          },
+          {
+            "difficulty": "Easy",
+            "count": 91,
+            "submissions": 123
+          },
+          {
+            "difficulty": "Medium",
+            "count": 122,
+            "submissions": 132
+          },
+          {
+            "difficulty": "Hard",
+            "count": 27,
+            "submissions": 30
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1620.3391426487972,
+      "globalRanking": 177589,
+      "topPercentage": 20.85
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9389,
+        "rating": 1560.791,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5625,
+        "rating": 1620.339,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

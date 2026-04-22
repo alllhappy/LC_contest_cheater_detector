@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "AlwaysAAA18",
+      "profile": {
+        "ranking": 824758,
+        "realName": "AlwaysAAA18",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 186,
+            "submissions": 266
+          },
+          {
+            "difficulty": "Easy",
+            "count": 57,
+            "submissions": 74
+          },
+          {
+            "difficulty": "Medium",
+            "count": 124,
+            "submissions": 187
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 5
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1597.4006652832031,
+      "globalRanking": 203294,
+      "topPercentage": 23.84
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6192,
+        "rating": 1597.401,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

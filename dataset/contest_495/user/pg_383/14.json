@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "tejasw06",
+      "profile": {
+        "ranking": 326538,
+        "realName": "tejasw06",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 368,
+            "submissions": 532
+          },
+          {
+            "difficulty": "Easy",
+            "count": 124,
+            "submissions": 171
+          },
+          {
+            "difficulty": "Medium",
+            "count": 215,
+            "submissions": 322
+          },
+          {
+            "difficulty": "Hard",
+            "count": 29,
+            "submissions": 39
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1421.7033872518418,
+      "globalRanking": 634828,
+      "topPercentage": 73.69
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 22256,
+        "rating": 1413.797,
+        "contest": {
+          "title": "Weekly Contest 482",
+          "startTime": 1766889000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 36361,
+        "rating": 1355.664,
+        "contest": {
+          "title": "Weekly Contest 484",
+          "startTime": 1768098600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9564,
+        "rating": 1421.703,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

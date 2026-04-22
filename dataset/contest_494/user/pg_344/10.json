@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Samay2510",
+      "profile": {
+        "ranking": 903096,
+        "realName": "Samay Taksande",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 171,
+            "submissions": 259
+          },
+          {
+            "difficulty": "Easy",
+            "count": 94,
+            "submissions": 148
+          },
+          {
+            "difficulty": "Medium",
+            "count": 70,
+            "submissions": 104
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1538.4647971705385,
+      "globalRanking": 292741,
+      "topPercentage": 34.24
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 20182,
+        "rating": 1484.379,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8586,
+        "rating": 1538.465,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

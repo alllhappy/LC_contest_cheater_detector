@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "saanvis_hanaemi",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "saanvis_hanaemi",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 4,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 1
+          },
+          {
+            "difficulty": "Medium",
+            "count": 2,
+            "submissions": 2
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1571.1164474487305,
+      "globalRanking": 238398,
+      "topPercentage": 27.93
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7781,
+        "rating": 1571.116,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

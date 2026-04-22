@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Adarshxyz",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "Adarshxyz",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 12,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Easy",
+            "count": 8,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Medium",
+            "count": 4,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1513.9357568739574,
+      "globalRanking": 343400,
+      "topPercentage": 40.12
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 18917,
+        "rating": 1467.53,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 23356,
+        "rating": 1438.085,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5540,
+        "rating": 1513.936,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

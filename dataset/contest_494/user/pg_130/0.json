@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "znixxx007",
+      "profile": {
+        "ranking": 1557889,
+        "realName": "Znixxx007",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 95,
+            "submissions": 123
+          },
+          {
+            "difficulty": "Easy",
+            "count": 57,
+            "submissions": 73
+          },
+          {
+            "difficulty": "Medium",
+            "count": 37,
+            "submissions": 49
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1635.9607148853484,
+      "globalRanking": 162232,
+      "topPercentage": 19.07
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11770,
+        "rating": 1539.502,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 11860,
+        "rating": 1554.802,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3226,
+        "rating": 1635.961,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

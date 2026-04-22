@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Abo_Adel",
+      "profile": {
+        "ranking": 2245092,
+        "realName": "Abo_Adel",
+        "countryName": "Egypt",
+        "postViewCount": 12,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 57,
+            "submissions": 109
+          },
+          {
+            "difficulty": "Easy",
+            "count": 28,
+            "submissions": 46
+          },
+          {
+            "difficulty": "Medium",
+            "count": 24,
+            "submissions": 54
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1581.155776977539,
+      "globalRanking": 224256,
+      "topPercentage": 26.29
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7468,
+        "rating": 1581.156,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "abhijeeth_1221",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "abhijeeth_1221",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 11,
+            "submissions": 11
+          },
+          {
+            "difficulty": "Easy",
+            "count": 2,
+            "submissions": 2
+          },
+          {
+            "difficulty": "Medium",
+            "count": 7,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1801.9986092289791,
+      "globalRanking": 64818,
+      "topPercentage": 7.68
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 991,
+        "rating": 1719.875,
+        "contest": {
+          "title": "Biweekly Contest 177",
+          "startTime": 1772289000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5011,
+        "rating": 1754.723,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2801,
+        "rating": 1801.999,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

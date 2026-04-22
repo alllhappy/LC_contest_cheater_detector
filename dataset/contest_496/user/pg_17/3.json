@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "hollow_knight_27",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "hollow_knight_27",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 4,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Easy",
+            "count": 0,
+            "submissions": 0
+          },
+          {
+            "difficulty": "Medium",
+            "count": 3,
+            "submissions": 3
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1787.2581481933594,
+      "globalRanking": 69964,
+      "topPercentage": 8.29
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 404,
+        "rating": 1787.258,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "dwivedi-ai",
+      "profile": {
+        "ranking": 350444,
+        "realName": "Ankit Dwivedi",
+        "countryName": null,
+        "postViewCount": 680,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 352,
+            "submissions": 575
+          },
+          {
+            "difficulty": "Easy",
+            "count": 155,
+            "submissions": 236
+          },
+          {
+            "difficulty": "Medium",
+            "count": 177,
+            "submissions": 298
+          },
+          {
+            "difficulty": "Hard",
+            "count": 20,
+            "submissions": 41
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1562.765121459961,
+      "globalRanking": 251143,
+      "topPercentage": 29.41
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9195,
+        "rating": 1562.765,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

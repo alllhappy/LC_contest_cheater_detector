@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "DHARUN_101",
+      "profile": {
+        "ranking": 522739,
+        "realName": "DHARUN_101",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 269,
+            "submissions": 312
+          },
+          {
+            "difficulty": "Easy",
+            "count": 208,
+            "submissions": 248
+          },
+          {
+            "difficulty": "Medium",
+            "count": 58,
+            "submissions": 61
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1558.2761764526367,
+      "globalRanking": 258269,
+      "topPercentage": 30.24
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9640,
+        "rating": 1558.276,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

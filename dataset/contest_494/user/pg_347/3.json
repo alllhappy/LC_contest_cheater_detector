@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "CaptainYadhu1",
+      "profile": {
+        "ranking": 2554743,
+        "realName": "Ayush Yadav",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 51,
+            "submissions": 86
+          },
+          {
+            "difficulty": "Easy",
+            "count": 10,
+            "submissions": 12
+          },
+          {
+            "difficulty": "Medium",
+            "count": 37,
+            "submissions": 66
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1567.8062438964844,
+      "globalRanking": 243382,
+      "topPercentage": 28.51
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8654,
+        "rating": 1567.806,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

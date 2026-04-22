@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Nirva28",
+      "profile": {
+        "ranking": 573550,
+        "realName": "Nirva28",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 252,
+            "submissions": 306
+          },
+          {
+            "difficulty": "Easy",
+            "count": 98,
+            "submissions": 125
+          },
+          {
+            "difficulty": "Medium",
+            "count": 125,
+            "submissions": 151
+          },
+          {
+            "difficulty": "Hard",
+            "count": 29,
+            "submissions": 30
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1600.8651048481108,
+      "globalRanking": 199196,
+      "topPercentage": 23.37
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 14462,
+        "rating": 1515.767,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6428,
+        "rating": 1573.543,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8903,
+        "rating": 1600.865,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

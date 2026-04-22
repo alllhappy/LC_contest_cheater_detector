@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "i_miss_her_",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "i_miss_her_",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 10,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Easy",
+            "count": 4,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Medium",
+            "count": 6,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1738.8238201611523,
+      "globalRanking": 90686,
+      "topPercentage": 10.71
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5607,
+        "rating": 1599.346,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2457,
+        "rating": 1701.352,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4587,
+        "rating": 1738.824,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

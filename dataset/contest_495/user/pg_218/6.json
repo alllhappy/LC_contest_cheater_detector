@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ksihibeeqwe",
+      "profile": {
+        "ranking": 627221,
+        "realName": "K K",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 234,
+            "submissions": 359
+          },
+          {
+            "difficulty": "Easy",
+            "count": 87,
+            "submissions": 127
+          },
+          {
+            "difficulty": "Medium",
+            "count": 123,
+            "submissions": 197
+          },
+          {
+            "difficulty": "Hard",
+            "count": 24,
+            "submissions": 35
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1658.8374944149375,
+      "globalRanking": 142086,
+      "topPercentage": 16.72
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6819,
+        "rating": 1587.893,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9507,
+        "rating": 1613.181,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5431,
+        "rating": 1658.837,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

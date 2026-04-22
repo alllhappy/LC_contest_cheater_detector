@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Anjana_lipsy",
+      "profile": {
+        "ranking": 3877497,
+        "realName": "Anjana_lipsy",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 22,
+            "submissions": 23
+          },
+          {
+            "difficulty": "Easy",
+            "count": 4,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Medium",
+            "count": 16,
+            "submissions": 17
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1507.9750261808697,
+      "globalRanking": 357409,
+      "topPercentage": 41.74
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 39403,
+        "rating": 1413.222,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5696,
+        "rating": 1507.975,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

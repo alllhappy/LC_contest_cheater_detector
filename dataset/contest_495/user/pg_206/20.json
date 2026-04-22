@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "dineshs143u",
+      "profile": {
+        "ranking": 54518,
+        "realName": "DINESH S",
+        "countryName": "India",
+        "postViewCount": 483,
+        "reputation": 3
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 821,
+            "submissions": 1081
+          },
+          {
+            "difficulty": "Easy",
+            "count": 319,
+            "submissions": 465
+          },
+          {
+            "difficulty": "Medium",
+            "count": 424,
+            "submissions": 521
+          },
+          {
+            "difficulty": "Hard",
+            "count": 78,
+            "submissions": 95
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1507.4406586866326,
+      "globalRanking": 358677,
+      "topPercentage": 41.89
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 12867,
+        "rating": 1495.777,
+        "contest": {
+          "title": "Weekly Contest 460",
+          "startTime": 1753583400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 27936,
+        "rating": 1432.428,
+        "contest": {
+          "title": "Weekly Contest 480",
+          "startTime": 1765679400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5145,
+        "rating": 1517.151,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 16913,
+        "rating": 1507.441,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

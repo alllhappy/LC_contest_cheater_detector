@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Moni_766",
+      "profile": {
+        "ranking": 352462,
+        "realName": "MONISHA M P",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 352,
+            "submissions": 419
+          },
+          {
+            "difficulty": "Easy",
+            "count": 111,
+            "submissions": 134
+          },
+          {
+            "difficulty": "Medium",
+            "count": 195,
+            "submissions": 237
+          },
+          {
+            "difficulty": "Hard",
+            "count": 46,
+            "submissions": 48
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1642.3309438862048,
+      "globalRanking": 156284,
+      "topPercentage": 18.37
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 15078,
+        "rating": 1473.676,
+        "contest": {
+          "title": "Weekly Contest 459",
+          "startTime": 1752978600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1149,
+        "rating": 1642.331,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

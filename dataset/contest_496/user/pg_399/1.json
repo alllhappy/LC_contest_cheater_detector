@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "shivatejakondeti",
+      "profile": {
+        "ranking": 756298,
+        "realName": "shivatejakondeti",
+        "countryName": null,
+        "postViewCount": 182,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 202,
+            "submissions": 249
+          },
+          {
+            "difficulty": "Easy",
+            "count": 107,
+            "submissions": 133
+          },
+          {
+            "difficulty": "Medium",
+            "count": 89,
+            "submissions": 107
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1494.2405402960526,
+      "globalRanking": 394040,
+      "topPercentage": 45.98
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 20210,
+        "rating": 1447.729,
+        "contest": {
+          "title": "Weekly Contest 484",
+          "startTime": 1768098600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9951,
+        "rating": 1494.241,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

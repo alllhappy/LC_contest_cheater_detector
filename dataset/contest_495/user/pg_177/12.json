@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "tMZgSydWla",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "tMZgSydWla",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 3,
+            "submissions": 3
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 1
+          },
+          {
+            "difficulty": "Medium",
+            "count": 1,
+            "submissions": 1
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1625.753402709961,
+      "globalRanking": 172054,
+      "topPercentage": 20.21
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4412,
+        "rating": 1625.753,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

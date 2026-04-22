@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Sravya_Reddy07",
+      "profile": {
+        "ranking": 4503847,
+        "realName": "Sravya_Reddy07",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 16,
+            "submissions": 16
+          },
+          {
+            "difficulty": "Easy",
+            "count": 11,
+            "submissions": 11
+          },
+          {
+            "difficulty": "Medium",
+            "count": 5,
+            "submissions": 5
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1690.860346743935,
+      "globalRanking": 118628,
+      "topPercentage": 13.98
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8144,
+        "rating": 1562.21,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1603,
+        "rating": 1690.86,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

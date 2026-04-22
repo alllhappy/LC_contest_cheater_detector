@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Joey_Tribbianii",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "Joey_Tribbianii",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 10,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Easy",
+            "count": 2,
+            "submissions": 2
+          },
+          {
+            "difficulty": "Medium",
+            "count": 4,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1899.2169028834294,
+      "globalRanking": 36874,
+      "topPercentage": 4.4
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 9,
+        "rating": 2013.82,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 29120,
+        "rating": 1899.217,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

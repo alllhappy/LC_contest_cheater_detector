@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "MulagiriCharanTej",
+      "profile": {
+        "ranking": 3702376,
+        "realName": "Mulagiri Charan Tej",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 24,
+            "submissions": 37
+          },
+          {
+            "difficulty": "Easy",
+            "count": 18,
+            "submissions": 29
+          },
+          {
+            "difficulty": "Medium",
+            "count": 6,
+            "submissions": 8
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1423.506032636039,
+      "globalRanking": 629832,
+      "topPercentage": 73.11
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 32944,
+        "rating": 1354.861,
+        "contest": {
+          "title": "Weekly Contest 486",
+          "startTime": 1769308200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8523,
+        "rating": 1423.506,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "emiksre",
+      "profile": {
+        "ranking": 59690,
+        "realName": "Emir",
+        "countryName": "",
+        "postViewCount": 19,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 796,
+            "submissions": 1104
+          },
+          {
+            "difficulty": "Easy",
+            "count": 286,
+            "submissions": 418
+          },
+          {
+            "difficulty": "Medium",
+            "count": 387,
+            "submissions": 532
+          },
+          {
+            "difficulty": "Hard",
+            "count": 123,
+            "submissions": 154
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 6,
+      "rating": 1713.8300906723284,
+      "globalRanking": 104153,
+      "topPercentage": 12.29
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 13940,
+        "rating": 1492.839,
+        "contest": {
+          "title": "Biweekly Contest 174",
+          "startTime": 1768660200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 16538,
+        "rating": 1494.109,
+        "contest": {
+          "title": "Biweekly Contest 175",
+          "startTime": 1769869800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8959,
+        "rating": 1532.13,
+        "contest": {
+          "title": "Weekly Contest 487",
+          "startTime": 1769913000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4939,
+        "rating": 1589.718,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1186,
+        "rating": 1683.865,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4900,
+        "rating": 1713.83,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

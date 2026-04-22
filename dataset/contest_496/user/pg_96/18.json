@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ionsth12",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "ionsth12",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 3,
+            "submissions": 3
+          },
+          {
+            "difficulty": "Easy",
+            "count": 0,
+            "submissions": 0
+          },
+          {
+            "difficulty": "Medium",
+            "count": 3,
+            "submissions": 3
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1667.54150390625,
+      "globalRanking": 135339,
+      "topPercentage": 15.93
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2393,
+        "rating": 1667.542,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

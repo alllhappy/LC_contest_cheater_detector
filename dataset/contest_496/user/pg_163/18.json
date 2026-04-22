@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "S_Jeevapriya",
+      "profile": {
+        "ranking": 2099886,
+        "realName": "S_Jeevapriya",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 78,
+            "submissions": 81
+          },
+          {
+            "difficulty": "Easy",
+            "count": 30,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Medium",
+            "count": 39,
+            "submissions": 42
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1685.901637398188,
+      "globalRanking": 121963,
+      "topPercentage": 14.37
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11518,
+        "rating": 1540.358,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3647,
+        "rating": 1633.513,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4068,
+        "rating": 1685.902,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

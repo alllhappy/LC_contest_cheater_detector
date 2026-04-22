@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "archita_bhalotia",
+      "profile": {
+        "ranking": 1323543,
+        "realName": "archita_bhalotia",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 115,
+            "submissions": 212
+          },
+          {
+            "difficulty": "Easy",
+            "count": 49,
+            "submissions": 104
+          },
+          {
+            "difficulty": "Medium",
+            "count": 62,
+            "submissions": 102
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1463.4609819649856,
+      "globalRanking": 488690,
+      "topPercentage": 56.9
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 31227,
+        "rating": 1415.677,
+        "contest": {
+          "title": "Biweekly Contest 177",
+          "startTime": 1772289000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 21094,
+        "rating": 1408.852,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8844,
+        "rating": 1463.461,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

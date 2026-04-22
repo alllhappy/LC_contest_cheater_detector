@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "AJKAARTHICK",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "AJKAARTHICK",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 9,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Easy",
+            "count": 4,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Medium",
+            "count": 4,
+            "submissions": 5
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1621.5079458136308,
+      "globalRanking": 176372,
+      "topPercentage": 20.71
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4918,
+        "rating": 1617.079,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10921,
+        "rating": 1621.508,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

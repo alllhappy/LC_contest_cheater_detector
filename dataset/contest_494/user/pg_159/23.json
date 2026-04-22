@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "OtNzZiC8ea",
+      "profile": {
+        "ranking": 595504,
+        "realName": "OtNzZiC8ea",
+        "countryName": null,
+        "postViewCount": 10,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 244,
+            "submissions": 313
+          },
+          {
+            "difficulty": "Easy",
+            "count": 17,
+            "submissions": 21
+          },
+          {
+            "difficulty": "Medium",
+            "count": 108,
+            "submissions": 137
+          },
+          {
+            "difficulty": "Hard",
+            "count": 119,
+            "submissions": 155
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1535.0723008647717,
+      "globalRanking": 299312,
+      "topPercentage": 35.0
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 34498,
+        "rating": 1414.59,
+        "contest": {
+          "title": "Biweekly Contest 162",
+          "startTime": 1754145000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3974,
+        "rating": 1535.072,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

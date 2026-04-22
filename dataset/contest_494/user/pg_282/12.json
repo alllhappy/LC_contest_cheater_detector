@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "coutkaustubh",
+      "profile": {
+        "ranking": 792681,
+        "realName": "Kaustubh Srivastava",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 193,
+            "submissions": 287
+          },
+          {
+            "difficulty": "Easy",
+            "count": 72,
+            "submissions": 92
+          },
+          {
+            "difficulty": "Medium",
+            "count": 108,
+            "submissions": 172
+          },
+          {
+            "difficulty": "Hard",
+            "count": 13,
+            "submissions": 23
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1670.6296419515488,
+      "globalRanking": 132957,
+      "topPercentage": 15.65
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2399,
+        "rating": 1644.373,
+        "contest": {
+          "title": "Weekly Contest 467",
+          "startTime": 1757817000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 8288,
+        "rating": 1643.54,
+        "contest": {
+          "title": "Weekly Contest 469",
+          "startTime": 1759026600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7038,
+        "rating": 1670.63,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

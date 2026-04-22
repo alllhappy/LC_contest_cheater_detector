@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "mafia121",
+      "profile": {
+        "ranking": 1583689,
+        "realName": "mafia121",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 93,
+            "submissions": 109
+          },
+          {
+            "difficulty": "Easy",
+            "count": 59,
+            "submissions": 64
+          },
+          {
+            "difficulty": "Medium",
+            "count": 32,
+            "submissions": 43
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1642.0526504516602,
+      "globalRanking": 156542,
+      "topPercentage": 18.4
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3548,
+        "rating": 1642.053,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

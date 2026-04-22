@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "punamchaurasia",
+      "profile": {
+        "ranking": 648486,
+        "realName": "punamchaurasia",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 230,
+            "submissions": 252
+          },
+          {
+            "difficulty": "Easy",
+            "count": 93,
+            "submissions": 105
+          },
+          {
+            "difficulty": "Medium",
+            "count": 119,
+            "submissions": 128
+          },
+          {
+            "difficulty": "Hard",
+            "count": 18,
+            "submissions": 19
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1715.057373046875,
+      "globalRanking": 103365,
+      "topPercentage": 12.19
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1276,
+        "rating": 1715.057,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

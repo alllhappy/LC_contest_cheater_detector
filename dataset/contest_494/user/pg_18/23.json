@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "daksh_purrrnami",
+      "profile": {
+        "ranking": 543898,
+        "realName": "daksh_purrrnami",
+        "countryName": "India",
+        "postViewCount": 2,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 262,
+            "submissions": 416
+          },
+          {
+            "difficulty": "Easy",
+            "count": 77,
+            "submissions": 151
+          },
+          {
+            "difficulty": "Medium",
+            "count": 153,
+            "submissions": 223
+          },
+          {
+            "difficulty": "Hard",
+            "count": 32,
+            "submissions": 42
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1780.4638207493833,
+      "globalRanking": 72520,
+      "topPercentage": 8.59
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4499,
+        "rating": 1597.718,
+        "contest": {
+          "title": "Biweekly Contest 163",
+          "startTime": 1755354600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 449,
+        "rating": 1780.464,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

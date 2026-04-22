@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Menyy1126",
+      "profile": {
+        "ranking": 1482565,
+        "realName": "Menyy1126",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 101,
+            "submissions": 114
+          },
+          {
+            "difficulty": "Easy",
+            "count": 40,
+            "submissions": 44
+          },
+          {
+            "difficulty": "Medium",
+            "count": 47,
+            "submissions": 54
+          },
+          {
+            "difficulty": "Hard",
+            "count": 14,
+            "submissions": 16
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1520.3378752819979,
+      "globalRanking": 329353,
+      "topPercentage": 38.49
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 25298,
+        "rating": 1443.086,
+        "contest": {
+          "title": "Biweekly Contest 175",
+          "startTime": 1769869800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 41288,
+        "rating": 1384.097,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2115,
+        "rating": 1520.338,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

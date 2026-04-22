@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "NenuNani",
+      "profile": {
+        "ranking": 774075,
+        "realName": "NenuNani",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 198,
+            "submissions": 296
+          },
+          {
+            "difficulty": "Easy",
+            "count": 80,
+            "submissions": 130
+          },
+          {
+            "difficulty": "Medium",
+            "count": 97,
+            "submissions": 143
+          },
+          {
+            "difficulty": "Hard",
+            "count": 21,
+            "submissions": 23
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1602.8775715460526,
+      "globalRanking": 196930,
+      "topPercentage": 23.1
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 38560,
+        "rating": 1415.514,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1140,
+        "rating": 1602.878,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

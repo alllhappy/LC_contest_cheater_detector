@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "manthan9408",
+      "profile": {
+        "ranking": 3632100,
+        "realName": "manthan9408",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 25,
+            "submissions": 29
+          },
+          {
+            "difficulty": "Easy",
+            "count": 19,
+            "submissions": 22
+          },
+          {
+            "difficulty": "Medium",
+            "count": 4,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1594.3932784231085,
+      "globalRanking": 206898,
+      "topPercentage": 24.26
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 37088,
+        "rating": 1413.222,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1253,
+        "rating": 1594.393,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

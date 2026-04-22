@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "chaithra_006_",
+      "profile": {
+        "ranking": 924504,
+        "realName": "Chaithra M",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 167,
+            "submissions": 342
+          },
+          {
+            "difficulty": "Easy",
+            "count": 100,
+            "submissions": 231
+          },
+          {
+            "difficulty": "Medium",
+            "count": 56,
+            "submissions": 99
+          },
+          {
+            "difficulty": "Hard",
+            "count": 11,
+            "submissions": 12
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1429.038396879172,
+      "globalRanking": 613596,
+      "topPercentage": 71.25
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 30738,
+        "rating": 1411.729,
+        "contest": {
+          "title": "Biweekly Contest 125",
+          "startTime": 1709389800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 31081,
+        "rating": 1354.096,
+        "contest": {
+          "title": "Biweekly Contest 164",
+          "startTime": 1756564200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7743,
+        "rating": 1429.038,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

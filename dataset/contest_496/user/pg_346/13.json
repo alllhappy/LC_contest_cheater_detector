@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "mysterymindz",
+      "profile": {
+        "ranking": 3303742,
+        "realName": "MysteryMindz",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 30,
+            "submissions": 39
+          },
+          {
+            "difficulty": "Easy",
+            "count": 26,
+            "submissions": 35
+          },
+          {
+            "difficulty": "Medium",
+            "count": 4,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1561.208724975586,
+      "globalRanking": 253558,
+      "topPercentage": 29.69
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8638,
+        "rating": 1561.209,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

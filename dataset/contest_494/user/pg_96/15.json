@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Khushal_codesX",
+      "profile": {
+        "ranking": 783527,
+        "realName": "Khushal_codesX",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 195,
+            "submissions": 217
+          },
+          {
+            "difficulty": "Easy",
+            "count": 52,
+            "submissions": 58
+          },
+          {
+            "difficulty": "Medium",
+            "count": 119,
+            "submissions": 134
+          },
+          {
+            "difficulty": "Hard",
+            "count": 24,
+            "submissions": 25
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1764.8879889247419,
+      "globalRanking": 78632,
+      "topPercentage": 9.3
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2391,
+        "rating": 1671.304,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6741,
+        "rating": 1692.886,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2166,
+        "rating": 1764.888,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

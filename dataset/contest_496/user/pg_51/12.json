@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "P_tejaswini_20",
+      "profile": {
+        "ranking": 2452579,
+        "realName": "P_tejaswini_20",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 50,
+            "submissions": 79
+          },
+          {
+            "difficulty": "Easy",
+            "count": 27,
+            "submissions": 43
+          },
+          {
+            "difficulty": "Medium",
+            "count": 18,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1594.6954259418687,
+      "globalRanking": 206554,
+      "topPercentage": 24.22
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 27992,
+        "rating": 1414.158,
+        "contest": {
+          "title": "Weekly Contest 476",
+          "startTime": 1763260200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1262,
+        "rating": 1594.695,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

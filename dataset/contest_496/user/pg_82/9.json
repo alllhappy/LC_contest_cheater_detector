@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "GV2023005432",
+      "profile": {
+        "ranking": 1178108,
+        "realName": "AlgoGeekAdi",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 131,
+            "submissions": 144
+          },
+          {
+            "difficulty": "Easy",
+            "count": 55,
+            "submissions": 65
+          },
+          {
+            "difficulty": "Medium",
+            "count": 57,
+            "submissions": 60
+          },
+          {
+            "difficulty": "Hard",
+            "count": 19,
+            "submissions": 19
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1920.3727622857548,
+      "globalRanking": 32356,
+      "topPercentage": 3.87
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1264,
+        "rating": 1695.502,
+        "contest": {
+          "title": "Weekly Contest 481",
+          "startTime": 1766284200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 189,
+        "rating": 1881.532,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2034,
+        "rating": 1920.373,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

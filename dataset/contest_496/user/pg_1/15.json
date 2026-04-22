@@ -1,0 +1,112 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "smurfs101",
+      "profile": {
+        "ranking": 1410781,
+        "realName": "smurfs101",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 107,
+            "submissions": 109
+          },
+          {
+            "difficulty": "Easy",
+            "count": 18,
+            "submissions": 19
+          },
+          {
+            "difficulty": "Medium",
+            "count": 56,
+            "submissions": 57
+          },
+          {
+            "difficulty": "Hard",
+            "count": 33,
+            "submissions": 33
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 6,
+      "rating": 2502.4620565103287,
+      "globalRanking": 1621,
+      "topPercentage": 0.2
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 27,
+        "rating": 1944.426,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 146,
+        "rating": 2086.477,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 40,
+        "rating": 2236.748,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 96,
+        "rating": 2312.302,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 50,
+        "rating": 2400.014,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 16,
+        "rating": 2502.462,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

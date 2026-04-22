@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "pavithraNagineni",
+      "profile": {
+        "ranking": 135482,
+        "realName": "Pavithra Nagineni",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 579,
+            "submissions": 640
+          },
+          {
+            "difficulty": "Easy",
+            "count": 182,
+            "submissions": 211
+          },
+          {
+            "difficulty": "Medium",
+            "count": 306,
+            "submissions": 329
+          },
+          {
+            "difficulty": "Hard",
+            "count": 91,
+            "submissions": 100
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1599.4209306070122,
+      "globalRanking": 200808,
+      "topPercentage": 23.55
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 15715,
+        "rating": 1509.41,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 21233,
+        "rating": 1491.547,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2422,
+        "rating": 1599.421,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

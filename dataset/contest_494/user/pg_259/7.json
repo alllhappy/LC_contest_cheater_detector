@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "drunkshuchieh",
+      "profile": {
+        "ranking": 2340297,
+        "realName": "drunkshuchieh",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 53,
+            "submissions": 68
+          },
+          {
+            "difficulty": "Easy",
+            "count": 12,
+            "submissions": 20
+          },
+          {
+            "difficulty": "Medium",
+            "count": 31,
+            "submissions": 36
+          },
+          {
+            "difficulty": "Hard",
+            "count": 10,
+            "submissions": 12
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1655.1075667877503,
+      "globalRanking": 145124,
+      "topPercentage": 17.07
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6458,
+        "rating": 1593.819,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 12352,
+        "rating": 1599.852,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4373,
+        "rating": 1655.108,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "pragativ07",
+      "profile": {
+        "ranking": 265726,
+        "realName": "pragativ07",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 415,
+            "submissions": 615
+          },
+          {
+            "difficulty": "Easy",
+            "count": 114,
+            "submissions": 200
+          },
+          {
+            "difficulty": "Medium",
+            "count": 244,
+            "submissions": 350
+          },
+          {
+            "difficulty": "Hard",
+            "count": 57,
+            "submissions": 65
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1476.5624446636743,
+      "globalRanking": 445593,
+      "topPercentage": 51.94
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 38734,
+        "rating": 1354.861,
+        "contest": {
+          "title": "Weekly Contest 486",
+          "startTime": 1769308200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 11273,
+        "rating": 1406.083,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6446,
+        "rating": 1476.562,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

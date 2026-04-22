@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "IshitaSingh_08",
+      "profile": {
+        "ranking": 3085828,
+        "realName": "IshitaSingh_08",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 35,
+            "submissions": 37
+          },
+          {
+            "difficulty": "Easy",
+            "count": 9,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Medium",
+            "count": 20,
+            "submissions": 22
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1902.16021791405,
+      "globalRanking": 36189,
+      "topPercentage": 4.32
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 431,
+        "rating": 1762.782,
+        "contest": {
+          "title": "Weekly Contest 480",
+          "startTime": 1765679400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1894,
+        "rating": 1835.138,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1225,
+        "rating": 1902.16,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

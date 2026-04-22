@@ -1,0 +1,123 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "finityfly",
+      "profile": {
+        "ranking": 590077,
+        "realName": "kimchaewon",
+        "countryName": "Canada",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 245,
+            "submissions": 466
+          },
+          {
+            "difficulty": "Easy",
+            "count": 80,
+            "submissions": 132
+          },
+          {
+            "difficulty": "Medium",
+            "count": 130,
+            "submissions": 264
+          },
+          {
+            "difficulty": "Hard",
+            "count": 35,
+            "submissions": 70
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 7,
+      "rating": 1905.5427407826194,
+      "globalRanking": 35395,
+      "topPercentage": 4.23
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3495,
+        "rating": 1613.256,
+        "contest": {
+          "title": "Biweekly Contest 154",
+          "startTime": 1744468200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 3606,
+        "rating": 1662.652,
+        "contest": {
+          "title": "Weekly Contest 445",
+          "startTime": 1744511400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 7289,
+        "rating": 1650.234,
+        "contest": {
+          "title": "Biweekly Contest 156",
+          "startTime": 1746887400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 3125,
+        "rating": 1689.758,
+        "contest": {
+          "title": "Weekly Contest 450",
+          "startTime": 1747535400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 915,
+        "rating": 1780.429,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 966,
+        "rating": 1850.868,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1096,
+        "rating": 1905.543,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

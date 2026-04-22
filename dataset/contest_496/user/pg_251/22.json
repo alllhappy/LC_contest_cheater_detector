@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "sneha_1120",
+      "profile": {
+        "ranking": 925203,
+        "realName": "sneha_1120",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 167,
+            "submissions": 230
+          },
+          {
+            "difficulty": "Easy",
+            "count": 73,
+            "submissions": 108
+          },
+          {
+            "difficulty": "Medium",
+            "count": 87,
+            "submissions": 113
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1513.8682230355546,
+      "globalRanking": 343539,
+      "topPercentage": 40.14
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 35435,
+        "rating": 1413.208,
+        "contest": {
+          "title": "Weekly Contest 489",
+          "startTime": 1771122600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13927,
+        "rating": 1446.712,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6272,
+        "rating": 1513.868,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "antkhorin",
+      "profile": {
+        "ranking": 666118,
+        "realName": "antkhorin",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 243,
+            "submissions": 299
+          },
+          {
+            "difficulty": "Easy",
+            "count": 66,
+            "submissions": 71
+          },
+          {
+            "difficulty": "Medium",
+            "count": 135,
+            "submissions": 167
+          },
+          {
+            "difficulty": "Hard",
+            "count": 42,
+            "submissions": 61
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1632.436752319336,
+      "globalRanking": 165524,
+      "topPercentage": 19.45
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3794,
+        "rating": 1632.437,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

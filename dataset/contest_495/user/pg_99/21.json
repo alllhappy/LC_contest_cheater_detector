@@ -1,0 +1,101 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "UmarAhmed30",
+      "profile": {
+        "ranking": 226565,
+        "realName": "Umar Ahmed T",
+        "countryName": "United States",
+        "postViewCount": 106,
+        "reputation": 3
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 452,
+            "submissions": 2011
+          },
+          {
+            "difficulty": "Easy",
+            "count": 155,
+            "submissions": 643
+          },
+          {
+            "difficulty": "Medium",
+            "count": 257,
+            "submissions": 1215
+          },
+          {
+            "difficulty": "Hard",
+            "count": 40,
+            "submissions": 153
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 5,
+      "rating": 1720.7557262128626,
+      "globalRanking": 100185,
+      "topPercentage": 11.82
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3442,
+        "rating": 1640.13,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 14203,
+        "rating": 1626.905,
+        "contest": {
+          "title": "Weekly Contest 489",
+          "startTime": 1771122600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3972,
+        "rating": 1681.472,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 16301,
+        "rating": 1659.903,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2471,
+        "rating": 1720.756,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

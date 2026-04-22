@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "pratyush112",
+      "profile": {
+        "ranking": 491930,
+        "realName": "Akagami_No_Shanks",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 285,
+            "submissions": 495
+          },
+          {
+            "difficulty": "Easy",
+            "count": 72,
+            "submissions": 133
+          },
+          {
+            "difficulty": "Medium",
+            "count": 174,
+            "submissions": 294
+          },
+          {
+            "difficulty": "Hard",
+            "count": 39,
+            "submissions": 68
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1599.1101183772992,
+      "globalRanking": 201188,
+      "topPercentage": 23.6
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 12100,
+        "rating": 1495.78,
+        "contest": {
+          "title": "Biweekly Contest 169",
+          "startTime": 1762612200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 14711,
+        "rating": 1508.31,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3055,
+        "rating": 1599.11,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

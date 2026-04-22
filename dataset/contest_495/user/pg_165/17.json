@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "KRSNA_CODER",
+      "profile": {
+        "ranking": 360569,
+        "realName": "KRSNA_CODER",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 346,
+            "submissions": 526
+          },
+          {
+            "difficulty": "Easy",
+            "count": 72,
+            "submissions": 94
+          },
+          {
+            "difficulty": "Medium",
+            "count": 160,
+            "submissions": 279
+          },
+          {
+            "difficulty": "Hard",
+            "count": 114,
+            "submissions": 153
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1828.121821604282,
+      "globalRanking": 56673,
+      "topPercentage": 6.72
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6061,
+        "rating": 1597.652,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 217,
+        "rating": 1802.817,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4117,
+        "rating": 1828.122,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

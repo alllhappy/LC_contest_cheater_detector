@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "GM-10",
+      "profile": {
+        "ranking": 1054208,
+        "realName": "GM-10",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 147,
+            "submissions": 182
+          },
+          {
+            "difficulty": "Easy",
+            "count": 78,
+            "submissions": 101
+          },
+          {
+            "difficulty": "Medium",
+            "count": 67,
+            "submissions": 79
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1467.8950810679844,
+      "globalRanking": 473760,
+      "topPercentage": 55.19
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 22829,
+        "rating": 1458.61,
+        "contest": {
+          "title": "Biweekly Contest 175",
+          "startTime": 1769869800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 30936,
+        "rating": 1397.224,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7096,
+        "rating": 1467.895,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

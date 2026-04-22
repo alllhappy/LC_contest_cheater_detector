@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "anvig29",
+      "profile": {
+        "ranking": 305274,
+        "realName": "Anvi Amrendra Gautam",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 384,
+            "submissions": 491
+          },
+          {
+            "difficulty": "Easy",
+            "count": 118,
+            "submissions": 156
+          },
+          {
+            "difficulty": "Medium",
+            "count": 203,
+            "submissions": 253
+          },
+          {
+            "difficulty": "Hard",
+            "count": 63,
+            "submissions": 82
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1638.1395411126061,
+      "globalRanking": 160121,
+      "topPercentage": 18.82
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1112,
+        "rating": 1724.287,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 26875,
+        "rating": 1644.155,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 13061,
+        "rating": 1638.14,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

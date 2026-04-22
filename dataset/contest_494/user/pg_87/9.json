@@ -1,0 +1,112 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "shreya_analyst",
+      "profile": {
+        "ranking": 908664,
+        "realName": "Shreya Gupta",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 172,
+            "submissions": 188
+          },
+          {
+            "difficulty": "Easy",
+            "count": 69,
+            "submissions": 75
+          },
+          {
+            "difficulty": "Medium",
+            "count": 74,
+            "submissions": 82
+          },
+          {
+            "difficulty": "Hard",
+            "count": 29,
+            "submissions": 31
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 7,
+      "rating": 1769.0701750950766,
+      "globalRanking": 76919,
+      "topPercentage": 9.1
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 482,
+        "rating": 1896.659,
+        "contest": {
+          "title": "Weekly Contest 486",
+          "startTime": 1769308200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 39004,
+        "rating": 1811.21,
+        "contest": {
+          "title": "Weekly Contest 487",
+          "startTime": 1769913000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 14851,
+        "rating": 1779.181,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 13646,
+        "rating": 1758.465,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2160,
+        "rating": 1806.351,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 17001,
+        "rating": 1769.07,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

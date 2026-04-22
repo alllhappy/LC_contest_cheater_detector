@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "No_Comments",
+      "profile": {
+        "ranking": 1405529,
+        "realName": "No_Comments",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 109,
+            "submissions": 145
+          },
+          {
+            "difficulty": "Easy",
+            "count": 19,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Medium",
+            "count": 55,
+            "submissions": 73
+          },
+          {
+            "difficulty": "Hard",
+            "count": 35,
+            "submissions": 42
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1483.7196239463403,
+      "globalRanking": 424073,
+      "topPercentage": 49.46
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 18117,
+        "rating": 1412.232,
+        "contest": {
+          "title": "Biweekly Contest 88",
+          "startTime": 1664634600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8641,
+        "rating": 1483.72,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

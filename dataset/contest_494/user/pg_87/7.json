@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "VinaySurwase",
+      "profile": {
+        "ranking": 1771536,
+        "realName": "VinaySurwase",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 80,
+            "submissions": 87
+          },
+          {
+            "difficulty": "Easy",
+            "count": 25,
+            "submissions": 29
+          },
+          {
+            "difficulty": "Medium",
+            "count": 41,
+            "submissions": 43
+          },
+          {
+            "difficulty": "Hard",
+            "count": 14,
+            "submissions": 15
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1690.6580043402867,
+      "globalRanking": 118754,
+      "topPercentage": 13.99
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 9856,
+        "rating": 1527.935,
+        "contest": {
+          "title": "Biweekly Contest 163",
+          "startTime": 1755354600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5328,
+        "rating": 1600.977,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2158,
+        "rating": 1690.658,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

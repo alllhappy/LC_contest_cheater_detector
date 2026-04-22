@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "arupispro",
+      "profile": {
+        "ranking": 267136,
+        "realName": "Arup Mishra",
+        "countryName": null,
+        "postViewCount": 5,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 414,
+            "submissions": 635
+          },
+          {
+            "difficulty": "Easy",
+            "count": 116,
+            "submissions": 172
+          },
+          {
+            "difficulty": "Medium",
+            "count": 232,
+            "submissions": 364
+          },
+          {
+            "difficulty": "Hard",
+            "count": 66,
+            "submissions": 99
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1618.633370650442,
+      "globalRanking": 179382,
+      "topPercentage": 21.06
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8681,
+        "rating": 1572.49,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7161,
+        "rating": 1618.633,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "trungngonptit",
+      "profile": {
+        "ranking": 43868,
+        "realName": "Ngon Nguyen",
+        "countryName": "Vietnam",
+        "postViewCount": 0,
+        "reputation": 2
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 881,
+            "submissions": 1309
+          },
+          {
+            "difficulty": "Easy",
+            "count": 275,
+            "submissions": 434
+          },
+          {
+            "difficulty": "Medium",
+            "count": 487,
+            "submissions": 735
+          },
+          {
+            "difficulty": "Hard",
+            "count": 119,
+            "submissions": 140
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1794.2248987480432,
+      "globalRanking": 67502,
+      "topPercentage": 8.0
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8125,
+        "rating": 1556.943,
+        "contest": {
+          "title": "Weekly Contest 404",
+          "startTime": 1719714600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 972,
+        "rating": 1714.853,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1551,
+        "rating": 1794.225,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

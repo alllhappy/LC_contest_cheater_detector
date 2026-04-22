@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "pankaj_81",
+      "profile": {
+        "ranking": 1412687,
+        "realName": "pankaj gupta",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 106,
+            "submissions": 132
+          },
+          {
+            "difficulty": "Easy",
+            "count": 39,
+            "submissions": 43
+          },
+          {
+            "difficulty": "Medium",
+            "count": 59,
+            "submissions": 80
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1508.0723009611431,
+      "globalRanking": 357175,
+      "topPercentage": 41.72
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7836,
+        "rating": 1576.861,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 23645,
+        "rating": 1508.072,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

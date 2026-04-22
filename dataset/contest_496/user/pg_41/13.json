@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Nish__2408",
+      "profile": {
+        "ranking": 1399519,
+        "realName": "Nish__2408",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 108,
+            "submissions": 152
+          },
+          {
+            "difficulty": "Easy",
+            "count": 54,
+            "submissions": 77
+          },
+          {
+            "difficulty": "Medium",
+            "count": 46,
+            "submissions": 66
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1576.9386310564685,
+      "globalRanking": 230020,
+      "topPercentage": 26.96
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 21593,
+        "rating": 1447.437,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 24235,
+        "rating": 1416.062,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1013,
+        "rating": 1576.939,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

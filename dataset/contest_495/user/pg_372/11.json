@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "mruchithareddy",
+      "profile": {
+        "ranking": 2730128,
+        "realName": "mruchithareddy",
+        "countryName": null,
+        "postViewCount": 2,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 42,
+            "submissions": 53
+          },
+          {
+            "difficulty": "Easy",
+            "count": 25,
+            "submissions": 29
+          },
+          {
+            "difficulty": "Medium",
+            "count": 12,
+            "submissions": 19
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 5
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1561.8352890014648,
+      "globalRanking": 252559,
+      "topPercentage": 29.58
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9286,
+        "rating": 1561.835,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

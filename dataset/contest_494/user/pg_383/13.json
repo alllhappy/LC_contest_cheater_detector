@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "srj42",
+      "profile": {
+        "ranking": 2517061,
+        "realName": "srj42",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 48,
+            "submissions": 51
+          },
+          {
+            "difficulty": "Easy",
+            "count": 17,
+            "submissions": 17
+          },
+          {
+            "difficulty": "Medium",
+            "count": 27,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1558.4163665771484,
+      "globalRanking": 258055,
+      "topPercentage": 30.22
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9564,
+        "rating": 1558.416,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

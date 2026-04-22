@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Prajesh_Kumar",
+      "profile": {
+        "ranking": 2144254,
+        "realName": "Prajesh_Kumar",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 67,
+            "submissions": 74
+          },
+          {
+            "difficulty": "Easy",
+            "count": 52,
+            "submissions": 57
+          },
+          {
+            "difficulty": "Medium",
+            "count": 13,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1747.2724914550781,
+      "globalRanking": 86655,
+      "topPercentage": 10.24
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 754,
+        "rating": 1747.272,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

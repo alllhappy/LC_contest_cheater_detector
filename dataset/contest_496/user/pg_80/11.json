@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "a_chandak05",
+      "profile": {
+        "ranking": 1313046,
+        "realName": "Carnation05",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 116,
+            "submissions": 139
+          },
+          {
+            "difficulty": "Easy",
+            "count": 29,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Medium",
+            "count": 69,
+            "submissions": 80
+          },
+          {
+            "difficulty": "Hard",
+            "count": 18,
+            "submissions": 19
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1681.0941696166992,
+      "globalRanking": 125346,
+      "topPercentage": 14.76
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1986,
+        "rating": 1681.094,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

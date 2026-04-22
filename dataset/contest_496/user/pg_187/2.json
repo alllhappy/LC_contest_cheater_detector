@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Akash_9313",
+      "profile": {
+        "ranking": 2582884,
+        "realName": "Akash_9313",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 46,
+            "submissions": 47
+          },
+          {
+            "difficulty": "Easy",
+            "count": 24,
+            "submissions": 25
+          },
+          {
+            "difficulty": "Medium",
+            "count": 18,
+            "submissions": 18
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1665.826750468763,
+      "globalRanking": 136626,
+      "topPercentage": 16.08
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4039,
+        "rating": 1632.062,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 15080,
+        "rating": 1616.733,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4652,
+        "rating": 1665.827,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

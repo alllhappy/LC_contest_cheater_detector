@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Ilya_Kuzin_drug",
+      "profile": {
+        "ranking": 504661,
+        "realName": "Ilya_Kuzin_drug",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 276,
+            "submissions": 351
+          },
+          {
+            "difficulty": "Easy",
+            "count": 122,
+            "submissions": 179
+          },
+          {
+            "difficulty": "Medium",
+            "count": 112,
+            "submissions": 127
+          },
+          {
+            "difficulty": "Hard",
+            "count": 42,
+            "submissions": 45
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1519.8076147782176,
+      "globalRanking": 330531,
+      "topPercentage": 38.63
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8521,
+        "rating": 1569.237,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 22109,
+        "rating": 1519.808,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

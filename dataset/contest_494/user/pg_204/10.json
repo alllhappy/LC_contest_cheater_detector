@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "osPuOVZsd1",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "osPuOVZsd1",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 11,
+            "submissions": 16
+          },
+          {
+            "difficulty": "Easy",
+            "count": 5,
+            "submissions": 8
+          },
+          {
+            "difficulty": "Medium",
+            "count": 6,
+            "submissions": 8
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1585.7537019896079,
+      "globalRanking": 217995,
+      "topPercentage": 25.56
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5086,
+        "rating": 1613.729,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 17044,
+        "rating": 1592.109,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 13663,
+        "rating": 1585.754,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

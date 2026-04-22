@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Ab_mahin",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "Ab_mahin",
+        "countryName": "Bangladesh",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 5,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 1
+          },
+          {
+            "difficulty": "Medium",
+            "count": 3,
+            "submissions": 3
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1651.3595581054688,
+      "globalRanking": 148352,
+      "topPercentage": 17.45
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3162,
+        "rating": 1651.36,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

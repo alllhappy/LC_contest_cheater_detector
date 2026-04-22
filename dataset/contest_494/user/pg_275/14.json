@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Divine",
+      "profile": {
+        "ranking": 117953,
+        "realName": "Divine",
+        "countryName": null,
+        "postViewCount": 115,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 614,
+            "submissions": 2236
+          },
+          {
+            "difficulty": "Easy",
+            "count": 154,
+            "submissions": 506
+          },
+          {
+            "difficulty": "Medium",
+            "count": 361,
+            "submissions": 1310
+          },
+          {
+            "difficulty": "Hard",
+            "count": 99,
+            "submissions": 420
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1588.5486602783203,
+      "globalRanking": 214256,
+      "topPercentage": 25.12
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6865,
+        "rating": 1588.549,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

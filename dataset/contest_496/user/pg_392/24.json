@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "amresh_mnnit",
+      "profile": {
+        "ranking": 330876,
+        "realName": "amresh123",
+        "countryName": "",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 365,
+            "submissions": 434
+          },
+          {
+            "difficulty": "Easy",
+            "count": 147,
+            "submissions": 179
+          },
+          {
+            "difficulty": "Medium",
+            "count": 207,
+            "submissions": 244
+          },
+          {
+            "difficulty": "Hard",
+            "count": 11,
+            "submissions": 11
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1515.3309304183765,
+      "globalRanking": 340279,
+      "topPercentage": 39.76
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 13869,
+        "rating": 1493.451,
+        "contest": {
+          "title": "Biweekly Contest 174",
+          "startTime": 1768660200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 19560,
+        "rating": 1481.668,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9799,
+        "rating": 1515.331,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

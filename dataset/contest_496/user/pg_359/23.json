@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Chirag_9935",
+      "profile": {
+        "ranking": 1154106,
+        "realName": "Chirag_9935",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 134,
+            "submissions": 162
+          },
+          {
+            "difficulty": "Easy",
+            "count": 41,
+            "submissions": 47
+          },
+          {
+            "difficulty": "Medium",
+            "count": 77,
+            "submissions": 91
+          },
+          {
+            "difficulty": "Hard",
+            "count": 16,
+            "submissions": 24
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1487.9231398936354,
+      "globalRanking": 411969,
+      "topPercentage": 48.06
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13926,
+        "rating": 1505.033,
+        "contest": {
+          "title": "Biweekly Contest 177",
+          "startTime": 1772289000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 37556,
+        "rating": 1440.761,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8973,
+        "rating": 1487.923,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

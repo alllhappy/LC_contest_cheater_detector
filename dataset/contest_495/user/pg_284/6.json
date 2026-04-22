@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "gauri_jnv_1525",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "gauri_jnv_1525",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 3,
+            "submissions": 3
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 1
+          },
+          {
+            "difficulty": "Medium",
+            "count": 1,
+            "submissions": 1
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1586.477279663086,
+      "globalRanking": 217020,
+      "topPercentage": 25.44
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7081,
+        "rating": 1586.477,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

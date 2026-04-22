@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ZMNM9u9x25",
+      "profile": {
+        "ranking": 693290,
+        "realName": "Avinash Verma",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 216,
+            "submissions": 316
+          },
+          {
+            "difficulty": "Easy",
+            "count": 69,
+            "submissions": 111
+          },
+          {
+            "difficulty": "Medium",
+            "count": 122,
+            "submissions": 171
+          },
+          {
+            "difficulty": "Hard",
+            "count": 25,
+            "submissions": 34
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1934.9375273052015,
+      "globalRanking": 29728,
+      "topPercentage": 3.56
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 380,
+        "rating": 1793.355,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 384,
+        "rating": 1934.938,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

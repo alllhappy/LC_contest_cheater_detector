@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "I-AM-ANDROID-DEV",
+      "profile": {
+        "ranking": 1637797,
+        "realName": "I-AM-ANDROID-DEV",
+        "countryName": "India",
+        "postViewCount": 131,
+        "reputation": 4
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 89,
+            "submissions": 108
+          },
+          {
+            "difficulty": "Easy",
+            "count": 44,
+            "submissions": 52
+          },
+          {
+            "difficulty": "Medium",
+            "count": 43,
+            "submissions": 54
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1509.248726211037,
+      "globalRanking": 354335,
+      "topPercentage": 41.39
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 19144,
+        "rating": 1463.825,
+        "contest": {
+          "title": "Biweekly Contest 177",
+          "startTime": 1772289000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 16768,
+        "rating": 1465.349,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 22328,
+        "rating": 1452.063,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6995,
+        "rating": 1509.249,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

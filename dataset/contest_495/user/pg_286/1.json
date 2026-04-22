@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "R0fOrt423O",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "R0fOrt423O",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 2,
+            "submissions": 2
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 1
+          },
+          {
+            "difficulty": "Medium",
+            "count": 1,
+            "submissions": 1
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1585.9193801879883,
+      "globalRanking": 217752,
+      "topPercentage": 25.53
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7126,
+        "rating": 1585.919,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

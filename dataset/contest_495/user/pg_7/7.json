@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "zH1gYIkv15",
+      "profile": {
+        "ranking": 1388587,
+        "realName": "prstyaDev",
+        "countryName": "Indonesia",
+        "postViewCount": 317,
+        "reputation": 11
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 109,
+            "submissions": 122
+          },
+          {
+            "difficulty": "Easy",
+            "count": 42,
+            "submissions": 51
+          },
+          {
+            "difficulty": "Medium",
+            "count": 49,
+            "submissions": 52
+          },
+          {
+            "difficulty": "Hard",
+            "count": 18,
+            "submissions": 19
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 2162.958807185997,
+      "globalRanking": 9062,
+      "topPercentage": 1.1
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 145,
+        "rating": 1836.731,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 158,
+        "rating": 2009.258,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 51,
+        "rating": 2162.959,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

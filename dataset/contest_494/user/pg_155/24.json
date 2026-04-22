@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Alpha-Zero",
+      "profile": {
+        "ranking": 2056420,
+        "realName": "Alpha-Zero",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 65,
+            "submissions": 76
+          },
+          {
+            "difficulty": "Easy",
+            "count": 27,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Medium",
+            "count": 37,
+            "submissions": 45
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1635.2806091308594,
+      "globalRanking": 162830,
+      "topPercentage": 19.14
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3875,
+        "rating": 1635.281,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

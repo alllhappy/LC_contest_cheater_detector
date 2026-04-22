@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Adarshs45",
+      "profile": {
+        "ranking": 1213026,
+        "realName": "Adarshs45",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 129,
+            "submissions": 167
+          },
+          {
+            "difficulty": "Easy",
+            "count": 68,
+            "submissions": 86
+          },
+          {
+            "difficulty": "Medium",
+            "count": 55,
+            "submissions": 73
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1703.4010680654221,
+      "globalRanking": 110539,
+      "topPercentage": 13.03
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 17287,
+        "rating": 1494.73,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4315,
+        "rating": 1589.996,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1237,
+        "rating": 1703.401,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

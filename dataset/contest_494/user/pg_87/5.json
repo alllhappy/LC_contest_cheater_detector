@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "rahuljha0117",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "rahuljha0117",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 10,
+            "submissions": 11
+          },
+          {
+            "difficulty": "Easy",
+            "count": 2,
+            "submissions": 2
+          },
+          {
+            "difficulty": "Medium",
+            "count": 8,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1704.076031679564,
+      "globalRanking": 110076,
+      "topPercentage": 12.98
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3440,
+        "rating": 1612.905,
+        "contest": {
+          "title": "Weekly Contest 457",
+          "startTime": 1751769000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8065,
+        "rating": 1617.68,
+        "contest": {
+          "title": "Weekly Contest 458",
+          "startTime": 1752373800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2156,
+        "rating": 1704.076,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

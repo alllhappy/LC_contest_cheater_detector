@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "santhoshmb84",
+      "profile": {
+        "ranking": 1621398,
+        "realName": "santhoshmb08",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 96,
+            "submissions": 177
+          },
+          {
+            "difficulty": "Easy",
+            "count": 42,
+            "submissions": 77
+          },
+          {
+            "difficulty": "Medium",
+            "count": 45,
+            "submissions": 82
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 18
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1817.9623415119088,
+      "globalRanking": 59630,
+      "topPercentage": 7.07
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 37,
+        "rating": 1932.432,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 8232,
+        "rating": 1902.573,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 30372,
+        "rating": 1817.962,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

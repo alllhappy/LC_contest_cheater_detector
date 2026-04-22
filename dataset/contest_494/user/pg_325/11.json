@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "avimaheshwari",
+      "profile": {
+        "ranking": 379766,
+        "realName": "NukeBoy",
+        "countryName": null,
+        "postViewCount": 5,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 335,
+            "submissions": 492
+          },
+          {
+            "difficulty": "Easy",
+            "count": 149,
+            "submissions": 223
+          },
+          {
+            "difficulty": "Medium",
+            "count": 167,
+            "submissions": 242
+          },
+          {
+            "difficulty": "Hard",
+            "count": 19,
+            "submissions": 27
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1598.1428958351496,
+      "globalRanking": 202399,
+      "topPercentage": 23.74
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8112,
+        "rating": 1573.734,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10499,
+        "rating": 1595.081,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11697,
+        "rating": 1598.143,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

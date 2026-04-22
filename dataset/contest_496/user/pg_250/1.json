@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "shriyachoksi",
+      "profile": {
+        "ranking": 1295591,
+        "realName": "shriyachoksi",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 118,
+            "submissions": 168
+          },
+          {
+            "difficulty": "Easy",
+            "count": 87,
+            "submissions": 124
+          },
+          {
+            "difficulty": "Medium",
+            "count": 28,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1502.0469866300884,
+      "globalRanking": 372113,
+      "topPercentage": 43.45
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 37133,
+        "rating": 1413.222,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6226,
+        "rating": 1502.047,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

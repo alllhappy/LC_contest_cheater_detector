@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Shivapriya29",
+      "profile": {
+        "ranking": 854613,
+        "realName": "Shivapriya29",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 181,
+            "submissions": 219
+          },
+          {
+            "difficulty": "Easy",
+            "count": 104,
+            "submissions": 121
+          },
+          {
+            "difficulty": "Medium",
+            "count": 67,
+            "submissions": 83
+          },
+          {
+            "difficulty": "Hard",
+            "count": 10,
+            "submissions": 15
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1553.6660481166446,
+      "globalRanking": 265942,
+      "topPercentage": 31.13
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 42736,
+        "rating": 1413.777,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9797,
+        "rating": 1475.668,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4567,
+        "rating": 1553.666,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

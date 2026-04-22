@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "nancy_jaiswal_",
+      "profile": {
+        "ranking": 1788217,
+        "realName": "nancy_jaiswal_",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 79,
+            "submissions": 90
+          },
+          {
+            "difficulty": "Easy",
+            "count": 54,
+            "submissions": 62
+          },
+          {
+            "difficulty": "Medium",
+            "count": 22,
+            "submissions": 25
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1611.8096803364,
+      "globalRanking": 186698,
+      "topPercentage": 21.91
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2541,
+        "rating": 1666.895,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 20777,
+        "rating": 1611.81,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

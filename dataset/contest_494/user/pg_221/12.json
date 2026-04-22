@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Aswath_soul",
+      "profile": {
+        "ranking": 908055,
+        "realName": "Aswath",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 170,
+            "submissions": 212
+          },
+          {
+            "difficulty": "Easy",
+            "count": 72,
+            "submissions": 97
+          },
+          {
+            "difficulty": "Medium",
+            "count": 89,
+            "submissions": 105
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1585.9836779142681,
+      "globalRanking": 217686,
+      "topPercentage": 25.52
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 16383,
+        "rating": 1509.295,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5513,
+        "rating": 1585.984,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

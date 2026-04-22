@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "abhatcode",
+      "profile": {
+        "ranking": 3565072,
+        "realName": "abhatcode",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 26,
+            "submissions": 39
+          },
+          {
+            "difficulty": "Easy",
+            "count": 20,
+            "submissions": 31
+          },
+          {
+            "difficulty": "Medium",
+            "count": 5,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1571.8517303466797,
+      "globalRanking": 237411,
+      "topPercentage": 27.82
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8338,
+        "rating": 1571.852,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

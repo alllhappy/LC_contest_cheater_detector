@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "garima783",
+      "profile": {
+        "ranking": 2813393,
+        "realName": "garima783",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 40,
+            "submissions": 48
+          },
+          {
+            "difficulty": "Easy",
+            "count": 5,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Medium",
+            "count": 30,
+            "submissions": 35
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1864.0576450924807,
+      "globalRanking": 46189,
+      "topPercentage": 5.49
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 439,
+        "rating": 1772.261,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3019,
+        "rating": 1816.31,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2146,
+        "rating": 1864.058,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

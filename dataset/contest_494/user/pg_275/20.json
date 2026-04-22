@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "tanishk_307",
+      "profile": {
+        "ranking": 601728,
+        "realName": "Tanishk Gupta",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 242,
+            "submissions": 418
+          },
+          {
+            "difficulty": "Easy",
+            "count": 68,
+            "submissions": 113
+          },
+          {
+            "difficulty": "Medium",
+            "count": 148,
+            "submissions": 257
+          },
+          {
+            "difficulty": "Hard",
+            "count": 26,
+            "submissions": 48
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1515.1916677994698,
+      "globalRanking": 340590,
+      "topPercentage": 39.79
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13497,
+        "rating": 1508.655,
+        "contest": {
+          "title": "Biweekly Contest 177",
+          "startTime": 1772289000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6871,
+        "rating": 1571.813,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 33060,
+        "rating": 1515.192,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

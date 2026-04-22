@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ChalhotraSingh",
+      "profile": {
+        "ranking": 755931,
+        "realName": "ChalhotraSingh",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 204,
+            "submissions": 348
+          },
+          {
+            "difficulty": "Easy",
+            "count": 44,
+            "submissions": 74
+          },
+          {
+            "difficulty": "Medium",
+            "count": 128,
+            "submissions": 219
+          },
+          {
+            "difficulty": "Hard",
+            "count": 32,
+            "submissions": 55
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1584.4688415527344,
+      "globalRanking": 219688,
+      "topPercentage": 25.75
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6723,
+        "rating": 1584.469,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

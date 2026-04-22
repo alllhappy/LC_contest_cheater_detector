@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "wlinabc",
+      "profile": {
+        "ranking": 6212,
+        "realName": "wlinabc",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 1520,
+            "submissions": 2210
+          },
+          {
+            "difficulty": "Easy",
+            "count": 342,
+            "submissions": 484
+          },
+          {
+            "difficulty": "Medium",
+            "count": 996,
+            "submissions": 1461
+          },
+          {
+            "difficulty": "Hard",
+            "count": 182,
+            "submissions": 265
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1655.5051803588867,
+      "globalRanking": 144839,
+      "topPercentage": 17.04
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2813,
+        "rating": 1655.505,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Minori1234",
+      "profile": {
+        "ranking": 1497054,
+        "realName": "Minori1234",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 100,
+            "submissions": 163
+          },
+          {
+            "difficulty": "Easy",
+            "count": 36,
+            "submissions": 50
+          },
+          {
+            "difficulty": "Medium",
+            "count": 59,
+            "submissions": 103
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1695.9189364784643,
+      "globalRanking": 115344,
+      "topPercentage": 13.59
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3872,
+        "rating": 1635.959,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4196,
+        "rating": 1695.919,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

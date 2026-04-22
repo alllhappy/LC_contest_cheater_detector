@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Akhilkumar_022",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "Akhilkumar_022",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 9,
+            "submissions": 12
+          },
+          {
+            "difficulty": "Easy",
+            "count": 5,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Medium",
+            "count": 4,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1644.265267783717,
+      "globalRanking": 154505,
+      "topPercentage": 18.17
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 14136,
+        "rating": 1520.725,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2275,
+        "rating": 1644.265,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "howlongfantods",
+      "profile": {
+        "ranking": 263512,
+        "realName": "howlingfantods_",
+        "countryName": null,
+        "postViewCount": 68,
+        "reputation": 2
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 418,
+            "submissions": 953
+          },
+          {
+            "difficulty": "Easy",
+            "count": 193,
+            "submissions": 434
+          },
+          {
+            "difficulty": "Medium",
+            "count": 209,
+            "submissions": 496
+          },
+          {
+            "difficulty": "Hard",
+            "count": 16,
+            "submissions": 23
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1574.518024593915,
+      "globalRanking": 233555,
+      "topPercentage": 27.37
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9502,
+        "rating": 1558.76,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 16407,
+        "rating": 1551.434,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9475,
+        "rating": 1574.518,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

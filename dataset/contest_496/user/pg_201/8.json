@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "jalujavali",
+      "profile": {
+        "ranking": 389096,
+        "realName": "Javali",
+        "countryName": null,
+        "postViewCount": 104,
+        "reputation": 3
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 329,
+            "submissions": 666
+          },
+          {
+            "difficulty": "Easy",
+            "count": 114,
+            "submissions": 265
+          },
+          {
+            "difficulty": "Medium",
+            "count": 182,
+            "submissions": 348
+          },
+          {
+            "difficulty": "Hard",
+            "count": 33,
+            "submissions": 53
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1490.5731037713547,
+      "globalRanking": 404308,
+      "topPercentage": 47.17
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 23733,
+        "rating": 1438.909,
+        "contest": {
+          "title": "Biweekly Contest 138",
+          "startTime": 1725114600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 21617,
+        "rating": 1401.056,
+        "contest": {
+          "title": "Weekly Contest 413",
+          "startTime": 1725157800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5008,
+        "rating": 1490.573,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "anubhavn_singh",
+      "profile": {
+        "ranking": 3310552,
+        "realName": "anubhavn_singh",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 30,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Easy",
+            "count": 14,
+            "submissions": 14
+          },
+          {
+            "difficulty": "Medium",
+            "count": 14,
+            "submissions": 14
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1687.3774754055971,
+      "globalRanking": 120944,
+      "topPercentage": 14.25
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2163,
+        "rating": 1670.257,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 11641,
+        "rating": 1657.991,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5976,
+        "rating": 1687.377,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Orz-XD",
+      "profile": {
+        "ranking": 897446,
+        "realName": "GuardianSoon",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 10
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 173,
+            "submissions": 280
+          },
+          {
+            "difficulty": "Easy",
+            "count": 58,
+            "submissions": 90
+          },
+          {
+            "difficulty": "Medium",
+            "count": 100,
+            "submissions": 168
+          },
+          {
+            "difficulty": "Hard",
+            "count": 15,
+            "submissions": 22
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1608.2635573401183,
+      "globalRanking": 190731,
+      "topPercentage": 22.38
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5234,
+        "rating": 1607.861,
+        "contest": {
+          "title": "Weekly Contest 489",
+          "startTime": 1771122600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 18320,
+        "rating": 1582.19,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11547,
+        "rating": 1592.813,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9277,
+        "rating": 1608.264,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

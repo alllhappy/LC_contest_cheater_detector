@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "azg2112",
+      "profile": {
+        "ranking": 63093,
+        "realName": "Andrew",
+        "countryName": "United States",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 785,
+            "submissions": 1374
+          },
+          {
+            "difficulty": "Easy",
+            "count": 254,
+            "submissions": 471
+          },
+          {
+            "difficulty": "Medium",
+            "count": 407,
+            "submissions": 726
+          },
+          {
+            "difficulty": "Hard",
+            "count": 124,
+            "submissions": 177
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1847.265544690584,
+      "globalRanking": 51425,
+      "topPercentage": 6.11
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1083,
+        "rating": 1714.562,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 725,
+        "rating": 1847.266,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

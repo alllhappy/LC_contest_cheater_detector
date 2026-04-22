@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "nayan5002",
+      "profile": {
+        "ranking": 3567945,
+        "realName": "nayan5002",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 26,
+            "submissions": 27
+          },
+          {
+            "difficulty": "Easy",
+            "count": 10,
+            "submissions": 11
+          },
+          {
+            "difficulty": "Medium",
+            "count": 12,
+            "submissions": 12
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1620.7769210937417,
+      "globalRanking": 177137,
+      "topPercentage": 20.8
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 21509,
+        "rating": 1476.128,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7074,
+        "rating": 1545.126,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3819,
+        "rating": 1620.777,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "wtf-rjdp",
+      "profile": {
+        "ranking": 3971123,
+        "realName": "wtf-rjdp",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 21,
+            "submissions": 22
+          },
+          {
+            "difficulty": "Easy",
+            "count": 5,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Medium",
+            "count": 8,
+            "submissions": 8
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1959.5978220330326,
+      "globalRanking": 25911,
+      "topPercentage": 3.11
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 392,
+        "rating": 1779.05,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 897,
+        "rating": 1878.451,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 733,
+        "rating": 1959.598,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

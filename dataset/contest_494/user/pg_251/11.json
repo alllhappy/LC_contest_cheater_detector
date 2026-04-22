@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "pranjal01012002",
+      "profile": {
+        "ranking": 2732356,
+        "realName": "pranjal01012002",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 52,
+            "submissions": 58
+          },
+          {
+            "difficulty": "Easy",
+            "count": 19,
+            "submissions": 22
+          },
+          {
+            "difficulty": "Medium",
+            "count": 29,
+            "submissions": 32
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1598.0195497211657,
+      "globalRanking": 202547,
+      "topPercentage": 23.76
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6262,
+        "rating": 1596.448,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 11543,
+        "rating": 1598.02,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "rT6XTWSf17",
+      "profile": {
+        "ranking": 4513245,
+        "realName": "Preethika",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 16,
+            "submissions": 21
+          },
+          {
+            "difficulty": "Easy",
+            "count": 4,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Medium",
+            "count": 8,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 5
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1932.7770928237376,
+      "globalRanking": 30096,
+      "topPercentage": 3.6
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1353,
+        "rating": 1711.092,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 437,
+        "rating": 1867.532,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1109,
+        "rating": 1932.777,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

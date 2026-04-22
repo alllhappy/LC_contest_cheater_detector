@@ -1,0 +1,123 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "akira-11",
+      "profile": {
+        "ranking": 258392,
+        "realName": "akira",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 421,
+            "submissions": 505
+          },
+          {
+            "difficulty": "Easy",
+            "count": 116,
+            "submissions": 139
+          },
+          {
+            "difficulty": "Medium",
+            "count": 252,
+            "submissions": 305
+          },
+          {
+            "difficulty": "Hard",
+            "count": 53,
+            "submissions": 61
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 8,
+      "rating": 1816.7757023125805,
+      "globalRanking": 59970,
+      "topPercentage": 7.11
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8739,
+        "rating": 1546.123,
+        "contest": {
+          "title": "Weekly Contest 484",
+          "startTime": 1768098600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 880,
+        "rating": 1692.193,
+        "contest": {
+          "title": "Biweekly Contest 174",
+          "startTime": 1768660200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1575,
+        "rating": 1767.551,
+        "contest": {
+          "title": "Weekly Contest 485",
+          "startTime": 1768703400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1073,
+        "rating": 1895.62,
+        "contest": {
+          "title": "Weekly Contest 486",
+          "startTime": 1769308200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 28431,
+        "rating": 1827.56,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 6207,
+        "rating": 1825.294,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 8577,
+        "rating": 1816.776,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

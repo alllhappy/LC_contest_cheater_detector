@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "m1stzy",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "m1stzy",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 4,
+            "submissions": 5
+          },
+          {
+            "difficulty": "Easy",
+            "count": 0,
+            "submissions": 0
+          },
+          {
+            "difficulty": "Medium",
+            "count": 3,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1786.3311767578125,
+      "globalRanking": 70315,
+      "topPercentage": 8.33
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 410,
+        "rating": 1786.331,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

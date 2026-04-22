@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Aviral94",
+      "profile": {
+        "ranking": 374614,
+        "realName": "Aviral94",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 339,
+            "submissions": 438
+          },
+          {
+            "difficulty": "Easy",
+            "count": 134,
+            "submissions": 168
+          },
+          {
+            "difficulty": "Medium",
+            "count": 192,
+            "submissions": 252
+          },
+          {
+            "difficulty": "Hard",
+            "count": 13,
+            "submissions": 18
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1547.772331435171,
+      "globalRanking": 276014,
+      "topPercentage": 32.3
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 11944,
+        "rating": 1535.339,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9811,
+        "rating": 1569.343,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 17729,
+        "rating": 1547.772,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

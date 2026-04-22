@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Sasanka_Allamaraju",
+      "profile": {
+        "ranking": 1027522,
+        "realName": "Sasanka_Allamaraju",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 152,
+            "submissions": 246
+          },
+          {
+            "difficulty": "Easy",
+            "count": 50,
+            "submissions": 70
+          },
+          {
+            "difficulty": "Medium",
+            "count": 87,
+            "submissions": 154
+          },
+          {
+            "difficulty": "Hard",
+            "count": 15,
+            "submissions": 22
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1707.4142255281147,
+      "globalRanking": 108026,
+      "topPercentage": 12.74
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3811,
+        "rating": 1626.028,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2957,
+        "rating": 1707.414,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

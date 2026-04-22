@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "nimit747",
+      "profile": {
+        "ranking": 379695,
+        "realName": "nimit747",
+        "countryName": "India",
+        "postViewCount": 1200,
+        "reputation": 10
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 335,
+            "submissions": 382
+          },
+          {
+            "difficulty": "Easy",
+            "count": 219,
+            "submissions": 258
+          },
+          {
+            "difficulty": "Medium",
+            "count": 89,
+            "submissions": 96
+          },
+          {
+            "difficulty": "Hard",
+            "count": 27,
+            "submissions": 28
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1479.7482146831312,
+      "globalRanking": 435906,
+      "topPercentage": 50.82
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 38805,
+        "rating": 1413.611,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8562,
+        "rating": 1479.748,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "rahulm31304",
+      "profile": {
+        "ranking": 1255712,
+        "realName": "rahulm31304",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 122,
+            "submissions": 282
+          },
+          {
+            "difficulty": "Easy",
+            "count": 43,
+            "submissions": 107
+          },
+          {
+            "difficulty": "Medium",
+            "count": 70,
+            "submissions": 158
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 17
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1573.4481811523438,
+      "globalRanking": 235059,
+      "topPercentage": 27.54
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 15836,
+        "rating": 1500.009,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6028,
+        "rating": 1573.448,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

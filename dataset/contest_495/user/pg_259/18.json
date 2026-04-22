@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "akshatjain1223334444",
+      "profile": {
+        "ranking": 1020285,
+        "realName": "akshatjain1223334444",
+        "countryName": null,
+        "postViewCount": 22,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 153,
+            "submissions": 264
+          },
+          {
+            "difficulty": "Easy",
+            "count": 83,
+            "submissions": 161
+          },
+          {
+            "difficulty": "Medium",
+            "count": 50,
+            "submissions": 81
+          },
+          {
+            "difficulty": "Hard",
+            "count": 20,
+            "submissions": 22
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1594.3164825439453,
+      "globalRanking": 206993,
+      "topPercentage": 24.28
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6468,
+        "rating": 1594.316,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

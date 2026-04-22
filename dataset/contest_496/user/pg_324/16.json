@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "pooja_0452",
+      "profile": {
+        "ranking": 3137162,
+        "realName": "pooja_0452",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 33,
+            "submissions": 36
+          },
+          {
+            "difficulty": "Easy",
+            "count": 23,
+            "submissions": 25
+          },
+          {
+            "difficulty": "Medium",
+            "count": 7,
+            "submissions": 8
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1559.2948512027137,
+      "globalRanking": 256637,
+      "topPercentage": 30.05
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 14979,
+        "rating": 1512.4,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8091,
+        "rating": 1559.295,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

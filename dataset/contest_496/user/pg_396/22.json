@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Adityashm",
+      "profile": {
+        "ranking": 967170,
+        "realName": "aditya",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 163,
+            "submissions": 264
+          },
+          {
+            "difficulty": "Easy",
+            "count": 125,
+            "submissions": 203
+          },
+          {
+            "difficulty": "Medium",
+            "count": 36,
+            "submissions": 57
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1547.7819442749023,
+      "globalRanking": 276000,
+      "topPercentage": 32.3
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9897,
+        "rating": 1547.782,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

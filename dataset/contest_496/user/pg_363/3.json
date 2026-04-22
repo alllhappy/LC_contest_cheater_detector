@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "DavoodPatel",
+      "profile": {
+        "ranking": 674250,
+        "realName": "Davood Patel",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 221,
+            "submissions": 242
+          },
+          {
+            "difficulty": "Easy",
+            "count": 121,
+            "submissions": 135
+          },
+          {
+            "difficulty": "Medium",
+            "count": 94,
+            "submissions": 101
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1476.1830606560957,
+      "globalRanking": 446806,
+      "topPercentage": 52.08
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 23305,
+        "rating": 1414.475,
+        "contest": {
+          "title": "Weekly Contest 475",
+          "startTime": 1762655400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9053,
+        "rating": 1476.183,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

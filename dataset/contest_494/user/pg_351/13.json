@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "_roobika",
+      "profile": {
+        "ranking": 859712,
+        "realName": "roobika",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 181,
+            "submissions": 235
+          },
+          {
+            "difficulty": "Easy",
+            "count": 107,
+            "submissions": 144
+          },
+          {
+            "difficulty": "Medium",
+            "count": 70,
+            "submissions": 87
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1443.5677389507257,
+      "globalRanking": 561270,
+      "topPercentage": 65.24
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 36957,
+        "rating": 1413.208,
+        "contest": {
+          "title": "Weekly Contest 489",
+          "startTime": 1771122600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8764,
+        "rating": 1482.972,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 23359,
+        "rating": 1443.568,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

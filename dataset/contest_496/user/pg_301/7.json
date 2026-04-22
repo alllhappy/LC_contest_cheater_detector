@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "CRnZQdwWnV",
+      "profile": {
+        "ranking": 2118375,
+        "realName": "Logesh Logesh",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 62,
+            "submissions": 75
+          },
+          {
+            "difficulty": "Easy",
+            "count": 20,
+            "submissions": 24
+          },
+          {
+            "difficulty": "Medium",
+            "count": 34,
+            "submissions": 36
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 15
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1489.35703554816,
+      "globalRanking": 407861,
+      "topPercentage": 47.58
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 34280,
+        "rating": 1413.611,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7507,
+        "rating": 1489.357,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

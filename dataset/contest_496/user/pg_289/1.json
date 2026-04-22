@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "madhuri34",
+      "profile": {
+        "ranking": 220344,
+        "realName": "Sai Madhuri",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 459,
+            "submissions": 1263
+          },
+          {
+            "difficulty": "Easy",
+            "count": 169,
+            "submissions": 461
+          },
+          {
+            "difficulty": "Medium",
+            "count": 228,
+            "submissions": 649
+          },
+          {
+            "difficulty": "Hard",
+            "count": 62,
+            "submissions": 153
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1621.0125371029503,
+      "globalRanking": 176895,
+      "topPercentage": 20.77
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6945,
+        "rating": 1581.511,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7201,
+        "rating": 1621.013,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

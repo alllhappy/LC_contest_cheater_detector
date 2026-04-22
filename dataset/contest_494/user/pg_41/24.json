@@ -1,0 +1,40 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "longfly2",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "longfly2",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 4,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Easy",
+            "count": 3,
+            "submissions": 5
+          },
+          {
+            "difficulty": "Medium",
+            "count": 1,
+            "submissions": 1
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": null,
+    "userContestRankingHistory": []
+  }
+}

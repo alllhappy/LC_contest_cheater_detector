@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "yiren429",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "xiaoe",
+        "countryName": null,
+        "postViewCount": 50,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 10,
+            "submissions": 19
+          },
+          {
+            "difficulty": "Easy",
+            "count": 3,
+            "submissions": 3
+          },
+          {
+            "difficulty": "Medium",
+            "count": 4,
+            "submissions": 5
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 11
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 9,
+      "rating": 2258.526967103415,
+      "globalRanking": 5377,
+      "topPercentage": 0.66
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 717,
+        "rating": 1742.389,
+        "contest": {
+          "title": "Biweekly Contest 175",
+          "startTime": 1769869800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 110,
+        "rating": 1947.16,
+        "contest": {
+          "title": "Weekly Contest 487",
+          "startTime": 1769913000
+        }
+      }
+    ]
+  }
+}

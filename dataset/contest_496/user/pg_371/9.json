@@ -1,0 +1,112 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "JananiRaguraman",
+      "profile": {
+        "ranking": 514760,
+        "realName": "JananiRaguraman",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 273,
+            "submissions": 303
+          },
+          {
+            "difficulty": "Easy",
+            "count": 124,
+            "submissions": 148
+          },
+          {
+            "difficulty": "Medium",
+            "count": 129,
+            "submissions": 134
+          },
+          {
+            "difficulty": "Hard",
+            "count": 20,
+            "submissions": 21
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 6,
+      "rating": 1615.50509686507,
+      "globalRanking": 182707,
+      "topPercentage": 21.45
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 23538,
+        "rating": 1454.515,
+        "contest": {
+          "title": "Weekly Contest 489",
+          "startTime": 1771122600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8195,
+        "rating": 1516.669,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10916,
+        "rating": 1541.947,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10280,
+        "rating": 1566.847,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6717,
+        "rating": 1603.051,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9259,
+        "rating": 1615.505,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

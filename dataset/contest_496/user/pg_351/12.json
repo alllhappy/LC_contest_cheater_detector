@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "nottheog",
+      "profile": {
+        "ranking": 1457386,
+        "realName": "Dinesh",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 103,
+            "submissions": 110
+          },
+          {
+            "difficulty": "Easy",
+            "count": 21,
+            "submissions": 21
+          },
+          {
+            "difficulty": "Medium",
+            "count": 78,
+            "submissions": 85
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1591.5239421780743,
+      "globalRanking": 210486,
+      "topPercentage": 24.68
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10088,
+        "rating": 1566.516,
+        "contest": {
+          "title": "Weekly Contest 486",
+          "startTime": 1769308200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8762,
+        "rating": 1591.524,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

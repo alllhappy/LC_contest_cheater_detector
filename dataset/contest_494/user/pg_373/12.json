@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Yihuuu",
+      "profile": {
+        "ranking": 1355051,
+        "realName": "Yihuuu",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 112,
+            "submissions": 236
+          },
+          {
+            "difficulty": "Easy",
+            "count": 30,
+            "submissions": 54
+          },
+          {
+            "difficulty": "Medium",
+            "count": 71,
+            "submissions": 150
+          },
+          {
+            "difficulty": "Hard",
+            "count": 11,
+            "submissions": 32
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1560.9426498413086,
+      "globalRanking": 253972,
+      "topPercentage": 29.74
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9313,
+        "rating": 1560.943,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

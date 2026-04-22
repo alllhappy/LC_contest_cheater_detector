@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "GURUKAMALESH",
+      "profile": {
+        "ranking": 2518935,
+        "realName": "GURUKAMALESH",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 48,
+            "submissions": 56
+          },
+          {
+            "difficulty": "Easy",
+            "count": 27,
+            "submissions": 33
+          },
+          {
+            "difficulty": "Medium",
+            "count": 18,
+            "submissions": 20
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1537.813387419048,
+      "globalRanking": 293969,
+      "topPercentage": 34.38
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 23196,
+        "rating": 1435.412,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4937,
+        "rating": 1537.813,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

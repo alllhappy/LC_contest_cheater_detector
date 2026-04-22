@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ssssskishd",
+      "profile": {
+        "ranking": 2247421,
+        "realName": "ssssskishd",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 57,
+            "submissions": 65
+          },
+          {
+            "difficulty": "Easy",
+            "count": 22,
+            "submissions": 24
+          },
+          {
+            "difficulty": "Medium",
+            "count": 34,
+            "submissions": 39
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1571.7608714246653,
+      "globalRanking": 237546,
+      "topPercentage": 27.83
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8498,
+        "rating": 1556.52,
+        "contest": {
+          "title": "Biweekly Contest 177",
+          "startTime": 1772289000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 20391,
+        "rating": 1534.792,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8433,
+        "rating": 1571.761,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

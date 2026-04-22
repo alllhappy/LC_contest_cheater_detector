@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Satyam_me",
+      "profile": {
+        "ranking": 1239400,
+        "realName": "SATYAM",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 125,
+            "submissions": 320
+          },
+          {
+            "difficulty": "Easy",
+            "count": 76,
+            "submissions": 181
+          },
+          {
+            "difficulty": "Medium",
+            "count": 39,
+            "submissions": 117
+          },
+          {
+            "difficulty": "Hard",
+            "count": 10,
+            "submissions": 22
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1719.411849975586,
+      "globalRanking": 100923,
+      "topPercentage": 11.91
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1146,
+        "rating": 1719.412,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Fzldq",
+      "profile": {
+        "ranking": 109548,
+        "realName": "Fzldq",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 633,
+            "submissions": 1219
+          },
+          {
+            "difficulty": "Easy",
+            "count": 28,
+            "submissions": 34
+          },
+          {
+            "difficulty": "Medium",
+            "count": 293,
+            "submissions": 583
+          },
+          {
+            "difficulty": "Hard",
+            "count": 312,
+            "submissions": 602
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 189,
+      "rating": 2612.9827196278875,
+      "globalRanking": 954,
+      "topPercentage": 0.11
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 2846,
+        "rating": 1477.633,
+        "contest": {
+          "title": "Weekly Contest 166",
+          "startTime": 1575772200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1007,
+        "rating": 1554.119,
+        "contest": {
+          "title": "Weekly Contest 167",
+          "startTime": 1576377000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 623,
+        "rating": 2647.976,
+        "contest": {
+          "title": "Weekly Contest 365",
+          "startTime": 1696127400
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "_wakeup_007",
+      "profile": {
+        "ranking": 1072435,
+        "realName": "Dhiraj kumar",
+        "countryName": "India",
+        "postViewCount": 288,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 146,
+            "submissions": 203
+          },
+          {
+            "difficulty": "Easy",
+            "count": 93,
+            "submissions": 132
+          },
+          {
+            "difficulty": "Medium",
+            "count": 49,
+            "submissions": 64
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1467.893587679706,
+      "globalRanking": 473767,
+      "topPercentage": 55.19
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 10934,
+        "rating": 1455.111,
+        "contest": {
+          "title": "Biweekly Contest 72",
+          "startTime": 1645281000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 15763,
+        "rating": 1406.426,
+        "contest": {
+          "title": "Weekly Contest 282",
+          "startTime": 1645929000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8632,
+        "rating": 1467.894,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

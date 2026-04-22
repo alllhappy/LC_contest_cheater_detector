@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Rawnblade",
+      "profile": {
+        "ranking": 208477,
+        "realName": "Rawnblade",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 10
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 472,
+            "submissions": 559
+          },
+          {
+            "difficulty": "Easy",
+            "count": 95,
+            "submissions": 114
+          },
+          {
+            "difficulty": "Medium",
+            "count": 262,
+            "submissions": 306
+          },
+          {
+            "difficulty": "Hard",
+            "count": 115,
+            "submissions": 139
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1792.2649383544922,
+      "globalRanking": 68188,
+      "topPercentage": 8.08
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 373,
+        "rating": 1792.265,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

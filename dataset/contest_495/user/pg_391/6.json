@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "chaudharyy_jiya",
+      "profile": {
+        "ranking": 844865,
+        "realName": "Jiya Choudhary",
+        "countryName": "India",
+        "postViewCount": 141,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 182,
+            "submissions": 208
+          },
+          {
+            "difficulty": "Easy",
+            "count": 116,
+            "submissions": 139
+          },
+          {
+            "difficulty": "Medium",
+            "count": 58,
+            "submissions": 61
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1537.1858661383135,
+      "globalRanking": 295160,
+      "topPercentage": 34.52
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 6561,
+        "rating": 1538.584,
+        "contest": {
+          "title": "Biweekly Contest 159",
+          "startTime": 1750516200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 22990,
+        "rating": 1502.153,
+        "contest": {
+          "title": "Biweekly Contest 175",
+          "startTime": 1769869800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9756,
+        "rating": 1537.186,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

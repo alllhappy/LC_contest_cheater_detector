@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "rockyraghu",
+      "profile": {
+        "ranking": 4069826,
+        "realName": "rockyraghu",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 20,
+            "submissions": 20
+          },
+          {
+            "difficulty": "Easy",
+            "count": 5,
+            "submissions": 5
+          },
+          {
+            "difficulty": "Medium",
+            "count": 9,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1615.9543991088867,
+      "globalRanking": 182215,
+      "topPercentage": 21.39
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4655,
+        "rating": 1615.954,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

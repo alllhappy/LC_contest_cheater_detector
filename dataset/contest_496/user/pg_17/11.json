@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "5aketh",
+      "profile": {
+        "ranking": 770369,
+        "realName": "Saketh",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 199,
+            "submissions": 257
+          },
+          {
+            "difficulty": "Easy",
+            "count": 71,
+            "submissions": 95
+          },
+          {
+            "difficulty": "Medium",
+            "count": 97,
+            "submissions": 122
+          },
+          {
+            "difficulty": "Hard",
+            "count": 31,
+            "submissions": 40
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1780.458755497416,
+      "globalRanking": 72522,
+      "topPercentage": 8.59
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 14531,
+        "rating": 1472.526,
+        "contest": {
+          "title": "Weekly Contest 476",
+          "startTime": 1763260200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1497,
+        "rating": 1627.788,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8526,
+        "rating": 1650.587,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 412,
+        "rating": 1780.459,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

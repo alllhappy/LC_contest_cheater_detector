@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "NoBugPlz",
+      "profile": {
+        "ranking": 1532431,
+        "realName": "NoBugPlz",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 97,
+            "submissions": 259
+          },
+          {
+            "difficulty": "Easy",
+            "count": 25,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Medium",
+            "count": 57,
+            "submissions": 174
+          },
+          {
+            "difficulty": "Hard",
+            "count": 15,
+            "submissions": 45
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1651.4516721253212,
+      "globalRanking": 148250,
+      "topPercentage": 17.43
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9564,
+        "rating": 1574.139,
+        "contest": {
+          "title": "Weekly Contest 486",
+          "startTime": 1769308200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3048,
+        "rating": 1651.452,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

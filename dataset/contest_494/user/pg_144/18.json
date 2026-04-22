@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "priyangsukesh",
+      "profile": {
+        "ranking": 552491,
+        "realName": "priyangsu2004",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 258,
+            "submissions": 338
+          },
+          {
+            "difficulty": "Easy",
+            "count": 133,
+            "submissions": 190
+          },
+          {
+            "difficulty": "Medium",
+            "count": 110,
+            "submissions": 132
+          },
+          {
+            "difficulty": "Hard",
+            "count": 15,
+            "submissions": 16
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1916.2519228601948,
+      "globalRanking": 33186,
+      "topPercentage": 3.97
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 160,
+        "rating": 1831.498,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 7186,
+        "rating": 1829.235,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3594,
+        "rating": 1855.724,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 959,
+        "rating": 1916.252,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

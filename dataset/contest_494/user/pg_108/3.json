@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "L-Meghanath",
+      "profile": {
+        "ranking": 2550112,
+        "realName": "L-Meghanath",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 47,
+            "submissions": 55
+          },
+          {
+            "difficulty": "Easy",
+            "count": 23,
+            "submissions": 27
+          },
+          {
+            "difficulty": "Medium",
+            "count": 24,
+            "submissions": 28
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1619.0974586888362,
+      "globalRanking": 178908,
+      "topPercentage": 21.0
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 17970,
+        "rating": 1498.607,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2679,
+        "rating": 1619.097,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

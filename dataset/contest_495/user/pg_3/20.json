@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "zaahiral",
+      "profile": {
+        "ranking": 87653,
+        "realName": "zaahir",
+        "countryName": "",
+        "postViewCount": 0,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 691,
+            "submissions": 782
+          },
+          {
+            "difficulty": "Easy",
+            "count": 194,
+            "submissions": 224
+          },
+          {
+            "difficulty": "Medium",
+            "count": 371,
+            "submissions": 422
+          },
+          {
+            "difficulty": "Hard",
+            "count": 126,
+            "submissions": 136
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 2308.653526278756,
+      "globalRanking": 4164,
+      "topPercentage": 0.51
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 298,
+        "rating": 1795.321,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 54,
+        "rating": 2023.478,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 13,
+        "rating": 2210.431,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 71,
+        "rating": 2308.654,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

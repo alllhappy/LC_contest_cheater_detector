@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Krishna_06_B",
+      "profile": {
+        "ranking": 986623,
+        "realName": "Krishna",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 159,
+            "submissions": 161
+          },
+          {
+            "difficulty": "Easy",
+            "count": 76,
+            "submissions": 78
+          },
+          {
+            "difficulty": "Medium",
+            "count": 75,
+            "submissions": 75
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1794.7965029322493,
+      "globalRanking": 67277,
+      "topPercentage": 7.97
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 305,
+        "rating": 1789.247,
+        "contest": {
+          "title": "Weekly Contest 481",
+          "startTime": 1766284200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6216,
+        "rating": 1799.114,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 7451,
+        "rating": 1794.797,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

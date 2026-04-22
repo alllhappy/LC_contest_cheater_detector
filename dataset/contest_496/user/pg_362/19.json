@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "SYNOM",
+      "profile": {
+        "ranking": 937350,
+        "realName": "Sudhanshu Pratap Singh",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 166,
+            "submissions": 216
+          },
+          {
+            "difficulty": "Easy",
+            "count": 86,
+            "submissions": 115
+          },
+          {
+            "difficulty": "Medium",
+            "count": 66,
+            "submissions": 84
+          },
+          {
+            "difficulty": "Hard",
+            "count": 14,
+            "submissions": 17
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1527.1553392810556,
+      "globalRanking": 314890,
+      "topPercentage": 36.81
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 25141,
+        "rating": 1435.181,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10038,
+        "rating": 1490.093,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9044,
+        "rating": 1527.155,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

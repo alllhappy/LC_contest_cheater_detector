@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "hari-0909",
+      "profile": {
+        "ranking": 1637023,
+        "realName": "hari-0909",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 2
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 90,
+            "submissions": 99
+          },
+          {
+            "difficulty": "Easy",
+            "count": 22,
+            "submissions": 24
+          },
+          {
+            "difficulty": "Medium",
+            "count": 50,
+            "submissions": 56
+          },
+          {
+            "difficulty": "Hard",
+            "count": 18,
+            "submissions": 19
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1700.500313661213,
+      "globalRanking": 112345,
+      "topPercentage": 13.25
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2729,
+        "rating": 1636.11,
+        "contest": {
+          "title": "Biweekly Contest 172",
+          "startTime": 1766241000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4806,
+        "rating": 1672.686,
+        "contest": {
+          "title": "Weekly Contest 482",
+          "startTime": 1766889000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6264,
+        "rating": 1700.5,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

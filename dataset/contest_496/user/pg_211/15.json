@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "xuan_291547",
+      "profile": {
+        "ranking": 614497,
+        "realName": "xuan_291547",
+        "countryName": null,
+        "postViewCount": 23,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 242,
+            "submissions": 274
+          },
+          {
+            "difficulty": "Easy",
+            "count": 113,
+            "submissions": 136
+          },
+          {
+            "difficulty": "Medium",
+            "count": 101,
+            "submissions": 107
+          },
+          {
+            "difficulty": "Hard",
+            "count": 28,
+            "submissions": 31
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1605.7004928588867,
+      "globalRanking": 193648,
+      "topPercentage": 22.72
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5265,
+        "rating": 1605.7,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

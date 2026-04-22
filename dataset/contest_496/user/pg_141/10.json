@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "TheRealSasha",
+      "profile": {
+        "ranking": 704488,
+        "realName": "Alexander Zhelyazkov",
+        "countryName": "United States",
+        "postViewCount": 7,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 217,
+            "submissions": 379
+          },
+          {
+            "difficulty": "Easy",
+            "count": 79,
+            "submissions": 146
+          },
+          {
+            "difficulty": "Medium",
+            "count": 115,
+            "submissions": 199
+          },
+          {
+            "difficulty": "Hard",
+            "count": 23,
+            "submissions": 34
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1638.5478973388672,
+      "globalRanking": 159721,
+      "topPercentage": 18.77
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3510,
+        "rating": 1638.548,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

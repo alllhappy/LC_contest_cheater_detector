@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "I_L_R_Jyotsna",
+      "profile": {
+        "ranking": 1543916,
+        "realName": "I_L_R_Jyotsna",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 96,
+            "submissions": 109
+          },
+          {
+            "difficulty": "Easy",
+            "count": 48,
+            "submissions": 57
+          },
+          {
+            "difficulty": "Medium",
+            "count": 44,
+            "submissions": 48
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1584.3516063245434,
+      "globalRanking": 219849,
+      "topPercentage": 25.77
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 20246,
+        "rating": 1483.975,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10450,
+        "rating": 1515.436,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4640,
+        "rating": 1584.352,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

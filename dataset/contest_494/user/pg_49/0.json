@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Prudhvi1791",
+      "profile": {
+        "ranking": 168810,
+        "realName": "Prudhvi1719",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 526,
+            "submissions": 996
+          },
+          {
+            "difficulty": "Easy",
+            "count": 108,
+            "submissions": 189
+          },
+          {
+            "difficulty": "Medium",
+            "count": 372,
+            "submissions": 738
+          },
+          {
+            "difficulty": "Hard",
+            "count": 46,
+            "submissions": 69
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1718.683468985764,
+      "globalRanking": 101374,
+      "topPercentage": 11.96
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11282,
+        "rating": 1543.628,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6487,
+        "rating": 1605.353,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1201,
+        "rating": 1718.683,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

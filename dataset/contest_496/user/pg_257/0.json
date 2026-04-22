@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "SRIVATSAN31",
+      "profile": {
+        "ranking": 3714385,
+        "realName": "SRIVATSAN31",
+        "countryName": null,
+        "postViewCount": 1,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 25,
+            "submissions": 29
+          },
+          {
+            "difficulty": "Easy",
+            "count": 5,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Medium",
+            "count": 13,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1588.8490676879883,
+      "globalRanking": 213879,
+      "topPercentage": 25.07
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6400,
+        "rating": 1588.849,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

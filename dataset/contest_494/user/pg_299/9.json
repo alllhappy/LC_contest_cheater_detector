@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "user6540OL",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "Hitesh Sharma",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 11,
+            "submissions": 11
+          },
+          {
+            "difficulty": "Easy",
+            "count": 3,
+            "submissions": 3
+          },
+          {
+            "difficulty": "Medium",
+            "count": 7,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1627.6554029989122,
+      "globalRanking": 170140,
+      "topPercentage": 19.99
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 21133,
+        "rating": 1408.213,
+        "contest": {
+          "title": "Weekly Contest 377",
+          "startTime": 1703385000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 749,
+        "rating": 1595.032,
+        "contest": {
+          "title": "Biweekly Contest 121",
+          "startTime": 1704551400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7460,
+        "rating": 1627.655,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

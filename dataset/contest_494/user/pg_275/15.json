@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Roshini_Rai",
+      "profile": {
+        "ranking": 3876630,
+        "realName": "Roshini_Rai",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 22,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Easy",
+            "count": 7,
+            "submissions": 12
+          },
+          {
+            "difficulty": "Medium",
+            "count": 11,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 5
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1588.5372161865234,
+      "globalRanking": 214267,
+      "topPercentage": 25.12
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6866,
+        "rating": 1588.537,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

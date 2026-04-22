@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Kinnarii",
+      "profile": {
+        "ranking": 552728,
+        "realName": "Kinnarii",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 260,
+            "submissions": 433
+          },
+          {
+            "difficulty": "Easy",
+            "count": 83,
+            "submissions": 148
+          },
+          {
+            "difficulty": "Medium",
+            "count": 142,
+            "submissions": 229
+          },
+          {
+            "difficulty": "Hard",
+            "count": 35,
+            "submissions": 56
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1529.8153365379299,
+      "globalRanking": 309645,
+      "topPercentage": 36.2
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 18998,
+        "rating": 1435.93,
+        "contest": {
+          "title": "Weekly Contest 465",
+          "startTime": 1756607400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8045,
+        "rating": 1497.681,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9574,
+        "rating": 1529.815,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

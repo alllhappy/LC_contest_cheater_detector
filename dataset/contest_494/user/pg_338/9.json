@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "prasanna260397",
+      "profile": {
+        "ranking": 622625,
+        "realName": "Prasanna",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 2
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 235,
+            "submissions": 378
+          },
+          {
+            "difficulty": "Easy",
+            "count": 99,
+            "submissions": 184
+          },
+          {
+            "difficulty": "Medium",
+            "count": 122,
+            "submissions": 175
+          },
+          {
+            "difficulty": "Hard",
+            "count": 14,
+            "submissions": 19
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1558.0646991716214,
+      "globalRanking": 258614,
+      "topPercentage": 30.28
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 13600,
+        "rating": 1461.539,
+        "contest": {
+          "title": "Weekly Contest 452",
+          "startTime": 1748745000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7022,
+        "rating": 1517.964,
+        "contest": {
+          "title": "Weekly Contest 468",
+          "startTime": 1758421800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8435,
+        "rating": 1558.065,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

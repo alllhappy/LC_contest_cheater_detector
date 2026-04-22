@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "mascii",
+      "profile": {
+        "ranking": 237792,
+        "realName": "Manya",
+        "countryName": null,
+        "postViewCount": 9,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 441,
+            "submissions": 577
+          },
+          {
+            "difficulty": "Easy",
+            "count": 152,
+            "submissions": 214
+          },
+          {
+            "difficulty": "Medium",
+            "count": 220,
+            "submissions": 285
+          },
+          {
+            "difficulty": "Hard",
+            "count": 69,
+            "submissions": 78
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1480.992928020236,
+      "globalRanking": 432243,
+      "topPercentage": 50.4
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 19233,
+        "rating": 1442.107,
+        "contest": {
+          "title": "Weekly Contest 460",
+          "startTime": 1753583400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 43043,
+        "rating": 1382.094,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4838,
+        "rating": 1480.993,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

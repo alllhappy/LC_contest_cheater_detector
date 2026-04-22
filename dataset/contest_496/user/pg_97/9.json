@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "mokshada_n",
+      "profile": {
+        "ranking": 484663,
+        "realName": "mokshada_n",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 285,
+            "submissions": 533
+          },
+          {
+            "difficulty": "Easy",
+            "count": 83,
+            "submissions": 156
+          },
+          {
+            "difficulty": "Medium",
+            "count": 163,
+            "submissions": 316
+          },
+          {
+            "difficulty": "Hard",
+            "count": 39,
+            "submissions": 61
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1628.0091293026328,
+      "globalRanking": 169769,
+      "topPercentage": 19.94
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 30969,
+        "rating": 1413.131,
+        "contest": {
+          "title": "Weekly Contest 487",
+          "startTime": 1769913000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4210,
+        "rating": 1531.062,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2409,
+        "rating": 1628.009,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

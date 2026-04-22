@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "dauda",
+      "profile": {
+        "ranking": 291007,
+        "realName": "dauda",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 396,
+            "submissions": 971
+          },
+          {
+            "difficulty": "Easy",
+            "count": 118,
+            "submissions": 276
+          },
+          {
+            "difficulty": "Medium",
+            "count": 239,
+            "submissions": 584
+          },
+          {
+            "difficulty": "Hard",
+            "count": 39,
+            "submissions": 111
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1560.6508255004883,
+      "globalRanking": 254449,
+      "topPercentage": 29.8
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8688,
+        "rating": 1560.651,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

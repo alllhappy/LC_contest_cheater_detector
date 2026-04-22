@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "mystic14",
+      "profile": {
+        "ranking": 859836,
+        "realName": "Pushpit Upadhyay",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 179,
+            "submissions": 223
+          },
+          {
+            "difficulty": "Easy",
+            "count": 75,
+            "submissions": 97
+          },
+          {
+            "difficulty": "Medium",
+            "count": 97,
+            "submissions": 119
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1652.2043127762645,
+      "globalRanking": 147592,
+      "topPercentage": 17.36
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9876,
+        "rating": 1543.699,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2571,
+        "rating": 1652.204,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

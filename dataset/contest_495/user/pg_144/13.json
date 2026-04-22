@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "roxign",
+      "profile": {
+        "ranking": 563137,
+        "realName": "Jian Jia-Zheng",
+        "countryName": "Taiwan",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 254,
+            "submissions": 603
+          },
+          {
+            "difficulty": "Easy",
+            "count": 62,
+            "submissions": 124
+          },
+          {
+            "difficulty": "Medium",
+            "count": 166,
+            "submissions": 397
+          },
+          {
+            "difficulty": "Hard",
+            "count": 26,
+            "submissions": 82
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1641.8094635009766,
+      "globalRanking": 156741,
+      "topPercentage": 18.43
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3588,
+        "rating": 1641.809,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

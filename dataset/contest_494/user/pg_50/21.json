@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "SreejaTu",
+      "profile": {
+        "ranking": 4068234,
+        "realName": "Sreejatu",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 20,
+            "submissions": 24
+          },
+          {
+            "difficulty": "Easy",
+            "count": 16,
+            "submissions": 18
+          },
+          {
+            "difficulty": "Medium",
+            "count": 3,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1716.6080474853516,
+      "globalRanking": 102489,
+      "topPercentage": 12.09
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1247,
+        "rating": 1716.608,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

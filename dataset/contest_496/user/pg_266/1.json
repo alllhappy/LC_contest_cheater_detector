@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Bhowmik_512",
+      "profile": {
+        "ranking": 1542123,
+        "realName": "MUSAFIR",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 98,
+            "submissions": 122
+          },
+          {
+            "difficulty": "Easy",
+            "count": 53,
+            "submissions": 72
+          },
+          {
+            "difficulty": "Medium",
+            "count": 41,
+            "submissions": 45
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 5
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1498.2337568616365,
+      "globalRanking": 383377,
+      "topPercentage": 44.75
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 22856,
+        "rating": 1413.797,
+        "contest": {
+          "title": "Weekly Contest 482",
+          "startTime": 1766889000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6626,
+        "rating": 1498.234,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

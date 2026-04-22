@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "psinfinity",
+      "profile": {
+        "ranking": 129895,
+        "realName": "Priyansh Saha",
+        "countryName": "",
+        "postViewCount": 29,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 590,
+            "submissions": 653
+          },
+          {
+            "difficulty": "Easy",
+            "count": 148,
+            "submissions": 157
+          },
+          {
+            "difficulty": "Medium",
+            "count": 340,
+            "submissions": 381
+          },
+          {
+            "difficulty": "Hard",
+            "count": 102,
+            "submissions": 115
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1739.7576233273276,
+      "globalRanking": 90220,
+      "topPercentage": 10.66
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 2964,
+        "rating": 1619.044,
+        "contest": {
+          "title": "Weekly Contest 431",
+          "startTime": 1736044200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2333,
+        "rating": 1703.899,
+        "contest": {
+          "title": "Weekly Contest 484",
+          "startTime": 1768098600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4706,
+        "rating": 1739.758,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

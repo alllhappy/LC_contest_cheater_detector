@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Udit_Bora",
+      "profile": {
+        "ranking": 3246922,
+        "realName": "Udit Bora",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 31,
+            "submissions": 34
+          },
+          {
+            "difficulty": "Easy",
+            "count": 8,
+            "submissions": 8
+          },
+          {
+            "difficulty": "Medium",
+            "count": 15,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 11
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1889.571634751027,
+      "globalRanking": 39151,
+      "topPercentage": 4.67
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2291,
+        "rating": 1645.38,
+        "contest": {
+          "title": "Weekly Contest 473",
+          "startTime": 1761445800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 588,
+        "rating": 1804.029,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 880,
+        "rating": 1889.572,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

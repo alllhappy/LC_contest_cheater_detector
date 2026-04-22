@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Gauri_jadhav07",
+      "profile": {
+        "ranking": 1006571,
+        "realName": "Gaurijadhav",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 155,
+            "submissions": 185
+          },
+          {
+            "difficulty": "Easy",
+            "count": 72,
+            "submissions": 87
+          },
+          {
+            "difficulty": "Medium",
+            "count": 68,
+            "submissions": 82
+          },
+          {
+            "difficulty": "Hard",
+            "count": 15,
+            "submissions": 16
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1599.3907097416827,
+      "globalRanking": 200849,
+      "topPercentage": 23.56
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9674,
+        "rating": 1562.662,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2861,
+        "rating": 1663.654,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 31282,
+        "rating": 1599.391,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

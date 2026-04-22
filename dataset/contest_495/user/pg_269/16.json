@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Renu-26",
+      "profile": {
+        "ranking": 4511039,
+        "realName": "Renu-26",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 16,
+            "submissions": 22
+          },
+          {
+            "difficulty": "Easy",
+            "count": 3,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Medium",
+            "count": 11,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 5
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1594.7498522306744,
+      "globalRanking": 206478,
+      "topPercentage": 24.21
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6716,
+        "rating": 1591.081,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11812,
+        "rating": 1594.75,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

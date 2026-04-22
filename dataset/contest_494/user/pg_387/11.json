@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "DeepakBarajati",
+      "profile": {
+        "ranking": 388720,
+        "realName": "Deepak Barajati",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 331,
+            "submissions": 422
+          },
+          {
+            "difficulty": "Easy",
+            "count": 127,
+            "submissions": 173
+          },
+          {
+            "difficulty": "Medium",
+            "count": 170,
+            "submissions": 206
+          },
+          {
+            "difficulty": "Hard",
+            "count": 34,
+            "submissions": 43
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1480.7753930570943,
+      "globalRanking": 432811,
+      "topPercentage": 50.47
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 21112,
+        "rating": 1415.051,
+        "contest": {
+          "title": "Biweekly Contest 171",
+          "startTime": 1765031400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 17015,
+        "rating": 1431.895,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9662,
+        "rating": 1480.775,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "deepBOT",
+      "profile": {
+        "ranking": 1221572,
+        "realName": "deepBOT",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 129,
+            "submissions": 161
+          },
+          {
+            "difficulty": "Easy",
+            "count": 46,
+            "submissions": 61
+          },
+          {
+            "difficulty": "Medium",
+            "count": 77,
+            "submissions": 93
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1522.7111092967236,
+      "globalRanking": 324282,
+      "topPercentage": 37.91
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8707,
+        "rating": 1543.081,
+        "contest": {
+          "title": "Biweekly Contest 174",
+          "startTime": 1768660200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 31483,
+        "rating": 1478.126,
+        "contest": {
+          "title": "Biweekly Contest 177",
+          "startTime": 1772289000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8296,
+        "rating": 1522.711,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

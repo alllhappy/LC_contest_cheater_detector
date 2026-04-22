@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "codebloodedsai",
+      "profile": {
+        "ranking": 3638859,
+        "realName": "Sai Kumar",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 25,
+            "submissions": 44
+          },
+          {
+            "difficulty": "Easy",
+            "count": 16,
+            "submissions": 33
+          },
+          {
+            "difficulty": "Medium",
+            "count": 7,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1683.0304798326995,
+      "globalRanking": 123972,
+      "topPercentage": 14.6
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 681,
+        "rating": 1756.657,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 23237,
+        "rating": 1683.03,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

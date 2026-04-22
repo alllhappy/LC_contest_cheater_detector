@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "outlan",
+      "profile": {
+        "ranking": 212365,
+        "realName": "outlan",
+        "countryName": "Australia",
+        "postViewCount": 732,
+        "reputation": 13
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 469,
+            "submissions": 617
+          },
+          {
+            "difficulty": "Easy",
+            "count": 98,
+            "submissions": 140
+          },
+          {
+            "difficulty": "Medium",
+            "count": 235,
+            "submissions": 308
+          },
+          {
+            "difficulty": "Hard",
+            "count": 136,
+            "submissions": 169
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1825.0797483218453,
+      "globalRanking": 57602,
+      "topPercentage": 6.84
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2241,
+        "rating": 1645.18,
+        "contest": {
+          "title": "Weekly Contest 472",
+          "startTime": 1760841000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10900,
+        "rating": 1649.774,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1795,
+        "rating": 1736.01,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 902,
+        "rating": 1825.08,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

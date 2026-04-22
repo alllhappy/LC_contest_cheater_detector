@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Aryan_khanna",
+      "profile": {
+        "ranking": 3069364,
+        "realName": "Aryan Khanna",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 34,
+            "submissions": 35
+          },
+          {
+            "difficulty": "Easy",
+            "count": 15,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Medium",
+            "count": 16,
+            "submissions": 17
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1572.6356506347656,
+      "globalRanking": 236240,
+      "topPercentage": 27.68
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7655,
+        "rating": 1572.636,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

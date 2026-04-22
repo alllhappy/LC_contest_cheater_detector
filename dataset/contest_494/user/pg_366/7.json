@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "vr7ZE9mZWz",
+      "profile": {
+        "ranking": 455862,
+        "realName": "Shrayans kumar",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 297,
+            "submissions": 536
+          },
+          {
+            "difficulty": "Easy",
+            "count": 125,
+            "submissions": 236
+          },
+          {
+            "difficulty": "Medium",
+            "count": 149,
+            "submissions": 266
+          },
+          {
+            "difficulty": "Hard",
+            "count": 23,
+            "submissions": 34
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1481.4742479569286,
+      "globalRanking": 430851,
+      "topPercentage": 50.24
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 24062,
+        "rating": 1415.199,
+        "contest": {
+          "title": "Biweekly Contest 158",
+          "startTime": 1749306600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9133,
+        "rating": 1481.474,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

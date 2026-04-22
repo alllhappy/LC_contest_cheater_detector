@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "KaranLodha",
+      "profile": {
+        "ranking": 1960945,
+        "realName": "Karan Lodha",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 70,
+            "submissions": 88
+          },
+          {
+            "difficulty": "Easy",
+            "count": 25,
+            "submissions": 28
+          },
+          {
+            "difficulty": "Medium",
+            "count": 34,
+            "submissions": 48
+          },
+          {
+            "difficulty": "Hard",
+            "count": 11,
+            "submissions": 12
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1704.1511535644531,
+      "globalRanking": 110037,
+      "topPercentage": 12.97
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1498,
+        "rating": 1704.151,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Aoi_11",
+      "profile": {
+        "ranking": 973392,
+        "realName": "Aoi_11",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 159,
+            "submissions": 253
+          },
+          {
+            "difficulty": "Easy",
+            "count": 56,
+            "submissions": 89
+          },
+          {
+            "difficulty": "Medium",
+            "count": 92,
+            "submissions": 145
+          },
+          {
+            "difficulty": "Hard",
+            "count": 11,
+            "submissions": 19
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1658.766746520996,
+      "globalRanking": 142151,
+      "topPercentage": 16.72
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2862,
+        "rating": 1658.767,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

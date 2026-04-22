@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "shreya146",
+      "profile": {
+        "ranking": 886214,
+        "realName": "shreya146",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 174,
+            "submissions": 237
+          },
+          {
+            "difficulty": "Easy",
+            "count": 70,
+            "submissions": 106
+          },
+          {
+            "difficulty": "Medium",
+            "count": 96,
+            "submissions": 121
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1590.11499505294,
+      "globalRanking": 212294,
+      "topPercentage": 24.89
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 13734,
+        "rating": 1508.48,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4790,
+        "rating": 1590.115,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

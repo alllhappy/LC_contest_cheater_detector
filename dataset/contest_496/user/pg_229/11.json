@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "arbind_inevitable",
+      "profile": {
+        "ranking": 2241514,
+        "realName": "arbind_inevitable",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 59,
+            "submissions": 83
+          },
+          {
+            "difficulty": "Easy",
+            "count": 33,
+            "submissions": 47
+          },
+          {
+            "difficulty": "Medium",
+            "count": 26,
+            "submissions": 36
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1456.357427949035,
+      "globalRanking": 513992,
+      "topPercentage": 59.82
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 30191,
+        "rating": 1424.357,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 35008,
+        "rating": 1366.077,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5711,
+        "rating": 1456.357,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

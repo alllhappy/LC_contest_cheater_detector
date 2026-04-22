@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "dilipjain",
+      "profile": {
+        "ranking": 44098,
+        "realName": "Dilip Jain",
+        "countryName": null,
+        "postViewCount": 694,
+        "reputation": 10
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 880,
+            "submissions": 1932
+          },
+          {
+            "difficulty": "Easy",
+            "count": 252,
+            "submissions": 532
+          },
+          {
+            "difficulty": "Medium",
+            "count": 486,
+            "submissions": 1092
+          },
+          {
+            "difficulty": "Hard",
+            "count": 142,
+            "submissions": 308
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1637.3741650565476,
+      "globalRanking": 160853,
+      "topPercentage": 18.91
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1836,
+        "rating": 1690.063,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 17365,
+        "rating": 1646.248,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 12517,
+        "rating": 1637.374,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

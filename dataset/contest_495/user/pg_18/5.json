@@ -1,0 +1,112 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "MAHILABINAV",
+      "profile": {
+        "ranking": 4273034,
+        "realName": "MAHILABINAV",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 18,
+            "submissions": 32
+          },
+          {
+            "difficulty": "Easy",
+            "count": 5,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Medium",
+            "count": 9,
+            "submissions": 16
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 6,
+      "rating": 1956.529078533696,
+      "globalRanking": 26325,
+      "topPercentage": 3.16
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 24013,
+        "rating": 1456.017,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4667,
+        "rating": 1558.505,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5384,
+        "rating": 1614.529,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 153,
+        "rating": 1777.212,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 430,
+        "rating": 1877.373,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 436,
+        "rating": 1956.529,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

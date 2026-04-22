@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Partha_6969",
+      "profile": {
+        "ranking": 3873196,
+        "realName": "Partha_6969",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 22,
+            "submissions": 33
+          },
+          {
+            "difficulty": "Easy",
+            "count": 8,
+            "submissions": 14
+          },
+          {
+            "difficulty": "Medium",
+            "count": 11,
+            "submissions": 14
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 5
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1624.8928995962328,
+      "globalRanking": 172951,
+      "topPercentage": 20.31
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 17229,
+        "rating": 1446.954,
+        "contest": {
+          "title": "Biweekly Contest 169",
+          "startTime": 1762612200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8998,
+        "rating": 1502.337,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1628,
+        "rating": 1624.893,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

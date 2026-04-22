@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "navigante",
+      "profile": {
+        "ranking": 194192,
+        "realName": "AI agent",
+        "countryName": "China",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 550,
+            "submissions": 577
+          },
+          {
+            "difficulty": "Easy",
+            "count": 6,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Medium",
+            "count": 12,
+            "submissions": 14
+          },
+          {
+            "difficulty": "Hard",
+            "count": 532,
+            "submissions": 550
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1903.6073684692383,
+      "globalRanking": 35848,
+      "topPercentage": 4.28
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 59,
+        "rating": 1903.607,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

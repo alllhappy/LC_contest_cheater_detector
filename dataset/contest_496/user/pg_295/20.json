@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Giree_codes",
+      "profile": {
+        "ranking": 919764,
+        "realName": "Gireeswar C P",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 169,
+            "submissions": 262
+          },
+          {
+            "difficulty": "Easy",
+            "count": 67,
+            "submissions": 96
+          },
+          {
+            "difficulty": "Medium",
+            "count": 87,
+            "submissions": 134
+          },
+          {
+            "difficulty": "Hard",
+            "count": 15,
+            "submissions": 32
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1605.279623231119,
+      "globalRanking": 194084,
+      "topPercentage": 22.77
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11413,
+        "rating": 1541.03,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10149,
+        "rating": 1571.474,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7370,
+        "rating": 1605.28,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

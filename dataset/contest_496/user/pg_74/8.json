@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "HTvXQY1Bde",
+      "profile": {
+        "ranking": 1323310,
+        "realName": "HTvXQY1Bde",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 115,
+            "submissions": 138
+          },
+          {
+            "difficulty": "Easy",
+            "count": 20,
+            "submissions": 22
+          },
+          {
+            "difficulty": "Medium",
+            "count": 66,
+            "submissions": 78
+          },
+          {
+            "difficulty": "Hard",
+            "count": 29,
+            "submissions": 38
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1866.340331056869,
+      "globalRanking": 45459,
+      "topPercentage": 5.41
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 763,
+        "rating": 1722.565,
+        "contest": {
+          "title": "Weekly Contest 461",
+          "startTime": 1754188200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 3187,
+        "rating": 1759.012,
+        "contest": {
+          "title": "Weekly Contest 463",
+          "startTime": 1755397800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2075,
+        "rating": 1817.894,
+        "contest": {
+          "title": "Weekly Contest 489",
+          "startTime": 1771122600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1833,
+        "rating": 1866.34,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

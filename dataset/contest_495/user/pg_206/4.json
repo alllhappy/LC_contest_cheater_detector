@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "AbhishekBhade",
+      "profile": {
+        "ranking": 2938205,
+        "realName": "AbhishekBhade",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 37,
+            "submissions": 37
+          },
+          {
+            "difficulty": "Easy",
+            "count": 10,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Medium",
+            "count": 19,
+            "submissions": 19
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1589.01707511358,
+      "globalRanking": 213663,
+      "topPercentage": 25.05
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 19581,
+        "rating": 1478.665,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8887,
+        "rating": 1523.241,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5129,
+        "rating": 1589.017,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "manu042k",
+      "profile": {
+        "ranking": 76026,
+        "realName": "Manoj M",
+        "countryName": "United States",
+        "postViewCount": 50,
+        "reputation": 2
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 729,
+            "submissions": 1258
+          },
+          {
+            "difficulty": "Easy",
+            "count": 277,
+            "submissions": 452
+          },
+          {
+            "difficulty": "Medium",
+            "count": 397,
+            "submissions": 725
+          },
+          {
+            "difficulty": "Hard",
+            "count": 55,
+            "submissions": 81
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1551.2924194335938,
+      "globalRanking": 269912,
+      "topPercentage": 31.59
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9557,
+        "rating": 1551.292,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

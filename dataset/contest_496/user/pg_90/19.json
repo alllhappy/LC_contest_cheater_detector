@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "arijit-s04",
+      "profile": {
+        "ranking": 26188,
+        "realName": "arijit-s04",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 1035,
+            "submissions": 1674
+          },
+          {
+            "difficulty": "Easy",
+            "count": 200,
+            "submissions": 319
+          },
+          {
+            "difficulty": "Medium",
+            "count": 724,
+            "submissions": 1194
+          },
+          {
+            "difficulty": "Hard",
+            "count": 111,
+            "submissions": 161
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1664.0142902414016,
+      "globalRanking": 138006,
+      "topPercentage": 16.24
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8248,
+        "rating": 1550.714,
+        "contest": {
+          "title": "Weekly Contest 468",
+          "startTime": 1758421800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 11099,
+        "rating": 1572.527,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2244,
+        "rating": 1664.014,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

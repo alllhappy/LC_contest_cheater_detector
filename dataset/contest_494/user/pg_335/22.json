@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "bjmr88",
+      "profile": {
+        "ranking": 2366083,
+        "realName": "bjmr88",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 52,
+            "submissions": 96
+          },
+          {
+            "difficulty": "Easy",
+            "count": 16,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Medium",
+            "count": 31,
+            "submissions": 56
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1644.9629269043623,
+      "globalRanking": 153913,
+      "topPercentage": 18.1
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8262,
+        "rating": 1544.815,
+        "contest": {
+          "title": "Weekly Contest 467",
+          "startTime": 1757817000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7061,
+        "rating": 1577.565,
+        "contest": {
+          "title": "Weekly Contest 474",
+          "startTime": 1762050600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8373,
+        "rating": 1607.162,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5558,
+        "rating": 1644.963,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

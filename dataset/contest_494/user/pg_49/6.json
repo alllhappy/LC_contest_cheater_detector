@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "xajdyfgvedr",
+      "profile": {
+        "ranking": 3478501,
+        "realName": "xajdyfgvedr",
+        "countryName": "United States",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 27,
+            "submissions": 27
+          },
+          {
+            "difficulty": "Easy",
+            "count": 6,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Medium",
+            "count": 13,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1628.7712996836744,
+      "globalRanking": 169010,
+      "topPercentage": 19.85
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 15330,
+        "rating": 1510.577,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 20801,
+        "rating": 1491.047,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1207,
+        "rating": 1628.771,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

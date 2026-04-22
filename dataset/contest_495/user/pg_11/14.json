@@ -1,0 +1,112 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Wobert",
+      "profile": {
+        "ranking": 900580,
+        "realName": "Wobert",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 171,
+            "submissions": 230
+          },
+          {
+            "difficulty": "Easy",
+            "count": 44,
+            "submissions": 69
+          },
+          {
+            "difficulty": "Medium",
+            "count": 77,
+            "submissions": 98
+          },
+          {
+            "difficulty": "Hard",
+            "count": 50,
+            "submissions": 63
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 6,
+      "rating": 2344.249688476581,
+      "globalRanking": 3465,
+      "topPercentage": 0.42
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 297,
+        "rating": 1823.227,
+        "contest": {
+          "title": "Weekly Contest 368",
+          "startTime": 1697941800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 180,
+        "rating": 2010.135,
+        "contest": {
+          "title": "Weekly Contest 373",
+          "startTime": 1700965800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 157,
+        "rating": 2137.673,
+        "contest": {
+          "title": "Weekly Contest 376",
+          "startTime": 1702780200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 327,
+        "rating": 2206.066,
+        "contest": {
+          "title": "Weekly Contest 412",
+          "startTime": 1724553000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 265,
+        "rating": 2259.412,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 60,
+        "rating": 2344.25,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Abhishekkumar007",
+      "profile": {
+        "ranking": 1303739,
+        "realName": "Abhishekkumar007",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 118,
+            "submissions": 131
+          },
+          {
+            "difficulty": "Easy",
+            "count": 42,
+            "submissions": 46
+          },
+          {
+            "difficulty": "Medium",
+            "count": 58,
+            "submissions": 63
+          },
+          {
+            "difficulty": "Hard",
+            "count": 18,
+            "submissions": 22
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1692.4491903926435,
+      "globalRanking": 117569,
+      "topPercentage": 13.85
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 11806,
+        "rating": 1532.169,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 217,
+        "rating": 1764.839,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 38324,
+        "rating": 1692.449,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

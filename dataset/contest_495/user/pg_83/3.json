@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "pavanbhimaraju",
+      "profile": {
+        "ranking": 1062556,
+        "realName": "pavanbhimaraju",
+        "countryName": null,
+        "postViewCount": 1321,
+        "reputation": 36
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 146,
+            "submissions": 208
+          },
+          {
+            "difficulty": "Easy",
+            "count": 121,
+            "submissions": 174
+          },
+          {
+            "difficulty": "Medium",
+            "count": 21,
+            "submissions": 29
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 5
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1682.7392578125,
+      "globalRanking": 124183,
+      "topPercentage": 14.63
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2053,
+        "rating": 1682.739,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

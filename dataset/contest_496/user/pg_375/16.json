@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "naruto_14",
+      "profile": {
+        "ranking": 3793788,
+        "realName": "naruto_14",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 23,
+            "submissions": 35
+          },
+          {
+            "difficulty": "Easy",
+            "count": 6,
+            "submissions": 17
+          },
+          {
+            "difficulty": "Medium",
+            "count": 15,
+            "submissions": 16
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1553.3008575439453,
+      "globalRanking": 266546,
+      "topPercentage": 31.2
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9366,
+        "rating": 1553.301,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

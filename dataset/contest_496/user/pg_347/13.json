@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "rajasatyam",
+      "profile": {
+        "ranking": 260111,
+        "realName": "Raja Satyam",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 420,
+            "submissions": 786
+          },
+          {
+            "difficulty": "Easy",
+            "count": 189,
+            "submissions": 335
+          },
+          {
+            "difficulty": "Medium",
+            "count": 197,
+            "submissions": 387
+          },
+          {
+            "difficulty": "Hard",
+            "count": 34,
+            "submissions": 64
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1560.9283447265625,
+      "globalRanking": 253998,
+      "topPercentage": 29.75
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8663,
+        "rating": 1560.928,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

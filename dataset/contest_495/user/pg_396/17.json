@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ncashish06",
+      "profile": {
+        "ranking": 846938,
+        "realName": "Ashish Nadadur Chakravarthi",
+        "countryName": "United States",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 181,
+            "submissions": 415
+          },
+          {
+            "difficulty": "Easy",
+            "count": 59,
+            "submissions": 150
+          },
+          {
+            "difficulty": "Medium",
+            "count": 106,
+            "submissions": 232
+          },
+          {
+            "difficulty": "Hard",
+            "count": 16,
+            "submissions": 33
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1648.0874362592906,
+      "globalRanking": 151174,
+      "topPercentage": 17.78
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 8365,
+        "rating": 1416.824,
+        "contest": {
+          "title": "Biweekly Contest 32",
+          "startTime": 1596897000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 571,
+        "rating": 1637.372,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9892,
+        "rating": 1648.087,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

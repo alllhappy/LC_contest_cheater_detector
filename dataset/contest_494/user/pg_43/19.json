@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "maverick_hr-07",
+      "profile": {
+        "ranking": 1295989,
+        "realName": "maverick_hr-07",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 120,
+            "submissions": 121
+          },
+          {
+            "difficulty": "Easy",
+            "count": 62,
+            "submissions": 63
+          },
+          {
+            "difficulty": "Medium",
+            "count": 47,
+            "submissions": 47
+          },
+          {
+            "difficulty": "Hard",
+            "count": 11,
+            "submissions": 11
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1646.474135549445,
+      "globalRanking": 152579,
+      "topPercentage": 17.94
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1070,
+        "rating": 1726.851,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 33678,
+        "rating": 1646.474,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

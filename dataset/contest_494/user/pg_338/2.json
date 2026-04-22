@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Shyama_Mondal",
+      "profile": {
+        "ranking": 338626,
+        "realName": "Shyama_Mondal",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 360,
+            "submissions": 460
+          },
+          {
+            "difficulty": "Easy",
+            "count": 137,
+            "submissions": 202
+          },
+          {
+            "difficulty": "Medium",
+            "count": 161,
+            "submissions": 191
+          },
+          {
+            "difficulty": "Hard",
+            "count": 62,
+            "submissions": 67
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1603.524592346426,
+      "globalRanking": 196133,
+      "topPercentage": 23.01
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 35572,
+        "rating": 1413.131,
+        "contest": {
+          "title": "Weekly Contest 487",
+          "startTime": 1769913000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8428,
+        "rating": 1485.713,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3984,
+        "rating": 1571.7,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7149,
+        "rating": 1603.525,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

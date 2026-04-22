@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "sdhinakaran007",
+      "profile": {
+        "ranking": 3138505,
+        "realName": "DHINAKARAN S",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 33,
+            "submissions": 35
+          },
+          {
+            "difficulty": "Easy",
+            "count": 15,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Medium",
+            "count": 12,
+            "submissions": 14
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1534.47661041581,
+      "globalRanking": 300443,
+      "topPercentage": 35.14
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 42171,
+        "rating": 1413.777,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4006,
+        "rating": 1534.477,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

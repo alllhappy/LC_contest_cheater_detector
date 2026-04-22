@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Aayushbambal11",
+      "profile": {
+        "ranking": 659955,
+        "realName": "Aayush bambal",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 225,
+            "submissions": 275
+          },
+          {
+            "difficulty": "Easy",
+            "count": 99,
+            "submissions": 122
+          },
+          {
+            "difficulty": "Medium",
+            "count": 117,
+            "submissions": 143
+          },
+          {
+            "difficulty": "Hard",
+            "count": 9,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1633.8190781442743,
+      "globalRanking": 164195,
+      "topPercentage": 19.3
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5913,
+        "rating": 1605.206,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8477,
+        "rating": 1633.819,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

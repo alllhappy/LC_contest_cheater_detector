@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "saurav_chauhan2003",
+      "profile": {
+        "ranking": 686334,
+        "realName": "saurav_chauhan2003",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 220,
+            "submissions": 255
+          },
+          {
+            "difficulty": "Easy",
+            "count": 69,
+            "submissions": 79
+          },
+          {
+            "difficulty": "Medium",
+            "count": 126,
+            "submissions": 148
+          },
+          {
+            "difficulty": "Hard",
+            "count": 25,
+            "submissions": 28
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1632.1537245280897,
+      "globalRanking": 165784,
+      "topPercentage": 19.48
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6945,
+        "rating": 1591.859,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6771,
+        "rating": 1637.246,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 11574,
+        "rating": 1632.154,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

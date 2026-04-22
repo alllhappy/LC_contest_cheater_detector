@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Cronus___1712",
+      "profile": {
+        "ranking": 1049376,
+        "realName": "Cronus___1712",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 148,
+            "submissions": 178
+          },
+          {
+            "difficulty": "Easy",
+            "count": 56,
+            "submissions": 63
+          },
+          {
+            "difficulty": "Medium",
+            "count": 79,
+            "submissions": 99
+          },
+          {
+            "difficulty": "Hard",
+            "count": 13,
+            "submissions": 16
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1683.2717347438092,
+      "globalRanking": 123804,
+      "topPercentage": 14.58
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 20929,
+        "rating": 1437.942,
+        "contest": {
+          "title": "Weekly Contest 486",
+          "startTime": 1769308200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 593,
+        "rating": 1609.411,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2484,
+        "rating": 1683.272,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

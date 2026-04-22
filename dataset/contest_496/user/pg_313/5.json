@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "yash_2607",
+      "profile": {
+        "ranking": 507016,
+        "realName": "yash_2607",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 276,
+            "submissions": 334
+          },
+          {
+            "difficulty": "Easy",
+            "count": 77,
+            "submissions": 95
+          },
+          {
+            "difficulty": "Medium",
+            "count": 168,
+            "submissions": 195
+          },
+          {
+            "difficulty": "Hard",
+            "count": 31,
+            "submissions": 44
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1686.0562551801404,
+      "globalRanking": 121840,
+      "topPercentage": 14.35
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8368,
+        "rating": 1568.147,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2627,
+        "rating": 1672.736,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7805,
+        "rating": 1686.056,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

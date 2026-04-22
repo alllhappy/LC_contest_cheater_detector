@@ -1,0 +1,134 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Meet42",
+      "profile": {
+        "ranking": 106409,
+        "realName": "Meet Mulik",
+        "countryName": "India",
+        "postViewCount": 303,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 641,
+            "submissions": 1290
+          },
+          {
+            "difficulty": "Easy",
+            "count": 215,
+            "submissions": 388
+          },
+          {
+            "difficulty": "Medium",
+            "count": 370,
+            "submissions": 797
+          },
+          {
+            "difficulty": "Hard",
+            "count": 56,
+            "submissions": 105
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 8,
+      "rating": 1574.4168784059914,
+      "globalRanking": 233712,
+      "topPercentage": 27.39
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "NONE",
+        "problemsSolved": 0,
+        "ranking": 0,
+        "rating": 1500.0,
+        "contest": {
+          "title": "Biweekly Contest 108",
+          "startTime": 1688826600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 14650,
+        "rating": 1458.097,
+        "contest": {
+          "title": "Biweekly Contest 109",
+          "startTime": 1690036200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 16810,
+        "rating": 1424.627,
+        "contest": {
+          "title": "Biweekly Contest 110",
+          "startTime": 1691245800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13267,
+        "rating": 1437.099,
+        "contest": {
+          "title": "Biweekly Contest 162",
+          "startTime": 1754145000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 10647,
+        "rating": 1458.16,
+        "contest": {
+          "title": "Biweekly Contest 163",
+          "startTime": 1755354600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8159,
+        "rating": 1529.484,
+        "contest": {
+          "title": "Weekly Contest 486",
+          "startTime": 1769308200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8342,
+        "rating": 1554.008,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9527,
+        "rating": 1574.417,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

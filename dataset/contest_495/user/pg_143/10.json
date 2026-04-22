@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "rahulbollisetty",
+      "profile": {
+        "ranking": 452832,
+        "realName": "rahulbollisetty",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 298,
+            "submissions": 432
+          },
+          {
+            "difficulty": "Easy",
+            "count": 74,
+            "submissions": 125
+          },
+          {
+            "difficulty": "Medium",
+            "count": 175,
+            "submissions": 245
+          },
+          {
+            "difficulty": "Hard",
+            "count": 49,
+            "submissions": 62
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1647.7593549039816,
+      "globalRanking": 151479,
+      "topPercentage": 17.81
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9410,
+        "rating": 1541.296,
+        "contest": {
+          "title": "Weekly Contest 404",
+          "startTime": 1719714600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8103,
+        "rating": 1574.788,
+        "contest": {
+          "title": "Weekly Contest 409",
+          "startTime": 1722738600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3560,
+        "rating": 1647.759,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

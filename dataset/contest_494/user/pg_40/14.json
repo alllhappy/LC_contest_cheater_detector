@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Aman_Prakash",
+      "profile": {
+        "ranking": 635528,
+        "realName": "Aman_Prakash",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 231,
+            "submissions": 629
+          },
+          {
+            "difficulty": "Easy",
+            "count": 75,
+            "submissions": 181
+          },
+          {
+            "difficulty": "Medium",
+            "count": 144,
+            "submissions": 424
+          },
+          {
+            "difficulty": "Hard",
+            "count": 12,
+            "submissions": 24
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1732.0003509521484,
+      "globalRanking": 94178,
+      "topPercentage": 11.12
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 990,
+        "rating": 1732.0,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

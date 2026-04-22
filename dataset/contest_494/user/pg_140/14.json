@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "LeoCoder007",
+      "profile": {
+        "ranking": 673878,
+        "realName": "LeoCoder007",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 221,
+            "submissions": 270
+          },
+          {
+            "difficulty": "Easy",
+            "count": 83,
+            "submissions": 115
+          },
+          {
+            "difficulty": "Medium",
+            "count": 108,
+            "submissions": 125
+          },
+          {
+            "difficulty": "Hard",
+            "count": 30,
+            "submissions": 30
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1643.3086395263672,
+      "globalRanking": 155373,
+      "topPercentage": 18.27
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3490,
+        "rating": 1643.309,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

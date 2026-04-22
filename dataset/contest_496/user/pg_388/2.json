@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "J0pR8kIgLG",
+      "profile": {
+        "ranking": 774729,
+        "realName": "Karunya",
+        "countryName": "India",
+        "postViewCount": 1,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 197,
+            "submissions": 318
+          },
+          {
+            "difficulty": "Easy",
+            "count": 144,
+            "submissions": 232
+          },
+          {
+            "difficulty": "Medium",
+            "count": 50,
+            "submissions": 77
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1528.5337347733348,
+      "globalRanking": 312213,
+      "topPercentage": 36.5
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 18143,
+        "rating": 1489.303,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9677,
+        "rating": 1528.534,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

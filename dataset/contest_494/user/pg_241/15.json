@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "moulli",
+      "profile": {
+        "ranking": 860088,
+        "realName": "Mouli S",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 179,
+            "submissions": 182
+          },
+          {
+            "difficulty": "Easy",
+            "count": 80,
+            "submissions": 81
+          },
+          {
+            "difficulty": "Medium",
+            "count": 78,
+            "submissions": 80
+          },
+          {
+            "difficulty": "Hard",
+            "count": 21,
+            "submissions": 21
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1534.8990232875756,
+      "globalRanking": 299654,
+      "topPercentage": 35.04
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 37111,
+        "rating": 1413.208,
+        "contest": {
+          "title": "Weekly Contest 489",
+          "startTime": 1771122600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6016,
+        "rating": 1508.556,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10175,
+        "rating": 1534.899,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

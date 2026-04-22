@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "muzamil2004",
+      "profile": {
+        "ranking": 1724209,
+        "realName": "Muzamil2004",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 85,
+            "submissions": 89
+          },
+          {
+            "difficulty": "Easy",
+            "count": 35,
+            "submissions": 35
+          },
+          {
+            "difficulty": "Medium",
+            "count": 43,
+            "submissions": 47
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1475.9727480568781,
+      "globalRanking": 447498,
+      "topPercentage": 52.16
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 22379,
+        "rating": 1441.549,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 22386,
+        "rating": 1421.008,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8449,
+        "rating": 1475.973,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Amreen_KK-02",
+      "profile": {
+        "ranking": 1665182,
+        "realName": "Amreen_KK-02",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 87,
+            "submissions": 94
+          },
+          {
+            "difficulty": "Easy",
+            "count": 68,
+            "submissions": 73
+          },
+          {
+            "difficulty": "Medium",
+            "count": 18,
+            "submissions": 19
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1690.101422761616,
+      "globalRanking": 119121,
+      "topPercentage": 14.04
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2888,
+        "rating": 1658.1,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6274,
+        "rating": 1690.101,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

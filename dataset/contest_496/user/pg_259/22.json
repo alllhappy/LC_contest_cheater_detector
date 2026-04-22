@@ -1,0 +1,123 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "CoolPV",
+      "profile": {
+        "ranking": 26209,
+        "realName": "CoolPV",
+        "countryName": null,
+        "postViewCount": 7,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 1034,
+            "submissions": 1963
+          },
+          {
+            "difficulty": "Easy",
+            "count": 373,
+            "submissions": 673
+          },
+          {
+            "difficulty": "Medium",
+            "count": 589,
+            "submissions": 1177
+          },
+          {
+            "difficulty": "Hard",
+            "count": 72,
+            "submissions": 113
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 7,
+      "rating": 1626.9578070082189,
+      "globalRanking": 170857,
+      "topPercentage": 20.07
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6021,
+        "rating": 1595.758,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 24665,
+        "rating": 1546.685,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6347,
+        "rating": 1596.334,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10531,
+        "rating": 1611.561,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 14200,
+        "rating": 1606.106,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 14921,
+        "rating": 1599.34,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6472,
+        "rating": 1626.958,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "skylerave",
+      "profile": {
+        "ranking": 4930710,
+        "realName": "skylerave",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 13,
+            "submissions": 24
+          },
+          {
+            "difficulty": "Easy",
+            "count": 6,
+            "submissions": 14
+          },
+          {
+            "difficulty": "Medium",
+            "count": 6,
+            "submissions": 8
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1631.0720443725586,
+      "globalRanking": 166775,
+      "topPercentage": 19.59
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3860,
+        "rating": 1631.072,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "varadrz",
+      "profile": {
+        "ranking": 511909,
+        "realName": "Varad",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 273,
+            "submissions": 323
+          },
+          {
+            "difficulty": "Easy",
+            "count": 107,
+            "submissions": 134
+          },
+          {
+            "difficulty": "Medium",
+            "count": 118,
+            "submissions": 139
+          },
+          {
+            "difficulty": "Hard",
+            "count": 48,
+            "submissions": 50
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1802.8078079223633,
+      "globalRanking": 64551,
+      "topPercentage": 7.65
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 326,
+        "rating": 1802.808,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

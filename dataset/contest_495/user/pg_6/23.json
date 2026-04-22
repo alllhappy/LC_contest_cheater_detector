@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "kritikaa_anand20",
+      "profile": {
+        "ranking": 993027,
+        "realName": "kritikaa_anand20",
+        "countryName": "India",
+        "postViewCount": 17,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 156,
+            "submissions": 263
+          },
+          {
+            "difficulty": "Easy",
+            "count": 59,
+            "submissions": 101
+          },
+          {
+            "difficulty": "Medium",
+            "count": 71,
+            "submissions": 120
+          },
+          {
+            "difficulty": "Hard",
+            "count": 26,
+            "submissions": 42
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 2029.252519296218,
+      "globalRanking": 17797,
+      "topPercentage": 2.15
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 341,
+        "rating": 1787.264,
+        "contest": {
+          "title": "Biweekly Contest 177",
+          "startTime": 1772289000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 764,
+        "rating": 1891.991,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 149,
+        "rating": 2029.253,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

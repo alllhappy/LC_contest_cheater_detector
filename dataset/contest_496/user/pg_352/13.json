@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ayush__ak__02",
+      "profile": {
+        "ranking": 174369,
+        "realName": "ayush_ak_02",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 517,
+            "submissions": 697
+          },
+          {
+            "difficulty": "Easy",
+            "count": 78,
+            "submissions": 89
+          },
+          {
+            "difficulty": "Medium",
+            "count": 371,
+            "submissions": 513
+          },
+          {
+            "difficulty": "Hard",
+            "count": 68,
+            "submissions": 95
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1459.8073573469333,
+      "globalRanking": 501499,
+      "topPercentage": 58.38
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 12012,
+        "rating": 1465.313,
+        "contest": {
+          "title": "Biweekly Contest 157",
+          "startTime": 1748097000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 22674,
+        "rating": 1403.718,
+        "contest": {
+          "title": "Weekly Contest 479",
+          "startTime": 1765074600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8788,
+        "rating": 1459.807,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

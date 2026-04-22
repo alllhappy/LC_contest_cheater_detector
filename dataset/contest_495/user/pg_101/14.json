@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "omkarchorge",
+      "profile": {
+        "ranking": 205017,
+        "realName": "Omkar Chorge",
+        "countryName": "United States",
+        "postViewCount": 5077,
+        "reputation": 26
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 476,
+            "submissions": 896
+          },
+          {
+            "difficulty": "Easy",
+            "count": 278,
+            "submissions": 599
+          },
+          {
+            "difficulty": "Medium",
+            "count": 175,
+            "submissions": 269
+          },
+          {
+            "difficulty": "Hard",
+            "count": 23,
+            "submissions": 28
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1782.4066485575777,
+      "globalRanking": 71753,
+      "topPercentage": 8.5
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4352,
+        "rating": 1620.146,
+        "contest": {
+          "title": "Weekly Contest 487",
+          "startTime": 1769913000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2163,
+        "rating": 1722.038,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2514,
+        "rating": 1782.407,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

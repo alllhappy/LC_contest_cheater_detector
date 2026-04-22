@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "satwik2954kumar",
+      "profile": {
+        "ranking": 1492993,
+        "realName": "Satwik Kumar Pradhan",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 100,
+            "submissions": 292
+          },
+          {
+            "difficulty": "Easy",
+            "count": 68,
+            "submissions": 197
+          },
+          {
+            "difficulty": "Medium",
+            "count": 31,
+            "submissions": 94
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1676.569544736899,
+      "globalRanking": 128611,
+      "topPercentage": 15.14
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1430,
+        "rating": 1696.177,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 24765,
+        "rating": 1632.361,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4849,
+        "rating": 1676.57,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

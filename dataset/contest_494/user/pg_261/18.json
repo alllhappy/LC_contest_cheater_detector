@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "as_0371",
+      "profile": {
+        "ranking": 541494,
+        "realName": "Sai Teja",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 263,
+            "submissions": 475
+          },
+          {
+            "difficulty": "Easy",
+            "count": 91,
+            "submissions": 135
+          },
+          {
+            "difficulty": "Medium",
+            "count": 141,
+            "submissions": 277
+          },
+          {
+            "difficulty": "Hard",
+            "count": 31,
+            "submissions": 63
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1687.208301962113,
+      "globalRanking": 121067,
+      "topPercentage": 14.26
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5097,
+        "rating": 1574.018,
+        "contest": {
+          "title": "Weekly Contest 479",
+          "startTime": 1765074600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5782,
+        "rating": 1628.206,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6782,
+        "rating": 1662.372,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6519,
+        "rating": 1687.208,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

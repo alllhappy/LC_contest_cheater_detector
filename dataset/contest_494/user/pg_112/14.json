@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "singlemayank",
+      "profile": {
+        "ranking": 2098404,
+        "realName": "Mayank Singhal",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 63,
+            "submissions": 73
+          },
+          {
+            "difficulty": "Easy",
+            "count": 22,
+            "submissions": 27
+          },
+          {
+            "difficulty": "Medium",
+            "count": 33,
+            "submissions": 38
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1660.0570678710938,
+      "globalRanking": 141152,
+      "topPercentage": 16.61
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2790,
+        "rating": 1660.057,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

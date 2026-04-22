@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "rajeshpenupothu",
+      "profile": {
+        "ranking": 1662112,
+        "realName": "RajeshPenupothu",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 87,
+            "submissions": 91
+          },
+          {
+            "difficulty": "Easy",
+            "count": 52,
+            "submissions": 55
+          },
+          {
+            "difficulty": "Medium",
+            "count": 33,
+            "submissions": 34
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1606.5702438354492,
+      "globalRanking": 192663,
+      "topPercentage": 22.6
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5211,
+        "rating": 1606.57,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

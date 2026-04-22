@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "niranjangavali",
+      "profile": {
+        "ranking": 655867,
+        "realName": "niranjangavali",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 226,
+            "submissions": 349
+          },
+          {
+            "difficulty": "Easy",
+            "count": 126,
+            "submissions": 183
+          },
+          {
+            "difficulty": "Medium",
+            "count": 98,
+            "submissions": 161
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 5
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1559.5713163677015,
+      "globalRanking": 256185,
+      "topPercentage": 30.0
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 16002,
+        "rating": 1511.936,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8665,
+        "rating": 1559.571,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

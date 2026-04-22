@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "snehasuman1901",
+      "profile": {
+        "ranking": 1026430,
+        "realName": "snehasuman1901",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 152,
+            "submissions": 192
+          },
+          {
+            "difficulty": "Easy",
+            "count": 75,
+            "submissions": 100
+          },
+          {
+            "difficulty": "Medium",
+            "count": 60,
+            "submissions": 71
+          },
+          {
+            "difficulty": "Hard",
+            "count": 17,
+            "submissions": 21
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1510.56590833162,
+      "globalRanking": 351197,
+      "topPercentage": 41.02
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 32069,
+        "rating": 1413.222,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5475,
+        "rating": 1510.566,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

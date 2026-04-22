@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "user_x_321",
+      "profile": {
+        "ranking": 2196887,
+        "realName": "user_x",
+        "countryName": "India",
+        "postViewCount": 30,
+        "reputation": 2
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 59,
+            "submissions": 74
+          },
+          {
+            "difficulty": "Easy",
+            "count": 35,
+            "submissions": 42
+          },
+          {
+            "difficulty": "Medium",
+            "count": 22,
+            "submissions": 29
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1621.8996047973633,
+      "globalRanking": 175981,
+      "topPercentage": 20.66
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4595,
+        "rating": 1621.9,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

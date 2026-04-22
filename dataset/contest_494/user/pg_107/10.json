@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "reck98",
+      "profile": {
+        "ranking": 1420253,
+        "realName": "reck98",
+        "countryName": null,
+        "postViewCount": 4,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 108,
+            "submissions": 146
+          },
+          {
+            "difficulty": "Easy",
+            "count": 43,
+            "submissions": 56
+          },
+          {
+            "difficulty": "Medium",
+            "count": 58,
+            "submissions": 81
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1809.5651552885233,
+      "globalRanking": 62226,
+      "topPercentage": 7.38
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1864,
+        "rating": 1690.97,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2661,
+        "rating": 1766.269,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2664,
+        "rating": 1809.565,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

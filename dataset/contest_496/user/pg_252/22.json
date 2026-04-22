@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Prithivraj7",
+      "profile": {
+        "ranking": 3433074,
+        "realName": "Prithivraj",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 33,
+            "submissions": 34
+          },
+          {
+            "difficulty": "Easy",
+            "count": 22,
+            "submissions": 23
+          },
+          {
+            "difficulty": "Medium",
+            "count": 11,
+            "submissions": 11
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1558.20043463456,
+      "globalRanking": 258401,
+      "topPercentage": 30.26
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 18176,
+        "rating": 1489.071,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6297,
+        "rating": 1558.2,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

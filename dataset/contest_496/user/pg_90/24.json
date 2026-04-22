@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Lavkush_Nishad-003",
+      "profile": {
+        "ranking": 1186792,
+        "realName": "Lavkush_Nishad-003",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 131,
+            "submissions": 253
+          },
+          {
+            "difficulty": "Easy",
+            "count": 42,
+            "submissions": 88
+          },
+          {
+            "difficulty": "Medium",
+            "count": 70,
+            "submissions": 133
+          },
+          {
+            "difficulty": "Hard",
+            "count": 19,
+            "submissions": 32
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1672.0905303955078,
+      "globalRanking": 131883,
+      "topPercentage": 15.53
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2249,
+        "rating": 1672.091,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

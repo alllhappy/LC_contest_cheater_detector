@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "DJ_Lloyd",
+      "profile": {
+        "ranking": 447057,
+        "realName": "DJ_Lloyd",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 302,
+            "submissions": 368
+          },
+          {
+            "difficulty": "Easy",
+            "count": 195,
+            "submissions": 220
+          },
+          {
+            "difficulty": "Medium",
+            "count": 95,
+            "submissions": 129
+          },
+          {
+            "difficulty": "Hard",
+            "count": 12,
+            "submissions": 19
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1579.1133274523527,
+      "globalRanking": 226956,
+      "topPercentage": 26.6
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6740,
+        "rating": 1558.691,
+        "contest": {
+          "title": "Weekly Contest 462",
+          "startTime": 1754793000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 15789,
+        "rating": 1552.565,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8903,
+        "rating": 1579.113,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

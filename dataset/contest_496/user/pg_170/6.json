@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "anit47",
+      "profile": {
+        "ranking": 573744,
+        "realName": "Anit",
+        "countryName": null,
+        "postViewCount": 1,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 253,
+            "submissions": 517
+          },
+          {
+            "difficulty": "Easy",
+            "count": 73,
+            "submissions": 132
+          },
+          {
+            "difficulty": "Medium",
+            "count": 153,
+            "submissions": 298
+          },
+          {
+            "difficulty": "Hard",
+            "count": 27,
+            "submissions": 87
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1601.8966875578228,
+      "globalRanking": 198055,
+      "topPercentage": 23.23
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 13058,
+        "rating": 1514.234,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4231,
+        "rating": 1601.897,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

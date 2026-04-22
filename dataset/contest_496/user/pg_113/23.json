@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "b_k_k_07",
+      "profile": {
+        "ranking": 1554282,
+        "realName": "b_k_k_07",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 95,
+            "submissions": 103
+          },
+          {
+            "difficulty": "Easy",
+            "count": 50,
+            "submissions": 53
+          },
+          {
+            "difficulty": "Medium",
+            "count": 41,
+            "submissions": 46
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1655.2391052246094,
+      "globalRanking": 145010,
+      "topPercentage": 17.06
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2823,
+        "rating": 1655.239,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

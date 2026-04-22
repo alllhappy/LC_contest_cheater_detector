@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Excavior_Z",
+      "profile": {
+        "ranking": 2270823,
+        "realName": "Excavior_Z",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 58,
+            "submissions": 84
+          },
+          {
+            "difficulty": "Easy",
+            "count": 33,
+            "submissions": 46
+          },
+          {
+            "difficulty": "Medium",
+            "count": 20,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1676.5072065227591,
+      "globalRanking": 128669,
+      "topPercentage": 15.15
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 12900,
+        "rating": 1527.7,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6376,
+        "rating": 1591.127,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2511,
+        "rating": 1676.507,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

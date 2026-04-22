@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "yashash_2006",
+      "profile": {
+        "ranking": 2850092,
+        "realName": "yashash_2006",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 39,
+            "submissions": 41
+          },
+          {
+            "difficulty": "Easy",
+            "count": 33,
+            "submissions": 35
+          },
+          {
+            "difficulty": "Medium",
+            "count": 6,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1584.228515625,
+      "globalRanking": 220018,
+      "topPercentage": 25.79
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6741,
+        "rating": 1584.229,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

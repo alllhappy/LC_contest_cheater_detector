@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "chauhanvaibhav758",
+      "profile": {
+        "ranking": 29222,
+        "realName": "Vaibhav Chauhan",
+        "countryName": null,
+        "postViewCount": 3,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 1001,
+            "submissions": 1498
+          },
+          {
+            "difficulty": "Easy",
+            "count": 227,
+            "submissions": 334
+          },
+          {
+            "difficulty": "Medium",
+            "count": 561,
+            "submissions": 837
+          },
+          {
+            "difficulty": "Hard",
+            "count": 213,
+            "submissions": 327
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1602.1533409489703,
+      "globalRanking": 197789,
+      "topPercentage": 23.2
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7282,
+        "rating": 1577.431,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 20823,
+        "rating": 1550.611,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6065,
+        "rating": 1602.153,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "FiendFyre",
+      "profile": {
+        "ranking": 1518267,
+        "realName": "FiendFyre",
+        "countryName": null,
+        "postViewCount": 4,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 98,
+            "submissions": 200
+          },
+          {
+            "difficulty": "Easy",
+            "count": 33,
+            "submissions": 56
+          },
+          {
+            "difficulty": "Medium",
+            "count": 58,
+            "submissions": 132
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 12
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1700.5319595336914,
+      "globalRanking": 112328,
+      "topPercentage": 13.24
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1579,
+        "rating": 1700.532,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

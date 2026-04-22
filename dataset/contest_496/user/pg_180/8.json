@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "keval0201",
+      "profile": {
+        "ranking": 1422100,
+        "realName": "Keval",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 106,
+            "submissions": 126
+          },
+          {
+            "difficulty": "Easy",
+            "count": 50,
+            "submissions": 58
+          },
+          {
+            "difficulty": "Medium",
+            "count": 51,
+            "submissions": 61
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1750.8421446147718,
+      "globalRanking": 85003,
+      "topPercentage": 10.05
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1377,
+        "rating": 1710.357,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4483,
+        "rating": 1750.842,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

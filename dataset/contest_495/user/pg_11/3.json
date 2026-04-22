@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "divyandubey",
+      "profile": {
+        "ranking": 3788071,
+        "realName": "divyandubey",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 23,
+            "submissions": 27
+          },
+          {
+            "difficulty": "Easy",
+            "count": 7,
+            "submissions": 8
+          },
+          {
+            "difficulty": "Medium",
+            "count": 11,
+            "submissions": 13
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1745.7149239901262,
+      "globalRanking": 87332,
+      "topPercentage": 10.32
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6967,
+        "rating": 1547.061,
+        "contest": {
+          "title": "Biweekly Contest 168",
+          "startTime": 1761402600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10845,
+        "rating": 1562.639,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 254,
+        "rating": 1745.715,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

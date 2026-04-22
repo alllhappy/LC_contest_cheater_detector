@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "_kshiitiij_",
+      "profile": {
+        "ranking": 558486,
+        "realName": "_kshiitiij_",
+        "countryName": null,
+        "postViewCount": 4,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 256,
+            "submissions": 388
+          },
+          {
+            "difficulty": "Easy",
+            "count": 120,
+            "submissions": 165
+          },
+          {
+            "difficulty": "Medium",
+            "count": 122,
+            "submissions": 204
+          },
+          {
+            "difficulty": "Hard",
+            "count": 14,
+            "submissions": 19
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1520.4751311806126,
+      "globalRanking": 329068,
+      "topPercentage": 38.46
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 17443,
+        "rating": 1465.842,
+        "contest": {
+          "title": "Weekly Contest 471",
+          "startTime": 1760236200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9123,
+        "rating": 1520.475,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

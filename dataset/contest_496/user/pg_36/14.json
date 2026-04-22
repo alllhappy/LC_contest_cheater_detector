@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "damodar96",
+      "profile": {
+        "ranking": 473761,
+        "realName": "Damodar Hegde",
+        "countryName": "United States",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 289,
+            "submissions": 708
+          },
+          {
+            "difficulty": "Easy",
+            "count": 148,
+            "submissions": 343
+          },
+          {
+            "difficulty": "Medium",
+            "count": 127,
+            "submissions": 326
+          },
+          {
+            "difficulty": "Hard",
+            "count": 14,
+            "submissions": 39
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1736.4263534545898,
+      "globalRanking": 91920,
+      "topPercentage": 10.86
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 889,
+        "rating": 1736.426,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

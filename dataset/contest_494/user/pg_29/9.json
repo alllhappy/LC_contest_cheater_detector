@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "vijaydinodia",
+      "profile": {
+        "ranking": 561540,
+        "realName": "vijaydinodia",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 255,
+            "submissions": 457
+          },
+          {
+            "difficulty": "Easy",
+            "count": 187,
+            "submissions": 325
+          },
+          {
+            "difficulty": "Medium",
+            "count": 64,
+            "submissions": 123
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 9
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1753.692626953125,
+      "globalRanking": 83661,
+      "topPercentage": 9.89
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 710,
+        "rating": 1753.693,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

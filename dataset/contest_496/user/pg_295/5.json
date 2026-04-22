@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "717825l330",
+      "profile": {
+        "ranking": 3138788,
+        "realName": "MANOJ KUMAR R",
+        "countryName": null,
+        "postViewCount": 4,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 33,
+            "submissions": 45
+          },
+          {
+            "difficulty": "Easy",
+            "count": 29,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Medium",
+            "count": 4,
+            "submissions": 5
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1482.7930509084033,
+      "globalRanking": 426855,
+      "topPercentage": 49.78
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 42408,
+        "rating": 1413.611,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 18611,
+        "rating": 1418.946,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7355,
+        "rating": 1482.793,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "eklavya180",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "eklavya180",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 8,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Easy",
+            "count": 6,
+            "submissions": 8
+          },
+          {
+            "difficulty": "Medium",
+            "count": 2,
+            "submissions": 2
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1580.9290032637746,
+      "globalRanking": 224553,
+      "topPercentage": 26.32
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 13256,
+        "rating": 1512.534,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6278,
+        "rating": 1580.929,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

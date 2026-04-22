@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "oQH81KRUUZ",
+      "profile": {
+        "ranking": 3566336,
+        "realName": "Ravi Singh",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 31,
+            "submissions": 37
+          },
+          {
+            "difficulty": "Easy",
+            "count": 22,
+            "submissions": 27
+          },
+          {
+            "difficulty": "Medium",
+            "count": 6,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Hard",
+            "count": 3,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1517.1601144891035,
+      "globalRanking": 336298,
+      "topPercentage": 39.3
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7063,
+        "rating": 1586.698,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 38195,
+        "rating": 1517.16,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

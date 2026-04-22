@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "wsfj26",
+      "profile": {
+        "ranking": 844928,
+        "realName": "fj2026",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 186,
+            "submissions": 373
+          },
+          {
+            "difficulty": "Easy",
+            "count": 11,
+            "submissions": 18
+          },
+          {
+            "difficulty": "Medium",
+            "count": 139,
+            "submissions": 279
+          },
+          {
+            "difficulty": "Hard",
+            "count": 36,
+            "submissions": 76
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1572.6127624511719,
+      "globalRanking": 236277,
+      "topPercentage": 27.68
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8269,
+        "rating": 1572.613,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

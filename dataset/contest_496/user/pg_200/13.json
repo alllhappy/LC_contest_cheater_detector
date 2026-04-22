@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "c9mJUa79sx",
+      "profile": {
+        "ranking": 2144803,
+        "realName": "Sakshi Gupta",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 61,
+            "submissions": 68
+          },
+          {
+            "difficulty": "Easy",
+            "count": 37,
+            "submissions": 42
+          },
+          {
+            "difficulty": "Medium",
+            "count": 22,
+            "submissions": 24
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1532.1651257966694,
+      "globalRanking": 305010,
+      "topPercentage": 35.67
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 23331,
+        "rating": 1434.397,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4988,
+        "rating": 1532.165,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

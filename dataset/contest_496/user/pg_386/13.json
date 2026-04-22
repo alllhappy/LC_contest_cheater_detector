@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "abhay_1010",
+      "profile": {
+        "ranking": 509439,
+        "realName": "abhay_1010",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 274,
+            "submissions": 450
+          },
+          {
+            "difficulty": "Easy",
+            "count": 88,
+            "submissions": 132
+          },
+          {
+            "difficulty": "Medium",
+            "count": 158,
+            "submissions": 272
+          },
+          {
+            "difficulty": "Hard",
+            "count": 28,
+            "submissions": 46
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1543.592051455849,
+      "globalRanking": 283543,
+      "topPercentage": 33.18
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 15533,
+        "rating": 1508.208,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9638,
+        "rating": 1543.592,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

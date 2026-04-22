@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "tarun0",
+      "profile": {
+        "ranking": 281384,
+        "realName": "bastrdman",
+        "countryName": "India",
+        "postViewCount": 12,
+        "reputation": 6
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 404,
+            "submissions": 636
+          },
+          {
+            "difficulty": "Easy",
+            "count": 92,
+            "submissions": 141
+          },
+          {
+            "difficulty": "Medium",
+            "count": 230,
+            "submissions": 361
+          },
+          {
+            "difficulty": "Hard",
+            "count": 82,
+            "submissions": 134
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1698.818594238281,
+      "globalRanking": 113464,
+      "topPercentage": 13.37
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 907,
+        "rating": 1721.764,
+        "contest": {
+          "title": "Weekly Contest 485",
+          "startTime": 1768703400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 30278,
+        "rating": 1639.764,
+        "contest": {
+          "title": "Weekly Contest 490",
+          "startTime": 1771727400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3437,
+        "rating": 1698.819,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

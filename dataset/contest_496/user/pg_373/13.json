@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "GZVbUTnmlv",
+      "profile": {
+        "ranking": 425198,
+        "realName": "Gargi",
+        "countryName": null,
+        "postViewCount": 2,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 312,
+            "submissions": 332
+          },
+          {
+            "difficulty": "Easy",
+            "count": 95,
+            "submissions": 100
+          },
+          {
+            "difficulty": "Medium",
+            "count": 162,
+            "submissions": 173
+          },
+          {
+            "difficulty": "Hard",
+            "count": 55,
+            "submissions": 59
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1553.8616180419922,
+      "globalRanking": 265607,
+      "topPercentage": 31.09
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9313,
+        "rating": 1553.862,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

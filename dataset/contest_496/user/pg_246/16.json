@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "sharma_alok",
+      "profile": {
+        "ranking": 552065,
+        "realName": "Alok Kumar",
+        "countryName": "India",
+        "postViewCount": 321,
+        "reputation": 5
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 258,
+            "submissions": 352
+          },
+          {
+            "difficulty": "Easy",
+            "count": 146,
+            "submissions": 201
+          },
+          {
+            "difficulty": "Medium",
+            "count": 99,
+            "submissions": 136
+          },
+          {
+            "difficulty": "Hard",
+            "count": 13,
+            "submissions": 15
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1444.4209235832118,
+      "globalRanking": 558083,
+      "topPercentage": 64.88
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 19549,
+        "rating": 1414.475,
+        "contest": {
+          "title": "Weekly Contest 475",
+          "startTime": 1762655400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 19882,
+        "rating": 1355.949,
+        "contest": {
+          "title": "Weekly Contest 477",
+          "startTime": 1763865000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6141,
+        "rating": 1444.421,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

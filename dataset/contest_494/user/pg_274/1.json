@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "s40JX5K7fp",
+      "profile": {
+        "ranking": 332523,
+        "realName": "Pratyay Patel",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 364,
+            "submissions": 982
+          },
+          {
+            "difficulty": "Easy",
+            "count": 145,
+            "submissions": 318
+          },
+          {
+            "difficulty": "Medium",
+            "count": 190,
+            "submissions": 564
+          },
+          {
+            "difficulty": "Hard",
+            "count": 29,
+            "submissions": 100
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1600.9284941085014,
+      "globalRanking": 199117,
+      "topPercentage": 23.36
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7456,
+        "rating": 1545.919,
+        "contest": {
+          "title": "Weekly Contest 472",
+          "startTime": 1760841000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6827,
+        "rating": 1600.928,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

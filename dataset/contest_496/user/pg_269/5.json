@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "AyushKr11",
+      "profile": {
+        "ranking": 1130200,
+        "realName": "AyushK",
+        "countryName": "India",
+        "postViewCount": 237,
+        "reputation": 21
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 137,
+            "submissions": 707
+          },
+          {
+            "difficulty": "Easy",
+            "count": 99,
+            "submissions": 330
+          },
+          {
+            "difficulty": "Medium",
+            "count": 36,
+            "submissions": 339
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 38
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1573.5591835057553,
+      "globalRanking": 234899,
+      "topPercentage": 27.52
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 11418,
+        "rating": 1528.851,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 16167,
+        "rating": 1526.114,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6705,
+        "rating": 1573.559,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

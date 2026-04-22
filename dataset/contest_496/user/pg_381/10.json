@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "25BRS1199",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "25BRS1199",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 4,
+            "submissions": 6
+          },
+          {
+            "difficulty": "Easy",
+            "count": 2,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Medium",
+            "count": 2,
+            "submissions": 2
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1551.7845153808594,
+      "globalRanking": 269114,
+      "topPercentage": 31.5
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9510,
+        "rating": 1551.785,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Navent18",
+      "profile": {
+        "ranking": 273989,
+        "realName": "Naveen Kumar",
+        "countryName": "India",
+        "postViewCount": 607,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 408,
+            "submissions": 680
+          },
+          {
+            "difficulty": "Easy",
+            "count": 112,
+            "submissions": 199
+          },
+          {
+            "difficulty": "Medium",
+            "count": 228,
+            "submissions": 388
+          },
+          {
+            "difficulty": "Hard",
+            "count": 68,
+            "submissions": 93
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1578.5323695132606,
+      "globalRanking": 227744,
+      "topPercentage": 26.69
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13551,
+        "rating": 1523.586,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6913,
+        "rating": 1578.532,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

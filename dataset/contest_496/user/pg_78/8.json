@@ -1,0 +1,112 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "shujaat09",
+      "profile": {
+        "ranking": 259890,
+        "realName": "Shujaat Hussain",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 420,
+            "submissions": 595
+          },
+          {
+            "difficulty": "Easy",
+            "count": 227,
+            "submissions": 322
+          },
+          {
+            "difficulty": "Medium",
+            "count": 161,
+            "submissions": 232
+          },
+          {
+            "difficulty": "Hard",
+            "count": 32,
+            "submissions": 41
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 6,
+      "rating": 1708.194636749126,
+      "globalRanking": 107560,
+      "topPercentage": 12.68
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 18226,
+        "rating": 1447.268,
+        "contest": {
+          "title": "Weekly Contest 474",
+          "startTime": 1762050600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6741,
+        "rating": 1500.828,
+        "contest": {
+          "title": "Weekly Contest 475",
+          "startTime": 1762655400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7115,
+        "rating": 1532.961,
+        "contest": {
+          "title": "Weekly Contest 476",
+          "startTime": 1763260200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5626,
+        "rating": 1582.666,
+        "contest": {
+          "title": "Weekly Contest 487",
+          "startTime": 1769913000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3578,
+        "rating": 1640.823,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1933,
+        "rating": 1708.195,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

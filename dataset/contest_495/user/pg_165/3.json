@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "_Faineant",
+      "profile": {
+        "ranking": 3343249,
+        "realName": "_Faineant",
+        "countryName": null,
+        "postViewCount": 9,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 29,
+            "submissions": 33
+          },
+          {
+            "difficulty": "Easy",
+            "count": 19,
+            "submissions": 23
+          },
+          {
+            "difficulty": "Medium",
+            "count": 9,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1622.89332317794,
+      "globalRanking": 174979,
+      "topPercentage": 20.55
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 8059,
+        "rating": 1534.504,
+        "contest": {
+          "title": "Weekly Contest 421",
+          "startTime": 1729996200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4103,
+        "rating": 1622.893,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

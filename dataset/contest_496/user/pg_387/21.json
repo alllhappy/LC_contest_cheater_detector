@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "abhishek_sengar_",
+      "profile": {
+        "ranking": 364022,
+        "realName": "Abhishek Sengar",
+        "countryName": "India",
+        "postViewCount": 28,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 345,
+            "submissions": 584
+          },
+          {
+            "difficulty": "Easy",
+            "count": 185,
+            "submissions": 319
+          },
+          {
+            "difficulty": "Medium",
+            "count": 150,
+            "submissions": 243
+          },
+          {
+            "difficulty": "Hard",
+            "count": 10,
+            "submissions": 22
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1557.2059137038116,
+      "globalRanking": 260083,
+      "topPercentage": 30.45
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 14477,
+        "rating": 1515.65,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13209,
+        "rating": 1531.903,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9671,
+        "rating": 1557.206,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

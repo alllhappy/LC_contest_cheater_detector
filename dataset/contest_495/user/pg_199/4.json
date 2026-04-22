@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Nidhi0021",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "Nidhi0021",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 2,
+            "submissions": 3
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 2
+          },
+          {
+            "difficulty": "Medium",
+            "count": 0,
+            "submissions": 0
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1616.4894104003906,
+      "globalRanking": 181646,
+      "topPercentage": 21.32
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4954,
+        "rating": 1616.489,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

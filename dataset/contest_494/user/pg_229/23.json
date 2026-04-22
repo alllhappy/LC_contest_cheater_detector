@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ayushi_singhhh",
+      "profile": {
+        "ranking": 496427,
+        "realName": "Ayushi",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 280,
+            "submissions": 493
+          },
+          {
+            "difficulty": "Easy",
+            "count": 131,
+            "submissions": 244
+          },
+          {
+            "difficulty": "Medium",
+            "count": 118,
+            "submissions": 212
+          },
+          {
+            "difficulty": "Hard",
+            "count": 31,
+            "submissions": 37
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1450.189974064372,
+      "globalRanking": 536507,
+      "topPercentage": 62.4
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 14477,
+        "rating": 1477.881,
+        "contest": {
+          "title": "Biweekly Contest 165",
+          "startTime": 1757773800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 30918,
+        "rating": 1366.041,
+        "contest": {
+          "title": "Weekly Contest 486",
+          "startTime": 1769308200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5724,
+        "rating": 1450.19,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

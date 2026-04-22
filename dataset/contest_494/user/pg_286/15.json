@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "charishmaaddagiri11",
+      "profile": {
+        "ranking": 2055715,
+        "realName": "charishma addagiri",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 65,
+            "submissions": 116
+          },
+          {
+            "difficulty": "Easy",
+            "count": 43,
+            "submissions": 82
+          },
+          {
+            "difficulty": "Medium",
+            "count": 21,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 4
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1526.5906484503496,
+      "globalRanking": 315983,
+      "topPercentage": 36.94
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7141,
+        "rating": 1585.107,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 26670,
+        "rating": 1526.591,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

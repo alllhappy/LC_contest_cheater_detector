@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Hitaksh8",
+      "profile": {
+        "ranking": 891713,
+        "realName": "Hitaksh8",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 173,
+            "submissions": 406
+          },
+          {
+            "difficulty": "Easy",
+            "count": 46,
+            "submissions": 137
+          },
+          {
+            "difficulty": "Medium",
+            "count": 96,
+            "submissions": 220
+          },
+          {
+            "difficulty": "Hard",
+            "count": 31,
+            "submissions": 49
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1560.2874755859375,
+      "globalRanking": 255048,
+      "topPercentage": 29.87
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9439,
+        "rating": 1560.287,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

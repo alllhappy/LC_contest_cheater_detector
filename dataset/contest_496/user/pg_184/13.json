@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "adirevanth2016",
+      "profile": {
+        "ranking": 2290653,
+        "realName": "Adi Revanth",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 55,
+            "submissions": 75
+          },
+          {
+            "difficulty": "Easy",
+            "count": 39,
+            "submissions": 53
+          },
+          {
+            "difficulty": "Medium",
+            "count": 10,
+            "submissions": 14
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1523.8822202019942,
+      "globalRanking": 321728,
+      "topPercentage": 37.61
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 27361,
+        "rating": 1416.015,
+        "contest": {
+          "title": "Biweekly Contest 166",
+          "startTime": 1758983400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4588,
+        "rating": 1523.882,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

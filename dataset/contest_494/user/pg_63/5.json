@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Noob63",
+      "profile": {
+        "ranking": 754894,
+        "realName": "Harsh",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 202,
+            "submissions": 213
+          },
+          {
+            "difficulty": "Easy",
+            "count": 112,
+            "submissions": 119
+          },
+          {
+            "difficulty": "Medium",
+            "count": 80,
+            "submissions": 83
+          },
+          {
+            "difficulty": "Hard",
+            "count": 10,
+            "submissions": 11
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1623.5455964740954,
+      "globalRanking": 174323,
+      "topPercentage": 20.47
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1556,
+        "rating": 1701.542,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 27131,
+        "rating": 1623.546,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

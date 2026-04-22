@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "uFUTouFHnr",
+      "profile": {
+        "ranking": 1582361,
+        "realName": "urvashi",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 94,
+            "submissions": 109
+          },
+          {
+            "difficulty": "Easy",
+            "count": 33,
+            "submissions": 41
+          },
+          {
+            "difficulty": "Medium",
+            "count": 46,
+            "submissions": 50
+          },
+          {
+            "difficulty": "Hard",
+            "count": 15,
+            "submissions": 18
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1879.4903040408772,
+      "globalRanking": 41697,
+      "topPercentage": 4.97
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 25020,
+        "rating": 1447.489,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 349,
+        "rating": 1672.988,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 71,
+        "rating": 1879.49,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "CiNZvnN6De",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "CiNZvnN6De",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 5,
+            "submissions": 7
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 3
+          },
+          {
+            "difficulty": "Medium",
+            "count": 4,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1666.1396026611328,
+      "globalRanking": 136408,
+      "topPercentage": 16.05
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2439,
+        "rating": 1666.14,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

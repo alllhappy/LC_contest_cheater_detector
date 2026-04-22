@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "MilanKalathiya",
+      "profile": {
+        "ranking": 1456282,
+        "realName": "Milan Kalathiya",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 103,
+            "submissions": 192
+          },
+          {
+            "difficulty": "Easy",
+            "count": 40,
+            "submissions": 66
+          },
+          {
+            "difficulty": "Medium",
+            "count": 55,
+            "submissions": 107
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 19
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1537.0471782098068,
+      "globalRanking": 295424,
+      "topPercentage": 34.55
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 24994,
+        "rating": 1440.411,
+        "contest": {
+          "title": "Weekly Contest 487",
+          "startTime": 1769913000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5309,
+        "rating": 1537.047,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

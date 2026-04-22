@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "augsahil",
+      "profile": {
+        "ranking": 1088690,
+        "realName": "Sahil Kumar",
+        "countryName": "India",
+        "postViewCount": 2,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 143,
+            "submissions": 250
+          },
+          {
+            "difficulty": "Easy",
+            "count": 104,
+            "submissions": 177
+          },
+          {
+            "difficulty": "Medium",
+            "count": 34,
+            "submissions": 62
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 11
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1588.1595611572266,
+      "globalRanking": 214786,
+      "topPercentage": 25.18
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6450,
+        "rating": 1588.16,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

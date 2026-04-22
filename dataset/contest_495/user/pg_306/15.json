@@ -1,0 +1,49 @@
+{
+  "errors": [
+    {
+      "message": "That user does not exist.",
+      "locations": [
+        {
+          "line": 4,
+          "column": 3
+        }
+      ],
+      "path": [
+        "matchedUser"
+      ],
+      "extensions": {
+        "handled": true,
+        "skip_sentry": true
+      }
+    },
+    {
+      "message": "User matching query does not exist.",
+      "locations": [
+        {
+          "line": 22,
+          "column": 3
+        }
+      ],
+      "path": [
+        "userContestRanking"
+      ]
+    },
+    {
+      "message": "User matching query does not exist.",
+      "locations": [
+        {
+          "line": 29,
+          "column": 3
+        }
+      ],
+      "path": [
+        "userContestRankingHistory"
+      ]
+    }
+  ],
+  "data": {
+    "matchedUser": null,
+    "userContestRanking": null,
+    "userContestRankingHistory": null
+  }
+}

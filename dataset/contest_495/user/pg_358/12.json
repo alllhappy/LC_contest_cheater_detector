@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "vnp27",
+      "profile": {
+        "ranking": 3976102,
+        "realName": "vnp27",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 20,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Easy",
+            "count": 11,
+            "submissions": 20
+          },
+          {
+            "difficulty": "Medium",
+            "count": 8,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1565.4373168945312,
+      "globalRanking": 246961,
+      "topPercentage": 28.93
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8937,
+        "rating": 1565.437,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

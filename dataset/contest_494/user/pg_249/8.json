@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ydV4uD5oHC",
+      "profile": {
+        "ranking": 859910,
+        "realName": "Sai Adithya Mannepalli",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 180,
+            "submissions": 303
+          },
+          {
+            "difficulty": "Easy",
+            "count": 59,
+            "submissions": 105
+          },
+          {
+            "difficulty": "Medium",
+            "count": 102,
+            "submissions": 171
+          },
+          {
+            "difficulty": "Hard",
+            "count": 19,
+            "submissions": 27
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1526.4066395006682,
+      "globalRanking": 316379,
+      "topPercentage": 36.99
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6209,
+        "rating": 1597.169,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 36628,
+        "rating": 1526.407,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

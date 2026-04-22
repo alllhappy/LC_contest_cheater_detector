@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "answerer",
+      "profile": {
+        "ranking": 73774,
+        "realName": "answerer",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 737,
+            "submissions": 1500
+          },
+          {
+            "difficulty": "Easy",
+            "count": 21,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Medium",
+            "count": 348,
+            "submissions": 714
+          },
+          {
+            "difficulty": "Hard",
+            "count": 368,
+            "submissions": 746
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1707.747,
+      "globalRanking": 107817,
+      "topPercentage": 12.71
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1215,
+        "rating": 1707.747,
+        "contest": {
+          "title": "Weekly Contest 365",
+          "startTime": 1696127400
+        }
+      }
+    ]
+  }
+}

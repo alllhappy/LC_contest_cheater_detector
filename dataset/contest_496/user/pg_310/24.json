@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "dhupthumbadiya2005",
+      "profile": {
+        "ranking": 2093194,
+        "realName": "Dhup",
+        "countryName": null,
+        "postViewCount": 7,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 63,
+            "submissions": 104
+          },
+          {
+            "difficulty": "Easy",
+            "count": 34,
+            "submissions": 63
+          },
+          {
+            "difficulty": "Medium",
+            "count": 27,
+            "submissions": 39
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1486.7883983411286,
+      "globalRanking": 415160,
+      "topPercentage": 48.42
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 32143,
+        "rating": 1413.222,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7749,
+        "rating": 1486.788,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

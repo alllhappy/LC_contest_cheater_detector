@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "rajsingh008",
+      "profile": {
+        "ranking": 541412,
+        "realName": "Raj Singh",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 264,
+            "submissions": 341
+          },
+          {
+            "difficulty": "Easy",
+            "count": 146,
+            "submissions": 191
+          },
+          {
+            "difficulty": "Medium",
+            "count": 112,
+            "submissions": 144
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1507.6396746448006,
+      "globalRanking": 358193,
+      "topPercentage": 41.84
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 19570,
+        "rating": 1473.244,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8434,
+        "rating": 1531.156,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 18810,
+        "rating": 1507.64,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

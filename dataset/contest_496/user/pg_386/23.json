@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Om-Dhondge",
+      "profile": {
+        "ranking": 1333090,
+        "realName": "Om Dhondge",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 114,
+            "submissions": 257
+          },
+          {
+            "difficulty": "Easy",
+            "count": 60,
+            "submissions": 136
+          },
+          {
+            "difficulty": "Medium",
+            "count": 52,
+            "submissions": 118
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 3
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1550.3454208374023,
+      "globalRanking": 271531,
+      "topPercentage": 31.78
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9648,
+        "rating": 1550.345,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

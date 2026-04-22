@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "1pramodhsai_23",
+      "profile": {
+        "ranking": 243807,
+        "realName": "pramodh",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 435,
+            "submissions": 614
+          },
+          {
+            "difficulty": "Easy",
+            "count": 123,
+            "submissions": 187
+          },
+          {
+            "difficulty": "Medium",
+            "count": 242,
+            "submissions": 340
+          },
+          {
+            "difficulty": "Hard",
+            "count": 70,
+            "submissions": 87
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1715.7211303710938,
+      "globalRanking": 102989,
+      "topPercentage": 12.15
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1210,
+        "rating": 1715.721,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

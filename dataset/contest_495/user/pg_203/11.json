@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "jbwg4vDPms",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "jbwg4vDPms",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 2,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Easy",
+            "count": 1,
+            "submissions": 2
+          },
+          {
+            "difficulty": "Medium",
+            "count": 0,
+            "submissions": 0
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1614.7584915161133,
+      "globalRanking": 183571,
+      "topPercentage": 21.55
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5061,
+        "rating": 1614.758,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

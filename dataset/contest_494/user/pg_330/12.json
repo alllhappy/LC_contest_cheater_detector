@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "VridhiSethi",
+      "profile": {
+        "ranking": 530872,
+        "realName": "VridhiSethi",
+        "countryName": null,
+        "postViewCount": 8,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 269,
+            "submissions": 353
+          },
+          {
+            "difficulty": "Easy",
+            "count": 146,
+            "submissions": 191
+          },
+          {
+            "difficulty": "Medium",
+            "count": 108,
+            "submissions": 146
+          },
+          {
+            "difficulty": "Hard",
+            "count": 15,
+            "submissions": 16
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1554.8813468531557,
+      "globalRanking": 263966,
+      "topPercentage": 30.9
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 16531,
+        "rating": 1502.057,
+        "contest": {
+          "title": "Weekly Contest 491",
+          "startTime": 1772332200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8238,
+        "rating": 1554.881,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

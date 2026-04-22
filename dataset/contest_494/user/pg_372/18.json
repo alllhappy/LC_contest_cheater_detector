@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "anushruti_gupta",
+      "profile": {
+        "ranking": 292855,
+        "realName": "anushruti_gupta",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 394,
+            "submissions": 442
+          },
+          {
+            "difficulty": "Easy",
+            "count": 171,
+            "submissions": 193
+          },
+          {
+            "difficulty": "Medium",
+            "count": 208,
+            "submissions": 234
+          },
+          {
+            "difficulty": "Hard",
+            "count": 15,
+            "submissions": 15
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1543.1360025826534,
+      "globalRanking": 284364,
+      "topPercentage": 33.27
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 41632,
+        "rating": 1413.777,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 18866,
+        "rating": 1412.469,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4434,
+        "rating": 1510.906,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9294,
+        "rating": 1543.136,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

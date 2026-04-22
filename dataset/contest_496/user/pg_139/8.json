@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Student_learner",
+      "profile": {
+        "ranking": 179473,
+        "realName": "Student_learner",
+        "countryName": null,
+        "postViewCount": 35,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 510,
+            "submissions": 793
+          },
+          {
+            "difficulty": "Easy",
+            "count": 174,
+            "submissions": 299
+          },
+          {
+            "difficulty": "Medium",
+            "count": 279,
+            "submissions": 421
+          },
+          {
+            "difficulty": "Hard",
+            "count": 57,
+            "submissions": 73
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1742.5039190995067,
+      "globalRanking": 88881,
+      "topPercentage": 10.5
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1764,
+        "rating": 1681.924,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3458,
+        "rating": 1742.504,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

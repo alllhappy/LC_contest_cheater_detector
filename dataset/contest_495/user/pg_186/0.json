@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "MagoDaZueira",
+      "profile": {
+        "ranking": 1580150,
+        "realName": "Magola",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 94,
+            "submissions": 109
+          },
+          {
+            "difficulty": "Easy",
+            "count": 29,
+            "submissions": 31
+          },
+          {
+            "difficulty": "Medium",
+            "count": 53,
+            "submissions": 63
+          },
+          {
+            "difficulty": "Hard",
+            "count": 12,
+            "submissions": 15
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1780.8129482569377,
+      "globalRanking": 72368,
+      "topPercentage": 8.57
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2868,
+        "rating": 1650.378,
+        "contest": {
+          "title": "Biweekly Contest 178",
+          "startTime": 1773498600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3430,
+        "rating": 1723.527,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4131,
+        "rating": 1755.563,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4625,
+        "rating": 1780.813,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Ranroon",
+      "profile": {
+        "ranking": 1388512,
+        "realName": "Ranroon",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 110,
+            "submissions": 125
+          },
+          {
+            "difficulty": "Easy",
+            "count": 37,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Medium",
+            "count": 52,
+            "submissions": 62
+          },
+          {
+            "difficulty": "Hard",
+            "count": 21,
+            "submissions": 23
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1523.4988517316988,
+      "globalRanking": 322555,
+      "topPercentage": 37.7
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10755,
+        "rating": 1525.537,
+        "contest": {
+          "title": "Weekly Contest 484",
+          "startTime": 1768098600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 19230,
+        "rating": 1484.96,
+        "contest": {
+          "title": "Biweekly Contest 174",
+          "startTime": 1768660200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8970,
+        "rating": 1523.499,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

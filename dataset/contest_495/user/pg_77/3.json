@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "JNRGojPnQw",
+      "profile": {
+        "ranking": 1623455,
+        "realName": "JNRGojPnQw",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 90,
+            "submissions": 96
+          },
+          {
+            "difficulty": "Easy",
+            "count": 62,
+            "submissions": 67
+          },
+          {
+            "difficulty": "Medium",
+            "count": 27,
+            "submissions": 28
+          },
+          {
+            "difficulty": "Hard",
+            "count": 1,
+            "submissions": 1
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1752.2907238019297,
+      "globalRanking": 84331,
+      "topPercentage": 9.97
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3574,
+        "rating": 1630.952,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1903,
+        "rating": 1737.088,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6084,
+        "rating": 1752.291,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

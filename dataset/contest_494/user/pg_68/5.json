@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "RScoder007",
+      "profile": {
+        "ranking": 2894352,
+        "realName": "RScoder007",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 38,
+            "submissions": 89
+          },
+          {
+            "difficulty": "Easy",
+            "count": 19,
+            "submissions": 50
+          },
+          {
+            "difficulty": "Medium",
+            "count": 17,
+            "submissions": 37
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1696.2060928344727,
+      "globalRanking": 115141,
+      "topPercentage": 13.57
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1681,
+        "rating": 1696.206,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

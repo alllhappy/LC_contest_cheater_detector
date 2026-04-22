@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "e0323028_Saishruthi",
+      "profile": {
+        "ranking": 999593,
+        "realName": "Sai Shruthi",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 155,
+            "submissions": 199
+          },
+          {
+            "difficulty": "Easy",
+            "count": 88,
+            "submissions": 122
+          },
+          {
+            "difficulty": "Medium",
+            "count": 60,
+            "submissions": 70
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1651.2439125462581,
+      "globalRanking": 148435,
+      "topPercentage": 17.46
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5622,
+        "rating": 1609.3,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 6738,
+        "rating": 1651.244,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

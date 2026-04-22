@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "PrinceSolves",
+      "profile": {
+        "ranking": 427034,
+        "realName": "Prince jha",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 310,
+            "submissions": 369
+          },
+          {
+            "difficulty": "Easy",
+            "count": 114,
+            "submissions": 141
+          },
+          {
+            "difficulty": "Medium",
+            "count": 141,
+            "submissions": 173
+          },
+          {
+            "difficulty": "Hard",
+            "count": 55,
+            "submissions": 55
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1524.1783543636925,
+      "globalRanking": 321101,
+      "topPercentage": 37.54
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6469,
+        "rating": 1594.305,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 27257,
+        "rating": 1524.178,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "JEEVANANDHAM_S",
+      "profile": {
+        "ranking": 897531,
+        "realName": "JEEVANANDHAM_S",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 172,
+            "submissions": 302
+          },
+          {
+            "difficulty": "Easy",
+            "count": 106,
+            "submissions": 187
+          },
+          {
+            "difficulty": "Medium",
+            "count": 61,
+            "submissions": 104
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 11
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1549.7457363222695,
+      "globalRanking": 272566,
+      "topPercentage": 31.9
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8487,
+        "rating": 1569.603,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 10865,
+        "rating": 1580.607,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 21555,
+        "rating": 1549.746,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

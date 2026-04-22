@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "JayendraSingh2006",
+      "profile": {
+        "ranking": 374213,
+        "realName": "Jayendra Singh",
+        "countryName": "India",
+        "postViewCount": 4,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 338,
+            "submissions": 460
+          },
+          {
+            "difficulty": "Easy",
+            "count": 93,
+            "submissions": 134
+          },
+          {
+            "difficulty": "Medium",
+            "count": 198,
+            "submissions": 258
+          },
+          {
+            "difficulty": "Hard",
+            "count": 47,
+            "submissions": 68
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1592.2423419278912,
+      "globalRanking": 209585,
+      "topPercentage": 24.58
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 15067,
+        "rating": 1511.109,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 13652,
+        "rating": 1515.746,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4255,
+        "rating": 1592.242,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

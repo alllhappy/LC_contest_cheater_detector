@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "pjpanot260305",
+      "profile": {
+        "ranking": 1491649,
+        "realName": "Parth Panot",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 100,
+            "submissions": 179
+          },
+          {
+            "difficulty": "Easy",
+            "count": 44,
+            "submissions": 95
+          },
+          {
+            "difficulty": "Medium",
+            "count": 50,
+            "submissions": 77
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1652.6069287551381,
+      "globalRanking": 147227,
+      "topPercentage": 17.31
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8601,
+        "rating": 1510.137,
+        "contest": {
+          "title": "Weekly Contest 425",
+          "startTime": 1732415400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 34533,
+        "rating": 1447.369,
+        "contest": {
+          "title": "Biweekly Contest 177",
+          "startTime": 1772289000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 277,
+        "rating": 1652.607,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

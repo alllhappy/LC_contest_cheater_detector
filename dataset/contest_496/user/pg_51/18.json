@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "tejeshwar-reddy",
+      "profile": {
+        "ranking": 2122724,
+        "realName": "tejeshwar-reddy",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 62,
+            "submissions": 91
+          },
+          {
+            "difficulty": "Easy",
+            "count": 25,
+            "submissions": 40
+          },
+          {
+            "difficulty": "Medium",
+            "count": 33,
+            "submissions": 46
+          },
+          {
+            "difficulty": "Hard",
+            "count": 4,
+            "submissions": 5
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1712.5253677368164,
+      "globalRanking": 104939,
+      "topPercentage": 12.38
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1268,
+        "rating": 1712.525,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

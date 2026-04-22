@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "domedtms",
+      "profile": {
+        "ranking": 3310462,
+        "realName": "domedtms",
+        "countryName": "Italy",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 30,
+            "submissions": 36
+          },
+          {
+            "difficulty": "Easy",
+            "count": 17,
+            "submissions": 20
+          },
+          {
+            "difficulty": "Medium",
+            "count": 8,
+            "submissions": 8
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1771.0304260253906,
+      "globalRanking": 76157,
+      "topPercentage": 9.01
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 522,
+        "rating": 1771.03,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

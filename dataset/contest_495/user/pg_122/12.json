@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "sb_0501",
+      "profile": {
+        "ranking": 3863528,
+        "realName": "sb_0501",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 22,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Easy",
+            "count": 14,
+            "submissions": 19
+          },
+          {
+            "difficulty": "Medium",
+            "count": 6,
+            "submissions": 9
+          },
+          {
+            "difficulty": "Hard",
+            "count": 2,
+            "submissions": 2
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1776.4254118266858,
+      "globalRanking": 74079,
+      "topPercentage": 8.77
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3037,
+        "rating": 1654.369,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1166,
+        "rating": 1776.425,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "kanhaiyayadav_01",
+      "profile": {
+        "ranking": 1985458,
+        "realName": "kanhaiya yadav",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 70,
+            "submissions": 115
+          },
+          {
+            "difficulty": "Easy",
+            "count": 37,
+            "submissions": 60
+          },
+          {
+            "difficulty": "Medium",
+            "count": 28,
+            "submissions": 47
+          },
+          {
+            "difficulty": "Hard",
+            "count": 5,
+            "submissions": 8
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1602.2881959614,
+      "globalRanking": 197639,
+      "topPercentage": 23.19
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 29608,
+        "rating": 1413.783,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1133,
+        "rating": 1602.288,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

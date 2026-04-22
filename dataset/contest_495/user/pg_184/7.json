@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "avwu0611",
+      "profile": {
+        "ranking": 643946,
+        "realName": "avwu0611",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 230,
+            "submissions": 319
+          },
+          {
+            "difficulty": "Easy",
+            "count": 94,
+            "submissions": 134
+          },
+          {
+            "difficulty": "Medium",
+            "count": 125,
+            "submissions": 172
+          },
+          {
+            "difficulty": "Hard",
+            "count": 11,
+            "submissions": 13
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1622.7521896362305,
+      "globalRanking": 175115,
+      "topPercentage": 20.56
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4582,
+        "rating": 1622.752,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

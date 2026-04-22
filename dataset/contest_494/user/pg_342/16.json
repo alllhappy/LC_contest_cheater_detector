@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "rishik123",
+      "profile": {
+        "ranking": 718980,
+        "realName": "Rishik Sood",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 209,
+            "submissions": 248
+          },
+          {
+            "difficulty": "Easy",
+            "count": 56,
+            "submissions": 61
+          },
+          {
+            "difficulty": "Medium",
+            "count": 120,
+            "submissions": 144
+          },
+          {
+            "difficulty": "Hard",
+            "count": 33,
+            "submissions": 43
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1569.0078735351562,
+      "globalRanking": 241575,
+      "topPercentage": 28.3
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 8542,
+        "rating": 1569.008,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

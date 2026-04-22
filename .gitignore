@@ -1,8 +1,6 @@
 *.txt
-util/*
-contest_496/*
-contest_495/*
-contest_494/*
-__pycache__/*
+__pycache__/
 *.pyc
-.ipynb_checkpoints/*
+.ipynb_checkpoints/
+app/navigate/
+/util

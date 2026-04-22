@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Shiwani_385",
+      "profile": {
+        "ranking": 1145674,
+        "realName": "Shiwani_385",
+        "countryName": "India",
+        "postViewCount": 5,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 136,
+            "submissions": 154
+          },
+          {
+            "difficulty": "Easy",
+            "count": 53,
+            "submissions": 62
+          },
+          {
+            "difficulty": "Medium",
+            "count": 75,
+            "submissions": 82
+          },
+          {
+            "difficulty": "Hard",
+            "count": 8,
+            "submissions": 10
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1615.2923139038085,
+      "globalRanking": 182968,
+      "topPercentage": 21.48
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13925,
+        "rating": 1522.27,
+        "contest": {
+          "title": "Weekly Contest 488",
+          "startTime": 1770517800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 10127,
+        "rating": 1556.628,
+        "contest": {
+          "title": "Biweekly Contest 176",
+          "startTime": 1771079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5142,
+        "rating": 1615.292,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

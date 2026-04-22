@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ultrahacx",
+      "profile": {
+        "ranking": 446820,
+        "realName": "Anurag Verma",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 301,
+            "submissions": 391
+          },
+          {
+            "difficulty": "Easy",
+            "count": 150,
+            "submissions": 184
+          },
+          {
+            "difficulty": "Medium",
+            "count": 133,
+            "submissions": 187
+          },
+          {
+            "difficulty": "Hard",
+            "count": 18,
+            "submissions": 20
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1567.1261896060992,
+      "globalRanking": 244398,
+      "topPercentage": 28.63
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 15539,
+        "rating": 1507.539,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 12279,
+        "rating": 1521.538,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7600,
+        "rating": 1567.126,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

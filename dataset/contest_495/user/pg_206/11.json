@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Mightbe_Syed",
+      "profile": {
+        "ranking": 942836,
+        "realName": "Syed-leet-07",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 164,
+            "submissions": 207
+          },
+          {
+            "difficulty": "Easy",
+            "count": 100,
+            "submissions": 128
+          },
+          {
+            "difficulty": "Medium",
+            "count": 54,
+            "submissions": 65
+          },
+          {
+            "difficulty": "Hard",
+            "count": 10,
+            "submissions": 14
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1608.4177117598683,
+      "globalRanking": 190547,
+      "topPercentage": 22.36
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5136,
+        "rating": 1613.563,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 12586,
+        "rating": 1608.418,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

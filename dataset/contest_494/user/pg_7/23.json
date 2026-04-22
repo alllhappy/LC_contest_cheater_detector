@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Suprajit-",
+      "profile": {
+        "ranking": 1694424,
+        "realName": "Suprajit-",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 87,
+            "submissions": 95
+          },
+          {
+            "difficulty": "Easy",
+            "count": 20,
+            "submissions": 22
+          },
+          {
+            "difficulty": "Medium",
+            "count": 47,
+            "submissions": 51
+          },
+          {
+            "difficulty": "Hard",
+            "count": 20,
+            "submissions": 22
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 2068.4711054751747,
+      "globalRanking": 14554,
+      "topPercentage": 1.76
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 175,
+        "rating": 1840.671,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 30,
+        "rating": 2068.471,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

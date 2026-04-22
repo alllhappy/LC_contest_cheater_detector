@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "shadabali_112",
+      "profile": {
+        "ranking": 97933,
+        "realName": "Shaddy",
+        "countryName": "India",
+        "postViewCount": 7,
+        "reputation": 2
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 662,
+            "submissions": 866
+          },
+          {
+            "difficulty": "Easy",
+            "count": 353,
+            "submissions": 446
+          },
+          {
+            "difficulty": "Medium",
+            "count": 290,
+            "submissions": 398
+          },
+          {
+            "difficulty": "Hard",
+            "count": 19,
+            "submissions": 22
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1609.3123294288996,
+      "globalRanking": 189456,
+      "topPercentage": 22.23
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7755,
+        "rating": 1577.794,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 11703,
+        "rating": 1581.857,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8647,
+        "rating": 1609.312,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "K-Anoop",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "KATTA ANOOP 2420030504",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 10,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Easy",
+            "count": 6,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Medium",
+            "count": 4,
+            "submissions": 5
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1663.3616999575966,
+      "globalRanking": 138499,
+      "topPercentage": 16.3
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3403,
+        "rating": 1645.226,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8869,
+        "rating": 1663.362,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "tejaswini_mannem",
+      "profile": {
+        "ranking": 498858,
+        "realName": "tejaswini_mannem",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 278,
+            "submissions": 362
+          },
+          {
+            "difficulty": "Easy",
+            "count": 117,
+            "submissions": 168
+          },
+          {
+            "difficulty": "Medium",
+            "count": 133,
+            "submissions": 163
+          },
+          {
+            "difficulty": "Hard",
+            "count": 28,
+            "submissions": 31
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1580.5438868539545,
+      "globalRanking": 225052,
+      "topPercentage": 26.38
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13555,
+        "rating": 1521.07,
+        "contest": {
+          "title": "Weekly Contest 486",
+          "startTime": 1769308200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5814,
+        "rating": 1580.544,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,563 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "code_hashira",
+      "profile": {
+        "ranking": 19760,
+        "realName": "Parth Gupta",
+        "countryName": "India",
+        "postViewCount": 177,
+        "reputation": 3
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 1121,
+            "submissions": 4275
+          },
+          {
+            "difficulty": "Easy",
+            "count": 344,
+            "submissions": 966
+          },
+          {
+            "difficulty": "Medium",
+            "count": 666,
+            "submissions": 2838
+          },
+          {
+            "difficulty": "Hard",
+            "count": 111,
+            "submissions": 471
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 46,
+      "rating": 1954.6855765533862,
+      "globalRanking": 26592,
+      "topPercentage": 3.19
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 11202,
+        "rating": 1465.779,
+        "contest": {
+          "title": "Weekly Contest 280",
+          "startTime": 1644719400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8787,
+        "rating": 1480.763,
+        "contest": {
+          "title": "Weekly Contest 293",
+          "startTime": 1652581800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7804,
+        "rating": 1503.532,
+        "contest": {
+          "title": "Weekly Contest 298",
+          "startTime": 1655605800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7826,
+        "rating": 1520.697,
+        "contest": {
+          "title": "Weekly Contest 300",
+          "startTime": 1656815400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9076,
+        "rating": 1530.578,
+        "contest": {
+          "title": "Weekly Contest 305",
+          "startTime": 1659839400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6587,
+        "rating": 1556.694,
+        "contest": {
+          "title": "Weekly Contest 309",
+          "startTime": 1662258600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3954,
+        "rating": 1586.381,
+        "contest": {
+          "title": "Biweekly Contest 88",
+          "startTime": 1664634600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 5471,
+        "rating": 1608.274,
+        "contest": {
+          "title": "Weekly Contest 316",
+          "startTime": 1666492200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2429,
+        "rating": 1656.342,
+        "contest": {
+          "title": "Weekly Contest 322",
+          "startTime": 1670121000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 7158,
+        "rating": 1643.162,
+        "contest": {
+          "title": "Weekly Contest 323",
+          "startTime": 1670725800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4057,
+        "rating": 1650.654,
+        "contest": {
+          "title": "Biweekly Contest 94",
+          "startTime": 1671892200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 7950,
+        "rating": 1623.616,
+        "contest": {
+          "title": "Weekly Contest 325",
+          "startTime": 1671935400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 918,
+        "rating": 1701.395,
+        "contest": {
+          "title": "Weekly Contest 326",
+          "startTime": 1672540200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1903,
+        "rating": 1740.701,
+        "contest": {
+          "title": "Biweekly Contest 95",
+          "startTime": 1673101800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 806,
+        "rating": 1811.743,
+        "contest": {
+          "title": "Weekly Contest 327",
+          "startTime": 1673145000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 1908,
+        "rating": 1831.001,
+        "contest": {
+          "title": "Biweekly Contest 96",
+          "startTime": 1674311400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 3,
+        "ranking": 5691,
+        "rating": 1811.574,
+        "contest": {
+          "title": "Weekly Contest 329",
+          "startTime": 1674354600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 3,
+        "ranking": 4404,
+        "rating": 1806.867,
+        "contest": {
+          "title": "Biweekly Contest 99",
+          "startTime": 1677940200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1609,
+        "rating": 1831.132,
+        "contest": {
+          "title": "Weekly Contest 336",
+          "startTime": 1678588200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 3,
+        "ranking": 5540,
+        "rating": 1818.345,
+        "contest": {
+          "title": "Weekly Contest 345",
+          "startTime": 1684031400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 820,
+        "rating": 1879.318,
+        "contest": {
+          "title": "Weekly Contest 346",
+          "startTime": 1684636200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 7791,
+        "rating": 1851.185,
+        "contest": {
+          "title": "Weekly Contest 347",
+          "startTime": 1685241000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 7502,
+        "rating": 1829.93,
+        "contest": {
+          "title": "Weekly Contest 348",
+          "startTime": 1685845800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 4076,
+        "rating": 1836.085,
+        "contest": {
+          "title": "Weekly Contest 350",
+          "startTime": 1687055400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 6113,
+        "rating": 1821.509,
+        "contest": {
+          "title": "Weekly Contest 351",
+          "startTime": 1687660200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "NONE",
+        "problemsSolved": 0,
+        "ranking": 0,
+        "rating": 1821.509,
+        "contest": {
+          "title": "Biweekly Contest 108",
+          "startTime": 1688826600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 3,
+        "ranking": 5064,
+        "rating": 1820.844,
+        "contest": {
+          "title": "Weekly Contest 353",
+          "startTime": 1688869800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2946,
+        "rating": 1840.191,
+        "contest": {
+          "title": "Weekly Contest 354",
+          "startTime": 1689474600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1933,
+        "rating": 1867.389,
+        "contest": {
+          "title": "Biweekly Contest 109",
+          "startTime": 1690036200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 5170,
+        "rating": 1860.829,
+        "contest": {
+          "title": "Weekly Contest 355",
+          "startTime": 1690079400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1228,
+        "rating": 1895.003,
+        "contest": {
+          "title": "Biweekly Contest 142",
+          "startTime": 1729953000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 6213,
+        "rating": 1877.161,
+        "contest": {
+          "title": "Weekly Contest 421",
+          "startTime": 1729996200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2218,
+        "rating": 1894.785,
+        "contest": {
+          "title": "Weekly Contest 422",
+          "startTime": 1730601000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 2614,
+        "rating": 1902.964,
+        "contest": {
+          "title": "Biweekly Contest 143",
+          "startTime": 1731162600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 905,
+        "rating": 1947.702,
+        "contest": {
+          "title": "Weekly Contest 423",
+          "startTime": 1731205800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1631,
+        "rating": 1966.777,
+        "contest": {
+          "title": "Weekly Contest 424",
+          "startTime": 1731810600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 623,
+        "rating": 2004.859,
+        "contest": {
+          "title": "Biweekly Contest 144",
+          "startTime": 1732372200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 6297,
+        "rating": 1969.865,
+        "contest": {
+          "title": "Weekly Contest 425",
+          "startTime": 1732415400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 3208,
+        "rating": 1961.227,
+        "contest": {
+          "title": "Weekly Contest 426",
+          "startTime": 1733020200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1881,
+        "rating": 1973.659,
+        "contest": {
+          "title": "Weekly Contest 427",
+          "startTime": 1733625000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 3586,
+        "rating": 1963.028,
+        "contest": {
+          "title": "Weekly Contest 428",
+          "startTime": 1734229800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2257,
+        "rating": 1969.942,
+        "contest": {
+          "title": "Biweekly Contest 146",
+          "startTime": 1734791400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 1101,
+        "rating": 1998.757,
+        "contest": {
+          "title": "Weekly Contest 441",
+          "startTime": 1742092200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 7511,
+        "rating": 1963.95,
+        "contest": {
+          "title": "Weekly Contest 444",
+          "startTime": 1743906600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3236,
+        "rating": 1969.948,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 2,
+        "ranking": 9350,
+        "rating": 1944.044,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2858,
+        "rating": 1954.686,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

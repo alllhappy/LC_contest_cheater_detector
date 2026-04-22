@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Zoey0613",
+      "profile": {
+        "ranking": 693602,
+        "realName": "Zoey0613",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 216,
+            "submissions": 346
+          },
+          {
+            "difficulty": "Easy",
+            "count": 56,
+            "submissions": 96
+          },
+          {
+            "difficulty": "Medium",
+            "count": 124,
+            "submissions": 195
+          },
+          {
+            "difficulty": "Hard",
+            "count": 36,
+            "submissions": 55
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1860.4644976164166,
+      "globalRanking": 47257,
+      "topPercentage": 5.62
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 947,
+        "rating": 1734.93,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 766,
+        "rating": 1860.464,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

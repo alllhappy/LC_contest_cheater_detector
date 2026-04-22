@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "bhupesh93",
+      "profile": {
+        "ranking": 103680,
+        "realName": "bhupesh",
+        "countryName": null,
+        "postViewCount": 26,
+        "reputation": 1
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 647,
+            "submissions": 1476
+          },
+          {
+            "difficulty": "Easy",
+            "count": 121,
+            "submissions": 223
+          },
+          {
+            "difficulty": "Medium",
+            "count": 429,
+            "submissions": 1010
+          },
+          {
+            "difficulty": "Hard",
+            "count": 97,
+            "submissions": 243
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1647.2276067087273,
+      "globalRanking": 151914,
+      "topPercentage": 17.86
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13176,
+        "rating": 1524.651,
+        "contest": {
+          "title": "Biweekly Contest 175",
+          "startTime": 1769869800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2162,
+        "rating": 1647.228,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

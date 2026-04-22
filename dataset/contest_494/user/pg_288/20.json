@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "VenkatRohan_07",
+      "profile": {
+        "ranking": 5000001,
+        "realName": "Rohan",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 9,
+            "submissions": 10
+          },
+          {
+            "difficulty": "Easy",
+            "count": 7,
+            "submissions": 8
+          },
+          {
+            "difficulty": "Medium",
+            "count": 2,
+            "submissions": 2
+          },
+          {
+            "difficulty": "Hard",
+            "count": 0,
+            "submissions": 0
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1584.4345092773438,
+      "globalRanking": 219744,
+      "topPercentage": 25.76
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7196,
+        "rating": 1584.435,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

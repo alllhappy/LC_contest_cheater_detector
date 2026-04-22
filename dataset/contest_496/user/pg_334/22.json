@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Mhd_Mubaris",
+      "profile": {
+        "ranking": 522441,
+        "realName": "Mhd_Mubaris",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 269,
+            "submissions": 414
+          },
+          {
+            "difficulty": "Easy",
+            "count": 47,
+            "submissions": 78
+          },
+          {
+            "difficulty": "Medium",
+            "count": 183,
+            "submissions": 280
+          },
+          {
+            "difficulty": "Hard",
+            "count": 39,
+            "submissions": 56
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1544.7558602063143,
+      "globalRanking": 281361,
+      "topPercentage": 32.92
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 8016,
+        "rating": 1516.362,
+        "contest": {
+          "title": "Biweekly Contest 145",
+          "startTime": 1733581800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 1,
+        "ranking": 9980,
+        "rating": 1505.867,
+        "contest": {
+          "title": "Weekly Contest 427",
+          "startTime": 1733625000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 8347,
+        "rating": 1544.756,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

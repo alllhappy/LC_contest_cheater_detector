@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Gowthami_Patoju",
+      "profile": {
+        "ranking": 1569137,
+        "realName": "Gowthami_Patoju",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 94,
+            "submissions": 135
+          },
+          {
+            "difficulty": "Easy",
+            "count": 40,
+            "submissions": 57
+          },
+          {
+            "difficulty": "Medium",
+            "count": 43,
+            "submissions": 65
+          },
+          {
+            "difficulty": "Hard",
+            "count": 11,
+            "submissions": 13
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1564.4194274485549,
+      "globalRanking": 248555,
+      "topPercentage": 29.12
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 1,
+        "ranking": 16992,
+        "rating": 1500.569,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 13387,
+        "rating": 1518.808,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 7110,
+        "rating": 1564.419,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

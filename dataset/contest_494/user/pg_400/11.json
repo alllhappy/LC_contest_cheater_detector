@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "ssharma_",
+      "profile": {
+        "ranking": 3499674,
+        "realName": "ssharma_",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 27,
+            "submissions": 41
+          },
+          {
+            "difficulty": "Easy",
+            "count": 4,
+            "submissions": 4
+          },
+          {
+            "difficulty": "Medium",
+            "count": 17,
+            "submissions": 25
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 12
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1554.2564392089844,
+      "globalRanking": 264981,
+      "topPercentage": 31.02
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 9987,
+        "rating": 1554.256,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

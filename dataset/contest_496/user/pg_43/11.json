@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "sourabhsoni609",
+      "profile": {
+        "ranking": 1281603,
+        "realName": "Sourabh Soni",
+        "countryName": "India",
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 134,
+            "submissions": 151
+          },
+          {
+            "difficulty": "Easy",
+            "count": 79,
+            "submissions": 89
+          },
+          {
+            "difficulty": "Medium",
+            "count": 49,
+            "submissions": 56
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 6
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1603.2835414075348,
+      "globalRanking": 196416,
+      "topPercentage": 23.04
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 17615,
+        "rating": 1413.857,
+        "contest": {
+          "title": "Biweekly Contest 84",
+          "startTime": 1659796200
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 1061,
+        "rating": 1603.284,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

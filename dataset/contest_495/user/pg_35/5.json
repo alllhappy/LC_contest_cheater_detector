@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Rama_satya",
+      "profile": {
+        "ranking": 3307922,
+        "realName": "Rama_satya",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 30,
+            "submissions": 36
+          },
+          {
+            "difficulty": "Easy",
+            "count": 10,
+            "submissions": 14
+          },
+          {
+            "difficulty": "Medium",
+            "count": 13,
+            "submissions": 15
+          },
+          {
+            "difficulty": "Hard",
+            "count": 7,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1741.9710159301758,
+      "globalRanking": 89129,
+      "topPercentage": 10.53
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 855,
+        "rating": 1741.971,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      }
+    ]
+  }
+}

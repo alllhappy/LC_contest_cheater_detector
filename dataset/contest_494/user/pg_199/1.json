@@ -1,0 +1,68 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "r7nYAEyuoi",
+      "profile": {
+        "ranking": 2190896,
+        "realName": "Kommisetty madhumitha",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 59,
+            "submissions": 74
+          },
+          {
+            "difficulty": "Easy",
+            "count": 27,
+            "submissions": 30
+          },
+          {
+            "difficulty": "Medium",
+            "count": 26,
+            "submissions": 37
+          },
+          {
+            "difficulty": "Hard",
+            "count": 6,
+            "submissions": 7
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 2,
+      "rating": 1839.475430940327,
+      "globalRanking": 53510,
+      "topPercentage": 6.35
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4952,
+        "rating": 1615.894,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 124,
+        "rating": 1839.475,
+        "contest": {
+          "title": "Biweekly Contest 179",
+          "startTime": 1774708200
+        }
+      }
+    ]
+  }
+}

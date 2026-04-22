@@ -1,0 +1,79 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "quangkhanh288123",
+      "profile": {
+        "ranking": 538004,
+        "realName": "quangkhanh288123",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 263,
+            "submissions": 302
+          },
+          {
+            "difficulty": "Easy",
+            "count": 47,
+            "submissions": 52
+          },
+          {
+            "difficulty": "Medium",
+            "count": 196,
+            "submissions": 223
+          },
+          {
+            "difficulty": "Hard",
+            "count": 20,
+            "submissions": 27
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 3,
+      "rating": 1590.8874484144767,
+      "globalRanking": 211267,
+      "topPercentage": 24.77
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 4151,
+        "rating": 1602.759,
+        "contest": {
+          "title": "Weekly Contest 482",
+          "startTime": 1766889000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "DOWN",
+        "problemsSolved": 0,
+        "ranking": 34886,
+        "rating": 1532.277,
+        "contest": {
+          "title": "Weekly Contest 484",
+          "startTime": 1768098600
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 5662,
+        "rating": 1590.887,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "interstellar001",
+      "profile": {
+        "ranking": 552485,
+        "realName": "David Awolowo",
+        "countryName": "Nigeria",
+        "postViewCount": 13,
+        "reputation": 35
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 262,
+            "submissions": 425
+          },
+          {
+            "difficulty": "Easy",
+            "count": 90,
+            "submissions": 144
+          },
+          {
+            "difficulty": "Medium",
+            "count": 146,
+            "submissions": 240
+          },
+          {
+            "difficulty": "Hard",
+            "count": 26,
+            "submissions": 41
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 4,
+      "rating": 1789.0822841834527,
+      "globalRanking": 69289,
+      "topPercentage": 8.21
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3823,
+        "rating": 1634.531,
+        "contest": {
+          "title": "Weekly Contest 492",
+          "startTime": 1772937000
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 3204,
+        "rating": 1714.766,
+        "contest": {
+          "title": "Weekly Contest 493",
+          "startTime": 1773541800
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 2,
+        "ranking": 6192,
+        "rating": 1736.337,
+        "contest": {
+          "title": "Weekly Contest 495",
+          "startTime": 1774751400
+        }
+      },
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 2314,
+        "rating": 1789.082,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "axolotl512",
+      "profile": {
+        "ranking": 445965,
+        "realName": "axolotl512",
+        "countryName": null,
+        "postViewCount": 2,
+        "reputation": 7
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 301,
+            "submissions": 1781
+          },
+          {
+            "difficulty": "Easy",
+            "count": 76,
+            "submissions": 306
+          },
+          {
+            "difficulty": "Medium",
+            "count": 176,
+            "submissions": 1203
+          },
+          {
+            "difficulty": "Hard",
+            "count": 49,
+            "submissions": 272
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1731.734275817871,
+      "globalRanking": 94309,
+      "topPercentage": 11.14
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 4,
+        "ranking": 954,
+        "rating": 1731.734,
+        "contest": {
+          "title": "Weekly Contest 496",
+          "startTime": 1775356200
+        }
+      }
+    ]
+  }
+}

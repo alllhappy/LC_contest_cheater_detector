@@ -1,0 +1,57 @@
+{
+  "data": {
+    "matchedUser": {
+      "username": "Algo_Cruiser",
+      "profile": {
+        "ranking": 1115303,
+        "realName": "Algo_Cruiser",
+        "countryName": null,
+        "postViewCount": 0,
+        "reputation": 0
+      },
+      "submitStats": {
+        "acSubmissionNum": [
+          {
+            "difficulty": "All",
+            "count": 144,
+            "submissions": 312
+          },
+          {
+            "difficulty": "Easy",
+            "count": 35,
+            "submissions": 49
+          },
+          {
+            "difficulty": "Medium",
+            "count": 93,
+            "submissions": 233
+          },
+          {
+            "difficulty": "Hard",
+            "count": 16,
+            "submissions": 28
+          }
+        ]
+      }
+    },
+    "userContestRanking": {
+      "attendedContestsCount": 1,
+      "rating": 1578.18603515625,
+      "globalRanking": 228204,
+      "topPercentage": 26.75
+    },
+    "userContestRankingHistory": [
+      {
+        "attended": true,
+        "trendDirection": "UP",
+        "problemsSolved": 3,
+        "ranking": 7721,
+        "rating": 1578.186,
+        "contest": {
+          "title": "Weekly Contest 494",
+          "startTime": 1774146600
+        }
+      }
+    ]
+  }
+}
