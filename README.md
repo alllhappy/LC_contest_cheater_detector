@@ -11,7 +11,7 @@ ML Project by
      git clone https://github.com/alllhappy/LC_contest_cheater_detector.git
 
 ### 2. Go to  Project Root
-    cd LC_contest_cheater_detector-main
+    cd LC_contest_cheater_detector
 
 ### 3. Install dependecies
     pip install -r requirements.txt
