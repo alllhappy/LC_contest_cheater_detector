@@ -18,7 +18,7 @@ ML Project by
 
 ### 4. Run the main app
     python -m app.main
-# typically takes 1-2 minutes for the app to load and ask for input
+typically takes 30s for the app to load and ask for input
 
 # Guide to use the app
 currently only supports weekly contest 
@@ -49,6 +49,8 @@ It classifies each contest participant into 3 classes Clean,Suspicious and Highl
 - leaderboard link : LeetCode leaderboard link for current user on the contest page (can visit this to verify)
 - profile link : LeetCode profile link for current user (can visit this to verify and analyse)
 
+# For more Details refer to our Project Report
+[Open Report](project_report.pdf)
 
 
 
