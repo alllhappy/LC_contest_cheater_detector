@@ -8,13 +8,16 @@ ML Project by
 ## Running the Project
 
 ### 1. Clone the repository
-    git clone https://github.com/alllhappy/LC_contest_cheater_detector.git
+     git clone https://github.com/alllhappy/LC_contest_cheater_detector.git
 
 ### 2. Go to  Project Root
-    cd LC_contest_cheater_detector
+    cd LC_contest_cheater_detector-main
 
 ### 3. Install dependecies
     pip install -r requirements.txt
 
 ### 4. Run the main app
     python -m app.main
+# typically takes 1-2 minutes for the app to load and ask for input
+
+
