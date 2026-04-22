@@ -31,16 +31,16 @@ see most recent contests from -
 
 ### 3. Enter End Rank to end classification till this rank
 
-## Output
+# Output
 It classifies each contest participant into 3 classes Clean,Suspicious and Highly Suspicious indicating increasing chances of cheating by the participant.
 
-### Input Screenshot
+# Input Screenshot
 ![Input CLI ScreenShot](screenshots/input.png)
 
-### Output ScreenShot
+# Output ScreenShot
 ![Output CLI ScreenShot](screenshots/output.png)
 
-## Understanding Single Output
+# Understanding Single Output
 ![Single Output](screenshots/output_single.png)
 
 - Rank : shows rank of participant
