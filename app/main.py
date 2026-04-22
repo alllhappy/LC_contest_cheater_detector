@@ -7,6 +7,7 @@ import logging
 from model.model_v1 import helpers
 import config
 import app.display.display as disp
+import app.navigate.rank_to_pg as nav
 
 def rule_low_active(df): #Near-zero active time with high score
     return (df['active_days'] < 50) & (df['Score'] >= 10)
@@ -38,6 +39,7 @@ logging.basicConfig(filename=app_folder_path/'error_log.txt',format=' %(asctime)
 def findCheatersInRange(CONTEST,START_RANK,END_RANK):
     total=0
     errors=0
+    
     for i in range(START_RANK,END_RANK+1):
         try:
             data=ft.getUserDetails(i,CONTEST)
@@ -46,10 +48,14 @@ def findCheatersInRange(CONTEST,START_RANK,END_RANK):
             # print(ipToModel)
             response=test.predict_user(ipToModel)
             # print(response)
+            ld_lk=nav.getContestLdLink(CONTEST,i)
+            profile_lk=nav.getProfileLink(data[1])
+            print(f"Rank : {i} , username : {data[13]} , output = {response['label']}, leaderboard link ={ld_lk} , profile link = {profile_lk} ")
+            output.write(f"Rank : {i} , username : {data[1]} , output = {response['label']} \n")
+            print()
             if(response['label']!='CLEAN'):
                 total+=1
-                print(f"Rank : {i} , username : {data[1]} , output = {response['label']}")
-                output.write(f"Rank : {i} , username : {data[1]} , output = {response['label']} \n")
+
         except Exception as e:
             #most errors are due to chinese users
             errors+=1
@@ -65,10 +71,11 @@ def findCheatersInRange(CONTEST,START_RANK,END_RANK):
 
 if __name__ == '__main__':
     disp.printWelcome()
-    contest=int(input('enter contest number : '))
+    disp.printHelp()
+    contest=int(input('enter weekly contest number (like most recent is 498) : '))
     start_rank=int(input('enter Start Rank : '))
     end_rank=int(input('enter End Rank : '))
-
+    print()
     output.write('\n')    
     output.write(f'Finding cheaters in {contest} in between {start_rank} to {end_rank} ranks \n')
     findCheatersInRange(contest,start_rank,end_rank)

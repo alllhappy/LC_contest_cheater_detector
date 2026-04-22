@@ -20,3 +20,9 @@ def printExit():
     print(pyfiglet.figlet_format("BYE BYE",font="big"))
     print('#'.center(CHARS,'#'))
     print("\n")
+
+def printHelp():
+    print('Help find cheaters in a given contest in a input rank range')
+    print(f'Leetcode Contests page https://leetcode.com/contest/')
+    print('We trained our model on contests 496,495,494')
+    print()
